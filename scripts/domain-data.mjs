@@ -19,7 +19,7 @@ export const titleStopWords = new Set([
   "se", "son", "sur", "un", "une", "vers", "mercato", "football", "foot", "transfert", "transferts",
 ]);
 
-export const footballPattern = /\b(football|foot|soccer|mercato|transferts?|ligue [12]|ligue des champions|champions league|premier league|la ?liga|serie a|bundesliga|europa league|ligue europa|conference league|coupe du monde|mondial des clubs|euro 20\d{2}|can 20\d{2}|fegafoot|psg|paris saint-germain|olympique|montpellier fc|bar[çc]a|barcelone|real madrid|arsenal|liverpool|chelsea|juventus|bayern|manchester city|manchester united|fenerbah[çc]e)\b/i;
+export const footballPattern = /\b(football|foot|soccer|mercato|transferts?|ligue [12]|ligue des champions|champions league|premier league|la ?liga|serie a|bundesliga|europa league|ligue europa|conference league|coupe du monde|mondial des clubs|euro 20\d{2}|can 20\d{2}|fegafoot|psg|paris saint-germain|montpellier fc|bar[çc]a|barcelone|real madrid|arsenal|liverpool|chelsea|juventus|bayern|manchester city|manchester united|fenerbah[çc]e)\b/i;
 export const clubAcronymPattern = /(?:^|[^\p{L}\p{N}])(OM|OL)(?=$|[^\p{L}\p{N}])/u;
 export const excludedPattern = /\b(euromillions?|keno|loto|fdj|paris sportifs?|casino|jackpot|tirage gagnant|guide achat|code promo|streaming gratuit|marijuana|cocaïne|drogues?)\b/i;
 export const excludedURLPattern = /\/(guide-achat|bons-plans|pronostics?|paris-sportifs?)\//i;
@@ -56,7 +56,7 @@ export const teamAliases = [
   ["juventus", ["juventus", "juve"]],
   ["inter", ["inter milan", "internazionale"]],
   ["ac-milan", ["ac milan"]],
-  ["napoli", ["naples", "napoli"]],
+  ["napoli", ["napoli", "naples"]],
   ["roma", ["as roma", "roma"]],
   ["benfica", ["benfica"]],
   ["porto", ["fc porto", "porto"]],
@@ -106,4 +106,15 @@ export const nationAliases = [
   ["usa", ["équipe des états-unis", "team usa"]],
   ["japan", ["équipe du japon", "samurai blue"]],
   ["south-korea", ["équipe de corée du sud"]],
+];
+
+// Nom officiel/complet de chaque club, compétition et sélection déjà cataloguée
+// ci-dessus, utilisé pour détecter qu'un titre parle de football même sans les
+// mots génériques ("football", "mercato"...). On prend la première variante de
+// chaque entrée : elle est toujours la plus explicite (jamais un simple nom de
+// ville ou de pays isolé), pour éviter les faux positifs.
+export const topicGatePhrases = [
+  ...teamAliases.map(([, aliases]) => aliases[0]),
+  ...competitionAliases.map(([, aliases]) => aliases[0]),
+  ...nationAliases.map(([, aliases]) => aliases[0]),
 ];

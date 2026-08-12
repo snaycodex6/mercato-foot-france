@@ -8,7 +8,11 @@ import { acceptableImageURL, mapArticle, rankAndDeduplicate } from "./scoring.mj
 const scriptDirectory = dirname(fileURLToPath(import.meta.url));
 const outputPath = resolve(scriptDirectory, "../feed.json");
 const datasetBaseURL = "https://storage.googleapis.com/data.gdeltproject.org/gdeltv5/weblegacy/ngrams";
-const lookbackMinutes = 90;
+// GDELT ne publie pas un fichier par minute : les dépôts arrivent par salves
+// espacées d'environ un quart d'heure. Il faut donc regarder loin en arrière
+// pour réunir assez de salves, plutôt que de s'arrêter dès les premières minutes.
+const lookbackMinutes = 240;
+const minimumAvailableFiles = 20;
 
 function datasetStamp(date) {
   const compact = date.toISOString().replace(/\D/g, "");
@@ -101,7 +105,7 @@ async function collectRecentArticles() {
       if (minuteRecords !== null) {
         availableFiles += 1;
         records.push(...minuteRecords);
-        if (availableFiles >= 5) break;
+        if (availableFiles >= minimumAvailableFiles) break;
       }
     } catch (error) {
       console.warn(`${stamp} ignoré : ${error.message}`);

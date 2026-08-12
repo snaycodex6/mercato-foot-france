@@ -14,6 +14,7 @@ import {
   suspiciousImagePattern,
   teamAliases,
   titleStopWords,
+  topicGatePhrases,
   transferPattern,
 } from "./domain-data.mjs";
 
@@ -37,8 +38,11 @@ function dateFromGDELT(value) {
   return Number.isNaN(parsed.getTime()) ? new Date().toISOString() : parsed.toISOString();
 }
 
-function isFootballTitle(title) {
-  return footballPattern.test(title) || clubAcronymPattern.test(title);
+export function isFootballTitle(title) {
+  const normalized = title.toLowerCase();
+  return footballPattern.test(title)
+    || clubAcronymPattern.test(title)
+    || topicGatePhrases.some((phrase) => normalized.includes(phrase));
 }
 
 function domainMatches(domain, candidates) {

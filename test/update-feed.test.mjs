@@ -4,6 +4,7 @@ import assert from "node:assert/strict";
 import {
   acceptableImageURL,
   canonicalTitle,
+  isFootballTitle,
   mapArticle,
   qualityScore,
   rankAndDeduplicate,
@@ -46,6 +47,18 @@ test("normalise les accents et détecte des titres sémantiquement proches", () 
     ),
     false,
   );
+});
+
+test("reconnaît un club, une compétition ou une sélection sans le mot football", () => {
+  assert.equal(isFootballTitle("L'AS Monaco recrute un latéral droit"), true);
+  assert.equal(isFootballTitle("Naples s'impose face à l'Inter Milan"), true);
+  assert.equal(isFootballTitle("L'équipe du Maroc se qualifie pour la finale"), true);
+  assert.equal(isFootballTitle("Le Borussia Dortmund tenu en échec"), true);
+});
+
+test("ignore les faux positifs sur des mots trop génériques", () => {
+  assert.equal(isFootballTitle("Castres Olympique bat le Racing 92 en Top 14"), false);
+  assert.equal(isFootballTitle("Le champion olympique de biathlon savoure sa médaille"), false);
 });
 
 test("refuse les images non sécurisées, trop petites ou assimilables à un logo", () => {
