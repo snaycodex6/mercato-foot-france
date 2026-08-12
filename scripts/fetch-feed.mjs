@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url";
 import { gunzipSync } from "node:zlib";
 
 import { acceptableImageURL, mapArticle, rankAndDeduplicate } from "./scoring.mjs";
+import { collectTopicArticles } from "./topic-search.mjs";
 
 const scriptDirectory = dirname(fileURLToPath(import.meta.url));
 const outputPath = resolve(scriptDirectory, "../feed.json");
@@ -140,8 +141,16 @@ async function keepExistingFeed(error) {
 
 export async function updateFeed() {
   try {
-    const [recent, previous] = await Promise.all([collectRecentArticles(), existingItems()]);
-    const items = rankAndDeduplicate([...recent, ...previous]);
+    // La recherche par sujet (un club/une compétition/une nation à la fois)
+    // interroge une API à faible débit imposé (~10 min pour les 72 sujets) :
+    // on ne la lance qu'une fois par heure, pas à chaque cycle de 15 minutes.
+    const shouldSearchTopics = new Date().getUTCMinutes() < 15;
+    const [recent, topicArticles, previous] = await Promise.all([
+      collectRecentArticles(),
+      shouldSearchTopics ? collectTopicArticles() : Promise.resolve([]),
+      existingItems(),
+    ]);
+    const items = rankAndDeduplicate([...recent, ...topicArticles, ...previous]);
     if (items.length < 5) throw new Error(`Flux trop court (${items.length} résultats)`);
 
     const enrichedItems = await enrichImages(items);
@@ -149,7 +158,7 @@ export async function updateFeed() {
 
     await mkdir(dirname(outputPath), { recursive: true });
     await writeFile(outputPath, `${JSON.stringify({ items: enrichedItems, generatedAt: new Date().toISOString(), stale: false }, null, 2)}\n`);
-    console.log(`${recent.length} nouvelles publications détectées, ${items.length} conservées, ${imageCount} avec image`);
+    console.log(`${recent.length + topicArticles.length} nouvelles publications détectées, ${items.length} conservées, ${imageCount} avec image`);
   } catch (error) {
     await keepExistingFeed(error);
   }
