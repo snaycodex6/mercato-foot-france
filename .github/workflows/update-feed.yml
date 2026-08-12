@@ -28,9 +28,12 @@ jobs:
         if: github.event_name != 'push'
         with:
           node-version: "22"
+      - name: Lancer les tests
+        if: github.event_name != 'push'
+        run: npm test
       - name: Générer feed.json
         if: github.event_name != 'push'
-        run: node scripts/update-feed.mjs
+        run: npm run update-feed
       - name: Enregistrer une mise à jour
         if: github.event_name != 'push'
         run: |
@@ -45,7 +48,7 @@ jobs:
       - name: Préparer le site public
         run: |
           mkdir -p _site
-          cp index.html feed.json .nojekyll _site/
+          cp index.html feed.json topics.json .nojekyll _site/
           cp -R support confidentialite sources _site/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

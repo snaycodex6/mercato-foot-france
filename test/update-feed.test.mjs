@@ -9,7 +9,7 @@ import {
   rankAndDeduplicate,
   sourceTier,
   titlesAreSimilar,
-} from "../scripts/update-feed.mjs";
+} from "../scripts/scoring.mjs";
 
 const now = new Date("2026-08-12T14:00:00.000Z").getTime();
 

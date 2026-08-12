@@ -1,0 +1,14 @@
+{
+  "name": "mercato-foot-france-web",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"test/*.test.mjs\"",
+    "update-feed": "node scripts/update-feed.mjs",
+    "update-topics": "node scripts/update-topics.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
