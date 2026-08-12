@@ -1,24 +1,38 @@
 name: Mettre à jour le fil
 
 on:
+  push:
+    branches: [main]
   schedule:
     - cron: "17,47 * * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
 
 jobs:
   update:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
+        if: github.event_name != 'push'
         with:
           node-version: "22"
       - name: Générer feed.json
+        if: github.event_name != 'push'
         run: node scripts/update-feed.mjs
       - name: Enregistrer une mise à jour
+        if: github.event_name != 'push'
         run: |
           if git diff --quiet -- feed.json; then
             exit 0
@@ -28,3 +42,15 @@ jobs:
           git add feed.json
           git commit -m "Mettre à jour le fil"
           git push
+      - name: Préparer le site public
+        run: |
+          mkdir -p _site
+          cp index.html feed.json .nojekyll _site/
+          cp -R support confidentialite sources _site/
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Publier sur GitHub Pages
+        uses: actions/deploy-pages@v4
+        id: deployment
