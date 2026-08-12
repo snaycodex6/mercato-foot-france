@@ -9,6 +9,25 @@ const outputPath = resolve(scriptDirectory, "../feed.json");
 const datasetBaseURL = "https://storage.googleapis.com/data.gdeltproject.org/gdeltv5/weblegacy/ngrams";
 const lookbackMinutes = 90;
 const maximumItems = 100;
+const maximumArticleAgeMs = 4 * 86_400_000;
+
+const officialSourceDomains = [
+  "fff.fr", "fifa.com", "uefa.com", "ligue1.fr", "lfp.fr",
+  "psg.fr", "om.fr", "ol.fr", "asmonaco.com", "losc.fr", "rclens.fr",
+  "realmadrid.com", "fcbarcelona.com", "mancity.com", "manutd.com", "liverpoolfc.com",
+  "arsenal.com", "chelseafc.com", "fcbayern.com", "bvb.de", "juventus.com", "inter.it", "acmilan.com",
+];
+const recognizedSourceDomains = [
+  "lequipe.fr", "rmcsport.bfmtv.com", "eurosport.fr", "franceinfo.fr", "francetvinfo.fr",
+  "lemonde.fr", "lefigaro.fr", "ouest-france.fr", "20minutes.fr", "footmercato.net",
+  "sofoot.com", "goal.com", "beinsports.com", "francebleu.fr", "radiofrance.fr",
+];
+const suspiciousImagePattern = /(logo|favicon|avatar|author|profile|placeholder|default|fallback|sprite|blank|transparent|tracking[_-]?pixel)/i;
+const titleStopWords = new Set([
+  "a", "au", "aux", "avec", "ce", "ces", "dans", "de", "des", "du", "elle", "en", "et",
+  "est", "il", "la", "le", "les", "mais", "ne", "ou", "par", "pas", "pour", "que", "qui",
+  "se", "son", "sur", "un", "une", "vers", "mercato", "football", "foot", "transfert", "transferts",
+]);
 
 const footballPattern = /\b(football|foot|soccer|mercato|transferts?|ligue [12]|ligue des champions|champions league|premier league|la ?liga|serie a|bundesliga|europa league|ligue europa|conference league|coupe du monde|mondial des clubs|euro 20\d{2}|can 20\d{2}|fegafoot|psg|paris saint-germain|olympique|montpellier fc|bar[çc]a|barcelone|real madrid|arsenal|liverpool|chelsea|juventus|bayern|manchester city|manchester united|fenerbah[çc]e)\b/i;
 const clubAcronymPattern = /(?:^|[^\p{L}\p{N}])(OM|OL)(?=$|[^\p{L}\p{N}])/u;
@@ -120,7 +139,57 @@ function isFootballTitle(title) {
   return footballPattern.test(title) || clubAcronymPattern.test(title);
 }
 
-function mapArticle(item) {
+function domainMatches(domain, candidates) {
+  return candidates.some((candidate) => domain === candidate || domain.endsWith(`.${candidate}`));
+}
+
+export function sourceTier(domain) {
+  if (domainMatches(domain, officialSourceDomains)) return "official";
+  if (domainMatches(domain, recognizedSourceDomains)) return "recognized";
+  return "other";
+}
+
+export function acceptableImageURL(value, baseURL) {
+  try {
+    const image = new URL(value, baseURL);
+    if (image.protocol !== "https:" || suspiciousImagePattern.test(`${image.pathname}${image.search}`)) return null;
+    const width = Number(image.searchParams.get("w") ?? image.searchParams.get("width"));
+    const height = Number(image.searchParams.get("h") ?? image.searchParams.get("height"));
+    if ((Number.isFinite(width) && width > 0 && width < 300) || (Number.isFinite(height) && height > 0 && height < 180)) return null;
+    return image.href;
+  } catch {
+    return null;
+  }
+}
+
+export function canonicalTitle(value) {
+  return cleanText(value, 400)
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLocaleLowerCase("fr")
+    .replace(/[^\p{L}\p{N}]+/gu, " ")
+    .trim();
+}
+
+function titleTokens(title) {
+  return new Set(canonicalTitle(title).split(" ").filter((token) => token.length > 2 && !titleStopWords.has(token)));
+}
+
+export function titlesAreSimilar(left, right) {
+  const canonicalLeft = canonicalTitle(left);
+  const canonicalRight = canonicalTitle(right);
+  if (!canonicalLeft || !canonicalRight) return false;
+  if (canonicalLeft === canonicalRight) return true;
+  const leftTokens = titleTokens(left);
+  const rightTokens = titleTokens(right);
+  if (leftTokens.size < 3 || rightTokens.size < 3) return false;
+  const common = [...leftTokens].filter((token) => rightTokens.has(token)).length;
+  const union = new Set([...leftTokens, ...rightTokens]).size;
+  const smaller = Math.min(leftTokens.size, rightTokens.size);
+  return common / union >= 0.68 || (common / smaller >= 0.82 && common >= 4);
+}
+
+export function mapArticle(item) {
   const title = cleanText(item.title);
   let url;
   try {
@@ -140,13 +209,7 @@ function mapArticle(item) {
   const competitions = competitionAliases.flatMap(([id, aliases]) => aliases.some((alias) => normalized.includes(alias)) ? [id] : []);
   const nations = nationAliases.flatMap(([id, aliases]) => aliases.some((alias) => normalized.includes(alias)) ? [id] : []);
   const topics = [...new Set([...teams, ...competitions, ...nations])];
-  let imageURL = null;
-  try {
-    const candidate = new URL(item.img);
-    if (candidate.protocol === "https:") imageURL = candidate.href;
-  } catch {
-    // Some indexed publications do not declare an image.
-  }
+  const imageURL = acceptableImageURL(item.img);
   const id = createHash("sha256").update(url.href).digest("hex").slice(0, 24);
 
   return {
@@ -161,7 +224,52 @@ function mapArticle(item) {
     teams,
     topics,
     reliability,
+    sourceTier: sourceTier(domain),
   };
+}
+
+export function qualityScore(article, now = Date.now()) {
+  const published = new Date(article.publishedAt).getTime();
+  const ageHours = Math.max(0, (now - published) / 3_600_000);
+  const freshness = Math.max(0, 48 - Math.min(ageHours, 96) * 0.5);
+  const source = article.sourceTier === "official" ? 28 : article.sourceTier === "recognized" ? 18 : 7;
+  const relevance = Math.min(16, (article.topics?.length ?? article.teams?.length ?? 0) * 4)
+    + (article.category === "transfers" ? 8 : article.category === "rumors" ? 3 : 5);
+  const reliability = article.reliability === "confirmed" ? 8 : article.reliability === "rumor" ? -4 : 2;
+  // Une carte principale avec photo est nettement plus utile qu'un visuel de
+  // secours, sans toutefois permettre à une source faible de dépasser une
+  // publication officielle à pertinence comparable.
+  const image = article.imageURL ? 12 : 0;
+  return Math.round((freshness + source + relevance + reliability + image) * 10) / 10;
+}
+
+export function rankAndDeduplicate(articles, now = Date.now(), maximum = maximumItems) {
+  const oldestAllowed = now - maximumArticleAgeMs;
+  const scored = articles
+    .filter((article) => article?.title && article?.url && isFootballTitle(article.title) && !excludedPattern.test(article.title))
+    .filter((article) => {
+      const published = new Date(article.publishedAt).getTime();
+      return Number.isFinite(published) && published >= oldestAllowed && published <= now + 15 * 60_000;
+    })
+    .map((article) => {
+      const domain = article.source?.id ?? (() => {
+        try { return new URL(article.url).hostname.replace(/^www\./, ""); } catch { return ""; }
+      })();
+      const enriched = { ...article, sourceTier: article.sourceTier ?? sourceTier(domain) };
+      return { ...enriched, qualityScore: qualityScore(enriched, now) };
+    })
+    .sort((left, right) => right.qualityScore - left.qualityScore || right.publishedAt.localeCompare(left.publishedAt));
+
+  const selected = [];
+  const seenURLs = new Set();
+  for (const article of scored) {
+    const normalizedURL = article.url.replace(/[?#].*$/, "").replace(/\/$/, "");
+    if (seenURLs.has(normalizedURL) || selected.some((candidate) => titlesAreSimilar(candidate.title, article.title))) continue;
+    seenURLs.add(normalizedURL);
+    selected.push(article);
+    if (selected.length >= maximum) break;
+  }
+  return selected;
 }
 
 function datasetStamp(date) {
@@ -183,7 +291,8 @@ function metaContent(html, acceptedKeys) {
 }
 
 async function enrichImage(article) {
-  if (article.imageURL) return article;
+  const existingImage = acceptableImageURL(article.imageURL);
+  if (existingImage) return { ...article, imageURL: existingImage };
   try {
     const response = await fetch(article.url, {
       headers: {
@@ -198,9 +307,9 @@ async function enrichImage(article) {
     const html = await response.text();
     const declaredImage = metaContent(html, ["og:image:secure_url", "og:image", "twitter:image", "twitter:image:src"]);
     if (!declaredImage) return article;
-    const imageURL = new URL(declaredImage, response.url);
-    if (imageURL.protocol !== "https:") return article;
-    return { ...article, imageURL: imageURL.href };
+    const imageURL = acceptableImageURL(declaredImage, response.url);
+    if (!imageURL) return { ...article, imageURL: null };
+    return { ...article, imageURL };
   } catch {
     return article;
   }
@@ -287,29 +396,23 @@ async function keepExistingFeed(error) {
   throw error;
 }
 
-try {
-  const [recent, previous] = await Promise.all([collectRecentArticles(), existingItems()]);
-  const seen = new Set();
-  const seenTitles = new Set();
-  const oldestAllowed = Date.now() - 7 * 86_400_000;
-  const items = [...recent, ...previous]
-    .filter((article) => isFootballTitle(article.title) && !excludedPattern.test(article.title))
-    .filter((article) => !seen.has(article.url) && seen.add(article.url))
-    .filter((article) => {
-      const normalizedTitle = article.title.toLocaleLowerCase("fr").replace(/[^\p{L}\p{N}]+/gu, " ").trim();
-      return !seenTitles.has(normalizedTitle) && seenTitles.add(normalizedTitle);
-    })
-    .filter((article) => new Date(article.publishedAt).getTime() >= oldestAllowed)
-    .sort((left, right) => right.publishedAt.localeCompare(left.publishedAt))
-    .slice(0, maximumItems);
-  if (items.length < 5) throw new Error(`Flux trop court (${items.length} résultats)`);
+export async function updateFeed() {
+  try {
+    const [recent, previous] = await Promise.all([collectRecentArticles(), existingItems()]);
+    const items = rankAndDeduplicate([...recent, ...previous]);
+    if (items.length < 5) throw new Error(`Flux trop court (${items.length} résultats)`);
 
-  const enrichedItems = await enrichImages(items);
-  const imageCount = enrichedItems.filter((article) => article.imageURL).length;
+    const enrichedItems = await enrichImages(items);
+    const imageCount = enrichedItems.filter((article) => article.imageURL).length;
 
-  await mkdir(dirname(outputPath), { recursive: true });
-  await writeFile(outputPath, `${JSON.stringify({ items: enrichedItems, generatedAt: new Date().toISOString(), stale: false }, null, 2)}\n`);
-  console.log(`${recent.length} nouvelles publications détectées, ${items.length} conservées, ${imageCount} avec image`);
-} catch (error) {
-  await keepExistingFeed(error);
+    await mkdir(dirname(outputPath), { recursive: true });
+    await writeFile(outputPath, `${JSON.stringify({ items: enrichedItems, generatedAt: new Date().toISOString(), stale: false }, null, 2)}\n`);
+    console.log(`${recent.length} nouvelles publications détectées, ${items.length} conservées, ${imageCount} avec image`);
+  } catch (error) {
+    await keepExistingFeed(error);
+  }
+}
+
+if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
+  await updateFeed();
 }
