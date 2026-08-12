@@ -1,6 +1,24 @@
 {
   "items": [
     {
+      "id": "gdelt-4267faef5ad683c1f9c773ea",
+      "title": "Supercoupe d'Europe: un premier trophée en jeu pour le PSG face à Aston Villa",
+      "summary": "Publication référencée chez franceguyane.fr. Mercato Foot France n’en reproduit ni l’article ni les médias.",
+      "url": "https://www.franceguyane.fr/actualite/france/supercoupe-deurope-un-premier-trophee-en-jeu-pour-le-psg-face-a-aston-villa-1089273.php",
+      "imageURL": null,
+      "publishedAt": "2026-08-12T14:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "franceguyane.fr",
+        "name": "franceguyane.fr",
+        "websiteURL": "https://franceguyane.fr"
+      },
+      "teams": [
+        "psg"
+      ],
+      "reliability": "reported"
+    },
+    {
       "id": "gdelt-7602bc5a09e4bbf22a87e910",
       "title": "PSG - Aston Villa. Son vestiaire trop petit, Paris se plaint auprès de l'UEFA avant la Supercoupe",
       "summary": "Publication référencée chez draguignan.maville.com. Mercato Foot France n’en reproduit ni l’article ni les médias.",
@@ -12,24 +30,6 @@
         "id": "draguignan.maville.com",
         "name": "draguignan.maville.com",
         "websiteURL": "https://draguignan.maville.com"
-      },
-      "teams": [
-        "psg"
-      ],
-      "reliability": "reported"
-    },
-    {
-      "id": "gdelt-5c917bfdd617518950df2259",
-      "title": "Supercoupe d'Europe: un premier trophée en jeu pour le PSG face à Aston Villa",
-      "summary": "Publication référencée chez linternaute.com. Mercato Foot France n’en reproduit ni l’article ni les médias.",
-      "url": "https://www.linternaute.com/actualite/depeches/11134158-supercoupe-d-europe-un-premier-trophee-en-jeu-pour-le-psg-face-a-aston-villa/",
-      "imageURL": null,
-      "publishedAt": "2026-08-12T13:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "linternaute.com",
-        "name": "linternaute.com",
-        "websiteURL": "https://linternaute.com"
       },
       "teams": [
         "psg"
@@ -278,6 +278,6 @@
       "reliability": "reported"
     }
   ],
-  "generatedAt": "2026-08-12T13:08:33.190Z",
+  "generatedAt": "2026-08-12T14:33:13.258Z",
   "stale": false
 }
