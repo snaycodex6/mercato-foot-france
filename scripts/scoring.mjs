@@ -3,6 +3,7 @@ import { createHash } from "node:crypto";
 import {
   clubAcronymPattern,
   competitionAliases,
+  competitionDisambiguators,
   excludedPattern,
   excludedURLPattern,
   footballPattern,
@@ -55,6 +56,8 @@ export function sourceTier(domain) {
   return "other";
 }
 
+const maximumImageDimensionPx = 1600;
+
 export function acceptableImageURL(value, baseURL) {
   try {
     const image = new URL(value, baseURL);
@@ -62,6 +65,9 @@ export function acceptableImageURL(value, baseURL) {
     const width = Number(image.searchParams.get("w") ?? image.searchParams.get("width"));
     const height = Number(image.searchParams.get("h") ?? image.searchParams.get("height"));
     if ((Number.isFinite(width) && width > 0 && width < 300) || (Number.isFinite(height) && height > 0 && height < 180)) return null;
+    // Rejette les images déclarant une résolution bien plus grande que ce qu'un
+    // visuel d'article a besoin (photo hero non recadrée par la source, plusieurs Mo).
+    if ((Number.isFinite(width) && width > maximumImageDimensionPx) || (Number.isFinite(height) && height > maximumImageDimensionPx)) return null;
     return image.href;
   } catch {
     return null;
@@ -112,7 +118,11 @@ export function mapArticle(item) {
   const reliability = category === "rumors" ? "rumor" : officialPattern.test(title) ? "confirmed" : "reported";
   const normalized = title.toLowerCase();
   const teams = teamAliases.flatMap(([id, aliases]) => aliases.some((alias) => normalized.includes(alias)) ? [id] : []);
-  const competitions = competitionAliases.flatMap(([id, aliases]) => aliases.some((alias) => normalized.includes(alias)) ? [id] : []);
+  const competitions = competitionAliases.flatMap(([id, aliases]) => {
+    if (!aliases.some((alias) => normalized.includes(alias))) return [];
+    if (competitionDisambiguators[id]?.test(normalized)) return [];
+    return [id];
+  });
   const nations = nationAliases.flatMap(([id, aliases]) => aliases.some((alias) => normalized.includes(alias)) ? [id] : []);
   const topics = [...new Set([...teams, ...competitions, ...nations])];
   const imageURL = acceptableImageURL(item.img);

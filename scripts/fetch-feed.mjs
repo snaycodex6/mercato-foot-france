@@ -3,6 +3,8 @@ import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import { gunzipSync } from "node:zlib";
 
+import { fetchNewsSitemapArticles } from "./fetch-news-sitemaps.mjs";
+import { metaContent } from "./html-meta.mjs";
 import { acceptableImageURL, mapArticle, rankAndDeduplicate } from "./scoring.mjs";
 
 const scriptDirectory = dirname(fileURLToPath(import.meta.url));
@@ -17,19 +19,6 @@ const minimumAvailableFiles = 20;
 function datasetStamp(date) {
   const compact = date.toISOString().replace(/\D/g, "");
   return `${compact.slice(0, 12)}00`;
-}
-
-function metaContent(html, acceptedKeys) {
-  const tags = html.match(/<meta\b[^>]*>/gi) ?? [];
-  for (const tag of tags) {
-    const attributes = Object.fromEntries(
-      [...tag.matchAll(/([:\w-]+)\s*=\s*(["'])(.*?)\2/gis)]
-        .map((match) => [match[1].toLowerCase(), match[3].replace(/&amp;/g, "&")]),
-    );
-    const key = String(attributes.property ?? attributes.name ?? "").toLowerCase();
-    if (acceptedKeys.includes(key) && attributes.content) return attributes.content.trim();
-  }
-  return null;
 }
 
 async function enrichImage(article) {
@@ -113,7 +102,9 @@ async function collectRecentArticles() {
   }
 
   if (availableFiles === 0) throw new Error("aucun catalogue GDELT récent disponible");
-  return records.map(mapArticle).filter(Boolean);
+
+  const sitemapRecords = await fetchNewsSitemapArticles();
+  return [...records, ...sitemapRecords].map(mapArticle).filter(Boolean);
 }
 
 async function existingItems() {

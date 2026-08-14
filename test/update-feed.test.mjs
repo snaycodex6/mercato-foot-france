@@ -92,6 +92,29 @@ test("mappe les sujets tout en rejetant une image de remplacement", () => {
   assert.equal(mapped.reliability, "confirmed");
 });
 
+test("ne confond pas la Ligue 1 française avec une compétition étrangère du même nom", () => {
+  const french = mapArticle({
+    title: "Ligue 1 : le résumé de la 3e journée",
+    url: "https://www.lequipe.fr/football/ligue-1/resume-3e-journee",
+    date: "2026-08-12T13:30:00Z",
+  });
+  assert.ok(french.topics.includes("ligue-1"));
+
+  const algerian = mapArticle({
+    title: "Ligue 1 algérienne : le CR Belouizdad prend la tête du championnat",
+    url: "https://example.com/football/ligue-1-algerienne-belouizdad",
+    date: "2026-08-12T13:30:00Z",
+  });
+  assert.ok(!algerian.topics.includes("ligue-1"));
+
+  const brazilianSerieA = mapArticle({
+    title: "Serie A brésilienne : Flamengo s'impose largement",
+    url: "https://example.com/football/serie-a-bresilienne-flamengo",
+    date: "2026-08-12T13:30:00Z",
+  });
+  assert.ok(!brazilianSerieA.topics.includes("serie-a"));
+});
+
 test("le score favorise une source officielle à fraîcheur comparable", () => {
   const unknown = article({ sourceTier: "other" });
   const official = article({ id: "official", url: "https://psg.fr/article", sourceTier: "official" });
