@@ -26,7 +26,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100.6
+      "qualityScore": 100.3
     },
     {
       "id": "gdelt-1acae528b37c8d27ec1b22ad",
@@ -51,7 +51,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 100.4
+      "qualityScore": 100.1
     },
     {
       "id": "gdelt-ff4f491a302e83b9b747f4d0",
@@ -76,7 +76,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99.7
+      "qualityScore": 99.4
     },
     {
       "id": "gdelt-0440cfe797993608208d11ce",
@@ -101,7 +101,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99.2
+      "qualityScore": 98.9
     },
     {
       "id": "gdelt-ce07e5355ca1a5331ec9060b",
@@ -125,7 +125,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98.8
+      "qualityScore": 98.5
     },
     {
       "id": "gdelt-b5c3b29127f3ac0fed1c9ccc",
@@ -148,7 +148,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.7
+      "qualityScore": 97.4
     },
     {
       "id": "gdelt-320e80d58a3d82589c28091f",
@@ -174,7 +174,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.7
+      "qualityScore": 96.4
     },
     {
       "id": "gdelt-efd0135db186fd8b533ca5e0",
@@ -200,7 +200,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.7
+      "qualityScore": 96.4
     },
     {
       "id": "gdelt-c6fa0b4214419035cf6d2eaf",
@@ -223,7 +223,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 96.2
     },
     {
       "id": "gdelt-5139f03e4bc89dd2313c316f",
@@ -247,7 +247,32 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.4
+      "qualityScore": 96.1
+    },
+    {
+      "id": "gdelt-46ee19340d9f49cd9795852f",
+      "title": "Arsenal : Ethan Nwaneri s'éloigne d'un prêt à l'AC Milan",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a435469504472081531-arsenal-ethan-nwaneri-seloigne-dun-pret-a-lac-milan",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/nwaneri-2425.jpg",
+      "publishedAt": "2026-08-15T15:17:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "arsenal",
+        "ac-milan"
+      ],
+      "topics": [
+        "arsenal",
+        "ac-milan"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.8
     },
     {
       "id": "gdelt-98c3f7f28d327270710cb89c",
@@ -271,7 +296,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-5766b5b2722940b6630e1606",
@@ -296,7 +321,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
+      "qualityScore": 95.1
     },
     {
       "id": "gdelt-abae9fb7e2934c63389f885b",
@@ -319,7 +344,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 94.9
     },
     {
       "id": "gdelt-89144c094bb14d810f1eb647",
@@ -342,7 +367,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 94.8
     },
     {
       "id": "gdelt-ee05eb4ec2102d893f27ce96",
@@ -364,31 +389,6 @@
       "topics": [
         "psg",
         "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 95
-    },
-    {
-      "id": "gdelt-46ee19340d9f49cd9795852f",
-      "title": "Arsenal : Ethan Nwaneri s’éloigne d’un prêt à l’AC Milan",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a435469504472081531-arsenal-ethan-nwaneri-seloigne-dun-pret-a-lac-milan",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/nwaneri-2425.jpg",
-      "publishedAt": "2026-08-15T12:22:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "arsenal",
-        "ac-milan"
-      ],
-      "topics": [
-        "arsenal",
-        "ac-milan"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
@@ -417,7 +417,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
     },
     {
       "id": "gdelt-36cdf1cd8a7c62cb5b923a6f",
@@ -444,7 +444,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
     },
     {
       "id": "gdelt-f9e0fd65009a58b9f3a8c4f4",
@@ -474,15 +474,15 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94
+      "qualityScore": 93.7
     },
     {
-      "id": "gdelt-213d993055ca7d5b35ef12e4",
-      "title": "Amical : Chelsea s’impose contre la Real Sociedad, Rogers buteur",
+      "id": "gdelt-e913e6b3ff5c80ed13b43e8a",
+      "title": "Résultat Chelsea - Real Sociedad (3-1) Club Friendlies 1 de Amicaux Club 2026 15/08",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2565582778920698937-amical-chelsea-simpose-contre-la-real-sociedad-rogers-buteur",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour697723.jpg",
-      "publishedAt": "2026-08-15T14:53:37.000Z",
+      "url": "https://www.footmercato.net/live/4792198416638163258-chelsea-vs-real-sociedad",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-6687450677292613774-756211765019622640.jpg",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -499,7 +499,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 92.8
     },
     {
       "id": "gdelt-07e37df8b87cad4de6c838b9",
@@ -507,7 +507,7 @@
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a6321109138229686522-auxerre-termine-sa-preparation-par-une-victoire-face-au-werder-breme",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/still.jpg",
-      "publishedAt": "2026-08-15T14:41:11.000Z",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -521,6 +521,31 @@
       "topics": [
         "auxerre",
         "werder-bremen"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-213d993055ca7d5b35ef12e4",
+      "title": "Amical : Chelsea s'impose contre la Real Sociedad, Rogers buteur",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2565582778920698937-amical-chelsea-simpose-contre-la-real-sociedad-rogers-buteur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour697723.jpg",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "chelsea",
+        "real-sociedad"
+      ],
+      "topics": [
+        "chelsea",
+        "real-sociedad"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
@@ -548,7 +573,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-1f5a58fdd1417e08868b6b89",
@@ -574,7 +599,76 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
+    },
+    {
+      "id": "gdelt-2793c08e4350c93ad84f8cda",
+      "title": "PSG : les grandes annonces de Luis Enrique sur le mercato",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5167708952663919661-psg-les-grandes-annonces-de-luis-enrique-sur-le-mercato",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine262762-1920x1080.jpg",
+      "publishedAt": "2026-08-15T15:17:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
+    },
+    {
+      "id": "gdelt-1cce54ab318a97706a689ab8",
+      "title": "Coup de tonnerre, le transfert de Zion Suzuki au PSG tombe à l'eau !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5535152369629201298-coup-de-tonnerre-le-transfert-de-zion-suzuki-au-psg-tombe-a-leau",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine177974.jpg",
+      "publishedAt": "2026-08-15T15:17:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
+    },
+    {
+      "id": "gdelt-85c1182961f1faaf8e2adc2b",
+      "title": "AC Milan : les aveux déchirants de Mateta sur son transfert avorté",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6103727278713086458-ac-milan-les-aveux-dechirants-de-mateta-sur-son-transfert-avorte",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mateta-golpalace2526.jpg",
+      "publishedAt": "2026-08-15T15:17:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "ac-milan"
+      ],
+      "topics": [
+        "ac-milan"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-46505f3f9815ab59c0ba7e86",
@@ -602,30 +696,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
-    },
-    {
-      "id": "gdelt-1cce54ab318a97706a689ab8",
-      "title": "Coup de tonnerre, le transfert de Zion Suzuki au PSG tombe à l’eau !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5535152369629201298-coup-de-tonnerre-le-transfert-de-zion-suzuki-au-psg-tombe-a-leau",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine177974.jpg",
-      "publishedAt": "2026-08-15T14:55:46.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-bb95b9c373a5f2b1e7e18b3c",
@@ -655,7 +726,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-0b8cb3dc4f7b67b04b1db512",
@@ -687,7 +758,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-d8bafd5c9bdd199e6e28c62f",
@@ -711,7 +782,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-78f6af9c09d0dfa65e8631b1",
@@ -735,7 +806,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 91.1
+    },
+    {
+      "id": "gdelt-05ba4c5454fcfb826c640b89",
+      "title": "Troyes annonce son objectif en Ligue 1, la grande promesse du nouveau coach de Toulouse",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/troyes-annonce-son-objectif-en-ligue-1-la-grande-promesse-du-nouveau-coach-de-toulouse-996865",
+      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/996865/406552/1200-L-troyes-annonce-son-objectif-en-ligue-1-la-grande-promesse-du-nouveau-coach-de-toulouse.jpg",
+      "publishedAt": "2026-08-15T15:29:01.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "toulouse",
+        "troyes"
+      ],
+      "topics": [
+        "toulouse",
+        "troyes",
+        "ligue-1"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 90.9
     },
     {
       "id": "gdelt-e2f1705912840a493ec33972",
@@ -759,30 +856,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
-    },
-    {
-      "id": "gdelt-85c1182961f1faaf8e2adc2b",
-      "title": "AC Milan : les aveux déchirants de Mateta sur son transfert avorté",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6103727278713086458-ac-milan-les-aveux-dechirants-de-mateta-sur-son-transfert-avorte",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mateta-golpalace2526.jpg",
-      "publishedAt": "2026-08-15T13:03:49.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "ac-milan"
-      ],
-      "topics": [
-        "ac-milan"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-d48360d57c8cf170a03b010c",
@@ -811,7 +885,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-71739d9b94134e8bbaaa6cd3",
@@ -831,29 +905,6 @@
       ],
       "topics": [
         "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 90.7
-    },
-    {
-      "id": "gdelt-2793c08e4350c93ad84f8cda",
-      "title": "PSG : les grandes annonces de Luis Enrique sur le mercato",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5167708952663919661-psg-les-grandes-annonces-de-luis-enrique-sur-le-mercato",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine262762-1920x1080.jpg",
-      "publishedAt": "2026-08-15T11:54:19.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
@@ -880,7 +931,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-f135238d5e85d7627fa02981",
@@ -903,7 +954,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-e99365602143a550aea9f9f2",
@@ -927,7 +978,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-cec23897996345c6e9896182",
@@ -951,7 +1002,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-1023e44f047a3f341775da97",
@@ -980,7 +1031,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-b3ea48f9285ff1f0de6bd426",
@@ -1007,7 +1058,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-ffce518e3fc2bf7e61040bef",
@@ -1031,7 +1082,237 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 89.1
+    },
+    {
+      "id": "gdelt-8a28ec869fbd6ca5ee23f0db",
+      "title": "Amical : le Bayern Munich domine Leipzig, mais perd 3 cadres sur blessure",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4860345142635184810-amical-le-bayern-munich-domine-leipzig-mais-perd-3-cadres-sur-blessure",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jamal-musiala-2526x3.jpg",
+      "publishedAt": "2026-08-15T15:25:32.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "bayern"
+      ],
+      "topics": [
+        "bayern"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-c0b981793a751f8b74bd3273",
+      "title": "Real Madrid : Endrick et Tchouaméni absents de l’entraînement",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a458676070520330849-real-madrid-endrick-et-tchouameni-absents-de-lentrainement",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/tchpoiuamni.jpg",
+      "publishedAt": "2026-08-15T15:24:30.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-14369dca558ee9ced8e81b82",
+      "title": "Real Madrid : Mbappé et Diomandé dans le groupe contre Schalke",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2334555758712255917-real-madrid-mbappe-et-diomande-dans-le-groupe-contre-schalke",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappesupercopa.jpg",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-ee7096e4a99b3d61a2f255df",
+      "title": "Chelsea : Enzo Fernández est de retour !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4173172330366439263-chelsea-enzo-fernandez-est-de-retour",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/enzo-fernandez-2526-6a350366cbc8f.jpg",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "chelsea"
+      ],
+      "topics": [
+        "chelsea"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-5bd770e9139f0a036a8c3c62",
+      "title": "Arsenal : Mikel Arteta ouvre la porte à une prolongation",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7040371460312354659-arsenal-mikel-arteta-ouvre-la-porte-a-une-prolongation",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mikel-arteta-2425.jpg",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "arsenal"
+      ],
+      "topics": [
+        "arsenal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-abcfe8d719cabb675db9c9d9",
+      "title": "Live Bayern Munich - Leipzig (3-1) Club Friendlies 1 de Amicaux Club 2026 15/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/7144560354171586211-bayern-munich-vs-rb-leipzig",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-6949918215573284716-806488548379509524.jpg",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "bayern"
+      ],
+      "topics": [
+        "bayern"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-676fef9737d1a8cfede82ae2",
+      "title": "LOSC : inquiétude pour Olivier Giroud, sorti sur blessure au genou",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a354295639143685573-losc-inquietude-pour-olivier-giroud-sorti-sur-blessure-au-genou",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/design-sans-titre-2025-11-23t231129-901.jpg",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-b29f9147057ed5d8735167a5",
+      "title": "Un ancien de l'OM arrive à Newcastle pour 35 M€",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1238261646302425501-un-ancien-de-lom-arrive-a-newcastle-pour-35-meur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagestwo643473.jpg",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "newcastle"
+      ],
+      "topics": [
+        "newcastle"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-051fab56e7cf92729eb14a31",
+      "title": "De champion d'Angleterre à la League One… la descente aux enfers de Leicester City n'en finit plus !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5780147628246519535-de-champion-dangleterre-a-la-league-one-la-descente-aux-enfers-de-leicester-city-nen-finit-plus",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/king-power-stadium.jpg",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "leicester"
+      ],
+      "topics": [
+        "leicester"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-9bf41f832ff4f480ad071c3d",
+      "title": "La troisième et peut-être dernière offre du FC Barcelone pour Rodri est connue !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2760718375430672853-la-troisieme-et-peut-etre-derniere-offre-du-fc-barcelone-pour-rodri-est-connue",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rodri-2526-wm-spanien.jpg",
+      "publishedAt": "2026-08-15T15:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-15e46d1d8bf8f198e082b194",
@@ -1054,76 +1335,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
-    },
-    {
-      "id": "gdelt-676fef9737d1a8cfede82ae2",
-      "title": "LOSC : inquiétude pour Olivier Giroud, sorti sur blessure au genou",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a354295639143685573-losc-inquietude-pour-olivier-giroud-sorti-sur-blessure-au-genou",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/design-sans-titre-2025-11-23t231129-901.jpg",
-      "publishedAt": "2026-08-15T14:46:49.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.9
-    },
-    {
-      "id": "gdelt-ee7096e4a99b3d61a2f255df",
-      "title": "Chelsea : Enzo Fernández est de retour !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4173172330366439263-chelsea-enzo-fernandez-est-de-retour",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/enzo-fernandez-2526-6a350366cbc8f.jpg",
-      "publishedAt": "2026-08-15T14:18:41.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "chelsea"
-      ],
-      "topics": [
-        "chelsea"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.6
-    },
-    {
-      "id": "gdelt-051fab56e7cf92729eb14a31",
-      "title": "De champion d’Angleterre à la League One… la descente aux enfers de Leicester City n’en finit plus !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5780147628246519535-de-champion-dangleterre-a-la-league-one-la-descente-aux-enfers-de-leicester-city-nen-finit-plus",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/king-power-stadium.jpg",
-      "publishedAt": "2026-08-15T14:00:58.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "leicester"
-      ],
-      "topics": [
-        "leicester"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-d740a66d81b9f8c4da02c568",
@@ -1143,52 +1355,6 @@
       ],
       "topics": [
         "atletico"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.4
-    },
-    {
-      "id": "gdelt-14369dca558ee9ced8e81b82",
-      "title": "Real Madrid : Mbappé et Diomandé dans le groupe contre Schalke",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2334555758712255917-real-madrid-mbappe-et-diomande-dans-le-groupe-contre-schalke",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappesupercopa.jpg",
-      "publishedAt": "2026-08-15T13:38:40.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.3
-    },
-    {
-      "id": "gdelt-9bf41f832ff4f480ad071c3d",
-      "title": "La troisième et peut-être dernière offre du FC Barcelone pour Rodri est connue !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2760718375430672853-la-troisieme-et-peut-etre-derniere-offre-du-fc-barcelone-pour-rodri-est-connue",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rodri-2526-wm-spanien.jpg",
-      "publishedAt": "2026-08-15T13:10:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
@@ -1216,7 +1382,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-65d5a48303588eab033dced3",
@@ -1242,7 +1408,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-b7d333e3258f2ef80bb81369",
@@ -1268,7 +1434,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-10285067766a888f72e9b453",
@@ -1294,7 +1460,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-943409e06a52544efdbb1140",
@@ -1320,7 +1486,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-5ab3fd72e68740cddd2ef775",
@@ -1343,53 +1509,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
-    },
-    {
-      "id": "gdelt-b29f9147057ed5d8735167a5",
-      "title": "Un ancien de l’OM arrive à Newcastle pour 35 M€",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1238261646302425501-un-ancien-de-lom-arrive-a-newcastle-pour-35-meur",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagestwo643473.jpg",
-      "publishedAt": "2026-08-15T12:22:51.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "newcastle"
-      ],
-      "topics": [
-        "newcastle"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.7
-    },
-    {
-      "id": "gdelt-5bd770e9139f0a036a8c3c62",
-      "title": "Arsenal : Mikel Arteta ouvre la porte à une prolongation",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7040371460312354659-arsenal-mikel-arteta-ouvre-la-porte-a-une-prolongation",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mikel-arteta-2425.jpg",
-      "publishedAt": "2026-08-15T12:12:25.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "arsenal"
-      ],
-      "topics": [
-        "arsenal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-44b0ba2e051801545cb8d9f8",
@@ -1412,7 +1532,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-ef57244aeace59d0bdd66248",
@@ -1438,7 +1558,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-35804f61b56e62b71dbab410",
@@ -1461,7 +1581,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-81997766cc7290fb2b8bf901",
@@ -1484,7 +1604,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-49cd55939930b9f00e6266f1",
@@ -1507,7 +1627,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-d697c0dd4f6d20c81e6ebeff",
@@ -1530,7 +1650,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-6e4bbd6643cd10517e47c795",
@@ -1553,7 +1673,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-307cc6e9f288fb2eda01fec1",
@@ -1576,7 +1696,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-978b5ecb35c6379cc6723378",
@@ -1599,7 +1719,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-ac736d3ee3dab4e87c800e62",
@@ -1627,7 +1747,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-8b427dd7c52c2558ace96fe0",
@@ -1654,7 +1774,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-741c706cd2db8c90562ee17d",
@@ -1678,7 +1798,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-59a4667ac83ea39833bce4f4",
@@ -1702,7 +1822,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-cd4ba33d2f9e784859298d2e",
@@ -1723,7 +1843,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-950dc642b3c2a489401ad3d4",
@@ -1746,7 +1866,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-ce610422b56fae1c3873bfdc",
@@ -1772,7 +1892,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-39b3e1c0fa82acbc9e1c9aa4",
@@ -1795,7 +1915,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-3618c49ccf8482193bc94a39",
@@ -1820,7 +1940,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-acd5fc78b72fff6fa0f1e6e7",
@@ -1845,7 +1965,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-8d7284229d9fe618474eeea5",
@@ -1868,7 +1988,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-85273e74426867cde91e19aa",
@@ -1892,7 +2012,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-d80e42ec79be4476e547143a",
@@ -1916,7 +2036,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-af02a36b01bb5cefa17d661f",
@@ -1942,7 +2062,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-5de05745e1ee7dc611d9b523",
@@ -1961,7 +2081,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-cac9782dbfd9224cb84d71d3",
@@ -1984,7 +2104,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-e86a3fcc0dbd8c30d38ef83e",
@@ -2007,7 +2127,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-890dcadac6ae2b207997c2b2",
@@ -2030,7 +2150,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-a1469adec7d56869422641a1",
@@ -2056,7 +2176,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-32827014b101c451599750db",
@@ -2079,7 +2199,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-6754b780ac37b7b612b8b9f2",
@@ -2102,7 +2222,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-3ad60e21b09270f30e79bc0c",
@@ -2128,7 +2248,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-fa3ef5a1935b79ee2d73416e",
@@ -2147,7 +2267,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-e29ca572ffd7a0b854d3ee09",
@@ -2172,7 +2292,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-e74d0f0cf2146ef48f04f615",
@@ -2195,7 +2315,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 84
     },
     {
       "id": "gdelt-9a817d89f32d832b4dcfa7ce",
@@ -2218,7 +2338,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-6e6d1dbd19aa75f489db8024",
@@ -2242,7 +2362,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.1
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-a5026bc590b1ba6b117c4cb9",
@@ -2266,7 +2386,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.1
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-7768e9febd4fe59784fc8aef",
@@ -2291,7 +2411,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-a653a682f859123c82cb7ba6",
@@ -2315,127 +2435,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
-    },
-    {
-      "id": "gdelt-9a42d634adfeab013a3b0917",
-      "title": "Mercato Brest : Le Stade Brestois veut blinder Ludovic Ajorque, l'OL et le Stade Rennais à l'affût !",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-brest-le-stade-brestois-veut-blinder-ludovic-ajorque-l-ol-et-le-stade-rennais-a-l-affut-534708.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20251004203459-3036.jpg",
-      "publishedAt": "2026-08-14T14:35:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "rennes",
-        "brest"
-      ],
-      "topics": [
-        "rennes",
-        "brest"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 83.8
-    },
-    {
-      "id": "gdelt-90f7128dad74fe04aba9a0e2",
-      "title": "Matchs en direct : Ligue 2 et Ligue 3 en direct live à partir de 19h",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/matchs-en-direct-ligue-2-et-ligue-3-en-direct-live-a-partir-de-19h-953244",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953244/388315/1200-L-matchs-en-direct-ligue-2-et-ligue-3-en-direct-live-partir-de-19h.jpg",
-      "publishedAt": "2026-08-14T20:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-2",
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.5
-    },
-    {
-      "id": "gdelt-d8fdef8c203068b90fdc5b96",
-      "title": "Ligue 3 (J2) : Villefranche fait le break à la mi-temps, Caen, Bastia et Rouen mènent...",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-3-les-scores-a-la-mi-temps-du-multiplex-953336",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953336/388360/1200-L-ligue-3-j2-villefranche-fait-le-break-la-mi-temps-caen-bastia-et-rouen-mnent.jpg",
-      "publishedAt": "2026-08-14T20:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "caen"
-      ],
-      "topics": [
-        "caen",
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.5
-    },
-    {
-      "id": "gdelt-250a507854bb3489f41a2eb4",
-      "title": "Mercato SCO : Un jeune espoir angevin signe son premier contrat professionnel à Manchester City (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-sco-un-jeune-espoir-angevin-signe-son-premier-contrat-professionnel-a-manchester-city-officiel-534670.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2021/zoom/l1-20210628210155-2044.jpg",
-      "publishedAt": "2026-08-14T09:54:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "man-city"
-      ],
-      "topics": [
-        "man-city"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 83.4
-    },
-    {
-      "id": "gdelt-c15c8dde8145cc77801a396b",
-      "title": "Mercato : l'international espagnol Ferran Torres rejoint le PSG jusqu'en 2031",
-      "summary": "Publication référencée chez ici.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.ici.fr/ile-de-france/paris-75/paris/mercato-l-international-espagnol-ferran-torres-rejoint-le-psg-jusqu-en-2031-5441487",
-      "imageURL": "https://www.ici.fr/pikapi/images/d634b757-314a-4d8f-a08e-d6bd844bac1d/1200x630?webp=false",
-      "publishedAt": "2026-08-15T11:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "ici.fr",
-        "name": "ici.fr",
-        "websiteURL": "https://ici.fr"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 83.3
     }
   ],
-  "generatedAt": "2026-08-15T15:01:17.810Z",
+  "generatedAt": "2026-08-15T15:37:07.445Z",
   "stale": false
 }
