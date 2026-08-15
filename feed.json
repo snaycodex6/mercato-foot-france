@@ -24,7 +24,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 101.8
+      "qualityScore": 101.4
     },
     {
       "id": "gdelt-4f4ba1926d2afd11f23bf397",
@@ -52,7 +52,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.1
+      "qualityScore": 98.8
     },
     {
       "id": "gdelt-1acae528b37c8d27ec1b22ad",
@@ -77,7 +77,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98.9
+      "qualityScore": 98.5
     },
     {
       "id": "gdelt-ff4f491a302e83b9b747f4d0",
@@ -102,7 +102,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98.2
+      "qualityScore": 97.8
     },
     {
       "id": "gdelt-0440cfe797993608208d11ce",
@@ -127,7 +127,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.8
+      "qualityScore": 97.4
     },
     {
       "id": "gdelt-ce07e5355ca1a5331ec9060b",
@@ -151,7 +151,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.3
+      "qualityScore": 97
+    },
+    {
+      "id": "gdelt-65f23057eeaf8df706d3a18e",
+      "title": "Live Cadix - Celta Vigo II (0-0) la 1re journée de LaLiga Hypermotion 2026/2027 15/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/8533615617932561873-cadix-vs-celta-de-vigo-ii",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-566495634848907516-4952996276392179349.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "celta-vigo",
+        "cadiz"
+      ],
+      "topics": [
+        "celta-vigo",
+        "cadiz",
+        "la-liga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.8
     },
     {
       "id": "gdelt-806b48466fc94b446baa03b9",
@@ -174,7 +200,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97
+      "qualityScore": 96.7
+    },
+    {
+      "id": "gdelt-d68be0efa8b1aab3da229355",
+      "title": "Ligue 1 : Zion Suzuki ne viendra pas au PSG, très grosse vente en vue pour Toulouse",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-1-zion-suzuki-ne-viendra-pas-au-psg-tres-grosse-vente-en-vue-pour-toulouse-953430",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953430/388406/1200-L-ligue-1-zion-suzuki-ne-viendra-pas-au-psg-trs-grosse-vente-en-vue-pour-toulouse.jpg",
+      "publishedAt": "2026-08-15T17:54:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "toulouse"
+      ],
+      "topics": [
+        "psg",
+        "toulouse",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.6
     },
     {
       "id": "gdelt-b5c3b29127f3ac0fed1c9ccc",
@@ -197,7 +249,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 95.9
     },
     {
       "id": "gdelt-d01d6b2fe8e900f36466eec5",
@@ -221,7 +273,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 94.9
     },
     {
       "id": "gdelt-320e80d58a3d82589c28091f",
@@ -247,7 +299,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 94.9
     },
     {
       "id": "gdelt-efd0135db186fd8b533ca5e0",
@@ -273,7 +325,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 94.9
+    },
+    {
+      "id": "gdelt-13bc7ec0a105de61bfe9dd00",
+      "title": "L'Inter Milan annonce l'arrivée de Djed Spence pour 35 M€",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4338414161722418194-linter-milan-annonce-larrivee-de-djed-spence-pour-35-meur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/djed-spence-6a3b00f8878fb.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "inter"
+      ],
+      "topics": [
+        "inter"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 94.8
     },
     {
       "id": "gdelt-c6fa0b4214419035cf6d2eaf",
@@ -296,7 +371,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-5139f03e4bc89dd2313c316f",
@@ -320,7 +395,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-46ee19340d9f49cd9795852f",
@@ -345,30 +420,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.7
-    },
-    {
-      "id": "gdelt-13bc7ec0a105de61bfe9dd00",
-      "title": "L’Inter Milan annonce l’arrivée de Djed Spence pour 35 M€",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4338414161722418194-linter-milan-annonce-larrivee-de-djed-spence-pour-35-meur",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/djed-spence-6a3b00f8878fb.jpg",
-      "publishedAt": "2026-08-15T16:44:13.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "inter"
-      ],
-      "topics": [
-        "inter"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 94.4
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-98c3f7f28d327270710cb89c",
@@ -392,7 +444,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-5766b5b2722940b6630e1606",
@@ -417,7 +469,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.9
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-abae9fb7e2934c63389f885b",
@@ -440,7 +492,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.7
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-89144c094bb14d810f1eb647",
@@ -463,7 +515,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-ee05eb4ec2102d893f27ce96",
@@ -488,7 +540,81 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 93.2
+    },
+    {
+      "id": "gdelt-685781b1f1c3999f99d8381d",
+      "title": "Arsenal et Liverpool vont s'affronter devant un tribunal pour un prodige de 16 ans",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8720260542206549353-arsenal-et-liverpool-vont-saffronter-devant-un-tribunal-pour-un-prodige-de-16-ans",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldtwo960803.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "liverpool",
+        "arsenal"
+      ],
+      "topics": [
+        "liverpool",
+        "arsenal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-04f4d7c9eb336a7a2051d437",
+      "title": "Amical : Angers l'emporte sur le fil contre le Paris FC",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1633610914282894448-amical-angers-lemporte-sur-le-fil-contre-le-paris-fc",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/stephane-gilli-2526.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "angers",
+        "paris-fc"
+      ],
+      "topics": [
+        "angers",
+        "paris-fc"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-6b6fd8d4190fc0fb188429b2",
+      "title": "Luis Enrique, la Ligue des Champions… Ferran Torres justifie son arrivée au PSG",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6590313138649994936-luis-enrique-la-ligue-des-champions-ferran-torres-justifie-son-arrivee-au-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/m-28629-1920x1080.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
     },
     {
       "id": "gdelt-b08a19942f1821b16abe1ada",
@@ -513,7 +639,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.4
     },
     {
       "id": "gdelt-36cdf1cd8a7c62cb5b923a6f",
@@ -540,81 +666,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
-    },
-    {
-      "id": "gdelt-04f4d7c9eb336a7a2051d437",
-      "title": "Amical : Angers l’emporte sur le fil contre le Paris FC",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1633610914282894448-amical-angers-lemporte-sur-le-fil-contre-le-paris-fc",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/stephane-gilli-2526.jpg",
-      "publishedAt": "2026-08-15T17:27:49.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "angers",
-        "paris-fc"
-      ],
-      "topics": [
-        "angers",
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.7
-    },
-    {
-      "id": "gdelt-685781b1f1c3999f99d8381d",
-      "title": "Arsenal et Liverpool vont s’affronter devant un tribunal pour un prodige de 16 ans",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8720260542206549353-arsenal-et-liverpool-vont-saffronter-devant-un-tribunal-pour-un-prodige-de-16-ans",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldtwo960803.jpg",
-      "publishedAt": "2026-08-15T17:20:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "liverpool",
-        "arsenal"
-      ],
-      "topics": [
-        "liverpool",
-        "arsenal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.7
-    },
-    {
-      "id": "gdelt-6b6fd8d4190fc0fb188429b2",
-      "title": "Luis Enrique, la Ligue des Champions… Ferran Torres justifie son arrivée au PSG",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6590313138649994936-luis-enrique-la-ligue-des-champions-ferran-torres-justifie-son-arrivee-au-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/m-28629-1920x1080.jpg",
-      "publishedAt": "2026-08-15T17:15:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 92.4
     },
     {
       "id": "gdelt-f9e0fd65009a58b9f3a8c4f4",
@@ -644,7 +696,76 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
+    },
+    {
+      "id": "gdelt-eeb234ccc9d9dccb364acfee",
+      "title": "OM : la mise au point de Nayef Aguerd sur son transfert avorté à la Real Sociedad",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3026755635948227593-om-la-mise-au-point-de-nayef-aguerd-sur-son-transfert-avorte-a-la-sociedad",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/aguerd-om.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-sociedad"
+      ],
+      "topics": [
+        "real-sociedad"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
+    },
+    {
+      "id": "gdelt-9f2274a920a92a7cc22a41e8",
+      "title": "Djed Spence confirme son départ de Tottenham",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3886904856705510243-djed-spence-confirme-son-depart-de-tottenham",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/djed-spence-2425.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "tottenham"
+      ],
+      "topics": [
+        "tottenham"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
+    },
+    {
+      "id": "gdelt-12d1a927ae2fa94c9066c23d",
+      "title": "Un club inattendu fonce sur Zion Suzuki après l'échec de son transfert au PSG !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4664490585498363853-un-club-inattendu-fonce-sur-zion-suzuki-apres-lechec-de-son-transfert-au-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/suzuki.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-e913e6b3ff5c80ed13b43e8a",
@@ -669,7 +790,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-07e37df8b87cad4de6c838b9",
@@ -694,7 +815,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-213d993055ca7d5b35ef12e4",
@@ -715,29 +836,6 @@
       ],
       "topics": [
         "chelsea",
-        "real-sociedad"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.6
-    },
-    {
-      "id": "gdelt-eeb234ccc9d9dccb364acfee",
-      "title": "OM : la mise au point de Nayef Aguerd sur son transfert avorté à la Real Sociedad",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3026755635948227593-om-la-mise-au-point-de-nayef-aguerd-sur-son-transfert-avorte-a-la-sociedad",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/aguerd-om.jpg",
-      "publishedAt": "2026-08-15T16:30:14.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-sociedad"
-      ],
-      "topics": [
         "real-sociedad"
       ],
       "reliability": "reported",
@@ -766,30 +864,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
-    },
-    {
-      "id": "gdelt-9f2274a920a92a7cc22a41e8",
-      "title": "Djed Spence confirme son départ de Tottenham",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3886904856705510243-djed-spence-confirme-son-depart-de-tottenham",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/djed-spence-2425.jpg",
-      "publishedAt": "2026-08-15T16:25:58.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "tottenham"
-      ],
-      "topics": [
-        "tottenham"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 90.9
     },
     {
       "id": "gdelt-1f5a58fdd1417e08868b6b89",
@@ -815,30 +890,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
-    },
-    {
-      "id": "gdelt-12d1a927ae2fa94c9066c23d",
-      "title": "Un club inattendu fonce sur Zion Suzuki après l’échec de son transfert au PSG !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4664490585498363853-un-club-inattendu-fonce-sur-zion-suzuki-apres-lechec-de-son-transfert-au-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/suzuki.jpg",
-      "publishedAt": "2026-08-15T15:52:41.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-2793c08e4350c93ad84f8cda",
@@ -861,7 +913,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-1cce54ab318a97706a689ab8",
@@ -884,7 +936,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-85c1182961f1faaf8e2adc2b",
@@ -907,7 +959,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-46505f3f9815ab59c0ba7e86",
@@ -935,7 +987,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-bb95b9c373a5f2b1e7e18b3c",
@@ -965,7 +1017,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-0b8cb3dc4f7b67b04b1db512",
@@ -997,7 +1049,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-d8bafd5c9bdd199e6e28c62f",
@@ -1021,7 +1073,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-78f6af9c09d0dfa65e8631b1",
@@ -1045,7 +1097,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-e2f1705912840a493ec33972",
@@ -1069,7 +1121,37 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.3
+    },
+    {
+      "id": "gdelt-5ee35f4521301e190b4aed4b",
+      "title": "Ligue 1 : Rennes s'incline contre Sunderland, Lille arrache le nul contre Everton mais perd Giroud",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-1-rennes-sincline-contre-sunderland-lille-arrache-le-nul-contre-everton-mais-perd-giroud-953433",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953433/388408/1200-L-ligue-1-rennes-s-incline-contre-sunderland-lille-arrache-le-nul-contre-everton-mais-perd-giroud.jpg",
+      "publishedAt": "2026-08-15T18:55:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "lille",
+        "rennes",
+        "everton",
+        "sunderland"
+      ],
+      "topics": [
+        "lille",
+        "rennes",
+        "everton",
+        "sunderland",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89
     },
     {
       "id": "gdelt-71739d9b94134e8bbaaa6cd3",
@@ -1092,7 +1174,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-d48360d57c8cf170a03b010c",
@@ -1121,7 +1203,74 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-1dc9e59594fe4803885a4c54",
+      "title": "Live Oviedo - Grenade (0-0) la 1re journée de LaLiga Hypermotion 2026/2027 15/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/6912641914293442453-real-oviedo-vs-grenade",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-2541296915246601161-1765046592166476736.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "la-liga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-c0b981793a751f8b74bd3273",
+      "title": "Real Madrid : Endrick et Tchouaméni absents de l'entraînement",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a458676070520330849-real-madrid-endrick-et-tchouameni-absents-de-lentrainement",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/tchpoiuamni.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-34841cd6502f030c65602e99",
+      "title": "Live Inter Milan - Betis (0-0) Club Friendlies 1 de Amicaux Club 2026 15/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/7788029808579499192-inter-milan-vs-real-betis",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-8302142033783363668-3277762921136746131.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "inter"
+      ],
+      "topics": [
+        "inter"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-9d2b7d99c4c98dc34bf5de86",
@@ -1129,7 +1278,7 @@
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a3259046471180891975-le-barca-reste-confiant-pour-rodri-et-julian-alvarez",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joan-laporta-68904f181b309.jpg",
-      "publishedAt": "2026-08-15T17:53:41.000Z",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -1144,7 +1293,53 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-f58298731b1cbafebbf9c4df",
+      "title": "Amical : l'AC Milan bat Man Utd au terme d'un match fou, Ramos déjà buteur",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8242737228001584119-amical-lac-milan-bat-man-utd-au-terme-dun-match-fou-ramos-deja-buteur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine251440-1920x1080.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "ac-milan"
+      ],
+      "topics": [
+        "ac-milan"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-c8c663321bfa35e57c3c070b",
+      "title": "LOSC : Davide Ancelotti rassure après la blessure d'Olivier Giroud",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6869634172126108791-losc-davide-ancelotti-rassure-apres-la-blessure-dolivier-giroud",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo300872.jpg",
+      "publishedAt": "2026-08-15T18:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-9df66ae8adfe022c7a9dc19c",
@@ -1167,7 +1362,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-f135238d5e85d7627fa02981",
@@ -1190,7 +1385,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-e99365602143a550aea9f9f2",
@@ -1214,7 +1409,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-cec23897996345c6e9896182",
@@ -1235,29 +1430,6 @@
       "topics": [
         "caen",
         "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.9
-    },
-    {
-      "id": "gdelt-f58298731b1cbafebbf9c4df",
-      "title": "Amical : l’AC Milan bat Man Utd au terme d’un match fou, Ramos déjà buteur",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8242737228001584119-amical-lac-milan-bat-man-utd-au-terme-dun-match-fou-ramos-deja-buteur",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine251440-1920x1080.jpg",
-      "publishedAt": "2026-08-15T16:57:22.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "ac-milan"
-      ],
-      "topics": [
-        "ac-milan"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
@@ -1290,7 +1462,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-b3ea48f9285ff1f0de6bd426",
@@ -1317,7 +1489,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-ffce518e3fc2bf7e61040bef",
@@ -1341,7 +1513,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-8a28ec869fbd6ca5ee23f0db",
@@ -1364,30 +1536,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
-    },
-    {
-      "id": "gdelt-c0b981793a751f8b74bd3273",
-      "title": "Real Madrid : Endrick et Tchouaméni absents de l’entraînement",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a458676070520330849-real-madrid-endrick-et-tchouameni-absents-de-lentrainement",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/tchpoiuamni.jpg",
-      "publishedAt": "2026-08-15T15:24:30.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-14369dca558ee9ced8e81b82",
@@ -1410,7 +1559,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-ee7096e4a99b3d61a2f255df",
@@ -1433,7 +1582,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-5bd770e9139f0a036a8c3c62",
@@ -1456,7 +1605,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-abcfe8d719cabb675db9c9d9",
@@ -1479,7 +1628,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-676fef9737d1a8cfede82ae2",
@@ -1502,7 +1651,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-b29f9147057ed5d8735167a5",
@@ -1525,7 +1674,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-051fab56e7cf92729eb14a31",
@@ -1548,7 +1697,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-9bf41f832ff4f480ad071c3d",
@@ -1571,7 +1720,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-15e46d1d8bf8f198e082b194",
@@ -1594,7 +1743,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-cccf5c06d798e9cd5857d724",
@@ -1613,7 +1762,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-d740a66d81b9f8c4da02c568",
@@ -1636,7 +1785,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.5
+    },
+    {
+      "id": "gdelt-d8c756eba43fed403e7bdbe3",
+      "title": "Ligue 3 : le magnifique but de Bouhmidi avec Thionville contre Caen",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-3-le-magnifique-but-de-bouhmidi-avec-thionville-contre-caen-953382",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953382/388380/1200-L-ligue-3-le-magnifique-but-de-bouhmidi-avec-thionville-contre-caen.jpg",
+      "publishedAt": "2026-08-15T05:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "caen"
+      ],
+      "topics": [
+        "caen",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-65d5a48303588eab033dced3",
@@ -1662,7 +1835,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-b7d333e3258f2ef80bb81369",
@@ -1688,7 +1861,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-10285067766a888f72e9b453",
@@ -1714,7 +1887,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-943409e06a52544efdbb1140",
@@ -1740,31 +1913,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
-    },
-    {
-      "id": "gdelt-d8c756eba43fed403e7bdbe3",
-      "title": "Ligue 3 : le magnifique but de Bouhmidi avec Thionville contre Caen",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-3-le-magnifique-but-de-bouhmidi-avec-thionville-contre-caen-953382",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953382/388380/1200-L-ligue-3-le-magnifique-but-de-bouhmidi-avec-thionville-contre-caen.jpg",
-      "publishedAt": "2026-08-15T05:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "caen"
-      ],
-      "topics": [
-        "caen",
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-5ab3fd72e68740cddd2ef775",
@@ -1787,7 +1936,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-44b0ba2e051801545cb8d9f8",
@@ -1810,7 +1959,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-ef57244aeace59d0bdd66248",
@@ -1836,7 +1985,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-35804f61b56e62b71dbab410",
@@ -1859,7 +2008,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-81997766cc7290fb2b8bf901",
@@ -1882,7 +2031,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-49cd55939930b9f00e6266f1",
@@ -1905,7 +2054,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-d697c0dd4f6d20c81e6ebeff",
@@ -1928,7 +2077,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-6e4bbd6643cd10517e47c795",
@@ -1951,7 +2100,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-307cc6e9f288fb2eda01fec1",
@@ -1974,7 +2123,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-978b5ecb35c6379cc6723378",
@@ -1997,7 +2146,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-ac736d3ee3dab4e87c800e62",
@@ -2025,7 +2174,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85
     },
     {
       "id": "gdelt-8b427dd7c52c2558ace96fe0",
@@ -2052,7 +2201,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85
+    },
+    {
+      "id": "gdelt-dd3ae92b0d09d9d108fe11bf",
+      "title": "Ligue 1 : Lorient balayé en Allemagne, Auxerre s'y offre une victoire prometteuse",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue1-lorient-balaye-en-allemagne-auxerre-sy-offre-une-victoire-prometteuse-953431",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953431/388407/1200-L-ligue-1-lorient-balay-en-allemagne-auxerre-s-y-offre-une-victoire-prometteuse.jpg",
+      "publishedAt": "2026-08-15T18:27:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "auxerre",
+        "lorient"
+      ],
+      "topics": [
+        "auxerre",
+        "lorient",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-741c706cd2db8c90562ee17d",
@@ -2076,33 +2251,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
-    },
-    {
-      "id": "gdelt-d68be0efa8b1aab3da229355",
-      "title": "Ligue 1 : Zion Suzuki ne viendra pas au PSG, très grosse vente en vue pour Toulouse",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/ligue-1-zion-suzuki-ne-viendra-pas-au-psg-tres-grosse-vente-en-vue-pour-toulouse-953430",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953430/388406/1200-L-ligue-1-zion-suzuki-ne-viendra-pas-au-psg-trs-grosse-vente-en-vue-pour-toulouse.jpg",
-      "publishedAt": "2026-08-15T17:54:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "psg",
-        "toulouse"
-      ],
-      "topics": [
-        "psg",
-        "toulouse",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-59a4667ac83ea39833bce4f4",
@@ -2126,7 +2275,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-cd4ba33d2f9e784859298d2e",
@@ -2147,7 +2296,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-950dc642b3c2a489401ad3d4",
@@ -2170,7 +2319,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-ce610422b56fae1c3873bfdc",
@@ -2196,7 +2345,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.5
+    },
+    {
+      "id": "gdelt-39b3e1c0fa82acbc9e1c9aa4",
+      "title": "PSG : les premiers mots de Ferran Torres",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2004314074252529873-psg-les-premiers-mots-de-ferran-torres",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/ferran-dortmund.jpg",
+      "publishedAt": "2026-08-15T09:28:45.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-3618c49ccf8482193bc94a39",
@@ -2221,30 +2393,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-39b3e1c0fa82acbc9e1c9aa4",
-      "title": "PSG : les premiers mots de Ferran Torres",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2004314074252529873-psg-les-premiers-mots-de-ferran-torres",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/ferran-dortmund.jpg",
-      "publishedAt": "2026-08-15T09:28:45.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-8d7284229d9fe618474eeea5",
@@ -2267,7 +2416,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-acd5fc78b72fff6fa0f1e6e7",
@@ -2292,148 +2441,9 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-85273e74426867cde91e19aa",
-      "title": "Ligue 3 : les résultats complets de la 2e journée, le classement à l'issue de cette dernière",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-3-les-resultats-complets-de-la-2e-journee-le-classement-a-lissue-de-cette-derniere-953356",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953356/388368/1200-L-ligue-3-les-rsultats-complets-de-la-2e-journe-le-classement-lissue-de-cette-dernire.jpg",
-      "publishedAt": "2026-08-15T01:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "saint-etienne"
-      ],
-      "topics": [
-        "saint-etienne",
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.5
-    },
-    {
-      "id": "gdelt-d80e42ec79be4476e547143a",
-      "title": "Ligue 2 : Nantes nage déjà en plein cauchemar !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6489251894807594528-ligue-2-nantes-nage-deja-en-plein-cauchemar",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/der-zakarian.jpg",
-      "publishedAt": "2026-08-15T00:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "nantes"
-      ],
-      "topics": [
-        "nantes",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 84.3
-    },
-    {
-      "id": "gdelt-af02a36b01bb5cefa17d661f",
-      "title": "Laval - Nantes : à quelle heure et sur quelle chaîne suivre le match de la 2e journée de Ligue 2 ?",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-2/laval-nantes-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-de-la-2e-journee-de-ligue-2-996779",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/996779/406509/1200-L-laval-nantes-quelle-heure-et-sur-quelle-chane-suivre-le-match-de-la-2e-journe-de-ligue-2.jpg",
-      "publishedAt": "2026-08-14T16:29:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "nantes",
-        "laval"
-      ],
-      "topics": [
-        "nantes",
-        "laval",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.3
-    },
-    {
-      "id": "gdelt-5de05745e1ee7dc611d9b523",
-      "title": "Mérignac Arlac déchaîné, Messi quitte la France : les infos transferts du 14 août",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/merignac-arlac-dechaine-messi-quitte-la-france-les-infos-transferts-du-14-aout-953383",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953383/388381/1200-L-mrignac-arlac-dchan-messi-quitte-la-france-les-infos-transferts-du-14-aot.jpg",
-      "publishedAt": "2026-08-15T09:46:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-cac9782dbfd9224cb84d71d3",
-      "title": "Le Barça a tranché pour Luis Suárez",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8669333618396310609-le-barca-a-tranche-pour-luis-suarez",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/luis-6a4d8861216f5.jpg",
-      "publishedAt": "2026-08-15T07:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-e86a3fcc0dbd8c30d38ef83e",
-      "title": "PSG : Luis Enrique avait un souhait pour Mika Godts",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7371021191845704579-psg-luis-enrique-avait-un-souhait-pour-mika-godts",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mika-godts-2526.jpg",
-      "publishedAt": "2026-08-15T07:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
     }
   ],
-  "generatedAt": "2026-08-15T17:58:59.677Z",
+  "generatedAt": "2026-08-15T18:42:31.329Z",
   "stale": false
 }
