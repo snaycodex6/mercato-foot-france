@@ -24,7 +24,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 97.3
+      "qualityScore": 96.8
     },
     {
       "id": "gdelt-cb928e915d46a3496676e5cd",
@@ -51,7 +51,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 97
+      "qualityScore": 96.6
     },
     {
       "id": "gdelt-a25a64d1b04bd593ce51d69d",
@@ -79,7 +79,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 97
+      "qualityScore": 96.6
     },
     {
       "id": "gdelt-5ee35f4521301e190b4aed4b",
@@ -109,7 +109,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.8
+      "qualityScore": 96.3
     },
     {
       "id": "gdelt-05ba4c5454fcfb826c640b89",
@@ -135,7 +135,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.7
+      "qualityScore": 96.3
     },
     {
       "id": "gdelt-71d6b5c5dee6e10fb5291f54",
@@ -158,7 +158,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 94.7
     },
     {
       "id": "gdelt-fd3f79cb8559cc90b46de69a",
@@ -184,7 +184,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-7e1f4bf0c327c2e8a4ae48e9",
@@ -209,7 +209,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-772b6f92cd7da587dc7247a8",
@@ -232,30 +232,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
-    },
-    {
-      "id": "gdelt-b13ffea4e42a64c41c4676a2",
-      "title": "Mercato PSG : Le Paris Saint-Germain recrute Mika Godts (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-psg-le-paris-saint-germain-recrute-mika-godts-officiel-534849.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260802165355-2272.jpg",
-      "publishedAt": "2026-08-15T20:09:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-4f4ba1926d2afd11f23bf397",
@@ -283,7 +260,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.7
+    },
+    {
+      "id": "gdelt-b13ffea4e42a64c41c4676a2",
+      "title": "Mercato PSG : Le Paris Saint-Germain recrute Mika Godts (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-psg-le-paris-saint-germain-recrute-mika-godts-officiel-534849.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260802165355-2272.jpg",
+      "publishedAt": "2026-08-15T20:09:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-1acae528b37c8d27ec1b22ad",
@@ -308,7 +308,32 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.9
+      "qualityScore": 93.5
+    },
+    {
+      "id": "gdelt-8f9a2bd57bec4e763a7250f4",
+      "title": "Trophée des Champions : où et quand suivre le choc Lens-PSG",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/trophee-des-champions-ou-et-quand-suivre-le-choc-lens-psg-953425",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953425/388404/1200-L-trophe-des-champions-o-et-quand-suivre-le-choc-lens-psg.jpg",
+      "publishedAt": "2026-08-16T04:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "lens"
+      ],
+      "topics": [
+        "psg",
+        "lens"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-ff4f491a302e83b9b747f4d0",
@@ -333,7 +358,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.2
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-dd3ae92b0d09d9d108fe11bf",
@@ -359,7 +384,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-d68be0efa8b1aab3da229355",
@@ -385,7 +410,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-0440cfe797993608208d11ce",
@@ -410,7 +435,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-ce07e5355ca1a5331ec9060b",
@@ -434,7 +459,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-10a7be190ff1a4a0858f2be6",
@@ -458,7 +483,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-65f23057eeaf8df706d3a18e",
@@ -484,7 +509,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-806b48466fc94b446baa03b9",
@@ -507,7 +532,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-b5c3b29127f3ac0fed1c9ccc",
@@ -530,7 +555,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-d01d6b2fe8e900f36466eec5",
@@ -554,7 +579,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-320e80d58a3d82589c28091f",
@@ -580,7 +605,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-efd0135db186fd8b533ca5e0",
@@ -606,7 +631,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-13bc7ec0a105de61bfe9dd00",
@@ -629,7 +654,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-43915bcdfa7163b87784d346",
@@ -652,7 +677,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-c6fa0b4214419035cf6d2eaf",
@@ -675,7 +700,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-5139f03e4bc89dd2313c316f",
@@ -699,7 +724,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-c3c0e74315eeaf4499fc49b1",
@@ -722,7 +747,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-46ee19340d9f49cd9795852f",
@@ -747,7 +772,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.2
+    },
+    {
+      "id": "gdelt-40b99c1b3519b7ce572ffebe",
+      "title": "Étranger : Kylian Mbappé affiche déjà ses ambitions pour la nouvelle saison du Real Madrid",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/etranger-kylian-mbappe-affiche-deja-ses-ambitions-pour-la-nouvelle-saison-du-real-madrid-953366",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953366/388373/1200-L-tranger-kylian-mbapp-affiche-dj-ses-ambitions-pour-la-nouvelle-saison-du-real-madrid.jpg",
+      "publishedAt": "2026-08-16T04:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-241ca52813361f14f4c5d14e",
@@ -772,7 +820,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-98c3f7f28d327270710cb89c",
@@ -796,7 +844,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-5766b5b2722940b6630e1606",
@@ -821,7 +869,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-752cfc7f7a43557fecc04020",
@@ -845,7 +893,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-abae9fb7e2934c63389f885b",
@@ -868,7 +916,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-89144c094bb14d810f1eb647",
@@ -891,7 +939,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-ee05eb4ec2102d893f27ce96",
@@ -916,7 +964,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-f5c36895ac1a0c0d72190598",
@@ -939,7 +987,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-4dbd9611caaa57a7e201f1d1",
@@ -969,7 +1017,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 88.2
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-685781b1f1c3999f99d8381d",
@@ -994,7 +1042,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-04f4d7c9eb336a7a2051d437",
@@ -1019,7 +1067,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-6b6fd8d4190fc0fb188429b2",
@@ -1043,7 +1091,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-b08a19942f1821b16abe1ada",
@@ -1068,7 +1116,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-36cdf1cd8a7c62cb5b923a6f",
@@ -1095,7 +1143,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-f9e0fd65009a58b9f3a8c4f4",
@@ -1125,7 +1173,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-eeb234ccc9d9dccb364acfee",
@@ -1148,7 +1196,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-9f2274a920a92a7cc22a41e8",
@@ -1171,7 +1219,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-12d1a927ae2fa94c9066c23d",
@@ -1194,7 +1242,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-44d3c1343c019051192c68b1",
@@ -1217,7 +1265,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-1ce606b942cf6ab937f8033d",
@@ -1242,7 +1290,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 86.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-57c09dc8b6cd71b63f8d2548",
@@ -1265,7 +1313,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-9a13ef5967f67ab825bfe0e2",
@@ -1288,7 +1336,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-c777ac14db6839f8d4bf7a98",
@@ -1311,7 +1359,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-0d9cc6536901291dff13890d",
@@ -1334,7 +1382,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-0ca35ace08a07783294d69a5",
@@ -1357,7 +1405,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-25b15eb8a27b8dce44d3dee5",
@@ -1378,7 +1426,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-e913e6b3ff5c80ed13b43e8a",
@@ -1403,7 +1451,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-07e37df8b87cad4de6c838b9",
@@ -1428,7 +1476,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-213d993055ca7d5b35ef12e4",
@@ -1453,7 +1501,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-105d7deb1b11cdbb58be00d1",
@@ -1477,7 +1525,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.8
+    },
+    {
+      "id": "gdelt-3169df380cbf0fe374753b70",
+      "title": "Lens-PSG : le Trophée des Champions lance la saison sur Ligue 1+, et vous pouvez en profiter avec DAZN",
+      "summary": "Publication référencée chez leparisien.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.leparisien.fr/www.leparisien.fr/guide-shopping/tv-streaming/lens-psg-le-trophee-des-champions-lance-la-saison-sur-ligue-1-et-vous-pouvez-en-profiter-avec-dazn-16-08-2026-AX5NCKNRCZAU5JUUCUDIQ3FUTQ.php",
+      "imageURL": "https://www.leparisien.fr/resizer/y6i4cvDaJf37jREzt2Tt6Sqc3O0=/1600x900/cloudfront-eu-central-1.images.arcpublishing.com/lpguideshopping/FZ2MLLRXUZGKNN76JADZVQP4Z4.jpeg",
+      "publishedAt": "2026-08-16T04:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "leparisien.fr",
+        "name": "leparisien.fr",
+        "websiteURL": "https://leparisien.fr"
+      },
+      "teams": [
+        "psg",
+        "lens"
+      ],
+      "topics": [
+        "psg",
+        "lens",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-1f5a58fdd1417e08868b6b89",
@@ -1503,7 +1577,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-29ef0051c5b86dc03bb09eaf",
@@ -1524,7 +1598,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-2793c08e4350c93ad84f8cda",
@@ -1547,7 +1621,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-1cce54ab318a97706a689ab8",
@@ -1570,7 +1644,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-85c1182961f1faaf8e2adc2b",
@@ -1593,7 +1667,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-46505f3f9815ab59c0ba7e86",
@@ -1621,143 +1695,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
-    },
-    {
-      "id": "gdelt-0c2c0cd9a7beae1e1c7f29e1",
-      "title": "Le Bayern Munich finalise une vente à 250 M€",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7023800224935198204-le-bayern-munich-finalise-une-vente-a-250-meur",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/bayern-6a7ea5c852f0f.jpg",
-      "publishedAt": "2026-08-15T20:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bayern"
-      ],
-      "topics": [
-        "bayern"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.4
-    },
-    {
-      "id": "gdelt-de00ec00bf4b9b37cc21f88e",
-      "title": "PSG : un énorme mystère plane autour de la Coupe Intercontinentale 2026",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8069188859846600323-psg-un-enorme-mystere-plane-autour-de-la-coupe-intercontinentale-2026",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxbestof337590-1920x1080.jpg",
-      "publishedAt": "2026-08-15T20:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.4
-    },
-    {
-      "id": "gdelt-806865385156da83589aef18",
-      "title": "PSG : les premiers mots de Mika Godts",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8931071418320866984-psg-les-premiers-mots-de-mika-godts",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/godts.jpg",
-      "publishedAt": "2026-08-15T20:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.4
-    },
-    {
-      "id": "gdelt-a3f292c6d40fb8e60b2acb0f",
-      "title": "OM : le Torino a eu de nouveaux contacts très positifs avec Lucas Perri",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4229249547748952184-om-le-torino-a-eu-de-nouveaux-contacts-tres-positifs-avec-lucas-perri",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lucas-perri-68e4ca36e963e.jpg",
-      "publishedAt": "2026-08-15T20:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "torino"
-      ],
-      "topics": [
-        "torino"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.4
-    },
-    {
-      "id": "gdelt-f5d192a0f1a51863f48fedbe",
-      "title": "Bayern Munich : ça bouge dans tous les sens pour un indésirable",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1833020038820985112-bayern-munich-ca-bouge-dans-tous-les-sens-pour-un-indesirable",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joao-palhinha-2425.jpg",
-      "publishedAt": "2026-08-15T20:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bayern"
-      ],
-      "topics": [
-        "bayern"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.4
-    },
-    {
-      "id": "gdelt-4e636da253e2f4d18e2509d9",
-      "title": "Live Majorque - Valladolid (0-0) la 1re journée de LaLiga Hypermotion 2026/2027 15/08",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/1677107960871906060-majorque-vs-real-valladolid",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-7559796038175647966-709420746538926990.jpg",
-      "publishedAt": "2026-08-15T20:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "la-liga"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-bb95b9c373a5f2b1e7e18b3c",
@@ -1787,7 +1725,143 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85
+    },
+    {
+      "id": "gdelt-0c2c0cd9a7beae1e1c7f29e1",
+      "title": "Le Bayern Munich finalise une vente à 250 M€",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7023800224935198204-le-bayern-munich-finalise-une-vente-a-250-meur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/bayern-6a7ea5c852f0f.jpg",
+      "publishedAt": "2026-08-15T20:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "bayern"
+      ],
+      "topics": [
+        "bayern"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-de00ec00bf4b9b37cc21f88e",
+      "title": "PSG : un énorme mystère plane autour de la Coupe Intercontinentale 2026",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8069188859846600323-psg-un-enorme-mystere-plane-autour-de-la-coupe-intercontinentale-2026",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxbestof337590-1920x1080.jpg",
+      "publishedAt": "2026-08-15T20:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-806865385156da83589aef18",
+      "title": "PSG : les premiers mots de Mika Godts",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8931071418320866984-psg-les-premiers-mots-de-mika-godts",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/godts.jpg",
+      "publishedAt": "2026-08-15T20:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-a3f292c6d40fb8e60b2acb0f",
+      "title": "OM : le Torino a eu de nouveaux contacts très positifs avec Lucas Perri",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4229249547748952184-om-le-torino-a-eu-de-nouveaux-contacts-tres-positifs-avec-lucas-perri",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lucas-perri-68e4ca36e963e.jpg",
+      "publishedAt": "2026-08-15T20:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "torino"
+      ],
+      "topics": [
+        "torino"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-f5d192a0f1a51863f48fedbe",
+      "title": "Bayern Munich : ça bouge dans tous les sens pour un indésirable",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1833020038820985112-bayern-munich-ca-bouge-dans-tous-les-sens-pour-un-indesirable",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joao-palhinha-2425.jpg",
+      "publishedAt": "2026-08-15T20:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "bayern"
+      ],
+      "topics": [
+        "bayern"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-4e636da253e2f4d18e2509d9",
+      "title": "Live Majorque - Valladolid (0-0) la 1re journée de LaLiga Hypermotion 2026/2027 15/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/1677107960871906060-majorque-vs-real-valladolid",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-7559796038175647966-709420746538926990.jpg",
+      "publishedAt": "2026-08-15T20:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "la-liga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-0b8cb3dc4f7b67b04b1db512",
@@ -1819,7 +1893,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-d8bafd5c9bdd199e6e28c62f",
@@ -1843,7 +1917,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-78f6af9c09d0dfa65e8631b1",
@@ -1867,7 +1941,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-c30422e9c36cb80b36ab833f",
@@ -1890,7 +1964,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-c00687e98f602ac4744c6b5d",
@@ -1911,7 +1985,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-e2f1705912840a493ec33972",
@@ -1935,7 +2009,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-0920ec0814633d53f974a918",
@@ -1954,7 +2028,30 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 83.9
+    },
+    {
+      "id": "gdelt-71739d9b94134e8bbaaa6cd3",
+      "title": "Transferts : Olivier Sarr s'engage avec le Real Madrid pour son retour en Europe",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Basket/Actualites/Transferts-olivier-sarr-s-engage-avec-le-real-madrid-pour-son-retour-en-europe/1711157",
+      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/olivier-sarr-ici-en-2024-mingasson-gilles-l-equipe/1500000002553622/220:112,1997:1297-1200-800-75/a18ab.jpg",
+      "publishedAt": "2026-08-15T12:31:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-d48360d57c8cf170a03b010c",
@@ -1983,30 +2080,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
-    },
-    {
-      "id": "gdelt-71739d9b94134e8bbaaa6cd3",
-      "title": "Transferts : Olivier Sarr s'engage avec le Real Madrid pour son retour en Europe",
-      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lequipe.fr/Basket/Actualites/Transferts-olivier-sarr-s-engage-avec-le-real-madrid-pour-son-retour-en-europe/1711157",
-      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/olivier-sarr-ici-en-2024-mingasson-gilles-l-equipe/1500000002553622/220:112,1997:1297-1200-800-75/a18ab.jpg",
-      "publishedAt": "2026-08-15T12:31:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "lequipe.fr",
-        "name": "lequipe.fr",
-        "websiteURL": "https://lequipe.fr"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-1dc9e59594fe4803885a4c54",
@@ -2027,7 +2101,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-c0b981793a751f8b74bd3273",
@@ -2050,7 +2124,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-34841cd6502f030c65602e99",
@@ -2073,7 +2147,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-9d2b7d99c4c98dc34bf5de86",
@@ -2096,7 +2170,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-f58298731b1cbafebbf9c4df",
@@ -2119,7 +2193,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-c8c663321bfa35e57c3c070b",
@@ -2142,7 +2216,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-9df66ae8adfe022c7a9dc19c",
@@ -2165,30 +2239,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-f135238d5e85d7627fa02981",
-      "title": "Hull City officialise l'arrivée de Lucas Gourna-Douath",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5831001355532439607-hull-city-officialise-larrivee-de-lucas-gourna-douath",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo482966-1920x1080.jpg",
-      "publishedAt": "2026-08-15T11:46:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "hull"
-      ],
-      "topics": [
-        "hull"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-e99365602143a550aea9f9f2",
@@ -2212,7 +2263,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-cec23897996345c6e9896182",
@@ -2236,7 +2287,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.5
+    },
+    {
+      "id": "gdelt-f135238d5e85d7627fa02981",
+      "title": "Hull City officialise l'arrivée de Lucas Gourna-Douath",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5831001355532439607-hull-city-officialise-larrivee-de-lucas-gourna-douath",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo482966-1920x1080.jpg",
+      "publishedAt": "2026-08-15T11:46:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "hull"
+      ],
+      "topics": [
+        "hull"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-1023e44f047a3f341775da97",
@@ -2265,7 +2339,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 83.1
     },
     {
       "id": "gdelt-b3ea48f9285ff1f0de6bd426",
@@ -2292,7 +2366,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 82.8
     },
     {
       "id": "gdelt-ffce518e3fc2bf7e61040bef",
@@ -2316,7 +2390,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-8a28ec869fbd6ca5ee23f0db",
@@ -2339,7 +2413,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.7
+      "qualityScore": 82.3
     },
     {
       "id": "gdelt-14369dca558ee9ced8e81b82",
@@ -2362,78 +2436,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.6
-    },
-    {
-      "id": "gdelt-ee7096e4a99b3d61a2f255df",
-      "title": "Chelsea : Enzo Fernández est de retour !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4173172330366439263-chelsea-enzo-fernandez-est-de-retour",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/enzo-fernandez-2526-6a350366cbc8f.jpg",
-      "publishedAt": "2026-08-15T15:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "chelsea"
-      ],
-      "topics": [
-        "chelsea"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.6
-    },
-    {
-      "id": "gdelt-5bd770e9139f0a036a8c3c62",
-      "title": "Arsenal : Mikel Arteta ouvre la porte à une prolongation",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7040371460312354659-arsenal-mikel-arteta-ouvre-la-porte-a-une-prolongation",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mikel-arteta-2425.jpg",
-      "publishedAt": "2026-08-15T15:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "arsenal"
-      ],
-      "topics": [
-        "arsenal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.6
-    },
-    {
-      "id": "gdelt-abcfe8d719cabb675db9c9d9",
-      "title": "Live Bayern Munich - Leipzig (3-1) Club Friendlies 1 de Amicaux Club 2026 15/08",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/7144560354171586211-bayern-munich-vs-rb-leipzig",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-6949918215573284716-806488548379509524.jpg",
-      "publishedAt": "2026-08-15T15:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bayern"
-      ],
-      "topics": [
-        "bayern"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.6
+      "qualityScore": 82.2
     }
   ],
-  "generatedAt": "2026-08-16T04:01:41.882Z",
+  "generatedAt": "2026-08-16T04:52:08.824Z",
   "stale": false
 }
