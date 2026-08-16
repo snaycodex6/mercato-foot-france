@@ -25,7 +25,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 101.8
+      "qualityScore": 101.6
     },
     {
       "id": "gdelt-8b3061b73f577a05d498aab9",
@@ -52,7 +52,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100.1
+      "qualityScore": 99.9
     },
     {
       "id": "gdelt-be699424acce0a5f88818045",
@@ -75,7 +75,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.9
+      "qualityScore": 96.7
     },
     {
       "id": "gdelt-0fafdef23f8f9764c003c966",
@@ -102,7 +102,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 95.9
     },
     {
       "id": "gdelt-9ee56401bd5a68453137ac16",
@@ -127,7 +127,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
+      "qualityScore": 95.2
     },
     {
       "id": "gdelt-5470fd0e340b756a8aa4b50f",
@@ -152,7 +152,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 95
     },
     {
       "id": "gdelt-98fa9af7e006d956205ffe29",
@@ -175,7 +175,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 95
     },
     {
       "id": "gdelt-6cd8254f2919511577b13027",
@@ -200,7 +200,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 94.9
     },
     {
       "id": "gdelt-1799ac96926711a15a614de0",
@@ -225,7 +225,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.8
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-8d80543ece28a6e74ac73465",
@@ -250,7 +250,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.5
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-6e804d67d1ac31bde95ee53a",
@@ -275,7 +275,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94.1
     },
     {
       "id": "gdelt-6f83e27f947fe32213880ceb",
@@ -300,7 +300,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94
+      "qualityScore": 93.8
     },
     {
       "id": "gdelt-8c67732ac99785cbc1b990d6",
@@ -324,7 +324,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-ec69a2e7f08216175e606b0f",
@@ -348,7 +348,57 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 93.6
+    },
+    {
+      "id": "gdelt-a09f9e3b706bcc6ece6890c1",
+      "title": "Trophée des Champions : Zinedine Zidane présent à Bollaert pour Lens-PSG",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7771108236668111005-trophee-des-champions-zinedine-zidane-present-a-bollaert-pour-lens-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine237567-1920x1080.jpg",
+      "publishedAt": "2026-08-16T18:51:04.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "lens"
+      ],
+      "topics": [
+        "psg",
+        "lens"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
+    },
+    {
+      "id": "gdelt-49ef31b8a3d3209e9040e44d",
+      "title": "PSG : plusieurs supporters parisiens finalement présents à Lens",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3939488831231462419-psg-plusieurs-supporters-parisiens-finalement-presents-a-lens",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/supp-psg.jpg",
+      "publishedAt": "2026-08-16T18:33:13.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "lens"
+      ],
+      "topics": [
+        "psg",
+        "lens"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-1768ca7a2b82a467fe974bed",
@@ -373,7 +423,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-0451609826878f735c73384a",
@@ -399,7 +449,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-3edaa9ba1609287e2ee19549",
@@ -424,7 +474,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 92
     },
     {
       "id": "gdelt-5e5a7d2d26511dfb43d4ae98",
@@ -449,7 +499,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 92
     },
     {
       "id": "gdelt-7857f7b3fff52820112d065c",
@@ -474,7 +524,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-f34d8110a55bd17b42d97f00",
@@ -499,7 +549,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-c2c980be476ed136b5752f91",
@@ -522,7 +572,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-70952ea5fabd4008d1984eb9",
@@ -547,7 +597,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-1757bf5d448be679be87d63a",
@@ -572,7 +622,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-863c8ea981e8d73ca3feaace",
@@ -597,7 +647,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-df5cfeb5144dee08c9e2f76e",
@@ -622,7 +672,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-52034b52851323ef35751d3e",
@@ -647,7 +697,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-62ebc6c7c77552061906fdc1",
@@ -672,7 +722,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-92545b9dc0c77fd89c811228",
@@ -697,7 +747,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-52dc750f51bbe9a4661198e8",
@@ -721,7 +771,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-b9d17a543c3957517b91ad08",
@@ -746,7 +796,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-7d532e96736cf90e53721105",
@@ -769,7 +819,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-4d3a31baca7bf4c12749d3c7",
@@ -793,7 +843,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-ef5ea1acc636a315f1271471",
@@ -818,7 +868,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 91
     },
     {
       "id": "gdelt-2ff3271020573af367b7ebcd",
@@ -843,7 +893,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.9
     },
     {
       "id": "gdelt-c9f3cd41021fa7f7780bca3e",
@@ -866,7 +916,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-3b9d9c1df97ba9de87b8d920",
@@ -891,7 +941,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-949c7926651023376de33455",
@@ -915,7 +965,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-549ca24ccc114400c4f5fb2a",
@@ -940,7 +990,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-292e1be23722b2a865fd1429",
@@ -965,7 +1015,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-050160a4a8d19f9385ff108a",
@@ -990,7 +1040,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 90
     },
     {
       "id": "gdelt-bd11a3d52758f8fafe166a36",
@@ -1012,7 +1062,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 90
     },
     {
       "id": "gdelt-b6d1894bcfbaca44b1ea1f17",
@@ -1037,7 +1087,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 90
     },
     {
       "id": "gdelt-328db9bae09e952ed45b7e6c",
@@ -1062,7 +1112,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 90
     },
     {
       "id": "gdelt-44a4f885422cc19df961d152",
@@ -1084,7 +1134,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 90
     },
     {
       "id": "gdelt-f108eee5c3482b24fedae79f",
@@ -1109,7 +1159,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-de81848153877bed023ac602",
@@ -1135,7 +1185,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-cb928e915d46a3496676e5cd",
@@ -1162,7 +1212,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-e222c33a47a36ee8b5d56775",
@@ -1194,7 +1244,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 89.6
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-a25a64d1b04bd593ce51d69d",
@@ -1222,7 +1272,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-5ee35f4521301e190b4aed4b",
@@ -1252,7 +1302,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-05ba4c5454fcfb826c640b89",
@@ -1278,7 +1328,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-7bb0d3e596c4cded1674dac9",
@@ -1301,7 +1351,53 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 89
+    },
+    {
+      "id": "gdelt-faf83174110eccef403831fd",
+      "title": "Rodri va rejoindre le FC Barcelone pour 65 M€",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7294521354497796574-rodri-va-rejoindre-le-fc-barcelone-pour-65-meur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rodri-2526.jpg",
+      "publishedAt": "2026-08-16T18:48:05.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-c7ef04d30098282d473110c4",
+      "title": "Khvicha Kvaratskhelia allume la première mèche, le PSG cherche la faille !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3813250270850243898-suivez-la-rencontre-lens-paris-saint-germain-en-direct-commente",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kvicha-6a7d84f6bf7f5.jpg",
+      "publishedAt": "2026-08-16T18:35:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-b8bac4f89b99c955b4e5f302",
@@ -1324,7 +1420,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-12b37ed03a397f657dc3470b",
@@ -1348,7 +1444,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-327ba695116319da3fdd30a6",
@@ -1371,7 +1467,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-3ec967a65b895a8e11677b9b",
@@ -1396,7 +1492,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-0d8806d5ef7f49b061e534d7",
@@ -1420,7 +1516,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-b00751cc708b2e73577c0ffd",
@@ -1444,7 +1540,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-60f3662972d12ec7c17eccc1",
@@ -1467,7 +1563,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-dcf3762215245dd8bde07a60",
@@ -1490,7 +1586,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-c34f3fd136ad907df560406f",
@@ -1513,7 +1609,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-b75770e9f8df3f5e103bbfb5",
@@ -1536,7 +1632,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-3383febbb31772d067e0b386",
@@ -1559,7 +1655,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-f721432988745f0d44c1b7c7",
@@ -1582,7 +1678,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-71d6b5c5dee6e10fb5291f54",
@@ -1605,7 +1701,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-fd3f79cb8559cc90b46de69a",
@@ -1631,7 +1727,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-7e1f4bf0c327c2e8a4ae48e9",
@@ -1656,7 +1752,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-64604a55bda9208f7f278972",
@@ -1679,7 +1775,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-772b6f92cd7da587dc7247a8",
@@ -1702,7 +1798,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-7c47c05cf79c6b4a9fcf0ede",
@@ -1725,7 +1821,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-4f4ba1926d2afd11f23bf397",
@@ -1753,7 +1849,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-b13ffea4e42a64c41c4676a2",
@@ -1776,7 +1872,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-1acae528b37c8d27ec1b22ad",
@@ -1801,7 +1897,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-438a7fa8cdac0f98e22d8fc0",
@@ -1822,7 +1918,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-bb84629051963c29359d56f2",
@@ -1843,7 +1939,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-ef177704fe62fda7df439034",
@@ -1866,7 +1962,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-dfa64664cc3f88d99b872a23",
@@ -1889,7 +1985,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-02e9b7c390f14fd74b8bddd2",
@@ -1910,7 +2006,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-c150c3a214e68db55d3af105",
@@ -1933,7 +2029,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-763048913f87d605a0af980a",
@@ -1956,7 +2052,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-1fa281c4b05192953ec9f428",
@@ -1979,7 +2075,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-c606e53dbab74ec10d29c52e",
@@ -2002,7 +2098,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-7a36fd53cc33cb647b91cc47",
@@ -2025,7 +2121,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-137baa90712d7abd15097b32",
@@ -2046,7 +2142,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-7b8ff48918b1ce24a64db6d5",
@@ -2069,7 +2165,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-8f9a2bd57bec4e763a7250f4",
@@ -2094,7 +2190,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-ff4f491a302e83b9b747f4d0",
@@ -2119,7 +2215,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-dd3ae92b0d09d9d108fe11bf",
@@ -2145,7 +2241,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-d68be0efa8b1aab3da229355",
@@ -2171,7 +2267,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-0440cfe797993608208d11ce",
@@ -2196,7 +2292,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-899e30dcc68edee9d6ab93f9",
@@ -2215,7 +2311,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 85
     },
     {
       "id": "gdelt-fa47bddb79d79a81d1a1aab7",
@@ -2238,7 +2334,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 85
     },
     {
       "id": "gdelt-ce07e5355ca1a5331ec9060b",
@@ -2262,7 +2358,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-10a7be190ff1a4a0858f2be6",
@@ -2286,7 +2382,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-65f23057eeaf8df706d3a18e",
@@ -2312,7 +2408,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-806b48466fc94b446baa03b9",
@@ -2335,99 +2431,9 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-adb8395bee80c29ffd6c77b5",
-      "title": "Un ancien coach de Ligue 1 futur sélectionneur de l'Écosse ?",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/un-ancien-coach-de-ligue-1-futur-selectionneur-de-lecosse-953451",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953451/388416/1200-L-un-ancien-coach-de-ligue-1-futur-slectionneur-de-l-cosse.jpg",
-      "publishedAt": "2026-08-16T09:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-b720a8a5c1b3411e57e92847",
-      "title": "Ligue 3 : « Avancer et prendre confiance », Laurent Peyrelade (Bastia) réagit au succès à Aubagne",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-3-avancer-et-prendre-confiance-laurent-peyrelade-bastia-reagit-au-succes-a-aubagne-953410",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953410/388396/1200-L-ligue-3-avancer-et-prendre-confiance-laurent-peyrelade-bastia-ragit-au-succs-aubagne.jpg",
-      "publishedAt": "2026-08-16T09:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 84.5
-    },
-    {
-      "id": "gdelt-50065e4e7d197af51c1dfc9e",
-      "title": "Community Shield : premier trophée pour Arsenal qui s'offre Manchester City avec la manière",
-      "summary": "Publication référencée chez rtbf.be. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.rtbf.be/article/community-shield-premier-trophee-pour-arsenal-qui-s-offre-manchester-city-avec-la-maniere-11771119",
-      "imageURL": "https://static-content.rtbf.be/article/image/1920x1080/5/b/3/f69d77672053b12c56323adaddc81c15.jpg",
-      "publishedAt": "2026-08-16T17:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "rtbf.be",
-        "name": "rtbf.be",
-        "websiteURL": "https://rtbf.be"
-      },
-      "teams": [
-        "man-city",
-        "arsenal"
-      ],
-      "topics": [
-        "man-city",
-        "arsenal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-ad9b66564ff8d6fe7051740f",
-      "title": "Al-Hilal pense à rompre le contrat de Karim Benzema !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a13271577245349526-al-hilal-pense-a-rompre-le-contrat-de-karim-benzema",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/benzema-jog31urzjf8t78eaiu1aajxiew.jpeg",
-      "publishedAt": "2026-08-16T09:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "al-hilal"
-      ],
-      "topics": [
-        "al-hilal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.3
     }
   ],
-  "generatedAt": "2026-08-16T18:40:50.238Z",
+  "generatedAt": "2026-08-16T19:04:52.462Z",
   "stale": false
 }
