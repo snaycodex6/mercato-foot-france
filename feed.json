@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "gdelt-3d452019532db769b502ec2d",
+      "title": "Ligue 1 : départ imminent à Toulouse pour la Premier League, le Paris FC inquiète avant la reprise",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-1-depart-imminent-a-toulouse-le-paris-fc-inquiete-avant-la-reprise-953491",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953491/388433/1200-L-ligue-1-dpart-imminent-toulouse-pour-la-premier-league-le-paris-fc-inquite-avant-la-reprise.jpg",
+      "publishedAt": "2026-08-16T14:16:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "toulouse",
+        "paris-fc"
+      ],
+      "topics": [
+        "toulouse",
+        "paris-fc",
+        "ligue-1",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 103.8
+    },
+    {
       "id": "gdelt-98fa9af7e006d956205ffe29",
       "title": "SPL : Al-Ittihad annonce une recrue… à la mi-temps",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
@@ -21,7 +48,80 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.5
+      "qualityScore": 97.2
+    },
+    {
+      "id": "gdelt-8c67732ac99785cbc1b990d6",
+      "title": "OM : Aguerd clarifie son départ avorté, un défenseur international français se rapproche de Marseille",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/om-aguerd-clarifie-son-depart-avorte-un-defenseur-international-francais-se-rapproche-de-marseille-953475",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953475/388427/1200-L-om-aguerd-clarifie-son-dpart-avort-un-dfenseur-franais-de-premier-league-se-rapproche-de-marseille.jpg",
+      "publishedAt": "2026-08-16T14:17:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "om"
+      ],
+      "topics": [
+        "om",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.8
+    },
+    {
+      "id": "gdelt-ec69a2e7f08216175e606b0f",
+      "title": "Ligue 2 : « Tant que je serai là, je donnerai le maximum », Jessy Deminguet (Metz) n'exclut pas un départ",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-2-tant-que-je-serai-la-je-donnerai-le-maximum-jessy-deminguet-metz-nexclut-pas-un-depart-953464",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953464/388422/1200-L-ligue-2-tant-que-je-serai-l-je-donnerai-le-maximum-jessy-deminguet-metz-nexclut-pas-un-dpart.jpg",
+      "publishedAt": "2026-08-16T14:17:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "metz"
+      ],
+      "topics": [
+        "metz",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.8
+    },
+    {
+      "id": "gdelt-1799ac96926711a15a614de0",
+      "title": "Mercato : le Real Madrid et le FC Barcelone songent encore à recruter le même joueur",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1210170642433936878-mercato-le-real-madrid-et-le-fc-barcelone-songent-encore-a-recruter-le-meme-joueur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jorge-mendes-ansu-fati.jpg",
+      "publishedAt": "2026-08-16T14:01:16.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "topics": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.7
     },
     {
       "id": "gdelt-0451609826878f735c73384a",
@@ -47,7 +147,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-f34d8110a55bd17b42d97f00",
@@ -72,7 +172,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.2
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-92545b9dc0c77fd89c811228",
@@ -97,7 +197,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.9
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-52dc750f51bbe9a4661198e8",
@@ -121,7 +221,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.9
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-b9d17a543c3957517b91ad08",
@@ -146,7 +246,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-4d3a31baca7bf4c12749d3c7",
@@ -170,7 +270,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-ef5ea1acc636a315f1271471",
@@ -195,7 +295,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 93.2
     },
     {
       "id": "gdelt-2ff3271020573af367b7ebcd",
@@ -220,7 +320,81 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.4
+      "qualityScore": 93.1
+    },
+    {
+      "id": "gdelt-3b9d9c1df97ba9de87b8d920",
+      "title": "Trophée des Champions : le PSG dévoile son groupe pour défier Lens avec un absent de taille",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/trophee-des-champions-le-psg-devoile-son-groupe-pour-defier-lens-avec-un-absent-de-taille-953481",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953481/388429/1200-L-trophe-des-champions-le-psg-dvoile-son-groupe-pour-dfier-lens-avec-un-absent-de-taille.jpg",
+      "publishedAt": "2026-08-16T14:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "lens"
+      ],
+      "topics": [
+        "psg",
+        "lens"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-949c7926651023376de33455",
+      "title": "National 2 : retournement de situation pour Romain Ferrier (OM), finalement détenteur du BEPF",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/national-2-retournement-de-situation-pour-romain-ferrier-om-finalement-detenteur-du-bepf-953467",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953467/388423/1200-L-national-2-retournement-de-situation-pour-romain-ferrier-om-finalement-dtenteur-du-bepf.jpg",
+      "publishedAt": "2026-08-16T14:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "roma"
+      ],
+      "topics": [
+        "roma",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-1757bf5d448be679be87d63a",
+      "title": "Liga : pourquoi le Barça et le Real Madrid vont manquer la première journée",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a795443754552000873-liga-pourquoi-le-barca-et-le-real-madrid-vont-manquer-la-premiere-journee",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/realmadridferencvaros.jpg",
+      "publishedAt": "2026-08-16T14:02:03.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "topics": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-549ca24ccc114400c4f5fb2a",
@@ -245,7 +419,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-292e1be23722b2a865fd1429",
@@ -270,7 +444,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-52034b52851323ef35751d3e",
@@ -295,7 +469,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 92.4
     },
     {
       "id": "gdelt-050160a4a8d19f9385ff108a",
@@ -320,7 +494,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-bd11a3d52758f8fafe166a36",
@@ -342,7 +516,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-b6d1894bcfbaca44b1ea1f17",
@@ -367,7 +541,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-328db9bae09e952ed45b7e6c",
@@ -392,7 +566,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-44a4f885422cc19df961d152",
@@ -414,7 +588,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-f108eee5c3482b24fedae79f",
@@ -439,7 +613,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 92
     },
     {
       "id": "gdelt-de81848153877bed023ac602",
@@ -465,7 +639,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-cb928e915d46a3496676e5cd",
@@ -492,7 +666,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-a25a64d1b04bd593ce51d69d",
@@ -520,7 +694,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-5ee35f4521301e190b4aed4b",
@@ -550,7 +724,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-05ba4c5454fcfb826c640b89",
@@ -576,7 +750,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-7bb0d3e596c4cded1674dac9",
@@ -599,7 +773,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-12b37ed03a397f657dc3470b",
@@ -623,7 +797,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-3ec967a65b895a8e11677b9b",
@@ -648,7 +822,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-0d8806d5ef7f49b061e534d7",
@@ -672,7 +846,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-b00751cc708b2e73577c0ffd",
@@ -696,7 +870,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-71d6b5c5dee6e10fb5291f54",
@@ -719,7 +893,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-fd3f79cb8559cc90b46de69a",
@@ -745,7 +919,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-7e1f4bf0c327c2e8a4ae48e9",
@@ -770,7 +944,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-64604a55bda9208f7f278972",
@@ -793,7 +967,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-772b6f92cd7da587dc7247a8",
@@ -816,30 +990,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 89
     },
     {
-      "id": "gdelt-b13ffea4e42a64c41c4676a2",
-      "title": "Mercato PSG : Le Paris Saint-Germain recrute Mika Godts (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-psg-le-paris-saint-germain-recrute-mika-godts-officiel-534849.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260802165355-2272.jpg",
-      "publishedAt": "2026-08-15T20:09:00.000Z",
-      "category": "transfers",
+      "id": "gdelt-7c47c05cf79c6b4a9fcf0ede",
+      "title": "Foot Amateur : « Fier de l'état d'esprit des joueurs », assure Romain Philippoteaux (Sedan) après le match nul contre l'OCPAM",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/foot-amateur/foot-amateur-fier-de-letat-desprit-des-joueurs-assure-romain-philippoteaux-sedan-apres-le-match-nul-contre-locpam-953474",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953474/388426/1200-L-foot-amateur-fier-de-ltat-desprit-des-joueurs-assure-romain-philippoteaux-sedan-aprs-le-match-nul-contre-l-ocpam.jpg",
+      "publishedAt": "2026-08-16T14:16:00.000Z",
+      "category": "news",
       "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
       },
       "teams": [
-        "psg"
+        "roma"
       ],
       "topics": [
-        "psg"
+        "roma"
       ],
-      "reliability": "confirmed",
+      "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-4f4ba1926d2afd11f23bf397",
@@ -867,7 +1041,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-b13ffea4e42a64c41c4676a2",
+      "title": "Mercato PSG : Le Paris Saint-Germain recrute Mika Godts (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-psg-le-paris-saint-germain-recrute-mika-godts-officiel-534849.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260802165355-2272.jpg",
+      "publishedAt": "2026-08-15T20:09:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-1acae528b37c8d27ec1b22ad",
@@ -892,7 +1089,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-438a7fa8cdac0f98e22d8fc0",
@@ -913,7 +1110,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-f721432988745f0d44c1b7c7",
@@ -936,7 +1133,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-bb84629051963c29359d56f2",
@@ -957,7 +1154,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-ef177704fe62fda7df439034",
@@ -980,7 +1177,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-dfa64664cc3f88d99b872a23",
@@ -1003,7 +1200,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-02e9b7c390f14fd74b8bddd2",
@@ -1024,7 +1221,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-c150c3a214e68db55d3af105",
@@ -1047,7 +1244,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-763048913f87d605a0af980a",
@@ -1070,7 +1267,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-1fa281c4b05192953ec9f428",
@@ -1093,7 +1290,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-c606e53dbab74ec10d29c52e",
@@ -1116,7 +1313,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-7a36fd53cc33cb647b91cc47",
@@ -1139,7 +1336,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-137baa90712d7abd15097b32",
@@ -1160,7 +1357,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-7b8ff48918b1ce24a64db6d5",
@@ -1183,7 +1380,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-8f9a2bd57bec4e763a7250f4",
@@ -1208,7 +1405,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-ff4f491a302e83b9b747f4d0",
@@ -1233,7 +1430,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-dd3ae92b0d09d9d108fe11bf",
@@ -1259,7 +1456,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-d68be0efa8b1aab3da229355",
@@ -1285,7 +1482,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-0440cfe797993608208d11ce",
@@ -1310,7 +1507,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-899e30dcc68edee9d6ab93f9",
@@ -1329,7 +1526,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-fa47bddb79d79a81d1a1aab7",
@@ -1352,7 +1549,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-ce07e5355ca1a5331ec9060b",
@@ -1376,7 +1573,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 87
     },
     {
       "id": "gdelt-10a7be190ff1a4a0858f2be6",
@@ -1400,7 +1597,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-65f23057eeaf8df706d3a18e",
@@ -1426,7 +1623,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-806b48466fc94b446baa03b9",
@@ -1449,7 +1646,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-adb8395bee80c29ffd6c77b5",
@@ -1470,7 +1667,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-b720a8a5c1b3411e57e92847",
@@ -1491,7 +1688,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-ad9b66564ff8d6fe7051740f",
@@ -1514,7 +1711,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-508427f9d2013342831edffb",
@@ -1537,7 +1734,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-e79ab498a178fb652dc90e1d",
@@ -1560,7 +1757,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-b5c3b29127f3ac0fed1c9ccc",
@@ -1583,7 +1780,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-d01d6b2fe8e900f36466eec5",
@@ -1607,7 +1804,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-320e80d58a3d82589c28091f",
@@ -1633,7 +1830,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-efd0135db186fd8b533ca5e0",
@@ -1659,7 +1856,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-13bc7ec0a105de61bfe9dd00",
@@ -1682,7 +1879,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-43915bcdfa7163b87784d346",
@@ -1705,7 +1902,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-c6fa0b4214419035cf6d2eaf",
@@ -1728,7 +1925,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-5139f03e4bc89dd2313c316f",
@@ -1752,7 +1949,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-c3c0e74315eeaf4499fc49b1",
@@ -1775,7 +1972,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-46ee19340d9f49cd9795852f",
@@ -1800,7 +1997,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-33e302de7cff87e64be395cf",
@@ -1825,7 +2022,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.5
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-40b99c1b3519b7ce572ffebe",
@@ -1848,7 +2045,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 84
     },
     {
       "id": "gdelt-241ca52813361f14f4c5d14e",
@@ -1873,7 +2070,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 84
     },
     {
       "id": "gdelt-98c3f7f28d327270710cb89c",
@@ -1897,7 +2094,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-5766b5b2722940b6630e1606",
@@ -1922,7 +2119,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-752cfc7f7a43557fecc04020",
@@ -1946,7 +2143,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-abae9fb7e2934c63389f885b",
@@ -1969,7 +2166,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-89144c094bb14d810f1eb647",
@@ -1992,7 +2189,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-ee05eb4ec2102d893f27ce96",
@@ -2017,7 +2214,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-f5c36895ac1a0c0d72190598",
@@ -2040,7 +2237,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.4
+      "qualityScore": 83
     },
     {
       "id": "gdelt-440c899d43ea09585f18117e",
@@ -2065,7 +2262,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 83.2
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-4dbd9611caaa57a7e201f1d1",
@@ -2095,7 +2292,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 83.2
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-685781b1f1c3999f99d8381d",
@@ -2120,7 +2317,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.1
+      "qualityScore": 82.8
     },
     {
       "id": "gdelt-04f4d7c9eb336a7a2051d437",
@@ -2145,7 +2342,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.1
+      "qualityScore": 82.8
     },
     {
       "id": "gdelt-6b6fd8d4190fc0fb188429b2",
@@ -2169,7 +2366,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.1
+      "qualityScore": 82.8
     },
     {
       "id": "gdelt-871902b62a98eab1d91ef872",
@@ -2188,7 +2385,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-b08a19942f1821b16abe1ada",
@@ -2213,206 +2410,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.8
-    },
-    {
-      "id": "gdelt-36cdf1cd8a7c62cb5b923a6f",
-      "title": "Le Bayern Munich prévient Aston Villa pour Paulhinha",
-      "summary": "Publication référencée chez mercatofootanglais.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://mercatofootanglais.com/le-bayern-munich-previent-aston-villa-pour-paulhinha/",
-      "imageURL": "https://mercatofootanglais.com/wp-content/uploads/2026/05/palhinha-tottenham-scaled-e1780374643944.jpg",
-      "publishedAt": "2026-08-15T09:34:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "mercatofootanglais.com",
-        "name": "mercatofootanglais.com",
-        "websiteURL": "https://mercatofootanglais.com"
-      },
-      "teams": [
-        "bayern",
-        "aston-villa",
-        "pau"
-      ],
-      "topics": [
-        "bayern",
-        "aston-villa",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.8
-    },
-    {
-      "id": "gdelt-f9e0fd65009a58b9f3a8c4f4",
-      "title": "Ligue 2 : l'ASSE et Annecy parfaits, Nantes douché sur le gong, Montpellier victorieux…",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-2-lasse-et-annecy-parfaits-nantes-douche-sur-le-gong-montpellier-victorieux-953381",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953381/388379/1200-L-ligue-2-lasse-et-annecy-parfaits-nantes-douch-sur-le-gong-montpellier-victorieux.jpg",
-      "publishedAt": "2026-08-15T01:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "nantes",
-        "montpellier",
-        "saint-etienne",
-        "annecy"
-      ],
-      "topics": [
-        "nantes",
-        "montpellier",
-        "saint-etienne",
-        "annecy",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.5
-    },
-    {
-      "id": "gdelt-eeb234ccc9d9dccb364acfee",
-      "title": "OM : la mise au point de Nayef Aguerd sur son transfert avorté à la Real Sociedad",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3026755635948227593-om-la-mise-au-point-de-nayef-aguerd-sur-son-transfert-avorte-a-la-sociedad",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/aguerd-om.jpg",
-      "publishedAt": "2026-08-15T18:16:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-sociedad"
-      ],
-      "topics": [
-        "real-sociedad"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.1
-    },
-    {
-      "id": "gdelt-9f2274a920a92a7cc22a41e8",
-      "title": "Djed Spence confirme son départ de Tottenham",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3886904856705510243-djed-spence-confirme-son-depart-de-tottenham",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/djed-spence-2425.jpg",
-      "publishedAt": "2026-08-15T18:16:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "tottenham"
-      ],
-      "topics": [
-        "tottenham"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.1
-    },
-    {
-      "id": "gdelt-12d1a927ae2fa94c9066c23d",
-      "title": "Un club inattendu fonce sur Zion Suzuki après l'échec de son transfert au PSG !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4664490585498363853-un-club-inattendu-fonce-sur-zion-suzuki-apres-lechec-de-son-transfert-au-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/suzuki.jpg",
-      "publishedAt": "2026-08-15T18:16:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.1
-    },
-    {
-      "id": "gdelt-44d3c1343c019051192c68b1",
-      "title": "Étranger : sollicité par les plus grands clubs européens, Jules Koundé (FC Barcelone) a pris sa décision",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/equipe-de-france/etranger-sollicite-par-les-plus-grands-clubs-europeens-jules-kounde-fc-barcelone-a-pris-sa-decision-953332",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953332/388358/1200-L-tranger-sollicit-par-les-plus-grands-clubs-europens-jules-kound-fc-barcelone-a-pris-sa-dcision.jpg",
-      "publishedAt": "2026-08-16T00:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82
-    },
-    {
-      "id": "gdelt-1ce606b942cf6ab937f8033d",
-      "title": "Everton-LOSC (1-1) : Les Dogues sont prêts pour la reprise",
-      "summary": "Publication référencée chez losc.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.losc.fr/actualites/2026-08-14/everton-losc-le-compte-rendu",
-      "imageURL": null,
-      "publishedAt": "2026-08-15T19:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "losc.fr",
-        "name": "losc.fr",
-        "websiteURL": "https://losc.fr"
-      },
-      "teams": [
-        "lille",
-        "everton"
-      ],
-      "topics": [
-        "lille",
-        "everton"
-      ],
-      "reliability": "reported",
-      "sourceTier": "official",
-      "qualityScore": 81.9
-    },
-    {
-      "id": "gdelt-57c09dc8b6cd71b63f8d2548",
-      "title": "Résultat M'gladbach - Aston Villa (2-1) Club Friendlies 3 de Amicaux Club 2026 15/08",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/2052920394293143921-borussia-mgladbach-vs-aston-villa",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-8146303780572837163-1257484590666245874.jpg",
-      "publishedAt": "2026-08-15T23:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "aston-villa"
-      ],
-      "topics": [
-        "aston-villa"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.7
+      "qualityScore": 82.4
     }
   ],
-  "generatedAt": "2026-08-16T14:02:01.968Z",
+  "generatedAt": "2026-08-16T14:41:46.228Z",
   "stale": false
 }
