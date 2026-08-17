@@ -23,7 +23,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99.9
+      "qualityScore": 99.3
     },
     {
       "id": "gdelt-da552c6f6d82c42376697315",
@@ -49,7 +49,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.3
+      "qualityScore": 98.7
     },
     {
       "id": "gdelt-8c5f55d8417ad844e9c6c932",
@@ -76,7 +76,60 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 97.8
+      "qualityScore": 97.2
+    },
+    {
+      "id": "gdelt-357153367d1984027577d491",
+      "title": "Strasbourg : le Racing casse sa tirelire pour un jeune attaquant du Real Madrid",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/strasbourg-le-racing-casse-sa-tirelire-pour-un-jeune-attaquant-du-real-madrid-953555",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953555/388464/1200-L-strasbourg-le-racing-enrle-un-jeune-attaquant-du-real-madrid.jpg",
+      "publishedAt": "2026-08-17T14:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "strasbourg",
+        "real-madrid",
+        "saint-etienne"
+      ],
+      "topics": [
+        "strasbourg",
+        "real-madrid",
+        "saint-etienne"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.6
+    },
+    {
+      "id": "gdelt-17d44f681a5a6e70d1a7a438",
+      "title": "OM : un gardien de Serie A proposé à Marseille, la Juve boucle son dossier Vicario",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/om/om-un-gardien-de-serie-a-propose-a-marseille-la-juve-boucle-son-dossier-vicario-997028",
+      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997028/406628/1200-L-om-un-gardien-de-serie-a-propos-marseille-la-juve-boucle-son-dossier-vicario.jpg",
+      "publishedAt": "2026-08-17T14:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "om",
+        "juventus"
+      ],
+      "topics": [
+        "om",
+        "juventus",
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.5
     },
     {
       "id": "gdelt-a0e17a0e7c297240d55489dd",
@@ -103,7 +156,57 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.9
+      "qualityScore": 96.3
+    },
+    {
+      "id": "gdelt-44816c28e91ce70651e48812",
+      "title": "Abdoul Ouattara quitte Strasbourg pour Ipswich Town",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3676122205269536844-abdoul-ouattara-quitte-strasbourg-pour-ipswich-town",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/ouattara-om.jpg",
+      "publishedAt": "2026-08-17T14:14:52.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "strasbourg",
+        "ipswich"
+      ],
+      "topics": [
+        "strasbourg",
+        "ipswich"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.6
+    },
+    {
+      "id": "gdelt-2215477004411b1ddc9dabd6",
+      "title": "Strasbourg et l’AC Milan trouvent un accord à 50 M€ pour Diego Moreira",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8488991318551685492-strasbourg-et-lac-milan-trouvent-un-accord-a-50-meur-pour-diego-moreira",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/diego-moreira-2526-6a7ab114c4291.jpg",
+      "publishedAt": "2026-08-17T14:00:15.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "strasbourg",
+        "ac-milan"
+      ],
+      "topics": [
+        "strasbourg",
+        "ac-milan"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-ab836b2d2b52d189a29cf974",
@@ -128,7 +231,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 95.4
     },
     {
       "id": "gdelt-c86edc5b9f1af3ebf0a6e02f",
@@ -152,7 +255,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 95.3
+    },
+    {
+      "id": "gdelt-3fc65e04d079155c5425f0e4",
+      "title": "Mercato Strasbourg : Le Racing insiste pour un gros talent de Bundesliga",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-strasbourg-le-racing-insiste-pour-un-gros-talent-de-bundesliga-535014.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2024/zoom/l1-20240814085126-9087.jpg",
+      "publishedAt": "2026-08-17T13:26:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "strasbourg"
+      ],
+      "topics": [
+        "strasbourg",
+        "bundesliga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.2
     },
     {
       "id": "gdelt-e5355aa94785ed3095674da4",
@@ -177,7 +304,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 94.9
     },
     {
       "id": "gdelt-16a08656ea8a046885e1cda0",
@@ -202,7 +329,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 94.9
     },
     {
       "id": "gdelt-7b6f3fd359b42b73f9694a30",
@@ -226,7 +353,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 94.7
     },
     {
       "id": "gdelt-94643cdae624f1a2657104e2",
@@ -251,7 +378,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-60866c20b93a879a33245828",
@@ -276,7 +403,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.8
+      "qualityScore": 94.2
     },
     {
       "id": "gdelt-33705ce70a0aadf5eeb639db",
@@ -302,7 +429,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.7
+      "qualityScore": 94.1
     },
     {
       "id": "gdelt-956a824bc84ad203525e3be5",
@@ -327,32 +454,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.5
-    },
-    {
-      "id": "gdelt-53187c94c8e599f8e308c228",
-      "title": "Strasbourg s'offre un jeune attaquant du Real Madrid",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1477333032512935958-strasbourg-soffre-un-jeune-attaquant-du-real-madrid",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epaliveeight734124.jpg",
-      "publishedAt": "2026-08-17T10:16:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "strasbourg",
-        "real-madrid"
-      ],
-      "topics": [
-        "strasbourg",
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 94.2
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-6696f41ea303ba712a972242",
@@ -378,7 +480,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.2
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-8c0b41795af5a57501a338bc",
@@ -403,7 +505,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.9
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-aa86494d84fe2a80d7c35de2",
@@ -429,7 +531,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-7253ccd84cc7657599348e09",
@@ -454,7 +556,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.2
+    },
+    {
+      "id": "gdelt-ba6cf786491c45f4f49847f2",
+      "title": "West Ham : Jean-Clair Todibo est prêt à faire un sacrifice pour rejoindre l’OM",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1677469041849965401-west-ham-jean-clair-todibo-est-pret-a-faire-un-sacrifice-pour-rejoindre-lom",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jean-clair-todibo-2425-680f2cfad9368.jpg",
+      "publishedAt": "2026-08-17T14:40:25.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "west-ham"
+      ],
+      "topics": [
+        "west-ham"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-3d452019532db769b502ec2d",
@@ -481,7 +606,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-bbf8116ed5038d9cf2148e8c",
@@ -504,7 +629,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-8b3061b73f577a05d498aab9",
@@ -531,7 +656,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 91
     },
     {
       "id": "gdelt-fbaf5ff657c3c7cf18742abe",
@@ -556,7 +681,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-4285b55b95db0008eefc1f7e",
@@ -581,7 +706,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-82b2b931db0349005538d975",
@@ -606,7 +731,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-42abd28d4c95b3cf9c620e57",
@@ -629,7 +754,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-4f99039924d071d58a9f7a7f",
@@ -652,7 +777,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.6
+    },
+    {
+      "id": "gdelt-0b923df5394c841fbcba8c60",
+      "title": "Mercato Strasbourg : Le Racing annonce le départ d'Abdoul Ouattara en Premier League (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-strasbourg-le-racing-annonce-le-depart-d-abdoul-ouattara-en-premier-league-officiel-535023.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260416214254-8632.jpg",
+      "publishedAt": "2026-08-17T14:05:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "strasbourg"
+      ],
+      "topics": [
+        "strasbourg",
+        "premier-league"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-8c1cfbb0dc9da975a69a93ae",
@@ -678,7 +827,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-4e4efe8e22c3f37dd32dacc8",
@@ -704,7 +853,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-bb6d40b0f3eacd4b780d6d57",
@@ -729,7 +878,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 89
+    },
+    {
+      "id": "gdelt-7942531a8864c50a13e1fb61",
+      "title": "L’AS Monaco fait une nouvelle offre pour Farès Ghedjemis",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5201947240980776216-las-monaco-fait-une-nouvelle-offre-pour-fares-ghedjemis",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsfrtwo923539-1920x1080.jpg",
+      "publishedAt": "2026-08-17T14:37:07.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "monaco"
+      ],
+      "topics": [
+        "monaco"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-0e0b3100165ae94ddb27fa41",
@@ -756,7 +928,137 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-23380bff37c9fb09b7384c85",
+      "title": "Mathieu Van der Poel va retrouver la compétition sur la manche de Coupe du monde de VTT aux Gets",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Vtt/Actualites/Mathieu-van-der-poel-va-retrouver-la-competition-sur-la-manche-de-coupe-du-monde-de-vtt-aux-gets/1711666",
+      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/mathieu-van-der-poel-ici-aux-gets-en-aout-2025-va-reprendre-part-a-la-manche-de-coupe-du-monde-de-vt/1500000002555183/50:6,1881:1226-1200-800-75/cfbab.jpg",
+      "publishedAt": "2026-08-17T14:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [],
+      "topics": [
+        "world-cup"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-5c1ba8a1b7da974042da7a44",
+      "title": "Carnet Noir : une ex-joueuse des Girondins de Bordeaux et Bassin d'Arcachon décède, une cagnotte ouverte",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/foot-amateur/carnet-noir-une-ex-joueuse-des-girondins-de-bordeaux-et-bassin-darcachon-decede-une-cagnotte-ouverte-953527",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953527/388450/1200-L-carnet-noir-une-ex-joueuse-des-girondins-de-bordeaux-et-bassin-darcachon-dcde-une-cagnotte-ouverte.jpg",
+      "publishedAt": "2026-08-17T14:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "bordeaux"
+      ],
+      "topics": [
+        "bordeaux"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-a9d5adb5f9fae8f89438beec",
+      "title": "OL : deux absents à l'entraînement à la veille du barrage contre Fenerbahçe",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-des-champions/ol-deux-absents-a-lentrainement-a-la-veille-du-barrage-contre-fenerbahce-953558",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953558/388466/1200-L-ol-deux-absents-l-entranement-la-veille-du-barrage-contre-fenerbahe.jpg",
+      "publishedAt": "2026-08-17T14:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "fenerbahce"
+      ],
+      "topics": [
+        "fenerbahce"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-ddf37189a4b93018c7d1f8ac",
+      "title": "Équipe de France U17 : la liste des joueurs convoqués pour le stage d'août",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/jeunes/equipe-de-france-u17-la-liste-des-joueurs-convoques-pour-le-stage-daout-953561",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953561/388467/1200-L-quipe-de-france-u17-la-liste-des-joueurs-convoqus-pour-le-stage-d-aot.jpg",
+      "publishedAt": "2026-08-17T14:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-236000e91115e04bf126738e",
+      "title": "Ligue 3 : programmation exceptionnelle pour le multiplex de la troisième journée",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-3-programmation-exceptionnelle-pour-le-multiplex-de-la-troisieme-journee-953550",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953550/388462/1200-L-ligue-3-programmation-exceptionnelle-pour-le-multiplex-de-la-troisime-journe.jpg",
+      "publishedAt": "2026-08-17T14:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-bd80c68bf69aab277c57254a",
+      "title": "Ligue 3 : Rouen sur le point d'accueillir un attaquant de MLS",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-3-rouen-sur-le-point-daccueillir-un-attaquant-de-mls-953564",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953564/388468/1200-L-ligue-3-rouen-sur-le-point-d-accueillir-un-attaquant-de-mls.jpg",
+      "publishedAt": "2026-08-17T14:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-e065d96b77722a5c761fadf7",
@@ -781,7 +1083,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-f99b75e15f88c92aa93d79d2",
@@ -804,7 +1106,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-7bc2fdf7c5b087e8720d9f41",
@@ -827,7 +1129,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-293afa931070b1f25c0b8de9",
@@ -850,7 +1152,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-9fc1da4f70181acaf2fa06dd",
@@ -873,7 +1175,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-21b0cca13f891f0713b672b6",
@@ -896,7 +1198,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-73baa58abce0bde3ee637820",
@@ -922,7 +1224,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 88.3
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-d7fffe18f05735b2efd1e82e",
@@ -947,7 +1249,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-0fafdef23f8f9764c003c966",
@@ -974,7 +1276,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-5a6537a631f2eeefa1037eb3",
@@ -997,122 +1299,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
-    },
-    {
-      "id": "gdelt-a0ec204bba9ed44d89afe64a",
-      "title": "RC Lens : les mots forts de Florian Thauvin sur Dino Toppmöller",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5284492588600689308-rc-lens-les-mots-forts-de-florian-thauvin-sur-dino-toppmoller",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo692562-1.jpg",
-      "publishedAt": "2026-08-17T10:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.2
-    },
-    {
-      "id": "gdelt-e445105d92f3f41239a4efc4",
-      "title": "PSG : le projet étonnant de Luis Enrique avec Maghnes Akliouche continue",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4736490251786811170-psg-le-projet-etonnant-de-luis-enrique-avec-maghnes-akliouche-continue",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine784906-1920x1080.jpg",
-      "publishedAt": "2026-08-17T10:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.2
-    },
-    {
-      "id": "gdelt-5e078e12009941b49620d21c",
-      "title": "PSG : que retenir de la grande première de Lucas Digne",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9201729821589571546-psg-que-retenir-de-la-grande-premiere-de-lucas-digne",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo692558-1920x1080.jpg",
-      "publishedAt": "2026-08-17T10:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.2
-    },
-    {
-      "id": "gdelt-fe0b5d6434187280db4501ed",
-      "title": "La Juventus tient son nouveau gardien",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4728350505364899487-la-juventus-tient-son-nouveau-gardien",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/guglielmo-vicario-2526.jpg",
-      "publishedAt": "2026-08-17T10:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "juventus"
-      ],
-      "topics": [
-        "juventus"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.2
-    },
-    {
-      "id": "gdelt-a9e2bcb5c6f5c288ec681531",
-      "title": "Le Barça a bouclé une nouvelle vente à 10 M€",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2414749817357308073-le-barca-a-boucle-une-nouvelle-vente-a-10-meur",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joan-laporta-68904f181b309.jpg",
-      "publishedAt": "2026-08-17T10:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 87
     },
     {
       "id": "gdelt-be699424acce0a5f88818045",
@@ -1135,7 +1322,122 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 86.7
+    },
+    {
+      "id": "gdelt-a0ec204bba9ed44d89afe64a",
+      "title": "RC Lens : les mots forts de Florian Thauvin sur Dino Toppmöller",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5284492588600689308-rc-lens-les-mots-forts-de-florian-thauvin-sur-dino-toppmoller",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo692562-1.jpg",
+      "publishedAt": "2026-08-17T10:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lens"
+      ],
+      "topics": [
+        "lens"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.6
+    },
+    {
+      "id": "gdelt-e445105d92f3f41239a4efc4",
+      "title": "PSG : le projet étonnant de Luis Enrique avec Maghnes Akliouche continue",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4736490251786811170-psg-le-projet-etonnant-de-luis-enrique-avec-maghnes-akliouche-continue",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine784906-1920x1080.jpg",
+      "publishedAt": "2026-08-17T10:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.6
+    },
+    {
+      "id": "gdelt-5e078e12009941b49620d21c",
+      "title": "PSG : que retenir de la grande première de Lucas Digne",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9201729821589571546-psg-que-retenir-de-la-grande-premiere-de-lucas-digne",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo692558-1920x1080.jpg",
+      "publishedAt": "2026-08-17T10:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.6
+    },
+    {
+      "id": "gdelt-fe0b5d6434187280db4501ed",
+      "title": "La Juventus tient son nouveau gardien",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4728350505364899487-la-juventus-tient-son-nouveau-gardien",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/guglielmo-vicario-2526.jpg",
+      "publishedAt": "2026-08-17T10:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "juventus"
+      ],
+      "topics": [
+        "juventus"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.6
+    },
+    {
+      "id": "gdelt-a9e2bcb5c6f5c288ec681531",
+      "title": "Le Barça a bouclé une nouvelle vente à 10 M€",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2414749817357308073-le-barca-a-boucle-une-nouvelle-vente-a-10-meur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joan-laporta-68904f181b309.jpg",
+      "publishedAt": "2026-08-17T10:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-a603a2a14c3ccb145a0a30f3",
@@ -1158,7 +1460,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-6cd8254f2919511577b13027",
@@ -1183,7 +1485,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-f31c834500e0d9e4d2814701",
@@ -1206,7 +1508,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 86.8
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-4f653ccfc184cf47b540fd2c",
@@ -1231,7 +1533,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 86.7
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-e674b87d4f82865f9f3cfeec",
@@ -1254,7 +1556,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.1
+    },
+    {
+      "id": "gdelt-2f41380bc1e4a65089c65f28",
+      "title": "Mercato Strasbourg : Julio Enciso quitte à son tour le Racing, qui récupère une très belle enveloppe (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-strasbourg-julio-enciso-quitte-a-son-tour-le-racing-qui-recupere-une-tres-belle-enveloppe-officiel-535045.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260307205730-3725.jpg",
+      "publishedAt": "2026-08-17T14:30:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "strasbourg"
+      ],
+      "topics": [
+        "strasbourg"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-aa748b61140108a45d1b4e2f",
@@ -1278,7 +1603,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-9ee56401bd5a68453137ac16",
@@ -1303,7 +1628,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-1581da30d69fc3dd3f34d95e",
@@ -1326,7 +1651,53 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85
+    },
+    {
+      "id": "gdelt-27c6a211347841c83ab23c37",
+      "title": "Real Madrid : Kylian Mbappé se prend déjà un gros coup de pression après son retour !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8717293539151357736-real-madrid-kylian-mbappe-se-prend-deja-un-gros-coup-de-pression-apres-son-retour",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kylianmbappe.jpg",
+      "publishedAt": "2026-08-17T07:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85
+    },
+    {
+      "id": "gdelt-75e6696085ae4f18220954f0",
+      "title": "Le FC Barcelone a vécu des dernières heures complètement folles",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3967749320489177968-le-fc-barcelone-a-vecu-des-dernieres-heures-completement-folles",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lamineyamalfcb.jpg",
+      "publishedAt": "2026-08-17T07:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85
     },
     {
       "id": "gdelt-5470fd0e340b756a8aa4b50f",
@@ -1351,53 +1722,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85
     },
     {
-      "id": "gdelt-27c6a211347841c83ab23c37",
-      "title": "Real Madrid : Kylian Mbappé se prend déjà un gros coup de pression après son retour !",
+      "id": "gdelt-98fa9af7e006d956205ffe29",
+      "title": "SPL : Al-Ittihad annonce une recrue… à la mi-temps",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8717293539151357736-real-madrid-kylian-mbappe-se-prend-deja-un-gros-coup-de-pression-apres-son-retour",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kylianmbappe.jpg",
-      "publishedAt": "2026-08-17T07:01:00.000Z",
-      "category": "news",
+      "url": "https://www.footmercato.net/a8571062259460778084-spl-al-ittihad-annonce-une-recrue-a-la-mi-temps",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/otavio-2526.jpg",
+      "publishedAt": "2026-08-16T13:01:00.000Z",
+      "category": "transfers",
       "source": {
         "id": "footmercato.net",
         "name": "footmercato.net",
         "websiteURL": "https://footmercato.net"
       },
       "teams": [
-        "real-madrid"
+        "al-ittihad"
       ],
       "topics": [
-        "real-madrid"
+        "al-ittihad"
       ],
-      "reliability": "reported",
+      "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
-    },
-    {
-      "id": "gdelt-75e6696085ae4f18220954f0",
-      "title": "Le FC Barcelone a vécu des dernières heures complètement folles",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3967749320489177968-le-fc-barcelone-a-vecu-des-dernieres-heures-completement-folles",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lamineyamalfcb.jpg",
-      "publishedAt": "2026-08-17T07:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 85
     },
     {
       "id": "gdelt-4701c1c6b8626db1c14560d7",
@@ -1421,30 +1769,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
-    },
-    {
-      "id": "gdelt-98fa9af7e006d956205ffe29",
-      "title": "SPL : Al-Ittihad annonce une recrue… à la mi-temps",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8571062259460778084-spl-al-ittihad-annonce-une-recrue-a-la-mi-temps",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/otavio-2526.jpg",
-      "publishedAt": "2026-08-16T13:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "al-ittihad"
-      ],
-      "topics": [
-        "al-ittihad"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-1f66576530d5c2114632ffcc",
@@ -1469,7 +1794,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-916613a63632287c1cef1f34",
@@ -1494,7 +1819,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-bb5aceb3215fe0cc0f8e5c2f",
@@ -1519,7 +1844,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-e9f08f9c0ddee520793b9eed",
@@ -1544,7 +1869,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-1799ac96926711a15a614de0",
@@ -1569,33 +1894,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-17d44f681a5a6e70d1a7a438",
-      "title": "OM : un gardien de Serie A proposé à Marseille, la Juve boucle son dossier Vicario",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/om/om-un-gardien-de-serie-a-propose-a-marseille-la-juve-boucle-son-dossier-vicario-997028",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997028/406628/1200-L-om-un-gardien-de-serie-a-propos-marseille-la-juve-boucle-son-dossier-vicario.jpg",
-      "publishedAt": "2026-08-17T14:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "om",
-        "juventus"
-      ],
-      "topics": [
-        "om",
-        "juventus",
-        "serie-a"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-ca0155462da0ddfae29897ac",
@@ -1614,7 +1913,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-8d80543ece28a6e74ac73465",
@@ -1639,7 +1938,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-89cbd6c3f90f7f22cf94ae45",
@@ -1658,7 +1957,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-c50b351a0931d14f0c1c4c27",
@@ -1683,7 +1982,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-6e804d67d1ac31bde95ee53a",
@@ -1708,57 +2007,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-113f5629f1d8a1948cb76f02",
-      "title": "Lens : le gros message de Ruben Aguilar après la victoire contre le PSG",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7671362333206963421-lens-le-gros-message-de-ruben-aguilar-apres-le-sacre-contre-le-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo692564.jpg",
-      "publishedAt": "2026-08-16T20:55:35.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "lens"
-      ],
-      "topics": [
-        "psg",
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.5
-    },
-    {
-      "id": "gdelt-fb01cf2a980b7a4bbda9840c",
-      "title": "Lens : la fierté de Robin Risser après le sacre face au PSG",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5686913474074727473-lens-la-fierte-de-robin-risser-apres-le-sacre-face-au-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/risser-rc-lens.jpg",
-      "publishedAt": "2026-08-16T20:50:31.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "lens"
-      ],
-      "topics": [
-        "psg",
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-f21f4c004a167555f6e68947",
@@ -1785,7 +2034,57 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.4
+      "qualityScore": 83.9
+    },
+    {
+      "id": "gdelt-113f5629f1d8a1948cb76f02",
+      "title": "Lens : le gros message de Ruben Aguilar après la victoire contre le PSG",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7671362333206963421-lens-le-gros-message-de-ruben-aguilar-apres-le-sacre-contre-le-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo692564.jpg",
+      "publishedAt": "2026-08-16T20:55:35.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "lens"
+      ],
+      "topics": [
+        "psg",
+        "lens"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.9
+    },
+    {
+      "id": "gdelt-fb01cf2a980b7a4bbda9840c",
+      "title": "Lens : la fierté de Robin Risser après le sacre face au PSG",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5686913474074727473-lens-la-fierte-de-robin-risser-apres-le-sacre-face-au-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/risser-rc-lens.jpg",
+      "publishedAt": "2026-08-16T20:50:31.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "lens"
+      ],
+      "topics": [
+        "psg",
+        "lens"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-b4eed60a139945638dbaf1e1",
@@ -1808,7 +2107,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-6f83e27f947fe32213880ceb",
@@ -1833,7 +2132,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-9253a205ddcd3b8f11fb8ec6",
@@ -1856,7 +2155,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-8c67732ac99785cbc1b990d6",
@@ -1880,7 +2179,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 83.6
     },
     {
       "id": "gdelt-ec69a2e7f08216175e606b0f",
@@ -1904,7 +2203,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 83.6
     },
     {
       "id": "gdelt-fad0474da758241a51e862f7",
@@ -1927,7 +2226,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-3edaa9ba1609287e2ee19549",
@@ -1952,7 +2251,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-f949ef91eb393dbe6ae59264",
@@ -1977,7 +2276,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-7857f7b3fff52820112d065c",
@@ -2002,7 +2301,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-1768ca7a2b82a467fe974bed",
@@ -2027,7 +2326,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-49ef31b8a3d3209e9040e44d",
@@ -2052,7 +2351,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-a09f9e3b706bcc6ece6890c1",
@@ -2077,7 +2376,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-b38c3ae5c0f5d7dc223a1b36",
@@ -2101,7 +2400,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-24eef685af8238ac28327791",
@@ -2125,317 +2424,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-3fc65e04d079155c5425f0e4",
-      "title": "Mercato Strasbourg : Le Racing insiste pour un gros talent de Bundesliga",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-strasbourg-le-racing-insiste-pour-un-gros-talent-de-bundesliga-535014.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2024/zoom/l1-20240814085126-9087.jpg",
-      "publishedAt": "2026-08-17T13:26:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "strasbourg"
-      ],
-      "topics": [
-        "strasbourg",
-        "bundesliga"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.8
-    },
-    {
-      "id": "gdelt-15af5d55df93322473d9a2b7",
-      "title": "Lens-PSG : les compos officielles du Trophée des Champions",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/lens-psg-les-compos-officielles-du-trophee-des-champions-953507",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953507/388439/1200-L-lens-psg-les-compos-officielles-du-trophe-des-champions.jpg",
-      "publishedAt": "2026-08-16T19:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "psg",
-        "lens"
-      ],
-      "topics": [
-        "psg",
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.6
-    },
-    {
-      "id": "gdelt-9f1992598cbb29c6a9e38460",
-      "title": "Ligue des Champions : un arbitre allemand expérimenté au sifflet pour Fenerbahçe-OL",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-un-arbitre-allemand-experimente-au-sifflet-pour-fenerbahce-ol-953488",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953488/388432/1200-L-ligue-des-champions-un-arbitre-allemand-expriment-au-sifflet-pour-fenerbahe-ol.jpg",
-      "publishedAt": "2026-08-16T19:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "fenerbahce"
-      ],
-      "topics": [
-        "fenerbahce",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.6
-    },
-    {
-      "id": "gdelt-fa0826bd03733bf86649702b",
-      "title": "Arkema Première Ligue : OL Lyonnes chute contre Francfort en amical, lourde défaite pour le Paris FC",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/foot-feminin/arkema-premiere-ligue-ol-lyonnes-chute-contre-francfort-en-amical-lourde-defaite-pour-le-paris-fc-953504",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953504/388438/1200-L-arkema-premire-ligue-ol-lyonnes-chute-contre-francfort-en-amical-lourde-dfaite-pour-le-paris-fc.jpg",
-      "publishedAt": "2026-08-16T19:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "ol",
-        "paris-fc"
-      ],
-      "topics": [
-        "ol",
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.6
-    },
-    {
-      "id": "gdelt-c7ef04d30098282d473110c4",
-      "title": "Lens se rapproche de l’exploit face au PSG !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3813250270850243898-suivez-la-rencontre-lens-paris-saint-germain-en-direct-commente",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/risser-rc-lens.jpg",
-      "publishedAt": "2026-08-16T18:35:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "lens"
-      ],
-      "topics": [
-        "psg",
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 83.3
-    },
-    {
-      "id": "gdelt-c2c980be476ed136b5752f91",
-      "title": "L'AS Monaco ouvre la porte à un départ de Jordan Teze",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2085161220613426257-las-monaco-ouvre-la-porte-a-un-depart-de-jordan-teze",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/teze-asm.jpg",
-      "publishedAt": "2026-08-16T19:47:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "monaco"
-      ],
-      "topics": [
-        "monaco"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.9
-    },
-    {
-      "id": "gdelt-7d532e96736cf90e53721105",
-      "title": "Bouaddi, Rodri, nouvelles arrivées… la mise au point musclée d'Enzo Maresca sur le mercato de Manchester City",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a216057843465434082-bouaddi-rodri-nouvelles-arrivees-la-mise-au-point-musclee-denzo-maresca-sur-le-mercato-de-manchester-city",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/enzo-maresca-2324-2-6655d30f8ed83.jpg",
-      "publishedAt": "2026-08-16T19:47:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-city"
-      ],
-      "topics": [
-        "man-city"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.9
-    },
-    {
-      "id": "gdelt-0451609826878f735c73384a",
-      "title": "Amical (F) : le PSG s'incline contre l'Union Berlin à dix jours des barrages de la Ligue des Champions",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/foot-feminin/amical-f-le-psg-sincline-contre-lunion-berlin-a-dix-jours-des-barrages-de-la-ligue-des-champions-953458",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953458/388420/1200-L-amical-f-le-psg-sincline-contre-lunion-berlin-dix-jours-des-barrages-de-la-ligue-des-champions.jpg",
-      "publishedAt": "2026-08-16T09:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "psg",
-        "union-berlin"
-      ],
-      "topics": [
-        "psg",
-        "union-berlin",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.9
-    },
-    {
-      "id": "gdelt-82de90f2950903ba871db765",
-      "title": "Foot Amateur : deux joueurs suspendus 20 ans après avoir violenté des arbitres suite à un carton rouge",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/foot-amateur/foot-amateur-deux-joueurs-suspendus-20-ans-apres-avoir-violente-des-arbitres-suite-a-un-carton-rouge-953520",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953520/388445/1200-L-foot-amateur-deux-joueurs-suspendus-20-ans-aprs-avoir-violent-des-arbitres-suite-un-carton-rouge.jpg",
-      "publishedAt": "2026-08-17T09:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.7
-    },
-    {
-      "id": "gdelt-3606dc90829a6775c5a42b80",
-      "title": "RC Lens : Florian Thauvin a brillé sous les yeux de Zinedine Zidane",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5994721146739900310-rc-lens-florian-thauvin-a-brille-sous-les-yeux-de-zinedine-zidane",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo692562-1920x1080.jpg",
-      "publishedAt": "2026-08-17T01:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.7
-    },
-    {
-      "id": "gdelt-63531f747dc12f73756397f9",
-      "title": "RC Lens : Dino Toppmöller est déjà en train de faire oublier Pierre Sage",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3379781128580769627-rc-lens-dino-toppmoller-est-deja-en-train-de-faire-oublier-pierre-sage",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo692587-1920x1080.jpg",
-      "publishedAt": "2026-08-17T01:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.7
-    },
-    {
-      "id": "gdelt-b5938981a20ae6807e23b719",
-      "title": "Jean-Alain Boumsong quitte l’AJ Auxerre",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6995601941143687567-jean-alain-boumsong-quitte-laj-auxerre",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxradiofr009965.jpg",
-      "publishedAt": "2026-08-16T19:06:33.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "auxerre"
-      ],
-      "topics": [
-        "auxerre"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.6
-    },
-    {
-      "id": "gdelt-5e5a7d2d26511dfb43d4ae98",
-      "title": "Le Montpellier FC accroché par le Toulouse Football Club pour son dernier match de préparation",
-      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.allezpaillade.com/feminines/le-montpellier-fc-accroche-par-le-toulouse-football-club-pour-son-dernier-match-de-preparation/",
-      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2026/08/feminines-equipe-pro-mfc-380x370.png",
-      "publishedAt": "2026-08-16T17:00:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "allezpaillade.com",
-        "name": "allezpaillade.com",
-        "websiteURL": "https://allezpaillade.com"
-      },
-      "teams": [
-        "montpellier",
-        "toulouse"
-      ],
-      "topics": [
-        "montpellier",
-        "toulouse"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.5
     }
   ],
-  "generatedAt": "2026-08-17T13:55:21.225Z",
+  "generatedAt": "2026-08-17T15:04:20.063Z",
   "stale": false
 }
