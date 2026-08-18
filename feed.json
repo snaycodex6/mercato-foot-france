@@ -23,7 +23,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 101.7
+      "qualityScore": 101.3
     },
     {
       "id": "gdelt-f7b6862d72b110154bd6189d",
@@ -51,7 +51,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 101.5
+      "qualityScore": 101.1
     },
     {
       "id": "gdelt-7b4d40fc36fe2289521ad560",
@@ -78,7 +78,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.2
+      "qualityScore": 98.8
+    },
+    {
+      "id": "gdelt-1d0032b17cd567b49c1c25a1",
+      "title": "OM : Todibo à Marseille, enfin une annonce positive au mercato !",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/om-todibo-a-marseille-enfin-une-annonce-positive-au-mercato-997105",
+      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997105/406666/1200-L-om-todibo-marseille-enfin-une-annonce-positive-au-mercato.jpg",
+      "publishedAt": "2026-08-18T16:00:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "om"
+      ],
+      "topics": [
+        "om"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 97.6
     },
     {
       "id": "gdelt-edc5b61cfc2efec9d4ab684a",
@@ -101,7 +124,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.6
+      "qualityScore": 97.2
     },
     {
       "id": "gdelt-ac76b5c6d24e8d2e5db69ad3",
@@ -124,7 +147,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.1
+      "qualityScore": 96.7
     },
     {
       "id": "gdelt-02441f6b5e0eb5f4c6b44e70",
@@ -147,7 +170,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.8
+      "qualityScore": 96.5
     },
     {
       "id": "gdelt-f3a4ae0af171c933890c7dee",
@@ -170,7 +193,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.7
+      "qualityScore": 96.4
     },
     {
       "id": "gdelt-038d54549626f0408afd506f",
@@ -193,7 +216,32 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.6
+      "qualityScore": 96.3
+    },
+    {
+      "id": "gdelt-32d9a3bd2760458ecd6dc1f0",
+      "title": "Toulouse : le transfert de Dayann Methalie à Sunderland suspendu",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a326351343006951164-toulouse-le-transfert-de-dayann-methalie-a-sunderland-suspendu",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/methanie.jpg",
+      "publishedAt": "2026-08-18T16:41:13.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "toulouse",
+        "sunderland"
+      ],
+      "topics": [
+        "toulouse",
+        "sunderland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.9
     },
     {
       "id": "gdelt-061d282f0609606f254fcfbe",
@@ -216,7 +264,32 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 95.7
+    },
+    {
+      "id": "gdelt-f972e4629a0e40ea3b9fa0fc",
+      "title": "JT Foot Mercato : Manchester City en passe de boucler une vente à 100M€",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5397345846194517670-jt-foot-mercato-manchester-city-en-passe-de-boucler-une-vente-a-100meur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/savio.jpg",
+      "publishedAt": "2026-08-18T16:07:29.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "man-city",
+        "saint-etienne"
+      ],
+      "topics": [
+        "man-city",
+        "saint-etienne"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.6
     },
     {
       "id": "gdelt-f6a7786c91885fdf1cb7031d",
@@ -242,7 +315,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 95.4
     },
     {
       "id": "gdelt-be062c43e1b005a8f6967875",
@@ -267,7 +340,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 94.9
     },
     {
       "id": "gdelt-27b0f9b7cae9032145f7cc2c",
@@ -289,7 +362,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-64f77093a6d2b699124e821e",
@@ -312,7 +385,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.4
+      "qualityScore": 94
     },
     {
       "id": "gdelt-89cc73d62b101d2195a5ae77",
@@ -336,7 +409,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-126d5cd787f55c0075bc363d",
@@ -359,7 +432,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-7b7f4fe29f21a95be4849e57",
@@ -380,7 +453,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-7c4d6e061b9a44fb1b4485b5",
@@ -405,7 +478,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 93.1
+    },
+    {
+      "id": "gdelt-8aed0f7cc09974aae90405a5",
+      "title": "Équipe de France : Zidane passe déjà à l'action pour préparer ses grands débuts",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3157263901855374484-equipe-de-france-zidane-passe-deja-a-laction-pour-preparer-ses-grands-debuts",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine237567-1920x1080.jpg",
+      "publishedAt": "2026-08-18T16:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-4eaf00cb45858715c17a2f2d",
@@ -413,7 +510,7 @@
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a2563596970034817419-lens-hull-city-garde-un-oeil-sur-amadou-haidara",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo602066-1920x1080.jpg",
-      "publishedAt": "2026-08-18T14:29:15.000Z",
+      "publishedAt": "2026-08-18T16:02:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -430,7 +527,53 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 92.6
+    },
+    {
+      "id": "gdelt-75a119e7784efddd09300679",
+      "title": "La Juventus s'offre Guglielmo Vicario",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8451594685971235-la-juventus-soffre-guglielmo-vicario",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/guglielmo-vicario-2526.jpg",
+      "publishedAt": "2026-08-18T16:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "juventus"
+      ],
+      "topics": [
+        "juventus"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.6
+    },
+    {
+      "id": "gdelt-32cb5169639d347955ea6831",
+      "title": "Mercato : Strasbourg accélère pour recruter deux joueurs",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8097454389540421076-mercato-strasbourg-accelere-pour-recruter-deux-joueurs",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/deivid-washington-23.jpg",
+      "publishedAt": "2026-08-18T16:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "strasbourg"
+      ],
+      "topics": [
+        "strasbourg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-202deae3fea81a8224e6742d",
@@ -455,7 +598,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-bcf354d45cb736008168adab",
@@ -479,77 +622,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
-    },
-    {
-      "id": "gdelt-8aed0f7cc09974aae90405a5",
-      "title": "Équipe de France : Zidane passe déjà à l’action pour préparer ses grands débuts",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3157263901855374484-equipe-de-france-zidane-passe-deja-a-laction-pour-preparer-ses-grands-debuts",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine237567-1920x1080.jpg",
-      "publishedAt": "2026-08-18T13:02:14.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "saint-etienne"
-      ],
-      "topics": [
-        "saint-etienne",
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 91.5
-    },
-    {
-      "id": "gdelt-75a119e7784efddd09300679",
-      "title": "La Juventus s’offre Guglielmo Vicario",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8451594685971235-la-juventus-soffre-guglielmo-vicario",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/guglielmo-vicario-2526.jpg",
-      "publishedAt": "2026-08-18T14:15:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "juventus"
-      ],
-      "topics": [
-        "juventus"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.1
-    },
-    {
-      "id": "gdelt-32cb5169639d347955ea6831",
-      "title": "Mercato : Strasbourg accélère pour recruter deux joueurs",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8097454389540421076-mercato-strasbourg-accelere-pour-recruter-deux-joueurs",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/deivid-washington-23.jpg",
-      "publishedAt": "2026-08-18T14:13:17.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "strasbourg"
-      ],
-      "topics": [
-        "strasbourg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.1
     },
     {
       "id": "gdelt-759b1e979d79e6df41ae7673",
@@ -574,7 +647,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-d8dae7b29c62c5930fe95e0b",
@@ -598,7 +671,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-5c0ee34fb497caf0be8e5415",
@@ -623,7 +696,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-78a0a4f3c3eae912c8fa1ab4",
@@ -648,7 +721,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-cdfd66fec4e1cc810a9fc529",
@@ -672,7 +745,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-bc3cc73c15fd06ca3e0c6e59",
@@ -696,7 +769,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-1d62a4ce9b33237f85c951e1",
@@ -724,7 +797,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-cb743a040f724252a1ada636",
@@ -747,7 +820,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-ea36811c86dc91a6491ef0bc",
@@ -771,7 +844,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 89
     },
     {
       "id": "gdelt-d7606be46e796724fe1ff8f7",
@@ -795,7 +868,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 89
     },
     {
       "id": "gdelt-0e92975edae13c96edd67fbb",
@@ -819,7 +892,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 89
     },
     {
       "id": "gdelt-f6f51b88d8467ecab23d8e66",
@@ -841,7 +914,164 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 89
+    },
+    {
+      "id": "gdelt-89f2e3ae5a6b7f4a409f356b",
+      "title": "Équipe de France : la date de la première liste de Zinédine Zidane est connue",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a972944407855980036-equipe-de-france-la-date-de-la-premiere-liste-de-zinedine-zidane-est-connue",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo678500-1920x1080.jpg",
+      "publishedAt": "2026-08-18T16:20:43.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-042498aa60155325b576d689",
+      "title": "Liga : la situation absurde du Rayo Vallecano, de finaliste de coupe d’Europe à \"club SDF\" en quelques mois",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4057657403274164315-liga-la-situation-absurde-du-rayo-vallecano-de-finaliste-de-coupe-deurope-a-club-sdf-en-quelques-mois",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rayo-vallecano-69d7e81dcfc23.jpg",
+      "publishedAt": "2026-08-18T16:10:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "rayo-vallecano"
+      ],
+      "topics": [
+        "rayo-vallecano"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-1ccb9f50627f4758e4da2cc8",
+      "title": "AC Milan : bataille finale à trois clubs pour Christopher Nkunku",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8517877418610638082-ac-milan-bataille-finale-a-trois-clubs-pour-christopher-nkunku",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/nkunlu.jpg",
+      "publishedAt": "2026-08-18T16:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "ac-milan"
+      ],
+      "topics": [
+        "ac-milan"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-38c7140736d8475b2be22b3b",
+      "title": "Ligue 1 : les 9 arbitres de la première journée sont connus",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6268551125394198555-ligue-1-les-9-arbitres-de-la-premiere-journee-sont-connus",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/var-66b24e4308ad6.jpg",
+      "publishedAt": "2026-08-18T16:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-6f4cb1ceb2d3a925a669887d",
+      "title": "Le Real Madrid avait proposé moins de 40 M€ pour Rodri",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2745656129462852482-le-real-madrid-avait-propose-moins-de-40-meur-pour-rodri",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/florentino-perez-2026.jpg",
+      "publishedAt": "2026-08-18T16:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-93c550a9da6953228a42a9c5",
+      "title": "Manchester United travaille sur la prolongation de Bruno Fernandes",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4950534908929412150-manchester-united-travaille-sur-la-prolongation-de-bruno-fernandes",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour404919.jpg",
+      "publishedAt": "2026-08-18T16:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "man-united"
+      ],
+      "topics": [
+        "man-united"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-afbbb3cc8fae51e7a3cfdc51",
+      "title": "Le Real Madrid a présenté José Mourinho sans prévenir, à huis clos et sans aucun média !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4982182005642097633-le-real-madrid-a-presente-jose-mourinho-sans-prevenir-a-huis-clos-et-sans-aucun-media",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine798093-1920x1080.jpg",
+      "publishedAt": "2026-08-18T16:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-a33d55d1b2b2436f1d570084",
@@ -866,7 +1096,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-0b923df5394c841fbcba8c60",
@@ -890,30 +1120,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89
-    },
-    {
-      "id": "gdelt-93c550a9da6953228a42a9c5",
-      "title": "Manchester United travaille sur la prolongation de Bruno Fernandes",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4950534908929412150-manchester-united-travaille-sur-la-prolongation-de-bruno-fernandes",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour404919.jpg",
-      "publishedAt": "2026-08-18T15:50:45.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-united"
-      ],
-      "topics": [
-        "man-united"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-8d8d039ee4a443813da6ea8e",
@@ -937,7 +1144,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-faa0a56e5dad464bcc0d3c4f",
@@ -960,30 +1167,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
-    },
-    {
-      "id": "gdelt-1ccb9f50627f4758e4da2cc8",
-      "title": "AC Milan : bataille finale à trois clubs pour Christopher Nkunku",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8517877418610638082-ac-milan-bataille-finale-a-trois-clubs-pour-christopher-nkunku",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/nkunlu.jpg",
-      "publishedAt": "2026-08-18T15:01:04.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "ac-milan"
-      ],
-      "topics": [
-        "ac-milan"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-c64291e2d4765ad2f65b99b3",
@@ -1009,7 +1193,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-d04130c38bec7978a301165a",
+      "title": "Ligue 1 : Joel Mvuka quitte Lorient pour la Norvège, Auxerre lance un appel à ses supporters",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-1-joel-mvuka-quitte-lorient-pour-la-norvege-auxerre-lance-un-appel-a-ses-supporters-953652",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953652/388507/1200-L-ligue-1-joel-mvuka-quitte-lorient-pour-la-norvge-auxerre-lance-un-appel-ses-supporters.jpg",
+      "publishedAt": "2026-08-18T16:30:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "auxerre",
+        "lorient"
+      ],
+      "topics": [
+        "auxerre",
+        "lorient",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-784b0b5c21e2a68f3a57f32c",
@@ -1032,7 +1242,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-f4ebafd9404ce8724a912bdb",
@@ -1055,7 +1265,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-d3d3b5467d4dbcb3de56655c",
@@ -1078,7 +1288,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-6fcd57fa177a0e0bac3e0d7c",
@@ -1099,7 +1309,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-fcb340bd33592b1e708e8e25",
@@ -1122,7 +1332,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-c6352e699b7a807da2c6a803",
@@ -1143,51 +1353,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
-    },
-    {
-      "id": "gdelt-38c7140736d8475b2be22b3b",
-      "title": "Ligue 1 : les 9 arbitres de la première journée sont connus",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6268551125394198555-ligue-1-les-9-arbitres-de-la-premiere-journee-sont-connus",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/var-66b24e4308ad6.jpg",
-      "publishedAt": "2026-08-18T13:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.8
-    },
-    {
-      "id": "gdelt-6f4cb1ceb2d3a925a669887d",
-      "title": "Le Real Madrid avait proposé moins de 40 M€ pour Rodri",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2745656129462852482-le-real-madrid-avait-propose-moins-de-40-meur-pour-rodri",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/florentino-perez-2026.jpg",
-      "publishedAt": "2026-08-18T13:34:59.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-84b242a090596f32ec68e365",
@@ -1214,7 +1380,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-49b42e544fc9c94838d2574d",
@@ -1237,7 +1403,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87
     },
     {
       "id": "gdelt-548e11bba4c77311426ad69d",
@@ -1260,30 +1426,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
-    },
-    {
-      "id": "gdelt-afbbb3cc8fae51e7a3cfdc51",
-      "title": "Le Real Madrid a présenté José Mourinho sans prévenir, à huis clos et sans aucun média !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4982182005642097633-le-real-madrid-a-presente-jose-mourinho-sans-prevenir-a-huis-clos-et-sans-aucun-media",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine798093-1920x1080.jpg",
-      "publishedAt": "2026-08-18T12:25:26.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-a6c13b777e10100b3c088e7a",
@@ -1306,7 +1449,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-7d2557051e712d081cb4c015",
@@ -1329,7 +1472,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-5c5b2e022b0d1071c0f0918a",
@@ -1352,7 +1495,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-018a3ba74106c9a22ae44e79",
@@ -1375,7 +1518,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-e753d8bbb70cf97ce68f2317",
@@ -1398,7 +1541,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-8237bcdfebaf08eaf4f14e9c",
@@ -1421,7 +1564,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
+    },
+    {
+      "id": "gdelt-91ac5116cd7574f5a3be0ad3",
+      "title": "MERCATO. TFC : un renfort surprise au Téfécé ! Le défenseur de l'AC Milan David Odogu débarque en prêt, premier mouvement officiel entre les deux clubs possédés par RedBird",
+      "summary": "Publication référencée chez ladepeche.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.ladepeche.fr/2026/08/18/mercato-tfc-un-renfort-surprise-au-tefece-le-defenseur-de-lac-milan-david-odogu-debarque-en-pret-premier-mouvement-officiel-entre-les-deux-clubs-13511734.php",
+      "imageURL": "https://images.ladepeche.fr/api/v1/images/view/6a82d020631b2383c902de52/hd/image.jpg?v=1",
+      "publishedAt": "2026-08-18T16:02:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "ladepeche.fr",
+        "name": "ladepeche.fr",
+        "websiteURL": "https://ladepeche.fr"
+      },
+      "teams": [
+        "ac-milan"
+      ],
+      "topics": [
+        "ac-milan"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "other",
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-d114f2258e804199773fcb00",
@@ -1446,7 +1612,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-a98e8d58f6d44036a7d09e47",
@@ -1469,7 +1635,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-8008f70101b5c48e1f76f828",
@@ -1492,7 +1658,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-abaaca41090790a4f1490d12",
@@ -1515,7 +1681,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-82bf5a4282e5be6f5dd805be",
@@ -1540,7 +1706,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 86
     },
     {
       "id": "gdelt-a3d3ca04e31d536e41875871",
@@ -1565,7 +1731,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 86
     },
     {
       "id": "gdelt-798e2b565c85d8394376bb25",
@@ -1590,7 +1756,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-da552c6f6d82c42376697315",
@@ -1616,30 +1782,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
-    },
-    {
-      "id": "gdelt-1d0032b17cd567b49c1c25a1",
-      "title": "OM : Todibo à Marseille, enfin une annonce positive au mercato !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/om-todibo-a-marseille-enfin-une-annonce-positive-au-mercato-997105",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997105/406666/1200-L-om-todibo-marseille-enfin-une-annonce-positive-au-mercato.jpg",
-      "publishedAt": "2026-08-18T16:00:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "om"
-      ],
-      "topics": [
-        "om"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-1ef565c108c2f60858e3bae3",
@@ -1662,7 +1805,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-73324f74ca35946e6de26723",
@@ -1685,7 +1828,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-afbb74f7481e2c81f26e8a02",
@@ -1711,7 +1854,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.5
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-049455d84d559918664ef9bd",
@@ -1737,7 +1880,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.4
+      "qualityScore": 85
     },
     {
       "id": "gdelt-84163908dc94387fdf2b0dad",
@@ -1758,7 +1901,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 85
     },
     {
       "id": "gdelt-53a81bbd777ab146445323d7",
@@ -1781,7 +1924,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 85
     },
     {
       "id": "gdelt-cc0ed89d8b701b1eef6c36d4",
@@ -1806,7 +1949,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-2f41380bc1e4a65089c65f28",
@@ -1829,7 +1972,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-0986ce350052d03b8d86d96f",
@@ -1854,7 +1997,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-1e8fd4170988905e91ad4dd0",
@@ -1876,7 +2019,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-3e2c1410d0f73fffcf2fe29e",
@@ -1899,7 +2042,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-34bfb3539468faa6204a9df5",
@@ -1922,7 +2065,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-ab9e2ebef9a40704a46dd731",
@@ -1945,7 +2088,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-44816c28e91ce70651e48812",
@@ -1970,7 +2113,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-2215477004411b1ddc9dabd6",
@@ -1995,7 +2138,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-a7d0ce2c54be37729fe9a6fc",
@@ -2020,7 +2163,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-8c5f55d8417ad844e9c6c932",
@@ -2047,7 +2190,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-b63963a8fb1f1f12c98f1040",
@@ -2075,7 +2218,7 @@
       ],
       "reliability": "rumor",
       "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-4492dd10c66d7d5cd991ac3b",
@@ -2099,7 +2242,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-9873b9bbcb0046fbff91154e",
@@ -2122,7 +2265,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 84
     },
     {
       "id": "gdelt-d7027ae82d10ee1dfd4d33e7",
@@ -2148,7 +2291,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.2
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-357153367d1984027577d491",
@@ -2175,7 +2318,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-12d0d6d330922d87beac15e4",
@@ -2200,7 +2343,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84
+      "qualityScore": 83.6
     },
     {
       "id": "gdelt-17d44f681a5a6e70d1a7a438",
@@ -2226,7 +2369,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84
+      "qualityScore": 83.6
     },
     {
       "id": "gdelt-8fbac7c16cd43229f47d8c7e",
@@ -2250,161 +2393,9 @@
       ],
       "reliability": "rumor",
       "sourceTier": "recognized",
-      "qualityScore": 83.8
-    },
-    {
-      "id": "gdelt-a0e17a0e7c297240d55489dd",
-      "title": "Le Stade de Reims coiffe le Barça, Chelsea et l'Europe entière pour Seydou Dembélé",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7317140688486220222-le-stade-de-reims-coiffe-le-barca-chelsea-et-leurope-entiere-pour-seydou-dembele",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/seydou-dembele.jpg",
-      "publishedAt": "2026-08-17T13:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona",
-        "chelsea",
-        "reims"
-      ],
-      "topics": [
-        "barcelona",
-        "chelsea",
-        "reims"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.8
-    },
-    {
-      "id": "gdelt-0cba3d2c06b6bfe693465f45",
-      "title": "Ligue des champions, Lyon face à l'incroyable armada de Fenerbahçe",
-      "summary": "Publication référencée chez tarbes7.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://tarbes7.fr/ligue-champions-lyon-fenerbahce/",
-      "imageURL": "https://tarbes7.fr/wp-content/uploads/2026/08/6atnvdkbqr0.jpg",
-      "publishedAt": "2026-08-18T11:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "tarbes7.fr",
-        "name": "tarbes7.fr",
-        "websiteURL": "https://tarbes7.fr"
-      },
-      "teams": [
-        "ol",
-        "fenerbahce"
-      ],
-      "topics": [
-        "ol",
-        "fenerbahce",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 83.6
-    },
-    {
-      "id": "gdelt-a79c2759c02bd58a2f749807",
-      "title": "OL : Paulo Fonseca juge le niveau de son équipe avant Fenerbahçe",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4451337778673633622-ol-paulo-fonseca-juge-le-niveau-de-son-equipe-avant-fenerbahce",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo469393.jpg",
-      "publishedAt": "2026-08-17T20:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "fenerbahce",
-        "pau"
-      ],
-      "topics": [
-        "fenerbahce",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.4
-    },
-    {
-      "id": "gdelt-a2a36b9891319a5102261491",
-      "title": "OL : Paulo Fonseca se méfie sérieusement de Fenerbahçe",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7534962767236006762-ol-paulo-fonseca-se-mefie-serieusement-de-fenerbahce",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo682968-1920x1080.jpg",
-      "publishedAt": "2026-08-17T20:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "fenerbahce",
-        "pau"
-      ],
-      "topics": [
-        "fenerbahce",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.4
-    },
-    {
-      "id": "gdelt-29b5dc0964e992276150062a",
-      "title": "Mercato Newcastle. Le défenseur bosnien Amar Dedic découvrira la Premier League",
-      "summary": "Publication référencée chez hyeres.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://hyeres.maville.com/actu/actudet_-mercato-newcastle-le-defenseur-bosnien-amar-dedic-decouvrira-la-premier-league_fil-7443841_actu.Htm",
-      "imageURL": "https://www.maville.com/photosmvi/2026/08/18/P36082396D7443841G_crop_1080-600_.jpg",
-      "publishedAt": "2026-08-18T12:02:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "hyeres.maville.com",
-        "name": "hyeres.maville.com",
-        "websiteURL": "https://hyeres.maville.com"
-      },
-      "teams": [
-        "newcastle"
-      ],
-      "topics": [
-        "newcastle",
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 83
-    },
-    {
-      "id": "gdelt-ab836b2d2b52d189a29cf974",
-      "title": "Pourquoi le Real Madrid a recalé Rodri avant son départ au Barça",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1812497163842723945-pourquoi-le-real-madrid-a-recale-rodri-avant-son-depart-au-barca",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rodri-wm26.jpg",
-      "publishedAt": "2026-08-17T13:47:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid",
-        "barcelona"
-      ],
-      "topics": [
-        "real-madrid",
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 83.5
     }
   ],
-  "generatedAt": "2026-08-18T16:04:23.492Z",
+  "generatedAt": "2026-08-18T16:50:32.198Z",
   "stale": false
 }
