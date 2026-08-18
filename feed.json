@@ -23,7 +23,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 101.1
+      "qualityScore": 100.8
     },
     {
       "id": "gdelt-1c1bcce1c3e75f5d738874c5",
@@ -48,7 +48,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 100.2
+      "qualityScore": 99.9
     },
     {
       "id": "gdelt-f7b6862d72b110154bd6189d",
@@ -76,7 +76,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 100
+      "qualityScore": 99.7
     },
     {
       "id": "gdelt-d04130c38bec7978a301165a",
@@ -102,7 +102,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.8
+      "qualityScore": 99.5
     },
     {
       "id": "gdelt-7b4d40fc36fe2289521ad560",
@@ -129,7 +129,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 97.8
+      "qualityScore": 97.5
     },
     {
       "id": "gdelt-7aec45ed5b80f5fb0cba0440",
@@ -155,7 +155,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 96.2
     },
     {
       "id": "gdelt-aad7a1a6580934f85de3cb96",
@@ -182,7 +182,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 96.2
     },
     {
       "id": "gdelt-1d0032b17cd567b49c1c25a1",
@@ -205,7 +205,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 96.2
     },
     {
       "id": "gdelt-edc5b61cfc2efec9d4ab684a",
@@ -228,7 +228,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 95.8
     },
     {
       "id": "gdelt-ac76b5c6d24e8d2e5db69ad3",
@@ -251,7 +251,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.6
+      "qualityScore": 95.3
     },
     {
       "id": "gdelt-9c97154de4c9b7ce72a7d52e",
@@ -276,7 +276,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 95.2
     },
     {
       "id": "gdelt-02441f6b5e0eb5f4c6b44e70",
@@ -299,7 +299,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
+      "qualityScore": 95.1
     },
     {
       "id": "gdelt-f3a4ae0af171c933890c7dee",
@@ -322,7 +322,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 95
     },
     {
       "id": "gdelt-038d54549626f0408afd506f",
@@ -345,7 +345,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 94.9
     },
     {
       "id": "gdelt-7c7002e0e44fbdc14cf091e1",
@@ -370,7 +370,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95
+      "qualityScore": 94.7
+    },
+    {
+      "id": "gdelt-295ebb23048a99d19b074964",
+      "title": "Équipe de France : la date de l'annonce de la première liste de Zinédine Zidane connue ?",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/equipe-de-france/equipe-de-france-la-date-de-lannonce-de-la-premiere-liste-de-zinedine-zidane-connue-953694",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953694/388526/1200-L-quipe-de-france-la-date-de-lannonce-de-la-premire-liste-de-zindine-zidane-connue.jpg",
+      "publishedAt": "2026-08-18T18:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-32d9a3bd2760458ecd6dc1f0",
@@ -395,28 +416,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
-    },
-    {
-      "id": "gdelt-295ebb23048a99d19b074964",
-      "title": "Équipe de France : la date de l'annonce de la première liste de Zinédine Zidane connue ?",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/equipe-de-france/equipe-de-france-la-date-de-lannonce-de-la-premiere-liste-de-zinedine-zidane-connue-953694",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953694/388526/1200-L-quipe-de-france-la-date-de-lannonce-de-la-premire-liste-de-zindine-zidane-connue.jpg",
-      "publishedAt": "2026-08-18T18:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 94.8
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-f972e4629a0e40ea3b9fa0fc",
@@ -441,7 +441,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-061d282f0609606f254fcfbe",
@@ -464,7 +464,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-f6a7786c91885fdf1cb7031d",
@@ -490,7 +490,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
     },
     {
       "id": "gdelt-be062c43e1b005a8f6967875",
@@ -515,7 +515,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-27b0f9b7cae9032145f7cc2c",
@@ -537,7 +537,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 93.2
+    },
+    {
+      "id": "gdelt-32803ab7769de39ebe7ac79a",
+      "title": "Chelsea : Benoît Badiashile est en route pour Naples",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9002183122710052384-chelsea-benoit-badiashile-est-en-route-pour-naples",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/benoit-badiashile-2324.jpg",
+      "publishedAt": "2026-08-18T19:23:43.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "chelsea",
+        "napoli"
+      ],
+      "topics": [
+        "chelsea",
+        "napoli"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-a21f638ca2a58a05241b5dce",
@@ -562,7 +587,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-89cc73d62b101d2195a5ae77",
@@ -586,7 +611,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-64f77093a6d2b699124e821e",
@@ -609,7 +634,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-483d4a135f593b3cfae83f68",
@@ -631,7 +656,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-5b7c2190717633273491cf7b",
@@ -656,7 +681,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-e0f9d9e472d35fab24ec0433",
@@ -681,7 +706,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-b083a5b743f0c50df3ae9ab4",
@@ -706,7 +731,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-7347060bf715fc9ac1b8df8a",
@@ -730,7 +755,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-7f3afb4d3b269f1e55588f4b",
@@ -754,7 +779,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-603cbeaa6e240fdb749ea27f",
@@ -779,7 +804,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-135e85e37bdd8dbf5fa129ac",
@@ -804,7 +829,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-c77d362f9436dcfd20b41bd8",
@@ -828,7 +853,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-f8fc2e06ec5e6bfbef13c9b0",
@@ -853,7 +878,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-0fe68da512a3b6520d0dc0b6",
@@ -878,7 +903,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-7ad6ffb6e0f7c1200617388c",
@@ -903,7 +928,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-38ff99cd9cdc638526e50e46",
@@ -928,7 +953,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-59fc5b1ee92ee8f54f51f23b",
@@ -950,7 +975,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-08e5530911e6a26bc8d2e87e",
@@ -975,7 +1000,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-a6a058de0469c59888deb410",
@@ -1000,7 +1025,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-ca7ae82211b7b52426192288",
@@ -1024,7 +1049,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-126d5cd787f55c0075bc363d",
@@ -1047,7 +1072,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-7b7f4fe29f21a95be4849e57",
@@ -1068,7 +1093,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-1fd8538246616ceaad33e5a1",
@@ -1093,7 +1118,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 92
     },
     {
       "id": "gdelt-244fe1093e9d177b9b5ac226",
@@ -1117,7 +1142,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-7c4d6e061b9a44fb1b4485b5",
@@ -1142,7 +1167,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-311e268e375d3f1b32edf034",
@@ -1165,7 +1190,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-fb73763f0ece5f62e614ac61",
@@ -1188,7 +1213,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-bd77a98af0a6611501af9c11",
@@ -1211,7 +1236,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-1ab6dddad9f0c7bd08dc258b",
@@ -1234,7 +1259,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-d3feba117df1d9dfbc37e37f",
@@ -1257,7 +1282,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-8aed0f7cc09974aae90405a5",
@@ -1281,7 +1306,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-4eaf00cb45858715c17a2f2d",
@@ -1306,7 +1331,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-d60f17f351aaae3c5134cc72",
@@ -1329,7 +1354,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-202deae3fea81a8224e6742d",
@@ -1354,7 +1379,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-75a119e7784efddd09300679",
@@ -1377,7 +1402,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-32cb5169639d347955ea6831",
@@ -1400,7 +1425,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-bcf354d45cb736008168adab",
@@ -1424,7 +1449,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-759b1e979d79e6df41ae7673",
@@ -1449,7 +1474,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-d8dae7b29c62c5930fe95e0b",
@@ -1473,7 +1498,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-5c0ee34fb497caf0be8e5415",
@@ -1498,7 +1523,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-78a0a4f3c3eae912c8fa1ab4",
@@ -1523,7 +1548,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-cdfd66fec4e1cc810a9fc529",
@@ -1547,7 +1572,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-bc3cc73c15fd06ca3e0c6e59",
@@ -1571,7 +1596,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 89.3
+      "qualityScore": 89
     },
     {
       "id": "gdelt-1d62a4ce9b33237f85c951e1",
@@ -1599,7 +1624,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-9c3a33ba81542826d496c7fb",
@@ -1622,7 +1647,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-60cf0e02be178be765fddf69",
@@ -1645,7 +1670,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-71e8a4e31d560cd894578354",
@@ -1668,7 +1693,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-3f33876321234a8b600f33ca",
@@ -1694,7 +1719,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-90e9e21d8aa0b9c0375d25ac",
@@ -1717,7 +1742,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-e50b2fbdb7e41a8fa7fe34c8",
@@ -1740,7 +1765,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-85148d733133d5432c4dc2fe",
@@ -1763,7 +1788,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-b70ef7d760f08814ef39dff4",
@@ -1786,7 +1811,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-8b9c035b4037983271ea26e3",
@@ -1809,7 +1834,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-62d02ab7d722b17ce64c6f99",
@@ -1832,7 +1857,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-c62ee2d5add73a8b0e3ce061",
@@ -1855,7 +1880,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-aacd6148d9fc5813ca0fc327",
@@ -1878,7 +1903,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-c4288ab3702353ca9cc0f6e0",
@@ -1901,7 +1926,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-98d8000255504fd765f58c2b",
@@ -1924,7 +1949,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-bf261307ae1fc78b50b847b7",
@@ -1947,7 +1972,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-28fe3a4caa419b5e1a04025a",
@@ -1968,7 +1993,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-136d63010033727f991ccdd8",
@@ -1989,7 +2014,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-10e387a02fe656d8a6c16a7f",
@@ -2016,7 +2041,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-f5a3cab0d81c12faad57b952",
@@ -2039,7 +2064,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-d5f5f7fd8e7959f1d67b7341",
@@ -2062,7 +2087,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-71dab586bf5356202573c31a",
@@ -2083,7 +2108,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-465d54ed56f603e34bcb2f34",
@@ -2106,7 +2131,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-bb27ed9eee774c6252c372ea",
@@ -2129,7 +2154,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-75a8afc18b60bf536f162812",
@@ -2152,7 +2177,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-bc618afdf6c75331463aefac",
@@ -2175,7 +2200,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-9a0d0ba0f923c96fd933efb1",
@@ -2196,7 +2221,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-37ebb9772910af83c1cc4b97",
@@ -2219,7 +2244,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-0e871aad80d129d090e7a505",
@@ -2242,7 +2267,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-110f21ca01e268183bae6465",
@@ -2265,7 +2290,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-2422971a857ccf707718f73d",
@@ -2288,7 +2313,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-e16cd7254d5619e3e8ae33b5",
@@ -2311,7 +2336,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-df5c3fdf348007c2fe168d30",
@@ -2334,7 +2359,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-358deb4f740c8f4827b33861",
@@ -2357,32 +2382,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
-    },
-    {
-      "id": "gdelt-afcd7dba9b754d0e6a0b3c0e",
-      "title": "Fenerbahçe - OL : les compositions officielles",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7858323872720038817-fenerbahce-ol-les-compositions-officielles",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/malick-fofana-2526-68e8d0ba6285c.jpg",
-      "publishedAt": "2026-08-18T17:50:45.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "fenerbahce"
-      ],
-      "topics": [
-        "fenerbahce"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88.2
     }
   ],
-  "generatedAt": "2026-08-18T18:58:47.724Z",
+  "generatedAt": "2026-08-18T19:35:23.833Z",
   "stale": false
 }
