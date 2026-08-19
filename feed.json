@@ -24,7 +24,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 104.5
+      "qualityScore": 104.1
     },
     {
       "id": "gdelt-86e48d260d952822eb9e62f0",
@@ -51,7 +51,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 102.4
+      "qualityScore": 102
+    },
+    {
+      "id": "gdelt-ee382a27c048696c7b54e34b",
+      "title": "Mercato Strasbourg : Diego Moreira signe à l'AC Milan contre un très joli chèque ! (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-strasbourg-diego-moreira-signe-a-l-ac-milan-contre-un-tres-joli-cheque-officiel-535292.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260223004751-1753.jpg",
+      "publishedAt": "2026-08-19T20:06:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "strasbourg",
+        "ac-milan"
+      ],
+      "topics": [
+        "strasbourg",
+        "ac-milan"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 101.3
     },
     {
       "id": "gdelt-4393ca80e7771317095618f9",
@@ -76,7 +101,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 101.2
+      "qualityScore": 100.9
     },
     {
       "id": "gdelt-0e92a4fa6149f6406d98a87f",
@@ -101,7 +126,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 100.7
+      "qualityScore": 100.3
     },
     {
       "id": "gdelt-eb7cafbc345a6c4a106f30ac",
@@ -125,7 +150,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 100.4
+      "qualityScore": 100.1
+    },
+    {
+      "id": "gdelt-4a315166c9a4eb40fd174310",
+      "title": "Mercato OL : L'Olympique Lyonnais et trois autres clubs de Ligue 1 convoitent un jeune ailier de Sunderland",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-l-olympique-lyonnais-et-trois-autres-clubs-de-ligue-1-convoitent-un-jeune-ailier-de-sunderland-535293.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260302092741-4569.jpg",
+      "publishedAt": "2026-08-19T20:26:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "ol",
+        "sunderland"
+      ],
+      "topics": [
+        "ol",
+        "sunderland",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 99.4
     },
     {
       "id": "gdelt-6ba914947485e98cd416ec27",
@@ -151,7 +202,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99.6
+      "qualityScore": 99.2
     },
     {
       "id": "gdelt-0570a0fdc31b525dae47de7b",
@@ -177,7 +228,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 98.4
+      "qualityScore": 98
     },
     {
       "id": "gdelt-3c42602deacacdafc4ec019f",
@@ -202,7 +253,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.6
+      "qualityScore": 97.2
     },
     {
       "id": "gdelt-cc6167a719e7616e11d87d09",
@@ -227,7 +278,59 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.4
+      "qualityScore": 97
+    },
+    {
+      "id": "gdelt-48c30913b6dbae0983d2b784",
+      "title": "Ligue 1 : le choc PSG-Rennes inversé, la pelouse du Parc des Princes jugée impraticable",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-1-le-choc-psg-rennes-inverse-la-pelouse-du-parc-des-princes-jugee-impraticable-953787",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953787/388573/1200-L-ligue-1-le-choc-psg-rennes-invers-la-pelouse-du-parc-des-princes-juge-impraticable.jpg",
+      "publishedAt": "2026-08-19T21:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.7
+    },
+    {
+      "id": "gdelt-1250b300f0b534d9782a7948",
+      "title": "Info Foot-National : Akim Abdallah va quitter Guingamp pour le Pau FC",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/info-foot-national-akim-abdallah-va-quitter-guingamp-pour-le-pau-fc-953785",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953785/388572/1200-L-info-foot-national-akim-abdallah-va-quitter-guingamp-pour-le-pau-fc.jpg",
+      "publishedAt": "2026-08-19T20:51:39.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "guingamp",
+        "pau"
+      ],
+      "topics": [
+        "guingamp",
+        "pau",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.7
     },
     {
       "id": "gdelt-84d3c55c8d827c889190874b",
@@ -250,7 +353,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.9
+      "qualityScore": 96.5
     },
     {
       "id": "gdelt-a3b1066d5858cf0ef193ea47",
@@ -276,7 +379,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.4
+      "qualityScore": 96
     },
     {
       "id": "gdelt-92d57c39d1b149977ecab08c",
@@ -299,7 +402,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 95.9
     },
     {
       "id": "gdelt-dc04522fa795aa38b8307062",
@@ -325,7 +428,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 95.7
     },
     {
       "id": "gdelt-1e156a5022138e65e305f76b",
@@ -349,7 +452,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96
+      "qualityScore": 95.6
     },
     {
       "id": "gdelt-269dbe69519918fc7b739116",
@@ -375,7 +478,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-829ffdaab60107b1562ba140",
@@ -400,7 +503,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 95.4
     },
     {
       "id": "gdelt-4732147d200f35f2e63d731b",
@@ -425,7 +528,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.6
+      "qualityScore": 95.3
     },
     {
       "id": "gdelt-c02f035f0066dad2c61978dd",
@@ -450,7 +553,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
+      "qualityScore": 95
     },
     {
       "id": "gdelt-aa4c2b51257d5fdb5e13dc1d",
@@ -473,7 +576,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 94.8
     },
     {
       "id": "gdelt-eb946481c9331e3319db1208",
@@ -499,7 +602,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.4
+      "qualityScore": 94.1
     },
     {
       "id": "gdelt-65f7457d3f2ad697ea25bb89",
@@ -524,7 +627,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.7
+    },
+    {
+      "id": "gdelt-d90c3abf80cdf00711e09b20",
+      "title": "Liga : l’Atlético de Madrid s’impose contre Malaga avec un but de Kang-in Lee",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4162442870949130897-liga-latletico-de-madrid-simpose-contre-malaga-avec-un-but-de-kang-in-lee",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/atleticomadrid-6a79971dcdc25.jpg",
+      "publishedAt": "2026-08-19T21:06:10.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "atletico",
+        "malaga"
+      ],
+      "topics": [
+        "atletico",
+        "malaga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
     },
     {
       "id": "gdelt-4badde4764a240e43297939c",
@@ -550,7 +678,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-d84c86fe77381f9fc8904e48",
@@ -575,7 +703,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-153668c4dd681517de462aec",
@@ -596,7 +724,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-19eb4ade2fcdd78c606586aa",
@@ -619,7 +747,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-de0fd7c253a414041cd3d783",
@@ -643,30 +771,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
-    },
-    {
-      "id": "gdelt-da85ef1d8db50d6b50bda9b9",
-      "title": "Mercato Le Mans : Le Mans annonce l'arrivée d'un défenseur espagnol (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-le-mans-le-mans-annonce-l-arrivee-d-un-defenseur-espagnol-officiel-535224.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260731155536-2343.jpg",
-      "publishedAt": "2026-08-19T09:02:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "le-mans"
-      ],
-      "topics": [
-        "le-mans"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 92
     },
     {
       "id": "gdelt-7e3dffda3527756dfeee6777",
@@ -691,7 +796,53 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.7
+    },
+    {
+      "id": "gdelt-da85ef1d8db50d6b50bda9b9",
+      "title": "Mercato Le Mans : Le Mans annonce l'arrivée d'un défenseur espagnol (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-le-mans-le-mans-annonce-l-arrivee-d-un-defenseur-espagnol-officiel-535224.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260731155536-2343.jpg",
+      "publishedAt": "2026-08-19T09:02:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "le-mans"
+      ],
+      "topics": [
+        "le-mans"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 91.7
+    },
+    {
+      "id": "gdelt-7f74189e952c3a77cdd4bc16",
+      "title": "Mercato : Manchester City fonce sur Manu Koné pour remplacer Rodri",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6221886072759291017-mercato-manchester-city-fonce-sur-manu-kone-pour-remplacer-rodri",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/manu-kone.jpg",
+      "publishedAt": "2026-08-19T20:44:38.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "man-city"
+      ],
+      "topics": [
+        "man-city"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-6b8d647bd8a0444297d32cd7",
@@ -716,7 +867,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-099294a8e96fc5a35ee935a7",
@@ -741,7 +892,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-886f51720b063aff5519434e",
@@ -766,7 +917,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-42edf433a29cdaaa718de79e",
@@ -790,7 +941,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-f949ef91eb393dbe6ae59264",
@@ -815,7 +966,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-1e8986e6f657bd9054298731",
@@ -839,7 +990,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-4e5dfce043114a773d06f03e",
@@ -862,7 +1013,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-658167c0e7f4df993062fcd8",
@@ -885,7 +1036,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-568b206f1d55ac17cca8f174",
@@ -910,7 +1061,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 91
     },
     {
       "id": "gdelt-1fb0fd3481d829f17aef59e3",
@@ -934,7 +1085,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 91
     },
     {
       "id": "gdelt-c2ebc744499c77dace4eb62f",
@@ -959,7 +1110,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 91
     },
     {
       "id": "gdelt-a17cb4544a253960e6353ca0",
@@ -982,7 +1133,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 90.9
     },
     {
       "id": "gdelt-fedae950131c50f616f4cef3",
@@ -1005,7 +1156,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-bf9fc5d73fae0377e397277b",
@@ -1031,7 +1182,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-e39d5412400c7a24f750eab4",
@@ -1056,32 +1207,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
-    },
-    {
-      "id": "gdelt-ee382a27c048696c7b54e34b",
-      "title": "Mercato Strasbourg : Diego Moreira signe à l'AC Milan contre un très joli chèque ! (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-strasbourg-diego-moreira-signe-a-l-ac-milan-contre-un-tres-joli-cheque-officiel-535292.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260223004751-1753.jpg",
-      "publishedAt": "2026-08-19T20:06:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "strasbourg",
-        "ac-milan"
-      ],
-      "topics": [
-        "strasbourg",
-        "ac-milan"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 90
     },
     {
       "id": "gdelt-8fb852ebffb70c03b42bc327",
@@ -1107,7 +1233,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-6dacd8dba5b5da6d740d4da7",
@@ -1135,7 +1261,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-507f9e9a5b12b087147149bf",
@@ -1158,7 +1284,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-cc21c3b72d764c04c2eadbc0",
@@ -1183,7 +1309,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 89.4
+      "qualityScore": 89
+    },
+    {
+      "id": "gdelt-d0e3faa5bd56a749e2a710a5",
+      "title": "Le LOSC veut piocher en Championship pour son attaque !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2834057974687624853-le-losc-veut-piocher-en-championship-pour-son-attaque",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour700411-1920x1080.jpg",
+      "publishedAt": "2026-08-19T21:21:19.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-db577ec57d75f852697d8e71",
@@ -1206,7 +1355,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-8f5d52c397709b171a283c49",
@@ -1229,7 +1378,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-1bdb1669b0b4320bb646da19",
@@ -1252,7 +1401,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-7e5da0fa95bb65b2fbde7422",
@@ -1278,7 +1427,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-f4e6aadcfca8ee00d385fbea",
@@ -1301,7 +1450,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-24e82ba1c218df356ccba344",
@@ -1326,7 +1475,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-e1932957a36f262c2aa52959",
@@ -1351,7 +1500,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-d64d3a39de3344aef8ca2c55",
@@ -1374,7 +1523,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-18f3e5891da9f00de631e132",
@@ -1397,7 +1546,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-f94983d22bfb897a22c384fa",
@@ -1420,7 +1569,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-ae9d6a2d6ecb0f6d08c52744",
@@ -1443,7 +1592,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-1ad6b47d70114cfd0ed86c43",
@@ -1468,7 +1617,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-4ab1c1fb10a309cb805c3be3",
@@ -1493,7 +1642,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-2b20a6c5835ddf254b293f37",
@@ -1516,7 +1665,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-2eb3e121f0ad7dec7246ae09",
@@ -1541,7 +1690,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-6cc17fedab11025e20276eb8",
@@ -1564,7 +1713,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-a99afddba1e98fec65437243",
@@ -1587,7 +1736,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-78b531528c5efb5e40453a25",
@@ -1610,7 +1759,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-6c19ac80df1e7dfb5c93b324",
@@ -1633,7 +1782,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-453da251626736410e98db85",
@@ -1654,33 +1803,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
-    },
-    {
-      "id": "gdelt-4a315166c9a4eb40fd174310",
-      "title": "Mercato OL : L'Olympique Lyonnais et trois autres clubs de Ligue 1 convoitent un jeune ailier de Sunderland",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-l-olympique-lyonnais-et-trois-autres-clubs-de-ligue-1-convoitent-un-jeune-ailier-de-sunderland-535293.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260302092741-4569.jpg",
-      "publishedAt": "2026-08-19T20:26:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "ol",
-        "sunderland"
-      ],
-      "topics": [
-        "ol",
-        "sunderland",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-611d630d15daa2e9ed313dc5",
@@ -1703,7 +1826,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-64de8007036a0ea97763d987",
@@ -1726,7 +1849,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87
     },
     {
       "id": "gdelt-296298056647b6805fea3868",
@@ -1749,7 +1872,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87
     },
     {
       "id": "gdelt-1c1bcce1c3e75f5d738874c5",
@@ -1774,7 +1897,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-60473a31bab053d8fbd8fd60",
@@ -1797,7 +1920,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-d0208f7ed2de94e79a1afd75",
@@ -1818,7 +1941,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-bb1c2cc821d4edd0c863dd5b",
@@ -1839,7 +1962,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-f7b6862d72b110154bd6189d",
@@ -1867,7 +1990,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-d04130c38bec7978a301165a",
@@ -1893,7 +2016,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-7ff5cadc4366175cc7b410b6",
@@ -1914,7 +2037,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-c3b11fbf75d9b02058c4a274",
@@ -1937,7 +2060,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-f2d163992d57d74aa611e38a",
@@ -1960,30 +2083,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
-    },
-    {
-      "id": "gdelt-c64323a9003799bb904c05c3",
-      "title": "Les Girondins de Bordeaux savent quand ils seront fixés !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4604529675065780316-les-girondins-de-bordeaux-savent-quand-ils-seront-fixes",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsfrfour223910-1920x1080.jpg",
-      "publishedAt": "2026-08-19T15:07:48.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bordeaux"
-      ],
-      "topics": [
-        "bordeaux"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-54007044df9fd4c12aced023",
@@ -2008,20 +2108,43 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.9
     },
     {
-      "id": "gdelt-15193896ad055dee999e36dd",
-      "title": "Ligue 1: la pelouse du Parc victime de la canicule, le PSG débutera dimanche à Rennes",
-      "summary": "Publication référencée chez linternaute.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.linternaute.com/actualite/depeches/11197996-ligue-1-la-pelouse-du-parc-victime-de-la-canicule-le-psg-debutera-dimanche-a-rennes/",
-      "imageURL": "https://img-4.linternaute.com/I_I_ui_7LH9OhjcHSfW1nXGTN6M=/1500x/smart/537adf886f354eccaf13fa898593157a/ccmcms-linternaute/93621420.jpg",
-      "publishedAt": "2026-08-19T20:31:00.000Z",
+      "id": "gdelt-c64323a9003799bb904c05c3",
+      "title": "Les Girondins de Bordeaux savent quand ils seront fixés !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4604529675065780316-les-girondins-de-bordeaux-savent-quand-ils-seront-fixes",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsfrfour223910-1920x1080.jpg",
+      "publishedAt": "2026-08-19T15:07:48.000Z",
       "category": "news",
       "source": {
-        "id": "linternaute.com",
-        "name": "linternaute.com",
-        "websiteURL": "https://linternaute.com"
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "bordeaux"
+      ],
+      "topics": [
+        "bordeaux"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85.8
+    },
+    {
+      "id": "gdelt-827bf9aec07a025b01683f71",
+      "title": "Ligue 1: la pelouse du Parc victime de la canicule, le PSG débutera dimanche à Rennes",
+      "summary": "Publication référencée chez larepubliquedespyrenees.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.larepubliquedespyrenees.fr/societe/afp/ligue-1-la-pelouse-du-parc-victime-de-la-canicule-le-psg-debutera-dimanche-a-rennes-30308779.php",
+      "imageURL": "https://media.larepubliquedespyrenees.fr/30308779/1200x-1/pp-6a85fb1da43f5ec66977d693-ph0.jpg",
+      "publishedAt": "2026-08-19T21:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "larepubliquedespyrenees.fr",
+        "name": "larepubliquedespyrenees.fr",
+        "websiteURL": "https://larepubliquedespyrenees.fr"
       },
       "teams": [
         "psg",
@@ -2034,7 +2157,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.9
+      "qualityScore": 85.7
+    },
+    {
+      "id": "gdelt-6764fcb95cd125f56d6a4578",
+      "title": "L’AS Roma s’offre Rodrigo Mora",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8901382492983611207-las-roma-soffre-rodrigo-mora",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rodrigo-mora-2526.jpg",
+      "publishedAt": "2026-08-19T08:40:51.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "roma"
+      ],
+      "topics": [
+        "roma"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-0b9472d95f63a0c04867390c",
@@ -2058,30 +2204,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 85.9
-    },
-    {
-      "id": "gdelt-6764fcb95cd125f56d6a4578",
-      "title": "L’AS Roma s’offre Rodrigo Mora",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8901382492983611207-las-roma-soffre-rodrigo-mora",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rodrigo-mora-2526.jpg",
-      "publishedAt": "2026-08-19T08:40:51.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "roma"
-      ],
-      "topics": [
-        "roma"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-d9d10246a4d603db6d4b5ddb",
@@ -2104,7 +2227,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-a81f733ca5a604058a500897",
@@ -2125,7 +2248,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-4cc1e6949de27559435021b2",
@@ -2148,7 +2271,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 85.5
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-dc393513837fd6610c3a2b0e",
@@ -2169,26 +2292,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
-    },
-    {
-      "id": "gdelt-be81e33cbc8befb100361254",
-      "title": "Mercato : l’OM a coché le nom de Hicham Boudaoui",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3694276322720242254-lom-a-coche-le-nom-de-hicham-boudaoui",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/boudaoui-6a1610a341863.jpg",
-      "publishedAt": "2026-08-19T15:12:19.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 85
     },
     {
       "id": "gdelt-ab375514c848121f8c48cfe5",
@@ -2211,7 +2315,26 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-be81e33cbc8befb100361254",
+      "title": "Mercato : l’OM a coché le nom de Hicham Boudaoui",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3694276322720242254-lom-a-coche-le-nom-de-hicham-boudaoui",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/boudaoui-6a1610a341863.jpg",
+      "publishedAt": "2026-08-19T15:12:19.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-fa9d91e7281c49cc37ad0838",
@@ -2232,7 +2355,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-24217460086ca80003d7fbd5",
@@ -2253,59 +2376,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
-    },
-    {
-      "id": "gdelt-48c30913b6dbae0983d2b784",
-      "title": "Ligue 1 : le choc PSG-Rennes inversé, la pelouse du Parc des Princes jugée impraticable",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-1-le-choc-psg-rennes-inverse-la-pelouse-du-parc-des-princes-jugee-impraticable-953787",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953787/388573/1200-L-ligue-1-le-choc-psg-rennes-invers-la-pelouse-du-parc-des-princes-juge-impraticable.jpg",
-      "publishedAt": "2026-08-19T21:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "psg",
-        "rennes"
-      ],
-      "topics": [
-        "psg",
-        "rennes",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85
-    },
-    {
-      "id": "gdelt-1250b300f0b534d9782a7948",
-      "title": "Info Foot-National : Akim Abdallah va quitter Guingamp pour le Pau FC",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/info-foot-national-akim-abdallah-va-quitter-guingamp-pour-le-pau-fc-953785",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953785/388572/1200-L-info-foot-national-akim-abdallah-va-quitter-guingamp-pour-le-pau-fc.jpg",
-      "publishedAt": "2026-08-19T20:51:39.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "guingamp",
-        "pau"
-      ],
-      "topics": [
-        "guingamp",
-        "pau",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-92aa33336df9fcbf69cf6c97",
@@ -2331,82 +2402,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85
-    },
-    {
-      "id": "gdelt-98d6cae451d30d96d6509d21",
-      "title": "Mercato. Zion Suzuki snobe le PSG, Paul Pogba de nouveau libre… Les infos transferts du mercredi",
-      "summary": "Publication référencée chez draguignan.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://draguignan.maville.com/actu/actudet_-mercato-zion-suzuki-snobe-le-psg-paul-pogba-de-nouveau-libre-les-infos-transferts-du-mercredi-19-aout_fil-7445156_actu.Htm",
-      "imageURL": "https://www.maville.com/photosmvi/2026/08/19/P36084479D7445156G_crop_1080-600_.jpg",
-      "publishedAt": "2026-08-19T20:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "draguignan.maville.com",
-        "name": "draguignan.maville.com",
-        "websiteURL": "https://draguignan.maville.com"
-      },
-      "teams": [
-        "psg",
-        "pau"
-      ],
-      "topics": [
-        "psg",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-a0413f50f5ad889d66483f69",
-      "title": "Philippe Mexès, Abou Diaby et Pierrick Capelle nouveaux consultants de Ligue 1+",
-      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lequipe.fr/Medias/Actualites/Philippe-mexes-abou-diaby-et-pierrick-capelle-nouveaux-consultants-de-ligue-1/1712047",
-      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/abou-diaby-et-philippe-mexes-rejoignent-ligue-1-comme-consultants-a-armanet-et-f-faugere-l-equipe/1500000002556402/0:0,1606:1071-1200-800-75/55e57.jpg",
-      "publishedAt": "2026-08-19T12:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lequipe.fr",
-        "name": "lequipe.fr",
-        "websiteURL": "https://lequipe.fr"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-7b4d40fc36fe2289521ad560",
-      "title": "Mercato : Strasbourg veut profiter du grand ménage de Rennes, les chiffres du transfert de Jorgensen à Toulouse",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/mercato-strasbourg-veut-profiter-du-grand-menage-de-rennes-les-chiffres-du-transfert-de-jorgensen-a-toulouse-997106",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997106/406667/1200-L-mercato-strasbourg-veut-profiter-du-grand-mnage-de-rennes-les-chiffres-du-transfert-de-jorgensen-toulouse.jpg",
-      "publishedAt": "2026-08-18T14:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "rennes",
-        "strasbourg",
-        "toulouse"
-      ],
-      "topics": [
-        "rennes",
-        "strasbourg",
-        "toulouse"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.6
     }
   ],
-  "generatedAt": "2026-08-19T20:47:41.766Z",
+  "generatedAt": "2026-08-19T21:32:01.032Z",
   "stale": false
 }
