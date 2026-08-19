@@ -1,6 +1,33 @@
 {
   "items": [
     {
+      "id": "gdelt-86e48d260d952822eb9e62f0",
+      "title": "Ligue 2 : le Red Star officialise Buta, Dunkerque envoie un élément en Ligue 3",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-2-le-red-star-officialise-buta-dunkerque-envoie-un-element-en-ligue-3-953773",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953773/388566/1200-L-ligue-2-le-red-star-officialise-buta-dunkerque-envoie-un-lment-en-ligue-3.jpg",
+      "publishedAt": "2026-08-19T17:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "dunkerque",
+        "red-star"
+      ],
+      "topics": [
+        "dunkerque",
+        "red-star",
+        "ligue-2",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 103.8
+    },
+    {
       "id": "gdelt-6ba914947485e98cd416ec27",
       "title": "Ligue 1 : Axel Witsel signe à Nice, Lorient annonce le retour de Marama Vahirua",
       "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
@@ -24,7 +51,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 101.2
+      "qualityScore": 101
+    },
+    {
+      "id": "gdelt-0570a0fdc31b525dae47de7b",
+      "title": "Ligue 1 : Le Mans s'offre un défenseur espagnol, Nathan Ngoumou prêt à rugir avec Nice",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-1-le-mans-soffre-un-defenseur-espagnol-nathan-ngoumou-pret-a-rugir-avec-nice-953735",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953735/388547/1200-L-ligue-1-le-mans-s-offre-un-dfenseur-espagnol-nathan-ngoumou-prt-rugir-avec-nice.jpg",
+      "publishedAt": "2026-08-19T17:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "nice",
+        "le-mans"
+      ],
+      "topics": [
+        "nice",
+        "le-mans",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 99.8
     },
     {
       "id": "gdelt-cc6167a719e7616e11d87d09",
@@ -49,33 +102,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99
+      "qualityScore": 98.8
     },
     {
-      "id": "gdelt-0570a0fdc31b525dae47de7b",
-      "title": "Ligue 1 : Le Mans s'offre un défenseur espagnol, Nathan Ngoumou prêt à rugir avec Nice",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/ligue-1-le-mans-soffre-un-defenseur-espagnol-nathan-ngoumou-pret-a-rugir-avec-nice-953735",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953735/388547/1200-L-ligue-1-le-mans-s-offre-un-dfenseur-espagnol-nathan-ngoumou-prt-rugir-avec-nice.jpg",
-      "publishedAt": "2026-08-19T15:01:00.000Z",
+      "id": "gdelt-92d57c39d1b149977ecab08c",
+      "title": "Mercato SCO : Joseph Kalulu s'engage avec Angers SCO (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-sco-joseph-kalulu-s-engage-avec-angers-sco-officiel-535272.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250304110916-9349.jpg",
+      "publishedAt": "2026-08-19T17:20:00.000Z",
       "category": "transfers",
       "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
       "teams": [
-        "nice",
-        "le-mans"
+        "angers"
       ],
       "topics": [
-        "nice",
-        "le-mans",
-        "ligue-1"
+        "angers"
       ],
-      "reliability": "reported",
+      "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98.7
+      "qualityScore": 97.7
     },
     {
       "id": "gdelt-1e156a5022138e65e305f76b",
@@ -99,7 +149,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.6
+      "qualityScore": 97.4
     },
     {
       "id": "gdelt-4732147d200f35f2e63d731b",
@@ -124,7 +174,32 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.3
+      "qualityScore": 97
+    },
+    {
+      "id": "gdelt-c02f035f0066dad2c61978dd",
+      "title": "Info Foot-National : le Red Star attire un défenseur de Serie A",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/info-foot-national-le-red-star-attire-un-defenseur-de-serie-a-953757",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953757/388557/1200-L-info-foot-national-le-red-star-attire-un-dfenseur-de-serie-a.jpg",
+      "publishedAt": "2026-08-19T17:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "red-star"
+      ],
+      "topics": [
+        "red-star",
+        "serie-a",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.7
     },
     {
       "id": "gdelt-aa4c2b51257d5fdb5e13dc1d",
@@ -147,7 +222,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.8
+      "qualityScore": 96.6
     },
     {
       "id": "gdelt-269dbe69519918fc7b739116",
@@ -173,7 +248,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.6
+      "qualityScore": 96.4
     },
     {
       "id": "gdelt-eb946481c9331e3319db1208",
@@ -199,7 +274,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 95.8
     },
     {
       "id": "gdelt-65f7457d3f2ad697ea25bb89",
@@ -224,7 +299,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.7
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-4badde4764a240e43297939c",
@@ -250,7 +325,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.7
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-153668c4dd681517de462aec",
@@ -271,7 +346,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
+    },
+    {
+      "id": "gdelt-17e719da9aef95055ff4f752",
+      "title": "Ligue 1 : Le match entre le PSG et le Stade Rennais se jouera finalement au Roazhon Park (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-le-match-entre-le-psg-et-le-stade-rennais-se-jouera-finalement-au-roazhon-park-officiel-535278.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250731221755-8651.jpg",
+      "publishedAt": "2026-08-19T17:49:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes",
+        "ligue-1"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-19eb4ade2fcdd78c606586aa",
@@ -294,7 +395,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-da85ef1d8db50d6b50bda9b9",
@@ -317,7 +418,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.7
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-4e5dfce043114a773d06f03e",
@@ -340,7 +441,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-658167c0e7f4df993062fcd8",
@@ -363,7 +464,32 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.9
+    },
+    {
+      "id": "gdelt-568b206f1d55ac17cca8f174",
+      "title": "PSG-Rennes : le choc de la 1re journée déjà menacé, la pelouse du Parc des Princes impraticable ?",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/psg-rennes-le-choc-de-la-1re-journee-deja-menace-la-pelouse-du-parc-des-princes-impraticable-953776",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953776/388568/1200-L-psg-rennes-le-choc-de-la-1re-journe-dj-menac-la-pelouse-du-parc-des-princes-impraticable.jpg",
+      "publishedAt": "2026-08-19T17:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
     },
     {
       "id": "gdelt-1fb0fd3481d829f17aef59e3",
@@ -387,7 +513,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93
+      "qualityScore": 92.8
     },
     {
       "id": "gdelt-c2ebc744499c77dace4eb62f",
@@ -412,7 +538,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93
+      "qualityScore": 92.7
+    },
+    {
+      "id": "gdelt-a17cb4544a253960e6353ca0",
+      "title": "Mercato TFC : Le Toulouse FC s'offre une jeune pépite au milieu de terrain ! (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-tfc-le-toulouse-fc-s-offre-une-jeune-pepite-au-milieu-de-terrain-officiel-535207.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260819092126-1160.jpg",
+      "publishedAt": "2026-08-19T07:21:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "toulouse"
+      ],
+      "topics": [
+        "toulouse"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-42edf433a29cdaaa718de79e",
@@ -436,30 +585,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
-    },
-    {
-      "id": "gdelt-a17cb4544a253960e6353ca0",
-      "title": "Mercato TFC : Le Toulouse FC s'offre une jeune pépite au milieu de terrain ! (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-tfc-le-toulouse-fc-s-offre-une-jeune-pepite-au-milieu-de-terrain-officiel-535207.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260819092126-1160.jpg",
-      "publishedAt": "2026-08-19T07:21:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "toulouse"
-      ],
-      "topics": [
-        "toulouse"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-fedae950131c50f616f4cef3",
@@ -482,7 +608,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-bf9fc5d73fae0377e397277b",
@@ -508,7 +634,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 92
     },
     {
       "id": "gdelt-886f51720b063aff5519434e",
@@ -533,7 +659,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-099294a8e96fc5a35ee935a7",
@@ -558,7 +684,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-e39d5412400c7a24f750eab4",
@@ -583,7 +709,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-8fb852ebffb70c03b42bc327",
@@ -609,7 +735,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 91
     },
     {
       "id": "gdelt-6dacd8dba5b5da6d740d4da7",
@@ -637,7 +763,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 91
+    },
+    {
+      "id": "gdelt-cc21c3b72d764c04c2eadbc0",
+      "title": "OFFICIEL : Découvrez la composition explosive du PSG face à Aston Villa !",
+      "summary": "Publication référencée chez sixactualites.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://sixactualites.fr/actualites/officiel-decouvrez-la-composition-explosive-du-psg-face-a-aston-villa/132505/",
+      "imageURL": "https://sixactualites.fr/wp-content/uploads/2026/01/six-actualites-en-direct.jpg",
+      "publishedAt": "2026-08-19T17:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sixactualites.fr",
+        "name": "sixactualites.fr",
+        "websiteURL": "https://sixactualites.fr"
+      },
+      "teams": [
+        "psg",
+        "aston-villa"
+      ],
+      "topics": [
+        "psg",
+        "aston-villa"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "other",
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-507f9e9a5b12b087147149bf",
@@ -660,7 +811,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-db577ec57d75f852697d8e71",
@@ -683,7 +834,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-8f5d52c397709b171a283c49",
@@ -706,7 +857,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-1bdb1669b0b4320bb646da19",
@@ -729,7 +880,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-7e5da0fa95bb65b2fbde7422",
@@ -755,7 +906,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-24e82ba1c218df356ccba344",
@@ -780,7 +931,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-e1932957a36f262c2aa52959",
@@ -805,7 +956,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 90.2
+    },
+    {
+      "id": "gdelt-eb7cafbc345a6c4a106f30ac",
+      "title": "Ligue 1 : La LFP inflige une lourde sanction à Nuno Mendes après son carton rouge face au RC Lens ! (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-la-lfp-inflige-une-lourde-sanction-a-nuno-mendes-apres-son-carton-rouge-face-au-rc-lens-officiel-535277.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260816230141-1433.jpg",
+      "publishedAt": "2026-08-19T17:39:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "lens"
+      ],
+      "topics": [
+        "lens",
+        "ligue-1"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-1ad6b47d70114cfd0ed86c43",
@@ -830,7 +1005,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-4ab1c1fb10a309cb805c3be3",
@@ -855,7 +1030,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-2eb3e121f0ad7dec7246ae09",
@@ -880,7 +1055,74 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 89.6
+    },
+    {
+      "id": "gdelt-611d630d15daa2e9ed313dc5",
+      "title": "Le Bayern Munich a pris une décision forte pour Jamal Musiala",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3734037521632861393-le-bayern-munich-a-pris-une-decision-forte-pour-jamal-musiala",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine791433.jpg",
+      "publishedAt": "2026-08-19T17:49:18.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "bayern"
+      ],
+      "topics": [
+        "bayern"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-6c19ac80df1e7dfb5c93b324",
+      "title": "PSG : la commission de discipline sanctionne lourdement Nuno Mendes",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1363592287716041378-psg-la-commission-de-discipline-sanctionne-lourdement-nuno-mendes",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/nuno-69dfc46129cf2.jpg",
+      "publishedAt": "2026-08-19T17:40:44.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-ab0f4daca9ed44ed0557bc9a",
+      "title": "Justice : l'arbitre de Ligue 1 Abdelatif Kherradji condamné",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/justice-larbitre-de-ligue-1-abdelatif-kherradji-condamne-953731",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953731/388545/1200-L-justice-l-arbitre-de-ligue-1-abdelatif-kherradji-condamn.jpg",
+      "publishedAt": "2026-08-19T17:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-64de8007036a0ea97763d987",
@@ -903,7 +1145,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-296298056647b6805fea3868",
@@ -926,7 +1168,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-1c1bcce1c3e75f5d738874c5",
@@ -951,7 +1193,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-60473a31bab053d8fbd8fd60",
@@ -974,7 +1216,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-d0208f7ed2de94e79a1afd75",
@@ -995,7 +1237,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-bb1c2cc821d4edd0c863dd5b",
@@ -1016,7 +1258,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-f7b6862d72b110154bd6189d",
@@ -1044,28 +1286,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
-    },
-    {
-      "id": "gdelt-453da251626736410e98db85",
-      "title": "Ligue 1 : l’arbitre Abdelatif Kherradji condamné à six mois de prison avec sursis pour violences conjugales",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5876109066854404291-ligue-1-larbitre-abdelatif-kherradji-condamne-a-six-mois-de-prison-avec-sursis-pour-violences-conjugales",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo566578-1920x1080.jpg",
-      "publishedAt": "2026-08-19T16:49:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-d04130c38bec7978a301165a",
@@ -1091,7 +1312,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-78b531528c5efb5e40453a25",
@@ -1114,7 +1335,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 88
     },
     {
       "id": "gdelt-a99afddba1e98fec65437243",
@@ -1137,7 +1358,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-7ff5cadc4366175cc7b410b6",
@@ -1158,7 +1379,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-c3b11fbf75d9b02058c4a274",
@@ -1181,7 +1402,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-f2d163992d57d74aa611e38a",
@@ -1204,7 +1425,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
+    },
+    {
+      "id": "gdelt-c64323a9003799bb904c05c3",
+      "title": "Les Girondins de Bordeaux savent quand ils seront fixés !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4604529675065780316-les-girondins-de-bordeaux-savent-quand-ils-seront-fixes",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsfrfour223910-1920x1080.jpg",
+      "publishedAt": "2026-08-19T15:07:48.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "bordeaux"
+      ],
+      "topics": [
+        "bordeaux"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-54007044df9fd4c12aced023",
@@ -1229,30 +1473,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
-    },
-    {
-      "id": "gdelt-c64323a9003799bb904c05c3",
-      "title": "Les Girondins de Bordeaux savent quand ils seront fixés !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4604529675065780316-les-girondins-de-bordeaux-savent-quand-ils-seront-fixes",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsfrfour223910-1920x1080.jpg",
-      "publishedAt": "2026-08-19T15:07:48.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bordeaux"
-      ],
-      "topics": [
-        "bordeaux"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-6764fcb95cd125f56d6a4578",
@@ -1275,7 +1496,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-0b9472d95f63a0c04867390c",
@@ -1299,7 +1520,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-d9d10246a4d603db6d4b5ddb",
@@ -1322,7 +1543,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 87
     },
     {
       "id": "gdelt-a81f733ca5a604058a500897",
@@ -1343,7 +1564,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 87
+    },
+    {
+      "id": "gdelt-4cc1e6949de27559435021b2",
+      "title": "Officiel : le PSG annonce une grosse prolongation jusqu'en 2029 - Canal Supporters PSG 24-7",
+      "summary": "Publication référencée chez canal-supporters.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://canal-supporters.com/officiel-le-psg-annonce-une-grosse-prolongation-jusquen-2029/",
+      "imageURL": "https://canal-supporters.com/wp-content/uploads/2024/08/groenen-5.jpg",
+      "publishedAt": "2026-08-19T17:47:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "canal-supporters.com",
+        "name": "canal-supporters.com",
+        "websiteURL": "https://canal-supporters.com"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "other",
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-dc393513837fd6610c3a2b0e",
@@ -1364,7 +1608,26 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
+    },
+    {
+      "id": "gdelt-be81e33cbc8befb100361254",
+      "title": "Mercato : l’OM a coché le nom de Hicham Boudaoui",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3694276322720242254-lom-a-coche-le-nom-de-hicham-boudaoui",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/boudaoui-6a1610a341863.jpg",
+      "publishedAt": "2026-08-19T15:12:19.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-ab375514c848121f8c48cfe5",
@@ -1387,26 +1650,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
-    },
-    {
-      "id": "gdelt-be81e33cbc8befb100361254",
-      "title": "Mercato : l’OM a coché le nom de Hicham Boudaoui",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3694276322720242254-lom-a-coche-le-nom-de-hicham-boudaoui",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/boudaoui-6a1610a341863.jpg",
-      "publishedAt": "2026-08-19T15:12:19.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-fa9d91e7281c49cc37ad0838",
@@ -1427,7 +1671,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-24217460086ca80003d7fbd5",
@@ -1445,27 +1689,6 @@
       "teams": [],
       "topics": [
         "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.7
-    },
-    {
-      "id": "gdelt-a0413f50f5ad889d66483f69",
-      "title": "Philippe Mexès, Abou Diaby et Pierrick Capelle nouveaux consultants de Ligue 1+",
-      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lequipe.fr/Medias/Actualites/Philippe-mexes-abou-diaby-et-pierrick-capelle-nouveaux-consultants-de-ligue-1/1712047",
-      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/abou-diaby-et-philippe-mexes-rejoignent-ligue-1-comme-consultants-a-armanet-et-f-faugere-l-equipe/1500000002556402/0:0,1606:1071-1200-800-75/55e57.jpg",
-      "publishedAt": "2026-08-19T12:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lequipe.fr",
-        "name": "lequipe.fr",
-        "websiteURL": "https://lequipe.fr"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
@@ -1496,7 +1719,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 86.3
+    },
+    {
+      "id": "gdelt-a0413f50f5ad889d66483f69",
+      "title": "Philippe Mexès, Abou Diaby et Pierrick Capelle nouveaux consultants de Ligue 1+",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Medias/Actualites/Philippe-mexes-abou-diaby-et-pierrick-capelle-nouveaux-consultants-de-ligue-1/1712047",
+      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/abou-diaby-et-philippe-mexes-rejoignent-ligue-1-comme-consultants-a-armanet-et-f-faugere-l-equipe/1500000002556402/0:0,1606:1071-1200-800-75/55e57.jpg",
+      "publishedAt": "2026-08-19T12:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-e0871b7b4969b3b376a4bd2c",
@@ -1519,7 +1763,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-8d219b53ac0429ad8d8eb73e",
@@ -1545,7 +1789,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 86.4
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-fecf605cbf80b90eeb22a6f2",
@@ -1570,7 +1814,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-8cdf8b3eff4c9244df717a97",
@@ -1596,7 +1840,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 86
+    },
+    {
+      "id": "gdelt-489a8df69910353da0bb6e51",
+      "title": "Ligue 1 – Vers une inversion du match PSG / Rennes ? - Canal Supporters PSG 24-7",
+      "summary": "Publication référencée chez canal-supporters.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://canal-supporters.com/ligue-1-vers-une-inversion-du-match-psg-rennes/",
+      "imageURL": "https://canal-supporters.com/wp-content/uploads/2021/07/parcdesprinces.png",
+      "publishedAt": "2026-08-19T17:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "canal-supporters.com",
+        "name": "canal-supporters.com",
+        "websiteURL": "https://canal-supporters.com"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-69472abaff2ba1796a4e1804",
@@ -1619,7 +1889,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-a0bbc600da57fbf44cfe71db",
@@ -1642,7 +1912,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-2d884794191c4ebe37c4272a",
@@ -1665,7 +1935,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-9f159b97cca3cee06a4b42ae",
@@ -1688,7 +1958,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-126ddef53f89329d88636b20",
@@ -1709,30 +1979,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
-    },
-    {
-      "id": "gdelt-92d57c39d1b149977ecab08c",
-      "title": "Mercato SCO : Joseph Kalulu s'engage avec Angers SCO (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-sco-joseph-kalulu-s-engage-avec-angers-sco-officiel-535272.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250304110916-9349.jpg",
-      "publishedAt": "2026-08-19T17:20:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "angers"
-      ],
-      "topics": [
-        "angers"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-704042fa6caf0c8c9852965a",
@@ -1751,7 +1998,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-cc7f27b21654e5aea1b856e8",
@@ -1777,7 +2024,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.6
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-05fe81bc34261aa3a67ba59a",
@@ -1800,7 +2047,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-32d9a3bd2760458ecd6dc1f0",
@@ -1825,7 +2072,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 85
     },
     {
       "id": "gdelt-7aec45ed5b80f5fb0cba0440",
@@ -1851,7 +2098,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 85
     },
     {
       "id": "gdelt-aad7a1a6580934f85de3cb96",
@@ -1878,7 +2125,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 85
     },
     {
       "id": "gdelt-1d0032b17cd567b49c1c25a1",
@@ -1901,7 +2148,57 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 85
+    },
+    {
+      "id": "gdelt-8b7ef5d2904efa9ad9077c65",
+      "title": "Mercato : le PSG et Liverpool discutent intensément pour Barcola - Canal Supporters PSG 24-7",
+      "summary": "Publication référencée chez canal-supporters.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://canal-supporters.com/mercato-le-psg-et-liverpool-discutent-intensement-pour-barcola/",
+      "imageURL": "https://canal-supporters.com/wp-content/uploads/2026/03/Barcola-Kvaratskhelia.jpg",
+      "publishedAt": "2026-08-19T17:47:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "canal-supporters.com",
+        "name": "canal-supporters.com",
+        "websiteURL": "https://canal-supporters.com"
+      },
+      "teams": [
+        "psg",
+        "liverpool"
+      ],
+      "topics": [
+        "psg",
+        "liverpool"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-33e302de7cff87e64be395cf",
+      "title": "La revue de presse PSG : Messi, Mbappé, Neymar, Reims, mercato, notes…",
+      "summary": "Publication référencée chez canal-supporters.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://canal-supporters.com/la-revue-de-presse-psg-messi-mbappe-neymar-reims-mercato/",
+      "imageURL": "https://canal-supporters.com/wp-content/uploads/2021/08/Revue-de-presse-psg-21.jpg",
+      "publishedAt": "2026-08-19T17:46:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "canal-supporters.com",
+        "name": "canal-supporters.com",
+        "websiteURL": "https://canal-supporters.com"
+      },
+      "teams": [
+        "psg",
+        "reims"
+      ],
+      "topics": [
+        "psg",
+        "reims"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-c9a4d84f5059aacf4d75c1f7",
@@ -1920,7 +2217,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-4ceb9a438aaea857b618b27b",
@@ -1939,7 +2236,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-9fe5125d51a0c916dddf7514",
@@ -1965,7 +2262,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-edc5b61cfc2efec9d4ab684a",
@@ -1988,32 +2285,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-c02f035f0066dad2c61978dd",
-      "title": "Info Foot-National : le Red Star attire un défenseur de Serie A",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/info-foot-national-le-red-star-attire-un-defenseur-de-serie-a-953757",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953757/388557/1200-L-info-foot-national-le-red-star-attire-un-dfenseur-de-serie-a.jpg",
-      "publishedAt": "2026-08-19T17:04:45.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "red-star"
-      ],
-      "topics": [
-        "red-star",
-        "serie-a",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-0e593565f52ad5c704d263c3",
@@ -2036,7 +2308,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-ac76b5c6d24e8d2e5db69ad3",
@@ -2059,7 +2331,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-65401b5960f0efc38d961dcf",
@@ -2080,7 +2352,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 84
     },
     {
       "id": "gdelt-a74743111023d99813f14425",
@@ -2101,252 +2373,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
-    },
-    {
-      "id": "gdelt-14f8430f835d2f1e15c2ae2c",
-      "title": "Équipe de France : vers un groupe élargi pour la première de Zinédine Zidane ?",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/equipe-de-france/equipe-de-france-vers-un-groupe-elargi-pour-la-premiere-de-zinedine-zidane-953675",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953675/388517/1200-L-quipe-de-france-vers-un-groupe-largi-pour-la-premire-de-zindine-zidane.jpg",
-      "publishedAt": "2026-08-19T08:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.2
-    },
-    {
-      "id": "gdelt-9c97154de4c9b7ce72a7d52e",
-      "title": "Un buteur du Real Madrid signe à Strasbourg",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/mercato-jacobo-ortega-attaquant-du-real-madrid-et-de-la-castilla-est-officiellement-un-joueur-de-strasbourg",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMTcxMjE1MzIvMTE1MzMzNjctMTQwMHgxMDAwLmpwZw/1300/un-buteur-du-real-madrid-signe-a-strasbourg.jpg",
-      "publishedAt": "2026-08-18T18:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "strasbourg",
-        "real-madrid"
-      ],
-      "topics": [
-        "strasbourg",
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.2
-    },
-    {
-      "id": "gdelt-02441f6b5e0eb5f4c6b44e70",
-      "title": "LOSC : c'est officiel, Rio Mavuba fait son grand retour à Lille",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/losc-cest-officiel-rio-mavuba-fait-son-grand-retour-a-lille-953664",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953664/388512/1200-L-losc-cest-officiel-rio-mavuba-fait-son-grand-retour-lille.jpg",
-      "publishedAt": "2026-08-18T13:46:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.1
-    },
-    {
-      "id": "gdelt-44500c93ca3e8eda9835f0e1",
-      "title": "Résultat Heidenheim - Bayern Munich (2-4) Club Friendlies 1 de Amicaux Club 2026 18/08",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/8713130708602056658-heidenheim-vs-bayern-munich",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-4296118635270837066-6949918215573284716.jpg",
-      "publishedAt": "2026-08-18T23:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bayern",
-        "heidenheim"
-      ],
-      "topics": [
-        "bayern",
-        "heidenheim"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 84
-    },
-    {
-      "id": "gdelt-f3a4ae0af171c933890c7dee",
-      "title": "Mercato Lorient : Joel Mvuka quitte définitivement Lorient et retourne dans son club formateur (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-lorient-joel-mvuka-quitte-definitivement-lorient-et-retourne-dans-son-club-formateur-officiel-535132.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260104182054-6610.jpg",
-      "publishedAt": "2026-08-18T13:34:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "lorient"
-      ],
-      "topics": [
-        "lorient"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84
-    },
-    {
-      "id": "gdelt-062e2ce79d4bc4e18487b36b",
-      "title": "OM : Timothy Weah a parlé à Højbjerg pour le capitanat",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3768261649062208473-om-timothy-weah-a-parle-a-pierre-emile-hojbjerg-pour-le-capitanat",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/weah-68d1e07a07f88.jpg",
-      "publishedAt": "2026-08-19T15:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-6d2f859679ec0546489b00cc",
-      "title": "OM : Genesio explique pourquoi il a confié le brassard de capitaine à Timothy Weah",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2381211297829773075-om-genesio-explique-pourquoi-il-a-confie-le-brassard-de-capitaine-a-timothy-weah",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/weah123.jpg",
-      "publishedAt": "2026-08-19T15:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-1c5fc98445d613eed7b51db1",
-      "title": "Balerdi, Højbjerg, Aguerd : Bruno Genesio lâche ses vérités sur les dossiers chauds de l'OM",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2925142996576191345-balerdi-hojbjerg-aguerd-bruno-genesio-lache-ses-verites-sur-les-dossiers-chauds-de-lom",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/balerdi-69299591e8441.jpg",
-      "publishedAt": "2026-08-19T15:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-ae91289950b0b691b06abecb",
-      "title": "Barça : Hansi Flick a choisi les 3 capitaines",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3051410549339993787-barca-hansi-flick-a-choisi-les-3-capitaines",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/raphinha-lamine-yamal-2526.jpg",
-      "publishedAt": "2026-08-19T07:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-fb84adde3a4fde80bdf5188e",
-      "title": "Real Madrid : José Mourinho dévoile pourquoi il n'a pas voulu recruter Rodri",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8076947472287024208-real-madrid-jose-mourinho-devoile-pourquoi-il-na-pas-voulu-recruter-rodri",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine275438-1920x1080.jpg",
-      "publishedAt": "2026-08-19T07:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-391a804ae8070ae005136a9a",
-      "title": "FC Barcelone : c'est terminé pour Julian Alvarez !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a316081127986131627-fc-barcelone-cest-termine-pour-julian-alvarez",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine314314.jpg",
-      "publishedAt": "2026-08-19T07:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
     }
   ],
-  "generatedAt": "2026-08-19T17:32:51.728Z",
+  "generatedAt": "2026-08-19T18:01:33.467Z",
   "stale": false
 }
