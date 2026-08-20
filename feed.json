@@ -24,7 +24,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 105
+      "qualityScore": 104.8
     },
     {
       "id": "gdelt-17e719da9aef95055ff4f752",
@@ -50,7 +50,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98
+      "qualityScore": 97.8
+    },
+    {
+      "id": "gdelt-7688537718d0289464972c75",
+      "title": "Mercato Nantes : Le FC Nantes annonce le départ d'un flop du dernier mercato hivernal (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-nantes-le-fc-nantes-annonce-le-depart-d-un-flop-du-dernier-mercato-hivernal-officiel-535320.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260508224029-9241.jpg",
+      "publishedAt": "2026-08-20T08:52:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "nantes"
+      ],
+      "topics": [
+        "nantes"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 97.3
     },
     {
       "id": "gdelt-a84917b42d599fb41830d419",
@@ -73,7 +96,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.1
+      "qualityScore": 96.8
+    },
+    {
+      "id": "gdelt-8ac1f729826a0eb2dafe4ca2",
+      "title": "Stade Rennais : Estéban Lepaul se livre sur son nouveau statut et affiche ses ambitions avec les Bleus",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-stade-rennais-esteban-lepaul-se-livre-sur-son-nouveau-statut-et-affiche-ses-ambitions-avec-les-bleus-535322.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20251102192211-6799.jpg",
+      "publishedAt": "2026-08-20T09:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "rennes",
+        "pau"
+      ],
+      "topics": [
+        "rennes",
+        "pau",
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.5
     },
     {
       "id": "gdelt-222a3b5623b0f7ceefed4638",
@@ -96,7 +145,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.8
+      "qualityScore": 96.5
     },
     {
       "id": "gdelt-4afc430d2cc8461f40e07b5a",
@@ -122,7 +171,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 95.9
     },
     {
       "id": "gdelt-222fc8b61a3481ad83a30396",
@@ -148,7 +197,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96
+      "qualityScore": 95.8
     },
     {
       "id": "gdelt-86e48d260d952822eb9e62f0",
@@ -175,7 +224,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 95.6
+    },
+    {
+      "id": "gdelt-49e09e0fd8b578c55b2fc40a",
+      "title": "Paul Pogba quitte Monaco, Beaucaire inspiré : les infos transferts du 19 août",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/paul-pogba-quitte-monaco-beaucaire-inspire-les-infos-transferts-du-19-aout-953799",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953799/388577/1200-L-paul-pogba-quitte-monaco-beaucaire-inspir-les-infos-transferts-du-19-aot.jpg",
+      "publishedAt": "2026-08-20T09:20:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "monaco",
+        "pau"
+      ],
+      "topics": [
+        "monaco",
+        "pau"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-ee382a27c048696c7b54e34b",
@@ -200,7 +274,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 94.9
     },
     {
       "id": "gdelt-4393ca80e7771317095618f9",
@@ -225,7 +299,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.8
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-5ea370c6b83080cb13ada519",
@@ -251,7 +325,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
     },
     {
       "id": "gdelt-0e92a4fa6149f6406d98a87f",
@@ -276,7 +350,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.2
+      "qualityScore": 94
     },
     {
       "id": "gdelt-474b200940932545a3b1432b",
@@ -301,7 +375,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-c1c4f3fbbcf914cb16cf144c",
@@ -324,7 +398,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94
+      "qualityScore": 93.8
     },
     {
       "id": "gdelt-eb7cafbc345a6c4a106f30ac",
@@ -348,7 +422,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94
+      "qualityScore": 93.7
     },
     {
       "id": "gdelt-4a315166c9a4eb40fd174310",
@@ -374,7 +448,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.3
+      "qualityScore": 93.1
     },
     {
       "id": "gdelt-6ba914947485e98cd416ec27",
@@ -400,7 +474,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-61374776fdf150a74c333302",
@@ -424,7 +498,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-6579c3281139469e18dbf60c",
@@ -448,7 +522,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.5
+    },
+    {
+      "id": "gdelt-706d0c647eee470cf4492475",
+      "title": "Mercato : Manchester City est en urgence absolue",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7063602527055897338-mercato-manchester-city-est-en-urgence-absolue",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/man-city-6a85c5e0d8cb9.jpg",
+      "publishedAt": "2026-08-20T10:00:30.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "man-city"
+      ],
+      "topics": [
+        "man-city"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-95edf077bb484f4efbae6676",
@@ -472,7 +569,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-059825194c1927e39bb3565c",
@@ -496,7 +593,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-37128c16e873db96846ac084",
@@ -521,7 +618,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-cd5c4edd0bb8f21990251278",
@@ -545,7 +642,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-4974f9b6fedeb3134da73d2d",
@@ -569,7 +666,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-5308c0597214056066867c8a",
@@ -593,7 +690,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-d876e31550040bc9f301c264",
@@ -616,7 +713,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-34c198758e704c5659260261",
@@ -640,7 +737,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-0570a0fdc31b525dae47de7b",
@@ -666,7 +763,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-05d885ac31ac871c26e337f8",
@@ -692,7 +789,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-48c30913b6dbae0983d2b784",
@@ -718,7 +815,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 91
     },
     {
       "id": "gdelt-1250b300f0b534d9782a7948",
@@ -744,7 +841,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 91
     },
     {
       "id": "gdelt-dc04522fa795aa38b8307062",
@@ -770,7 +867,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.9
     },
     {
       "id": "gdelt-3c42602deacacdafc4ec019f",
@@ -795,7 +892,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.9
     },
     {
       "id": "gdelt-cc6167a719e7616e11d87d09",
@@ -820,7 +917,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-f0b4498ca9abf221df49cdd0",
@@ -844,7 +941,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-84d3c55c8d827c889190874b",
@@ -867,7 +964,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-52b4e85f4fef9c8abbb73746",
@@ -892,7 +989,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-829ffdaab60107b1562ba140",
@@ -917,7 +1014,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-a3b1066d5858cf0ef193ea47",
@@ -943,7 +1040,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-7ae930fdf0358c7327337d50",
@@ -967,7 +1064,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-92d57c39d1b149977ecab08c",
@@ -990,7 +1087,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-1e156a5022138e65e305f76b",
@@ -1014,7 +1111,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-269dbe69519918fc7b739116",
@@ -1040,7 +1137,60 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 89.1
+    },
+    {
+      "id": "gdelt-20f83b7c8bfe738b389129ef",
+      "title": "Ligue 1 : PSG intouchable, Lens et Lille en C1, le classement improbable d'Opta",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/ligue-1-psg-intouchable-lens-et-lille-en-c1-le-classement-improbable-dopta-997260",
+      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997260/406742/1200-L-ligue-1-psg-intouchable-lens-et-lille-en-c1-le-classement-improbable-d-opta.jpg",
+      "publishedAt": "2026-08-20T10:28:39.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "psg",
+        "lille",
+        "lens",
+        "saint-etienne"
+      ],
+      "topics": [
+        "psg",
+        "lille",
+        "lens",
+        "saint-etienne",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89
+    },
+    {
+      "id": "gdelt-5745e18a9fbb03002780c86b",
+      "title": "Le chien d’Arsenal change de nom après le titre",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3495894047761453636-le-chien-darsenal-change-de-nom-apres-le-titre",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/h24789-fw26-arsenal-home-product-jjz3165-01-16x9-1400715-1920x1080.jpg",
+      "publishedAt": "2026-08-20T10:06:38.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "arsenal"
+      ],
+      "topics": [
+        "arsenal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-4732147d200f35f2e63d731b",
@@ -1065,7 +1215,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-c02f035f0066dad2c61978dd",
@@ -1090,7 +1240,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-9c00c54757f7f1f56ff104e8",
@@ -1113,7 +1263,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-aa4c2b51257d5fdb5e13dc1d",
@@ -1136,7 +1286,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-05efcc974f7ec5161f106b1c",
@@ -1161,7 +1311,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-a43d59c6cffa4f98e7da8523",
@@ -1184,7 +1334,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-991f95b64ba6479f9ac1573c",
@@ -1207,7 +1357,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-e5d7ebba90c6f6a8c4c78012",
@@ -1230,7 +1380,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-222e36ae243254d6ca19a004",
@@ -1253,7 +1403,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-589b130d1ad4143185bf45a1",
@@ -1274,7 +1424,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-a896754f24659fe3321db582",
@@ -1297,7 +1447,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-d0be1a301914b958b3abf6c1",
@@ -1320,7 +1470,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-2bd6e5e321f7d97f607565ed",
@@ -1343,7 +1493,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-5f46d14a11fecd9470f0b86b",
@@ -1364,7 +1514,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-3c6cf0c67f40980f4e36bbff",
@@ -1385,7 +1535,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-15d60f9702e9a5494cc5b534",
@@ -1408,7 +1558,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-eb946481c9331e3319db1208",
@@ -1434,7 +1584,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-74173574e57c646bce14500b",
@@ -1455,7 +1605,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-3810c9b7170f3f77e09d2041",
@@ -1476,7 +1626,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-cc0055137f105ada28b26736",
@@ -1495,7 +1645,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-65f7457d3f2ad697ea25bb89",
@@ -1520,7 +1670,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-2e1ddb81f17e6191b9ab83c3",
@@ -1544,7 +1694,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 87
     },
     {
       "id": "gdelt-a01a24b6aa79a73e616dd0be",
@@ -1568,7 +1718,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 87
     },
     {
       "id": "gdelt-d90c3abf80cdf00711e09b20",
@@ -1593,7 +1743,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-7e3dffda3527756dfeee6777",
@@ -1618,7 +1768,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-d84c86fe77381f9fc8904e48",
@@ -1643,7 +1793,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-de0fd7c253a414041cd3d783",
@@ -1667,7 +1817,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-7cc58d2261dacb8dad34dc82",
@@ -1690,7 +1840,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-4badde4764a240e43297939c",
@@ -1716,28 +1866,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.4
     },
     {
-      "id": "gdelt-153668c4dd681517de462aec",
-      "title": "Ligue 1 : Les nouveaux visages de Ligue 1+ avant la nouvelle saison de Ligue 1 (officiel) !",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-les-nouveaux-visages-de-ligue-1-avant-la-nouvelle-saison-de-ligue-1-officiel-535234.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250812111535-5532.jpg",
-      "publishedAt": "2026-08-19T10:05:00.000Z",
+      "id": "gdelt-afec88c12202127fd1e055e1",
+      "title": "Officiel – Groenen prolonge au PSG !",
+      "summary": "Publication référencée chez parisfans.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.parisfans.fr/actu-feminin/officiel-groenen-prolonge-au-psg-933825.html",
+      "imageURL": "https://www.parisfans.fr/wp-content/uploads/2026/08/ICONSPORT_279771_0112.jpg",
+      "publishedAt": "2026-08-20T10:02:27.000Z",
       "category": "transfers",
       "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
+        "id": "parisfans.fr",
+        "name": "parisfans.fr",
+        "websiteURL": "https://parisfans.fr"
       },
-      "teams": [],
+      "teams": [
+        "psg"
+      ],
       "topics": [
-        "ligue-1"
+        "psg"
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-da0702df97189025e68b3764",
@@ -1760,7 +1912,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-7f74189e952c3a77cdd4bc16",
@@ -1783,7 +1935,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-2cb9abc320d7042d3670994d",
@@ -1806,7 +1958,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.9
+    },
+    {
+      "id": "gdelt-153668c4dd681517de462aec",
+      "title": "Ligue 1 : Les nouveaux visages de Ligue 1+ avant la nouvelle saison de Ligue 1 (officiel) !",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-les-nouveaux-visages-de-ligue-1-avant-la-nouvelle-saison-de-ligue-1-officiel-535234.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250812111535-5532.jpg",
+      "publishedAt": "2026-08-19T10:05:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-19eb4ade2fcdd78c606586aa",
@@ -1829,7 +2002,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-2ed7278d789eb63ff8c36c81",
@@ -1850,30 +2023,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
-    },
-    {
-      "id": "gdelt-7688537718d0289464972c75",
-      "title": "Mercato Nantes : Le FC Nantes annonce le départ d'un flop du dernier mercato hivernal (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-nantes-le-fc-nantes-annonce-le-depart-d-un-flop-du-dernier-mercato-hivernal-officiel-535320.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260508224029-9241.jpg",
-      "publishedAt": "2026-08-20T08:52:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "nantes"
-      ],
-      "topics": [
-        "nantes"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-da85ef1d8db50d6b50bda9b9",
@@ -1896,7 +2046,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-6b8d647bd8a0444297d32cd7",
@@ -1921,7 +2071,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-099294a8e96fc5a35ee935a7",
@@ -1946,7 +2096,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-886f51720b063aff5519434e",
@@ -1971,7 +2121,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-42edf433a29cdaaa718de79e",
@@ -1995,7 +2145,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-f949ef91eb393dbe6ae59264",
@@ -2020,7 +2170,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-1e8986e6f657bd9054298731",
@@ -2044,7 +2194,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-4e5dfce043114a773d06f03e",
@@ -2067,7 +2217,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85.1
+    },
+    {
+      "id": "gdelt-587d15ef0c23c4d6a6556c2a",
+      "title": "RC Lens : Bonne nouvelle pour Dino Toppmöller à deux jours de la reprise de la Ligue 1 face à l'AJ Auxerre",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-rc-lens-bonne-nouvelle-pour-dino-toppmoller-a-deux-jours-de-la-reprise-de-la-ligue-1-face-a-l-aj-auxerre-535327.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260803105846-5898.jpg",
+      "publishedAt": "2026-08-20T09:55:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "lens",
+        "auxerre"
+      ],
+      "topics": [
+        "lens",
+        "auxerre",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-658167c0e7f4df993062fcd8",
@@ -2090,7 +2266,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-568b206f1d55ac17cca8f174",
@@ -2115,7 +2291,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-1fb0fd3481d829f17aef59e3",
@@ -2139,7 +2315,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-c2ebc744499c77dace4eb62f",
@@ -2164,33 +2340,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-8ac1f729826a0eb2dafe4ca2",
-      "title": "Stade Rennais : Estéban Lepaul se livre sur son nouveau statut et affiche ses ambitions avec les Bleus",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-stade-rennais-esteban-lepaul-se-livre-sur-son-nouveau-statut-et-affiche-ses-ambitions-avec-les-bleus-535322.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20251102192211-6799.jpg",
-      "publishedAt": "2026-08-20T09:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "rennes",
-        "pau"
-      ],
-      "topics": [
-        "rennes",
-        "pau",
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-a17cb4544a253960e6353ca0",
@@ -2213,7 +2363,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-fedae950131c50f616f4cef3",
@@ -2236,7 +2386,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-10e387a02fe656d8a6c16a7f",
@@ -2263,146 +2413,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-bf9fc5d73fae0377e397277b",
-      "title": "Ligue des Champions : Paulo Fonseca (OL) salue « le courage » de ses joueurs contre Fenerbahçe",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-paulo-fonseca-ol-salue-le-courage-de-ses-joueurs-contre-fenerbahce-953711",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953711/388536/1200-L-ligue-des-champions-paulo-fonseca-ol-salue-le-courage-de-ses-joueurs-contre-fenerbahe.jpg",
-      "publishedAt": "2026-08-19T08:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "fenerbahce",
-        "pau"
-      ],
-      "topics": [
-        "fenerbahce",
-        "pau",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 84.1
-    },
-    {
-      "id": "gdelt-caf223b4885a57ccbc9286a4",
-      "title": "OM : Frank McCourt a reçu un gros coup de pression",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2009923055879982958-om-frank-mccourt-a-recu-un-gros-coup-de-pression",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mccourt.jpg",
-      "publishedAt": "2026-08-20T07:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84
-    },
-    {
-      "id": "gdelt-e39d5412400c7a24f750eab4",
-      "title": "Mercato OL : Paulo Fonseca fait une annonce importante sur Malick Fofana avant le barrage retour contre le Fenerbahçe",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-paulo-fonseca-fait-une-annonce-importante-sur-malick-fofana-avant-le-barrage-retour-contre-le-fenerbahce-535196.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260308180334-5944.jpg",
-      "publishedAt": "2026-08-18T21:28:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "fenerbahce",
-        "pau"
-      ],
-      "topics": [
-        "fenerbahce",
-        "pau"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-49e09e0fd8b578c55b2fc40a",
-      "title": "Paul Pogba quitte Monaco, Beaucaire inspiré : les infos transferts du 19 août",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/paul-pogba-quitte-monaco-beaucaire-inspire-les-infos-transferts-du-19-aout-953799",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953799/388577/1200-L-paul-pogba-quitte-monaco-beaucaire-inspir-les-infos-transferts-du-19-aot.jpg",
-      "publishedAt": "2026-08-20T09:20:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "monaco",
-        "pau"
-      ],
-      "topics": [
-        "monaco",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.8
-    },
-    {
-      "id": "gdelt-08046e88538f99e0bdc31ea3",
-      "title": "Le Cetlic et Bodø/Glimt en pôle position pour la Ligue des champions",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/barrages-de-ligue-des-champions-le-cetlic-glasgow-et-bodo-glimt-prennent-une-option",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMTkyMjQ0MjUvMTQ0NzkwMjctMTQwMHg5NDIuanBn/1300/le-cetlic-et-bod-c3-b8-glimt-en-pole-position-pour-la-ligue-des-champions.jpg",
-      "publishedAt": "2026-08-19T22:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.5
-    },
-    {
-      "id": "gdelt-1c6d958dde3d19c34043d48d",
-      "title": "Un arbitre de Ligue 1 condamné à 6 mois de prison avec sursis pour violences conjugales",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/un-arbitre-de-ligue-1-condamne-a-6-mois-de-prison-avec-sursis-pour-violences-conjugales",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMDcxNzQ4MTcvMTMzMDMwNjItMTQwMHg5MzMuanBn/1300/un-arbitre-de-ligue-1-condamne-a-6-mois-de-prison-avec-sursis-pour-violences-conjugales.jpg",
-      "publishedAt": "2026-08-19T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.5
     }
   ],
-  "generatedAt": "2026-08-20T09:44:45.156Z",
+  "generatedAt": "2026-08-20T10:14:51.351Z",
   "stale": false
 }
