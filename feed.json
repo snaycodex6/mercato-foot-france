@@ -24,7 +24,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 105.4
+      "qualityScore": 105
     },
     {
       "id": "gdelt-17e719da9aef95055ff4f752",
@@ -50,7 +50,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98.4
+      "qualityScore": 98
     },
     {
       "id": "gdelt-a84917b42d599fb41830d419",
@@ -73,7 +73,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.5
+      "qualityScore": 97.1
     },
     {
       "id": "gdelt-222a3b5623b0f7ceefed4638",
@@ -96,7 +96,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.2
+      "qualityScore": 96.8
     },
     {
       "id": "gdelt-4afc430d2cc8461f40e07b5a",
@@ -122,7 +122,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 96.1
     },
     {
       "id": "gdelt-222fc8b61a3481ad83a30396",
@@ -148,7 +148,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.4
+      "qualityScore": 96
     },
     {
       "id": "gdelt-86e48d260d952822eb9e62f0",
@@ -175,7 +175,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 95.9
     },
     {
       "id": "gdelt-ee382a27c048696c7b54e34b",
@@ -200,7 +200,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.6
+      "qualityScore": 95.2
     },
     {
       "id": "gdelt-4393ca80e7771317095618f9",
@@ -225,7 +225,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 94.8
     },
     {
       "id": "gdelt-5ea370c6b83080cb13ada519",
@@ -251,7 +251,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.7
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-0e92a4fa6149f6406d98a87f",
@@ -276,7 +276,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 94.2
     },
     {
       "id": "gdelt-474b200940932545a3b1432b",
@@ -301,7 +301,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.5
+      "qualityScore": 94.1
     },
     {
       "id": "gdelt-c1c4f3fbbcf914cb16cf144c",
@@ -324,7 +324,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.4
+      "qualityScore": 94
     },
     {
       "id": "gdelt-eb7cafbc345a6c4a106f30ac",
@@ -348,7 +348,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
     },
     {
       "id": "gdelt-4a315166c9a4eb40fd174310",
@@ -374,7 +374,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.7
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-6ba914947485e98cd416ec27",
@@ -400,7 +400,55 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 93.1
+    },
+    {
+      "id": "gdelt-61374776fdf150a74c333302",
+      "title": "FC Barcelone : João Cancelo n’est toujours pas inscrit auprès de la Liga",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a900106298735382135-fc-barcelone-joao-cancelo-nest-toujours-pas-inscrit-aupres-de-la-liga",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joao-cancelo-2526-1.jpg",
+      "publishedAt": "2026-08-20T09:33:42.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona",
+        "la-liga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
+    },
+    {
+      "id": "gdelt-6579c3281139469e18dbf60c",
+      "title": "Estéban Lepaul a déjà la Ligue des champions en tête",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/rennes-esteban-lepaul-reve-de-ligue-des-champions-apres-son-titre-de-meilleur-buteur",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMDIyMjAwMzQvMTQzNDU1NDYtMTQwMHg5MzMuanBn/1300/esteban-lepaul-a-deja-la-ligue-des-champions-en-tete.jpg",
+      "publishedAt": "2026-08-20T09:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "pau"
+      ],
+      "topics": [
+        "pau",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
     },
     {
       "id": "gdelt-95edf077bb484f4efbae6676",
@@ -424,7 +472,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 92
     },
     {
       "id": "gdelt-059825194c1927e39bb3565c",
@@ -448,7 +496,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 92
     },
     {
       "id": "gdelt-37128c16e873db96846ac084",
@@ -473,7 +521,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 92
     },
     {
       "id": "gdelt-cd5c4edd0bb8f21990251278",
@@ -497,7 +545,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 92
     },
     {
       "id": "gdelt-4974f9b6fedeb3134da73d2d",
@@ -521,7 +569,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 92
     },
     {
       "id": "gdelt-5308c0597214056066867c8a",
@@ -545,7 +593,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 92
+    },
+    {
+      "id": "gdelt-d876e31550040bc9f301c264",
+      "title": "Mercato en direct : un poids lourd du Barça sur le départ, la L1 recale un ex-Bleu",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3523318080636245904-mercato-en-direct-un-poids-lourd-du-barca-sur-le-depart-la-l1-recale-un-ex-bleu",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/de-jong-raphinha-2324.jpg",
+      "publishedAt": "2026-08-20T09:30:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-34c198758e704c5659260261",
@@ -569,7 +640,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-0570a0fdc31b525dae47de7b",
@@ -595,7 +666,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-05d885ac31ac871c26e337f8",
@@ -621,7 +692,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-48c30913b6dbae0983d2b784",
@@ -647,7 +718,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-1250b300f0b534d9782a7948",
@@ -673,7 +744,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-dc04522fa795aa38b8307062",
@@ -699,7 +770,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-3c42602deacacdafc4ec019f",
@@ -724,7 +795,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-cc6167a719e7616e11d87d09",
@@ -749,7 +820,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 90.9
     },
     {
       "id": "gdelt-f0b4498ca9abf221df49cdd0",
@@ -773,7 +844,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-84d3c55c8d827c889190874b",
@@ -796,7 +867,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-52b4e85f4fef9c8abbb73746",
@@ -821,7 +892,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-829ffdaab60107b1562ba140",
@@ -846,7 +917,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-a3b1066d5858cf0ef193ea47",
@@ -872,30 +943,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
-    },
-    {
-      "id": "gdelt-92d57c39d1b149977ecab08c",
-      "title": "Mercato SCO : Joseph Kalulu s'engage avec Angers SCO (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-sco-joseph-kalulu-s-engage-avec-angers-sco-officiel-535272.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250304110916-9349.jpg",
-      "publishedAt": "2026-08-19T17:20:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "angers"
-      ],
-      "topics": [
-        "angers"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-7ae930fdf0358c7327337d50",
@@ -919,7 +967,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 89.8
+    },
+    {
+      "id": "gdelt-92d57c39d1b149977ecab08c",
+      "title": "Mercato SCO : Joseph Kalulu s'engage avec Angers SCO (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-sco-joseph-kalulu-s-engage-avec-angers-sco-officiel-535272.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250304110916-9349.jpg",
+      "publishedAt": "2026-08-19T17:20:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "angers"
+      ],
+      "topics": [
+        "angers"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-1e156a5022138e65e305f76b",
@@ -943,7 +1014,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-269dbe69519918fc7b739116",
@@ -969,7 +1040,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-4732147d200f35f2e63d731b",
@@ -994,7 +1065,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-c02f035f0066dad2c61978dd",
@@ -1019,7 +1090,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-9c00c54757f7f1f56ff104e8",
+      "title": "Les coulisses du recrutement de Rayan Cherki à Manchester City",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/les-coulisses-du-recrutement-de-rayan-cherki-a-manchester-city",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjAwOTUwMjAvMTM4NjkyNjktMTQwMHg5ODMuanBn/1300/les-coulisses-du-recrutement-de-rayan-cherki-a-manchester-city.jpg",
+      "publishedAt": "2026-08-20T09:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "man-city"
+      ],
+      "topics": [
+        "man-city"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-aa4c2b51257d5fdb5e13dc1d",
@@ -1042,7 +1136,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-05efcc974f7ec5161f106b1c",
@@ -1067,7 +1161,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-a43d59c6cffa4f98e7da8523",
@@ -1090,7 +1184,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-991f95b64ba6479f9ac1573c",
@@ -1113,7 +1207,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-e5d7ebba90c6f6a8c4c78012",
@@ -1136,7 +1230,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-222e36ae243254d6ca19a004",
@@ -1159,7 +1253,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-589b130d1ad4143185bf45a1",
@@ -1180,7 +1274,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-a896754f24659fe3321db582",
@@ -1203,7 +1297,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-d0be1a301914b958b3abf6c1",
@@ -1226,7 +1320,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-2bd6e5e321f7d97f607565ed",
@@ -1249,7 +1343,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-5f46d14a11fecd9470f0b86b",
@@ -1270,7 +1364,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-3c6cf0c67f40980f4e36bbff",
@@ -1291,7 +1385,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-15d60f9702e9a5494cc5b534",
@@ -1314,49 +1408,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
-    },
-    {
-      "id": "gdelt-74173574e57c646bce14500b",
-      "title": "Rudy Gobert-Victor Wembanyama, une nouvelle chance en équipe de France pour un duo au « potentiel énorme »",
-      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lequipe.fr/Basket/Article/-un-potentiel-enorme-une-association-gobert-wembanyama-peut-elle-fonctionner-en-equipe-de-france/1712146",
-      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/rudy-gobert-et-victor-wembanyama-avaient-ete-associes-lors-de-la-phase-de-groupes-des-jo-2024-comme-ici-lors-de-la-defaite-face-a-l-allemagne-71-85-a-reau-l-equipe/1500000002556678/55:146,1730:1263-1200-800-75/4f0d7",
-      "publishedAt": "2026-08-20T07:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lequipe.fr",
-        "name": "lequipe.fr",
-        "websiteURL": "https://lequipe.fr"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.3
-    },
-    {
-      "id": "gdelt-3810c9b7170f3f77e09d2041",
-      "title": "Comment associer Wembanyama et Gobert en équipe de France ? On a demandé à Frédéric Weis et Alexis Ajinça",
-      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lequipe.fr/Basket/Actualites/Comment-associer-wembanyama-et-gobert-en-equipe-de-france-on-a-demande-a-frederic-weis-et-alexis-ajinca/1712163",
-      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/victor-wembanyama-et-rudy-gobert-inconsolables-apres-la-defaite-des-bleus-en-finale-des-jo-2024-a-re/1500000002556717/304:23,1760:993-1200-800-75/7e4f5.jpg",
-      "publishedAt": "2026-08-20T07:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lequipe.fr",
-        "name": "lequipe.fr",
-        "websiteURL": "https://lequipe.fr"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 88
     },
     {
       "id": "gdelt-eb946481c9331e3319db1208",
@@ -1382,7 +1434,68 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 88
+    },
+    {
+      "id": "gdelt-74173574e57c646bce14500b",
+      "title": "Rudy Gobert-Victor Wembanyama, une nouvelle chance en équipe de France pour un duo au « potentiel énorme »",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Basket/Article/-un-potentiel-enorme-une-association-gobert-wembanyama-peut-elle-fonctionner-en-equipe-de-france/1712146",
+      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/rudy-gobert-et-victor-wembanyama-avaient-ete-associes-lors-de-la-phase-de-groupes-des-jo-2024-comme-ici-lors-de-la-defaite-face-a-l-allemagne-71-85-a-reau-l-equipe/1500000002556678/55:146,1730:1263-1200-800-75/4f0d7",
+      "publishedAt": "2026-08-20T07:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.9
+    },
+    {
+      "id": "gdelt-3810c9b7170f3f77e09d2041",
+      "title": "Comment associer Wembanyama et Gobert en équipe de France ? On a demandé à Frédéric Weis et Alexis Ajinça",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Basket/Actualites/Comment-associer-wembanyama-et-gobert-en-equipe-de-france-on-a-demande-a-frederic-weis-et-alexis-ajinca/1712163",
+      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/victor-wembanyama-et-rudy-gobert-inconsolables-apres-la-defaite-des-bleus-en-finale-des-jo-2024-a-re/1500000002556717/304:23,1760:993-1200-800-75/7e4f5.jpg",
+      "publishedAt": "2026-08-20T07:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.9
+    },
+    {
+      "id": "gdelt-cc0055137f105ada28b26736",
+      "title": "Mercato : où est passé Anthony Martial ?",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6378141683744820776-mercato-ou-est-passe-anthony-martial",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/anthony-martial-mexique.jpg",
+      "publishedAt": "2026-08-20T09:09:03.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-65f7457d3f2ad697ea25bb89",
@@ -1407,7 +1520,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-2e1ddb81f17e6191b9ab83c3",
@@ -1431,7 +1544,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-a01a24b6aa79a73e616dd0be",
@@ -1455,7 +1568,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-d90c3abf80cdf00711e09b20",
@@ -1480,7 +1593,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-7e3dffda3527756dfeee6777",
@@ -1505,7 +1618,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-d84c86fe77381f9fc8904e48",
@@ -1530,7 +1643,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-de0fd7c253a414041cd3d783",
@@ -1554,7 +1667,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-7cc58d2261dacb8dad34dc82",
@@ -1577,7 +1690,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-4badde4764a240e43297939c",
@@ -1603,7 +1716,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-153668c4dd681517de462aec",
@@ -1624,7 +1737,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-da0702df97189025e68b3764",
@@ -1647,7 +1760,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-7f74189e952c3a77cdd4bc16",
@@ -1670,7 +1783,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-2cb9abc320d7042d3670994d",
@@ -1693,7 +1806,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-19eb4ade2fcdd78c606586aa",
@@ -1716,7 +1829,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 86
     },
     {
       "id": "gdelt-2ed7278d789eb63ff8c36c81",
@@ -1737,7 +1850,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.8
+    },
+    {
+      "id": "gdelt-7688537718d0289464972c75",
+      "title": "Mercato Nantes : Le FC Nantes annonce le départ d'un flop du dernier mercato hivernal (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-nantes-le-fc-nantes-annonce-le-depart-d-un-flop-du-dernier-mercato-hivernal-officiel-535320.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260508224029-9241.jpg",
+      "publishedAt": "2026-08-20T08:52:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "nantes"
+      ],
+      "topics": [
+        "nantes"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-da85ef1d8db50d6b50bda9b9",
@@ -1760,7 +1896,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-6b8d647bd8a0444297d32cd7",
@@ -1785,7 +1921,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-099294a8e96fc5a35ee935a7",
@@ -1810,7 +1946,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-886f51720b063aff5519434e",
@@ -1835,7 +1971,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-42edf433a29cdaaa718de79e",
@@ -1859,7 +1995,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-f949ef91eb393dbe6ae59264",
@@ -1884,7 +2020,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-1e8986e6f657bd9054298731",
@@ -1908,7 +2044,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-4e5dfce043114a773d06f03e",
@@ -1931,7 +2067,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-658167c0e7f4df993062fcd8",
@@ -1954,7 +2090,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85
     },
     {
       "id": "gdelt-568b206f1d55ac17cca8f174",
@@ -1979,7 +2115,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-1fb0fd3481d829f17aef59e3",
@@ -2003,7 +2139,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-c2ebc744499c77dace4eb62f",
@@ -2028,7 +2164,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-8ac1f729826a0eb2dafe4ca2",
+      "title": "Stade Rennais : Estéban Lepaul se livre sur son nouveau statut et affiche ses ambitions avec les Bleus",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-stade-rennais-esteban-lepaul-se-livre-sur-son-nouveau-statut-et-affiche-ses-ambitions-avec-les-bleus-535322.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20251102192211-6799.jpg",
+      "publishedAt": "2026-08-20T09:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "rennes",
+        "pau"
+      ],
+      "topics": [
+        "rennes",
+        "pau",
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-a17cb4544a253960e6353ca0",
@@ -2051,7 +2213,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-fedae950131c50f616f4cef3",
@@ -2074,7 +2236,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-10e387a02fe656d8a6c16a7f",
@@ -2101,7 +2263,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-bf9fc5d73fae0377e397277b",
@@ -2127,7 +2289,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-caf223b4885a57ccbc9286a4",
@@ -2146,7 +2308,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 84
     },
     {
       "id": "gdelt-e39d5412400c7a24f750eab4",
@@ -2171,7 +2333,32 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 83.9
+    },
+    {
+      "id": "gdelt-49e09e0fd8b578c55b2fc40a",
+      "title": "Paul Pogba quitte Monaco, Beaucaire inspiré : les infos transferts du 19 août",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/paul-pogba-quitte-monaco-beaucaire-inspire-les-infos-transferts-du-19-aout-953799",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953799/388577/1200-L-paul-pogba-quitte-monaco-beaucaire-inspir-les-infos-transferts-du-19-aot.jpg",
+      "publishedAt": "2026-08-20T09:20:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "monaco",
+        "pau"
+      ],
+      "topics": [
+        "monaco",
+        "pau"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-08046e88538f99e0bdc31ea3",
@@ -2192,7 +2379,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-1c6d958dde3d19c34043d48d",
@@ -2213,185 +2400,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-97b0cfa7292cf6df65a4376e",
-      "title": "L'équipe de France perd un survivant - Carnet noir",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/le-dernier-survivant-de-lequipe-de-france-1958-robert-mouynet-est-mort-a-96-ans",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMTkyMDE3NDcvSUNPTlNQT1JUXzAwMDQzN18wMDAyLTE0MDB4MTAzNS5qcGc/1300/l-equipe-de-france-perd-un-survivant.jpg",
-      "publishedAt": "2026-08-19T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-49cb2d5c88967766ceccf668",
-      "title": "Le PIF continue ses expérimentations en Saudi Pro League",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/le-pif-continue-ses-experimentations-en-arabie-saoudite-et-devient-proprietaire-des-3-plus-gros-clubs-saoudiens",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDEvMjkxMjU1MjQvMTEyMTE4MDctMTQwMHg5MzMuanBn/1300/le-pif-continue-ses-experimentations-en-saudi-pro-league.jpg",
-      "publishedAt": "2026-08-19T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [
-        "saudi-pro-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-ad39d559da8d7b4e6084b9ce",
-      "title": "Timothy Weah parle de l'incertitude autour de la situation de l'OM - France - Olympique de Marseille",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/timothy-weah-parle-de-lincertitude-autour-de-la-situation-de-lom",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMTkxNTA5MjMvMTQ0NzIwNTctMTQwMHg5MzQuanBn/1300/timothy-weah-parle-de-l-incertitude-autour-de-la-situation-de-l-om.jpg",
-      "publishedAt": "2026-08-19T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "om"
-      ],
-      "topics": [
-        "om"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-9e44a1f395c71c77bd4a1693",
-      "title": "Mbappé fait « rire » Mourinho à l'entraînement - Espagne - Real Madrid",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/jose-mourinho-dithyrambique-au-sujet-du-niveau-de-kylian-mbappe",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMTkxNTMyMjAvMTQ0NzE4NjEtMTQwMHg5MzYuanBn/1300/mbappe-fait--c2-ab-e2-80-afrire-e2-80-af-c2-bb-mourinho-a-l-entrainement.jpg",
-      "publishedAt": "2026-08-19T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-f3d0add9e02dd97a56a97b34",
-      "title": "Kang-In Lee marque un but fou pour l'Atlético de Madrid",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/latletico-de-madrid-gagne-son-premier-match-de-liga-de-la-saison-contre-malaga",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMTkyMzE1NTEvMTQ0NzkxNDgtMTQwMHg5MzYuanBn/1300/kang-in-lee-marque-un-but-fou-pour-l-atletico-de-madrid.jpg",
-      "publishedAt": "2026-08-19T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "atletico"
-      ],
-      "topics": [
-        "atletico"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-367c348e45a97646e720436b",
-      "title": "Les trois Ballons d'or recrutés par le Barça dans son histoire - Espagne - FC Barcelone",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/rodri-est-le-troisieme-ballon-dor-recrute-par-le-barca-le-premier-depuis-presque-50-ans",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMTkxNDU1MDgvOTEzNTAzMy0xNDAweDkzMy5qcGc/1300/les-trois-ballons-d-or-recrutes-par-le-barca-dans-son-histoire.jpg",
-      "publishedAt": "2026-08-19T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-5b31fed7d5504ca5d1458b39",
-      "title": "Tom Renaud : « Il ne faut pas que la dépression soit un tabou dans le foot » - C4 - Barrages - Hearts-Rapid Vienne",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/articles/entretien-tom-renaud-de-versailles-a-heart-of-midlothian-il-ne-faut-pas-que-la-depression-soit-un-tabou-dans-le-foot",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMTkxODIzMzIvV2hhdHNBcHAtSW1hZ2UtMjAyNi0wOC0xOS1hdC0xNy4yMi4zNC0xNDAweDkzNC5qcGVn/1300/tom-renaud-e2-80-af--c2-ab-c2-a0il-ne-faut-pas-que-la-depression-soit-un-tabou-dans-le-foot-c2-a0-c2-bb.jpg",
-      "publishedAt": "2026-08-20T06:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.7
-    },
-    {
-      "id": "gdelt-d64d3a39de3344aef8ca2c55",
-      "title": "Galatasaray a fait une offre pour Bilal El Khannouss",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4617147338185028874-galatasaray-a-fait-une-offre-pour-bilal-el-khannouss",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine800298-1920x1080.jpg",
-      "publishedAt": "2026-08-19T22:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "galatasaray"
-      ],
-      "topics": [
-        "galatasaray"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 83.5
     }
   ],
-  "generatedAt": "2026-08-20T08:58:14.327Z",
+  "generatedAt": "2026-08-20T09:44:45.156Z",
   "stale": false
 }
