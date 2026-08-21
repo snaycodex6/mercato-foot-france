@@ -26,7 +26,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 98.7
+      "qualityScore": 98.3
     },
     {
       "id": "gdelt-817a65ae07546072dd66eee6",
@@ -52,7 +52,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 95.4
     },
     {
       "id": "gdelt-0839769317cc0e1a77e124ef",
@@ -79,7 +79,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.6
+      "qualityScore": 95.2
     },
     {
       "id": "gdelt-d5abddcbd145a9b090bc9251",
@@ -103,7 +103,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 94.8
     },
     {
       "id": "gdelt-be6afcc5fd3bc9c753d822f1",
@@ -129,7 +129,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-2f271d242a6d4a5b69a692ee",
@@ -155,7 +155,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.2
+      "qualityScore": 93.8
     },
     {
       "id": "gdelt-b6a0dfaaa5cee5481288176e",
@@ -181,7 +181,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 93
     },
     {
       "id": "gdelt-8cdf8b3eff4c9244df717a97",
@@ -207,7 +207,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.4
     },
     {
       "id": "gdelt-9f1fcb054c9cc7e4d4ddebfb",
@@ -231,7 +231,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-20f83b7c8bfe738b389129ef",
@@ -261,7 +261,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-894621e46ca422b16590ee58",
@@ -287,7 +287,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.5
+    },
+    {
+      "id": "gdelt-cbe4b8323d84f878c8aaa08a",
+      "title": "Un ailier du LOSC prêté en Eredivisie",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/mercato-lailier-du-losc-marius-broholm-fait-ses-valises-pour-les-pays-bas-apres-une-petite-saison",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjAxODAzMzYvMTI4ODI3NjEtMTQwMHg5MzMuanBn/1300/un-ailier-du-losc-prete-en-eredivisie.jpg",
+      "publishedAt": "2026-08-20T19:47:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille",
+        "eredivisie"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-aeb1c004461e5fe5982ac7d7",
@@ -312,31 +336,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
-    },
-    {
-      "id": "gdelt-cbe4b8323d84f878c8aaa08a",
-      "title": "Un ailier du LOSC prêté en Eredivisie",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/mercato-lailier-du-losc-marius-broholm-fait-ses-valises-pour-les-pays-bas-apres-une-petite-saison",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjAxODAzMzYvMTI4ODI3NjEtMTQwMHg5MzMuanBn/1300/un-ailier-du-losc-prete-en-eredivisie.jpg",
-      "publishedAt": "2026-08-20T19:47:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille",
-        "eredivisie"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-a5027251855f06cb7b54eb95",
@@ -359,7 +359,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-4f35580e727918430cb96773",
@@ -384,7 +384,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-9ca2b4fcebad33b39d407644",
@@ -408,7 +408,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-a82bf6b49649f9f4cab86c25",
@@ -432,7 +432,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-2dd353ca12cc2495e15ef146",
@@ -457,7 +457,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-9f01c32dccb1becced51869e",
@@ -483,7 +483,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90
     },
     {
       "id": "gdelt-390c5f77273c4e900ae0306d",
@@ -507,7 +507,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-e520c1afee880ff12962a860",
@@ -531,7 +531,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-ddadb1538957007f564557a0",
@@ -555,7 +555,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-2beed731ae4d00654a6e1e9e",
@@ -580,7 +580,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-b6b7def234b4e2c4dff7a20f",
@@ -606,7 +606,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-681957ee0a247ac46dde74b5",
@@ -629,7 +629,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-6d4997560c2a1622e4c0b05d",
@@ -654,7 +654,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-80ef166329f715efc050f5f6",
@@ -677,7 +677,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-00b5b958f2321eb52ceba561",
@@ -703,7 +703,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-ebc2a970288f395f22583caf",
@@ -729,7 +729,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-afec88c12202127fd1e055e1",
@@ -752,7 +752,174 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-ae7f324e20f0aaf6248ea35c",
+      "title": "Manchester City recalé pour un international anglais",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3181612966412957621-manchester-city-recale-pour-un-international-anglais",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/adam-wharton-2526.jpg",
+      "publishedAt": "2026-08-20T19:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "man-city"
+      ],
+      "topics": [
+        "man-city",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-51ec81f7e3071e6b97a855ea",
+      "title": "Le Real Madrid a tout tenté pour détourner Rodri du Barça",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4055129859949002569-le-real-madrid-a-tout-tente-pour-detourner-rodri-du-barca",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/florentino-perez-2324.jpg",
+      "publishedAt": "2026-08-20T19:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "topics": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-6365d77ce10d02f572204640",
+      "title": "Bayern Munich : Jamal Musiala écarté face à Dortmund",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7031008023196347779-bayern-munich-jamal-musiala-ecarte-face-a-dortmund",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jamal-musiala-2627-im-bayern-trikot.jpg",
+      "publishedAt": "2026-08-20T19:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "bayern",
+        "dortmund"
+      ],
+      "topics": [
+        "bayern",
+        "dortmund"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-19ec52c8329b1eb00a154e60",
+      "title": "Rennes-PSG déjà à guichets fermés !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5000743687674398891-rennes-psg-deja-a-guichets-fermes",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rennes-698f613e50af0.jpg",
+      "publishedAt": "2026-08-20T19:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-3556839723b1ff52c7e42d3a",
+      "title": "Live Górnik - Monaco (2-3) Barrages de UEFA Europa Conference League 2026/2027 20/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/8575387069269962186-ks-gornik-zabrze-vs-monaco",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-2477232621790982215-1065748973357087314.jpg",
+      "publishedAt": "2026-08-20T19:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "monaco"
+      ],
+      "topics": [
+        "monaco",
+        "conference-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-d5e44c239ad068584bdeb0e5",
+      "title": "Brighton rejette une offre de 58 M€ de Liverpool pour Minteh",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9209711698218424280-brighton-rejette-une-offre-de-58-meur-de-liverpool-pour-minteh",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/yankuba-minteh-2425.jpg",
+      "publishedAt": "2026-08-20T19:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "liverpool",
+        "brighton"
+      ],
+      "topics": [
+        "liverpool",
+        "brighton"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-35ed39b9c845bb92a30bcc02",
+      "title": "L’OM annonce un départ important",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4428246677996022949-lom-annonce-un-depart",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree496666-1920x1080.jpg",
+      "publishedAt": "2026-08-20T17:42:35.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-17e719da9aef95055ff4f752",
@@ -778,174 +945,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
-    },
-    {
-      "id": "gdelt-ae7f324e20f0aaf6248ea35c",
-      "title": "Manchester City recalé pour un international anglais",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3181612966412957621-manchester-city-recale-pour-un-international-anglais",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/adam-wharton-2526.jpg",
-      "publishedAt": "2026-08-20T19:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-city"
-      ],
-      "topics": [
-        "man-city",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.8
-    },
-    {
-      "id": "gdelt-51ec81f7e3071e6b97a855ea",
-      "title": "Le Real Madrid a tout tenté pour détourner Rodri du Barça",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4055129859949002569-le-real-madrid-a-tout-tente-pour-detourner-rodri-du-barca",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/florentino-perez-2324.jpg",
-      "publishedAt": "2026-08-20T19:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid",
-        "barcelona"
-      ],
-      "topics": [
-        "real-madrid",
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.8
-    },
-    {
-      "id": "gdelt-6365d77ce10d02f572204640",
-      "title": "Bayern Munich : Jamal Musiala écarté face à Dortmund",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7031008023196347779-bayern-munich-jamal-musiala-ecarte-face-a-dortmund",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jamal-musiala-2627-im-bayern-trikot.jpg",
-      "publishedAt": "2026-08-20T19:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bayern",
-        "dortmund"
-      ],
-      "topics": [
-        "bayern",
-        "dortmund"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.8
-    },
-    {
-      "id": "gdelt-19ec52c8329b1eb00a154e60",
-      "title": "Rennes-PSG déjà à guichets fermés !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5000743687674398891-rennes-psg-deja-a-guichets-fermes",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rennes-698f613e50af0.jpg",
-      "publishedAt": "2026-08-20T19:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "rennes"
-      ],
-      "topics": [
-        "psg",
-        "rennes"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.8
-    },
-    {
-      "id": "gdelt-3556839723b1ff52c7e42d3a",
-      "title": "Live Górnik - Monaco (2-3) Barrages de UEFA Europa Conference League 2026/2027 20/08",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/8575387069269962186-ks-gornik-zabrze-vs-monaco",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-2477232621790982215-1065748973357087314.jpg",
-      "publishedAt": "2026-08-20T19:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "monaco"
-      ],
-      "topics": [
-        "monaco",
-        "conference-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.8
-    },
-    {
-      "id": "gdelt-d5e44c239ad068584bdeb0e5",
-      "title": "Brighton rejette une offre de 58 M€ de Liverpool pour Minteh",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9209711698218424280-brighton-rejette-une-offre-de-58-meur-de-liverpool-pour-minteh",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/yankuba-minteh-2425.jpg",
-      "publishedAt": "2026-08-20T19:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "liverpool",
-        "brighton"
-      ],
-      "topics": [
-        "liverpool",
-        "brighton"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.8
-    },
-    {
-      "id": "gdelt-35ed39b9c845bb92a30bcc02",
-      "title": "L’OM annonce un départ important",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4428246677996022949-lom-annonce-un-depart",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree496666-1920x1080.jpg",
-      "publishedAt": "2026-08-20T17:42:35.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-082c43701a7876ba71a3102d",
@@ -971,7 +971,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-4afc430d2cc8461f40e07b5a",
@@ -997,7 +997,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-7688537718d0289464972c75",
@@ -1020,7 +1020,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-587d15ef0c23c4d6a6556c2a",
@@ -1046,7 +1046,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-a84917b42d599fb41830d419",
@@ -1069,7 +1069,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-c20dab717ef20f335137b3c6",
@@ -1092,7 +1092,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-74da2f531ffbe3556acf076d",
@@ -1115,7 +1115,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-1247bcf7f0c4225c9f5bc952",
@@ -1138,7 +1138,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-512a6ebb97665f3d320ba2f1",
@@ -1163,7 +1163,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-8ac1f729826a0eb2dafe4ca2",
@@ -1189,7 +1189,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-222a3b5623b0f7ceefed4638",
@@ -1212,7 +1212,28 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.2
+    },
+    {
+      "id": "gdelt-dd894f0c5368b6896b8f8e59",
+      "title": "On n'arrête plus Thionville ! - Ligue 3 - J3",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/ligue-3-thionville-continue-son-100-avec-une-troisieme-victoire-le-fc-rouen-survole-le-derby-et-prend-la-deuxieme-place",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjAyMjI4NTUvMTQ0NzUyMzMtMTQwMHg5MzMuanBn/1300/on-n-arrete-plus-thionville-e2-80-af.jpg",
+      "publishedAt": "2026-08-20T23:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-222fc8b61a3481ad83a30396",
@@ -1238,28 +1259,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
-    },
-    {
-      "id": "gdelt-dd894f0c5368b6896b8f8e59",
-      "title": "On n'arrête plus Thionville ! - Ligue 3 - J3",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/ligue-3-thionville-continue-son-100-avec-une-troisieme-victoire-le-fc-rouen-survole-le-derby-et-prend-la-deuxieme-place",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjAyMjI4NTUvMTQ0NzUyMzMtMTQwMHg5MzMuanBn/1300/on-n-arrete-plus-thionville-e2-80-af.jpg",
-      "publishedAt": "2026-08-20T23:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-391a804ae8070ae005136a9a",
@@ -1282,7 +1282,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-2d884794191c4ebe37c4272a",
@@ -1305,7 +1305,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-09896b54477a580232fc4448",
@@ -1328,7 +1328,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-228d7e59e03cf92a53176bca",
@@ -1349,7 +1349,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-8a29018773051a655a8754d4",
@@ -1373,7 +1373,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-4e5be9a76fc4cb5b71f64da3",
@@ -1398,7 +1398,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-86e48d260d952822eb9e62f0",
@@ -1425,7 +1425,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-49e09e0fd8b578c55b2fc40a",
@@ -1450,7 +1450,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 86.2
+    },
+    {
+      "id": "gdelt-80cadb91425be607714ae0cf",
+      "title": "Stade Rennais - PSG : « Il faut organiser un match de Ligue 1 en quatre jours au lieu de",
+      "summary": "Publication référencée chez redon.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://redon.maville.com/actu/actudet_-stade-rennais-psg-il-faut-organiser-un-match-de-ligue-1-en-quatre-jours-au-lieu-de-plusieurs-semaines_fil-7446404_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/08/20/P36086188D7446404G_crop_1080-600_.jpg",
+      "publishedAt": "2026-08-21T04:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "redon.maville.com",
+        "name": "redon.maville.com",
+        "websiteURL": "https://redon.maville.com"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-1ac37b5dc909e21cc048e873",
@@ -1471,7 +1497,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-f1ced2d02f937587b2c4398c",
@@ -1492,7 +1518,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-ee382a27c048696c7b54e34b",
@@ -1517,7 +1543,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-d1d2e2ecb0f0a4a6e839839f",
@@ -1538,7 +1564,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-16c333abf99f469e1447b607",
@@ -1561,7 +1587,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-1fb1d1b037bf93e36bd3edd9",
@@ -1584,7 +1610,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-80c18394af24c87662457217",
@@ -1605,7 +1631,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-4393ca80e7771317095618f9",
@@ -1630,7 +1656,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-5ea370c6b83080cb13ada519",
@@ -1656,7 +1682,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-0e92a4fa6149f6406d98a87f",
@@ -1681,7 +1707,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-474b200940932545a3b1432b",
@@ -1706,7 +1732,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-d93946313be5625a7d0940dd",
@@ -1729,7 +1755,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-a146d33843a2c39b406a5512",
@@ -1750,7 +1776,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-6898f2075db261567dba7793",
@@ -1771,7 +1797,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-e4147db4dc9134ca6b10aa1d",
@@ -1794,7 +1820,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-0ca61e054b47e766197f11a4",
@@ -1817,7 +1843,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-c4a284fdf09eafc0097c41de",
@@ -1840,7 +1866,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-70669f8f708b00eaffa79154",
@@ -1863,7 +1889,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-c1c4f3fbbcf914cb16cf144c",
@@ -1886,7 +1912,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-eb7cafbc345a6c4a106f30ac",
@@ -1910,7 +1936,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-61374776fdf150a74c333302",
@@ -1934,7 +1960,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-f0a367310bd5ab9aa7adc713",
@@ -1957,7 +1983,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-05fe03ec9c40d18e0aa52978",
@@ -1984,7 +2010,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.3
+      "qualityScore": 83.9
+    },
+    {
+      "id": "gdelt-0600e710145a0b0c88a24b31",
+      "title": "OGC Nice : Pantaloni entretient le suspense pour Elye Wahi",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3012853471476618040-ogc-nice-pantaloni-entretient-le-suspense-pour-elye-wahi",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/elye-wahi-2526-69f1cd107aeaf.jpg",
+      "publishedAt": "2026-08-20T18:19:30.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "nice"
+      ],
+      "topics": [
+        "nice"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-4a315166c9a4eb40fd174310",
@@ -2010,30 +2059,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
-    },
-    {
-      "id": "gdelt-0600e710145a0b0c88a24b31",
-      "title": "OGC Nice : Pantaloni entretient le suspense pour Elye Wahi",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3012853471476618040-ogc-nice-pantaloni-entretient-le-suspense-pour-elye-wahi",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/elye-wahi-2526-69f1cd107aeaf.jpg",
-      "publishedAt": "2026-08-20T18:19:30.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "nice"
-      ],
-      "topics": [
-        "nice"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-6ba914947485e98cd416ec27",
@@ -2059,7 +2085,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-b2149672271e0aba16fa802e",
@@ -2082,7 +2108,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-706d0c647eee470cf4492475",
@@ -2105,7 +2131,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-6579c3281139469e18dbf60c",
@@ -2129,7 +2155,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-122ff3b86fe531f3335626bf",
@@ -2150,7 +2176,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 83
     },
     {
       "id": "gdelt-e4c3244c8d62361f9b36d488",
@@ -2173,7 +2199,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-cf9c8ee5183441690cd654b2",
@@ -2196,7 +2222,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-44532bff0d2b0aaa8088aa38",
@@ -2217,7 +2243,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-668a68eaa840c3f982edbdad",
@@ -2238,7 +2264,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-c86d309c52e90980490da5e3",
@@ -2261,7 +2287,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-c2d7634f0abf8bde337847d5",
@@ -2282,7 +2308,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-059825194c1927e39bb3565c",
@@ -2306,7 +2332,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.8
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-37128c16e873db96846ac084",
@@ -2331,7 +2357,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.8
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-cd5c4edd0bb8f21990251278",
@@ -2355,7 +2381,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.8
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-5308c0597214056066867c8a",
@@ -2379,32 +2405,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.8
-    },
-    {
-      "id": "gdelt-9b02d862e1da2531b16d70d6",
-      "title": "João Cancelo fait son retour au Barça !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8291045271903582756-joao-cancelo-fait-son-retour-au-barca",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joao-cancelo-2526-1.jpg",
-      "publishedAt": "2026-08-20T15:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.7
+      "qualityScore": 82.4
     }
   ],
-  "generatedAt": "2026-08-21T04:05:35.084Z",
+  "generatedAt": "2026-08-21T04:56:12.271Z",
   "stale": false
 }
