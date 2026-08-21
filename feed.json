@@ -22,7 +22,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 101.3
+      "qualityScore": 101
     },
     {
       "id": "gdelt-51471cce0dc85f8866140f75",
@@ -46,7 +46,55 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99.3
+      "qualityScore": 99
+    },
+    {
+      "id": "gdelt-fe197d88e37dfff17689c952",
+      "title": "La grosse annonce d'Ancelotti pour Giroud à Lille, le Paris FC tire le dossier Kebbal au clair !",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/la-grosse-annonce-dancelotti-pour-giroud-a-lille-le-paris-fc-tire-le-dossier-kebbal-au-clair-997376",
+      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997376/406799/1200-L-la-grosse-annonce-d-ancelotti-pour-giroud-lille-le-paris-fc-tire-le-dossier-kebbal-au-clair.jpg",
+      "publishedAt": "2026-08-21T16:26:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "lille",
+        "paris-fc"
+      ],
+      "topics": [
+        "lille",
+        "paris-fc"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 98.8
+    },
+    {
+      "id": "gdelt-ee9df09a68fe4f9c3cc5efab",
+      "title": "Real Madrid : le premier groupe officiel de José Mourinho",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5392617551271306454-real-madrid-le-premier-groupe-officiel-de-jose-mourinho",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine279900-1920x1080.jpg",
+      "publishedAt": "2026-08-21T16:17:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 97.7
     },
     {
       "id": "gdelt-457a3b3c0f89d88ad9b35bae",
@@ -69,7 +117,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.6
+      "qualityScore": 97.3
     },
     {
       "id": "gdelt-55c19bf7d9eae4e0d2702cb3",
@@ -94,7 +142,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.1
+      "qualityScore": 96.7
     },
     {
       "id": "gdelt-17f38d14c3ddc74949f46dd9",
@@ -119,30 +167,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
-    },
-    {
-      "id": "gdelt-ee9df09a68fe4f9c3cc5efab",
-      "title": "Real Madrid : le premier groupe officiel de José Mourinho",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5392617551271306454-real-madrid-le-premier-groupe-officiel-de-jose-mourinho",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine279900-1920x1080.jpg",
-      "publishedAt": "2026-08-21T12:30:48.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 96.2
     },
     {
       "id": "gdelt-5cbd186ef4a040a0f9482702",
@@ -168,7 +193,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96
+      "qualityScore": 95.7
     },
     {
       "id": "gdelt-be3eabb5100f9a5cb33d046f",
@@ -191,7 +216,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 95.2
     },
     {
       "id": "gdelt-0993631df18d9417d2d25a1e",
@@ -217,7 +242,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 95
     },
     {
       "id": "gdelt-4ec7d7f7254306218700a901",
@@ -244,7 +269,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 94.8
     },
     {
       "id": "gdelt-7fb07b8815030655f8f785b5",
@@ -270,7 +295,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-7659743624ec0749cdb81152",
@@ -293,7 +318,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-278cd5f83bd92056cb4a917e",
@@ -316,7 +341,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.8
     },
     {
       "id": "gdelt-9004c6b494a36fd681da4d1e",
@@ -339,7 +364,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.7
     },
     {
       "id": "gdelt-0699f14dd9d6c601508e2ed2",
@@ -364,7 +389,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.9
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-27da11783f3f6e48652f36c8",
@@ -391,15 +416,39 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 93.1
+    },
+    {
+      "id": "gdelt-9c25ba2e789c3274af2c7c43",
+      "title": "Nice et plusieurs clubs de Ligue 1 vont honorer Éric Roy",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3518530046603632724-nice-et-plusieurs-clubs-de-ligue-1-vont-honorer-eric-roy",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/roy.jpg",
+      "publishedAt": "2026-08-21T16:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "nice"
+      ],
+      "topics": [
+        "nice",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-5c4f79a29257b81e4406c5a6",
-      "title": "Stuttgart : l’offre de Galatasaray pour Bilal El Khannouss refusée",
+      "title": "Stuttgart : l'offre de Galatasaray pour Bilal El Khannouss refusée",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a7189460557981343044-stuttgart-loffre-de-galatasaray-pour-bilal-el-khannouss-refusee",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/bilal-el-khannouss-wm26.jpg",
-      "publishedAt": "2026-08-21T15:53:26.000Z",
+      "publishedAt": "2026-08-21T16:16:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -416,7 +465,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.7
+    },
+    {
+      "id": "gdelt-9aa44fe9268f91ac941f908e",
+      "title": "Barça : la Liga confirme l'inscription de Rodri",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3393940324865511914-barca-la-liga-confirme-linscription-de-rodri",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine275438-1920x1080.jpg",
+      "publishedAt": "2026-08-21T16:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona",
+        "la-liga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-9e617a9c188ea1c449948661",
@@ -442,35 +515,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
-    },
-    {
-      "id": "gdelt-19ee86ce503c369f6a54cab2",
-      "title": "Ligue 2 : un départ à Nantes, Annecy met à l'essai un défenseur de Manchester City",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/ligue-2-un-depart-a-nantes-annecy-met-a-lessai-un-defenseur-de-manchester-city-953817",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953817/388588/1200-L-ligue-2-un-dpart-nantes-annecy-met-l-essai-un-dfenseur-de-manchester-city.jpg",
-      "publishedAt": "2026-08-20T17:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "nantes",
-        "man-city",
-        "annecy"
-      ],
-      "topics": [
-        "nantes",
-        "man-city",
-        "annecy",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-b649567c173b533d0c762652",
@@ -495,7 +540,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-fbc3a7e1de9e6070da379013",
@@ -519,51 +564,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 92.3
     },
     {
-      "id": "gdelt-9aa44fe9268f91ac941f908e",
-      "title": "Barça : la Liga confirme l’inscription de Rodri",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3393940324865511914-barca-la-liga-confirme-linscription-de-rodri",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine275438-1920x1080.jpg",
-      "publishedAt": "2026-08-21T15:19:17.000Z",
-      "category": "news",
+      "id": "gdelt-19ee86ce503c369f6a54cab2",
+      "title": "Ligue 2 : un départ à Nantes, Annecy met à l'essai un défenseur de Manchester City",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-2-un-depart-a-nantes-annecy-met-a-lessai-un-defenseur-de-manchester-city-953817",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953817/388588/1200-L-ligue-2-un-dpart-nantes-annecy-met-l-essai-un-dfenseur-de-manchester-city.jpg",
+      "publishedAt": "2026-08-20T17:32:00.000Z",
+      "category": "transfers",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
       },
       "teams": [
-        "barcelona"
+        "nantes",
+        "man-city",
+        "annecy"
       ],
       "topics": [
-        "barcelona",
-        "la-liga"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.5
-    },
-    {
-      "id": "gdelt-9c25ba2e789c3274af2c7c43",
-      "title": "Nice et plusieurs clubs de Ligue 1 vont honorer Éric Roy",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3518530046603632724-nice-et-plusieurs-clubs-de-ligue-1-vont-honorer-eric-roy",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/roy.jpg",
-      "publishedAt": "2026-08-21T14:50:46.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "nice"
-      ],
-      "topics": [
-        "nice",
-        "ligue-1"
+        "nantes",
+        "man-city",
+        "annecy",
+        "ligue-2"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
@@ -592,7 +617,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-3ce8287c145b9425d4bfc61f",
@@ -616,7 +641,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-456e5dd04fe750975cc9dae8",
@@ -642,7 +667,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-11823d22e70019374af36acd",
@@ -665,7 +690,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-d99efe105b506407ae35ee52",
@@ -690,7 +715,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 91
+    },
+    {
+      "id": "gdelt-4b7bce9bb0a716c95f9319c9",
+      "title": "TFC - Ligue 1 : Dayann Methalie à Sunderland, c'est officiel",
+      "summary": "Publication référencée chez ici.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.ici.fr/occitanie/haute-garonne-31/toulouse/tfc-ligue-1-dayann-methalie-a-sunderland-c-est-officiel-2028951",
+      "imageURL": "https://www.ici.fr/pikapi/images/299afe0f-8ce4-4380-a16f-7ee03ea55ad2/1200x630?webp=false",
+      "publishedAt": "2026-08-21T16:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "ici.fr",
+        "name": "ici.fr",
+        "websiteURL": "https://ici.fr"
+      },
+      "teams": [
+        "sunderland"
+      ],
+      "topics": [
+        "sunderland",
+        "ligue-1"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "other",
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-cdd1d7f9ebac82ef755208a1",
@@ -712,7 +761,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-5a6ef326d33d1678dd61155f",
@@ -737,7 +786,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-9a0cba268b59b89e531add64",
@@ -759,7 +808,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-a5a9dce7b327e3036df5df4a",
@@ -783,7 +832,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-fe2829bdf5123f5eb1355663",
@@ -806,7 +855,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-817a65ae07546072dd66eee6",
@@ -832,7 +881,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-0839769317cc0e1a77e124ef",
@@ -859,7 +908,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-d5abddcbd145a9b090bc9251",
@@ -883,7 +932,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-16276f808bba8592df915469",
@@ -891,7 +940,7 @@
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a3352236678601998000-barcelone-bataille-entre-le-ghana-et-la-belgique-pour-jesse-bisiwu",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/sl-benfica-v-club-brugge-kv-uefa-youth-league-2025-26-semi-1920x1080-2.jpg",
-      "publishedAt": "2026-08-21T15:46:47.000Z",
+      "publishedAt": "2026-08-21T16:17:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -906,7 +955,74 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-fcfce537bab9046dcd154018",
+      "title": "Coupe du Monde 2026 : la FIFA sanctionne Leandro Paredes de dix matchs de suspension !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4806841026474257060-coupe-du-monde-2026-la-fifa-sanctionne-leandro-paredes-de-dix-matchs-de-suspension",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/leandro-paredes-26.jpg",
+      "publishedAt": "2026-08-21T16:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "world-cup"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-101d1094a74076565cc1c711",
+      "title": "Chelsea attend une offre de 75 M€ pour un indésirable",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8342851418248999311-chelsea-attend-une-offre-de-75-meur-pour-un-indesirable",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/nicolas-jackson-enzo-fernandez-2324.jpg",
+      "publishedAt": "2026-08-21T16:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "chelsea"
+      ],
+      "topics": [
+        "chelsea"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-3aa615201f6d6d7e4af0df89",
+      "title": "Arsenal claque 64 M€ sur Ezri Konsa",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8398975336651604030-arsenal-claque-64-meur-sur-ezri-konsa",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagestwo625809-1.jpg",
+      "publishedAt": "2026-08-21T16:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "arsenal"
+      ],
+      "topics": [
+        "arsenal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-f4d635b94def2a2ed0bd991d",
@@ -931,7 +1047,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-16ea9bbe5ee0498034dc5439",
@@ -955,7 +1071,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-8db96f806e5e28199e34206f",
@@ -977,7 +1093,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-d6bebb8a1f914beb707759e0",
@@ -1000,7 +1116,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-e4b594cd270106625dc5d220",
@@ -1024,7 +1140,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-edf49923d6e23f4ac4b814eb",
@@ -1048,7 +1164,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-36a54aa4b1e984afbbb5dd78",
@@ -1072,30 +1188,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
-    },
-    {
-      "id": "gdelt-3aa615201f6d6d7e4af0df89",
-      "title": "Arsenal claque 64 M€ sur Ezri Konsa",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8398975336651604030-arsenal-claque-64-meur-sur-ezri-konsa",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagestwo625809-1.jpg",
-      "publishedAt": "2026-08-21T15:06:22.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "arsenal"
-      ],
-      "topics": [
-        "arsenal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-be6afcc5fd3bc9c753d822f1",
@@ -1121,28 +1214,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
-    },
-    {
-      "id": "gdelt-fcfce537bab9046dcd154018",
-      "title": "Coupe du Monde 2026 : la FIFA sanctionne Leandro Paredes de dix matchs de suspension !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4806841026474257060-coupe-du-monde-2026-la-fifa-sanctionne-leandro-paredes-de-dix-matchs-de-suspension",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/leandro-paredes-26.jpg",
-      "publishedAt": "2026-08-21T14:34:41.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "world-cup"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-2f271d242a6d4a5b69a692ee",
@@ -1168,30 +1240,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
-    },
-    {
-      "id": "gdelt-101d1094a74076565cc1c711",
-      "title": "Chelsea attend une offre de 75 M€ pour un indésirable",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8342851418248999311-chelsea-attend-une-offre-de-75-meur-pour-un-indesirable",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/nicolas-jackson-enzo-fernandez-2324.jpg",
-      "publishedAt": "2026-08-21T14:09:43.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "chelsea"
-      ],
-      "topics": [
-        "chelsea"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-ab4da67d9666420defaa2484",
@@ -1216,7 +1265,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-0ca5d5d3c6376235088811e7",
@@ -1239,7 +1288,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-aa949b84466dc0691f52dc88",
@@ -1262,7 +1311,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-6d49b54f5f0ce7ce600fc605",
@@ -1285,7 +1334,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-1bf49d2da0f8a5d1b534a7d7",
@@ -1306,7 +1355,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-27184ab8c8e19d231a192649",
@@ -1329,7 +1378,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-53c4157722de471531257279",
@@ -1350,7 +1399,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-398998e09688f20ac7bded5b",
@@ -1371,7 +1420,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-224584e6b330a3d90aaff341",
@@ -1394,7 +1443,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-33d0d7dc553eff8c9630422e",
@@ -1417,7 +1466,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87
     },
     {
       "id": "gdelt-b6a0dfaaa5cee5481288176e",
@@ -1443,31 +1492,6 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
-    },
-    {
-      "id": "gdelt-fe197d88e37dfff17689c952",
-      "title": "La grosse annonce d'Ancelotti pour Giroud à Lille, le Paris FC tire le dossier Kebbal au clair !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/la-grosse-annonce-dancelotti-pour-giroud-a-lille-le-paris-fc-tire-le-dossier-kebbal-au-clair-997376",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997376/406799/1200-L-la-grosse-annonce-d-ancelotti-pour-giroud-lille-le-paris-fc-tire-le-dossier-kebbal-au-clair.jpg",
-      "publishedAt": "2026-08-21T16:26:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "lille",
-        "paris-fc"
-      ],
-      "topics": [
-        "lille",
-        "paris-fc"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
       "qualityScore": 87
     },
     {
@@ -1491,7 +1515,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-eb2903213aa9c7af99bce763",
@@ -1514,7 +1538,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-df916e09f1010853801b9683",
@@ -1537,7 +1561,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-adb1c58ee057987128c3386e",
@@ -1560,7 +1584,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-052cb34d76e2324a058212b7",
@@ -1583,7 +1607,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-1c85d011494fd362a25d1579",
@@ -1606,7 +1630,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-882009ea1ee81214240a2c86",
@@ -1629,7 +1653,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-ef66edb7df04ed2c161ce4cb",
@@ -1652,7 +1676,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-22c9eaded7312ce0ac455034",
@@ -1675,7 +1699,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-2f9fdc866f2c9a056cb62966",
@@ -1696,7 +1720,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-b4196005d102d7d0029f2a0a",
@@ -1717,7 +1741,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-8cdf8b3eff4c9244df717a97",
@@ -1743,7 +1767,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-94eae3627f4bf44c2a09b7b6",
@@ -1764,7 +1788,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-9f1fcb054c9cc7e4d4ddebfb",
@@ -1788,7 +1812,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-4ff5321282dd0caf01cf34c7",
@@ -1811,7 +1835,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-20f83b7c8bfe738b389129ef",
@@ -1841,7 +1865,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-2fdf2de257c1e0dd32168784",
@@ -1860,7 +1884,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-894621e46ca422b16590ee58",
@@ -1886,54 +1910,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
-    },
-    {
-      "id": "gdelt-fd5d5a40d0dc16f9db561764",
-      "title": "Frank McCourt assistera à OM-Strasbourg",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a329829633522646546-frank-mccourt-assistera-a-om-strasbourg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mccourt.jpg",
-      "publishedAt": "2026-08-21T09:47:04.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "strasbourg"
-      ],
-      "topics": [
-        "strasbourg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.8
-    },
-    {
-      "id": "gdelt-cbe4b8323d84f878c8aaa08a",
-      "title": "Un ailier du LOSC prêté en Eredivisie",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/mercato-lailier-du-losc-marius-broholm-fait-ses-valises-pour-les-pays-bas-apres-une-petite-saison",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjAxODAzMzYvMTI4ODI3NjEtMTQwMHg5MzMuanBn/1300/un-ailier-du-losc-prete-en-eredivisie.jpg",
-      "publishedAt": "2026-08-20T19:47:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille",
-        "eredivisie"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-aeb1c004461e5fe5982ac7d7",
@@ -1958,7 +1935,54 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.5
+    },
+    {
+      "id": "gdelt-fd5d5a40d0dc16f9db561764",
+      "title": "Frank McCourt assistera à OM-Strasbourg",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a329829633522646546-frank-mccourt-assistera-a-om-strasbourg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mccourt.jpg",
+      "publishedAt": "2026-08-21T09:47:04.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "strasbourg"
+      ],
+      "topics": [
+        "strasbourg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85.4
+    },
+    {
+      "id": "gdelt-cbe4b8323d84f878c8aaa08a",
+      "title": "Un ailier du LOSC prêté en Eredivisie",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/mercato-lailier-du-losc-marius-broholm-fait-ses-valises-pour-les-pays-bas-apres-une-petite-saison",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjAxODAzMzYvMTI4ODI3NjEtMTQwMHg5MzMuanBn/1300/un-ailier-du-losc-prete-en-eredivisie.jpg",
+      "publishedAt": "2026-08-20T19:47:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille",
+        "eredivisie"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-a5027251855f06cb7b54eb95",
@@ -1981,7 +2005,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-d046eca98812d438396aac01",
@@ -2004,7 +2028,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-da44564cbceb265df038719b",
@@ -2025,7 +2049,70 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 84.8
+    },
+    {
+      "id": "gdelt-a46b3e732cfe9ea4c8bb2d93",
+      "title": "Strasbourg pourrait se faire prêter un nouveau grand espoir de Chelsea",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6384732636046916149-strasbourg-pourrait-se-faire-preter-un-nouveau-grand-espoir-de-chelsea",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/marc-keller.jpg",
+      "publishedAt": "2026-08-21T16:25:13.000Z",
+      "category": "rumors",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "strasbourg",
+        "chelsea"
+      ],
+      "topics": [
+        "strasbourg",
+        "chelsea"
+      ],
+      "reliability": "rumor",
+      "sourceTier": "recognized",
+      "qualityScore": 84.7
+    },
+    {
+      "id": "gdelt-77e09591c54a96101c628b6b",
+      "title": "L'OM se penche sur Cameron Puertas",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1025135391604510156-lom-se-penche-sur-cameron-puertas",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine224332.jpg",
+      "publishedAt": "2026-08-21T16:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.7
+    },
+    {
+      "id": "gdelt-bbf88b937e644afb3f260470",
+      "title": "L'OL en a déjà après le calendrier et la Ligue",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8811151894236429246-lol-en-a-deja-apres-le-calendrier-et-la-ligue",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo668398-1920x1080.jpg",
+      "publishedAt": "2026-08-21T16:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-8ac1dc1938eea0e48655717e",
@@ -2051,7 +2138,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.9
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-7997e69888e687f6dfc2827a",
@@ -2074,7 +2161,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-adda4da26341908d72401667",
@@ -2097,7 +2184,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-4f35580e727918430cb96773",
@@ -2122,7 +2209,70 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
+    },
+    {
+      "id": "gdelt-60a1821e20b9f8bd9ceb6f98",
+      "title": "Box internet, plateformes, télés connectées... Comment s'abonner à Ligue 1+ et à quel prix ?",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Medias/Actualites/Box-internet-plateformes-teles-connectees-comment-s-abonner-a-ligue-1-et-a-quel-prix/1712343",
+      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/clement-grenier-marina-lorenzo-et-thibault-le-rol-incarnations-de-ligue-1-j-b-autissier-l-equipe/1500000002557255/316:199,1895:1252-1200-800-75/c0d66.jpg",
+      "publishedAt": "2026-08-21T07:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.3
+    },
+    {
+      "id": "gdelt-dd448b4a6268da51ebd0ddd2",
+      "title": "Benoît Trémoulinas et Jérôme Rothen commentateurs de la Liga sur DAZN",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Medias/Actualites/Benoit-tremoulinas-et-jerome-rothen-commentateurs-de-la-liga-sur-dazn/1712445",
+      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/benoit-tremoulinas-et-jerome-rothen-commenteront-la-liga-a-reau-f-seguin-l-equipe/1500000002557578/0:0,1606:1071-1200-800-75/1eb24.jpg",
+      "publishedAt": "2026-08-21T07:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [],
+      "topics": [
+        "la-liga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.3
+    },
+    {
+      "id": "gdelt-84569947c066fa37c3aee7d3",
+      "title": "Les Bleues sans Sabine Haewegene et avec Léandra Olinga-Andela à l'Euro 2026",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Volley-ball/Actualites/Les-bleues-sans-sabine-haewegene-et-avec-leandra-olinga-andela-a-l-euro-2026/1711733",
+      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/lilou-ratahiry-ici-en-defense-devant-juliette-gelin-sera-l-une-des-novices-des-bleues-a-l-euro/1500000002555337/0:0,695:463-1200-800-75/9ddf1.jpg",
+      "publishedAt": "2026-08-21T07:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-9ca2b4fcebad33b39d407644",
@@ -2146,70 +2296,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-60a1821e20b9f8bd9ceb6f98",
-      "title": "Box internet, plateformes, télés connectées... Comment s'abonner à Ligue 1+ et à quel prix ?",
-      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lequipe.fr/Medias/Actualites/Box-internet-plateformes-teles-connectees-comment-s-abonner-a-ligue-1-et-a-quel-prix/1712343",
-      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/clement-grenier-marina-lorenzo-et-thibault-le-rol-incarnations-de-ligue-1-j-b-autissier-l-equipe/1500000002557255/316:199,1895:1252-1200-800-75/c0d66.jpg",
-      "publishedAt": "2026-08-21T07:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lequipe.fr",
-        "name": "lequipe.fr",
-        "websiteURL": "https://lequipe.fr"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-dd448b4a6268da51ebd0ddd2",
-      "title": "Benoît Trémoulinas et Jérôme Rothen commentateurs de la Liga sur DAZN",
-      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lequipe.fr/Medias/Actualites/Benoit-tremoulinas-et-jerome-rothen-commentateurs-de-la-liga-sur-dazn/1712445",
-      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/benoit-tremoulinas-et-jerome-rothen-commenteront-la-liga-a-reau-f-seguin-l-equipe/1500000002557578/0:0,1606:1071-1200-800-75/1eb24.jpg",
-      "publishedAt": "2026-08-21T07:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lequipe.fr",
-        "name": "lequipe.fr",
-        "websiteURL": "https://lequipe.fr"
-      },
-      "teams": [],
-      "topics": [
-        "la-liga"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-84569947c066fa37c3aee7d3",
-      "title": "Les Bleues sans Sabine Haewegene et avec Léandra Olinga-Andela à l'Euro 2026",
-      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lequipe.fr/Volley-ball/Actualites/Les-bleues-sans-sabine-haewegene-et-avec-leandra-olinga-andela-a-l-euro-2026/1711733",
-      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/lilou-ratahiry-ici-en-defense-devant-juliette-gelin-sera-l-une-des-novices-des-bleues-a-l-euro/1500000002555337/0:0,695:463-1200-800-75/9ddf1.jpg",
-      "publishedAt": "2026-08-21T07:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lequipe.fr",
-        "name": "lequipe.fr",
-        "websiteURL": "https://lequipe.fr"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-a82bf6b49649f9f4cab86c25",
@@ -2233,7 +2320,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-2dd353ca12cc2495e15ef146",
@@ -2258,7 +2345,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-cdd3d5c0cacc65adb30078ef",
@@ -2279,96 +2366,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.5
-    },
-    {
-      "id": "gdelt-7fe8fed4de29279c84f23f0e",
-      "title": "Ligue 1 : L'OM démarre son championnat entre interrogations du staff et pessimisme des supporters",
-      "summary": "Publication référencée chez radiofrance.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.radiofrance.fr/franceinfo/podcasts/les-documents-franceinfo/ligue-1-l-om-demarre-son-championnat-entre-interrogations-du-staff-et-pessimisme-des-supporters-9677490",
-      "imageURL": "https://www.radiofrance.fr/pikapi/images/0062fcd6-c83c-4152-b18c-0a5c22fe28fe/2048",
-      "publishedAt": "2026-08-21T07:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "radiofrance.fr",
-        "name": "radiofrance.fr",
-        "websiteURL": "https://radiofrance.fr"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-ce1cbb6bfaf9f48d6df33bdd",
-      "title": "Grégory Ayem, de la N3 à la lutte pour une place dans le onze en ligue 2",
-      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.allezpaillade.com/effectif/gregory-ayem-de-la-n2-a-la-lutte-pour-une-place-dans-le-onze/",
-      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2026/08/ICONSPORT_371154_0116-380x370.jpg",
-      "publishedAt": "2026-08-21T07:00:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "allezpaillade.com",
-        "name": "allezpaillade.com",
-        "websiteURL": "https://allezpaillade.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-9f01c32dccb1becced51869e",
-      "title": "Ligue 1 : Stade Rennais - PSG : les places écoulées en seulement quelques minutes !",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-stade-rennais-psg-les-places-ecoulees-en-seulement-quelques-minutes-535366.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2020/zoom/l1-20201121163154-8214.jpg",
-      "publishedAt": "2026-08-20T14:59:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "psg",
-        "rennes"
-      ],
-      "topics": [
-        "psg",
-        "rennes",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-a7b561387308f75fd4805a8a",
-      "title": "Des stades aux festivals, le maillot de foot devient un réel accessoire de mode",
-      "summary": "Publication référencée chez radiofrance.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-3586537",
-      "imageURL": "https://www.radiofrance.fr/pikapi/images/9f199f99-0179-4489-b6df-567ab61a8c8d/2048",
-      "publishedAt": "2026-08-21T14:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "radiofrance.fr",
-        "name": "radiofrance.fr",
-        "websiteURL": "https://radiofrance.fr"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 84.2
     }
   ],
-  "generatedAt": "2026-08-21T16:13:22.563Z",
+  "generatedAt": "2026-08-21T16:55:48.992Z",
   "stale": false
 }
