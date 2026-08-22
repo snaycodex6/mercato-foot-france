@@ -28,7 +28,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100.9
+      "qualityScore": 100.6
     },
     {
       "id": "gdelt-3d92ce1bd157766a9008f8b1",
@@ -58,7 +58,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100.9
+      "qualityScore": 100.6
     },
     {
       "id": "gdelt-5b07a50796f3f23a499b268e",
@@ -88,7 +88,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100
+      "qualityScore": 99.7
     },
     {
       "id": "gdelt-93046357a074cd51f49912ed",
@@ -118,7 +118,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100
+      "qualityScore": 99.7
+    },
+    {
+      "id": "gdelt-a940d6d54ae3075649bbb4dc",
+      "title": "Manchester United humilié par Hull City, le speaker annonce en plus l'annulation des trains retours !",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/etranger/manchester-united-humilie-par-hull-city-le-speaker-annonce-en-plus-lannulation-des-trains-retours-997487",
+      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997487/406856/1200-L-manchester-united-humili-par-hull-city-le-speaker-annonce-en-plus-l-annulation-des-trains-retours.jpg",
+      "publishedAt": "2026-08-22T15:58:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "man-united",
+        "hull"
+      ],
+      "topics": [
+        "man-united",
+        "hull"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 98.7
     },
     {
       "id": "gdelt-7aac2f7b7d108662329dbd74",
@@ -144,7 +169,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 98.9
+      "qualityScore": 98.6
     },
     {
       "id": "gdelt-b6a5ef42c1bb8d0ce6355867",
@@ -171,7 +196,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.9
+      "qualityScore": 96.6
     },
     {
       "id": "gdelt-a754f882905a3f1baaa161e5",
@@ -194,7 +219,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 96
+    },
+    {
+      "id": "gdelt-5fff327d6ab9e504c769dcf2",
+      "title": "Mercato PSG : Luis Enrique fait une annonce importante pour la suite du mercato parisien",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-psg-luis-enrique-fait-une-annonce-importante-pour-la-suite-du-mercato-parisien-535606.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250629011029-6786.jpg",
+      "publishedAt": "2026-08-22T12:25:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 95.9
     },
     {
       "id": "gdelt-709a2a3d0a0e3ce47f193b2e",
@@ -220,30 +268,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.2
-    },
-    {
-      "id": "gdelt-5fff327d6ab9e504c769dcf2",
-      "title": "Mercato PSG : Luis Enrique fait une annonce importante pour la suite du mercato parisien",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-psg-luis-enrique-fait-une-annonce-importante-pour-la-suite-du-mercato-parisien-535606.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250629011029-6786.jpg",
-      "publishedAt": "2026-08-22T12:25:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 96.2
+      "qualityScore": 95.8
     },
     {
       "id": "gdelt-8df811e249e6c93ca487a610",
@@ -270,7 +295,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 95.8
     },
     {
       "id": "gdelt-7f5ac4799a01ff65f754dc3d",
@@ -296,7 +321,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 95.6
     },
     {
       "id": "gdelt-fee8fe5d5317e4b20bc932c4",
@@ -322,7 +347,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 95.6
     },
     {
       "id": "gdelt-a4f936d658a9e73c42cf4f05",
@@ -348,7 +373,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 95.6
     },
     {
       "id": "gdelt-8cdf8b3eff4c9244df717a97",
@@ -374,7 +399,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 95.6
     },
     {
       "id": "gdelt-d4640670f52bdb9403f992a2",
@@ -399,7 +424,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-885ee81fed6c347220420cd5",
@@ -425,7 +450,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 95
     },
     {
       "id": "gdelt-24e276e3cb27695c9e3c15cd",
@@ -451,7 +476,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 95
     },
     {
       "id": "gdelt-5ba19bdbe3f8c9912def20d1",
@@ -477,7 +502,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-bb4cb8c7022c8fb19d18e510",
@@ -503,30 +528,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
-    },
-    {
-      "id": "gdelt-d24a019151268a445297925d",
-      "title": "Fenerbahçe fait une grande annonce pour Talisca avant l’OL",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3199728308098250937-fenerbahce-fait-une-grande-annonce-pour-talisca-avant-lol",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/aziz-yildirim.jpg",
-      "publishedAt": "2026-08-22T15:29:03.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "fenerbahce"
-      ],
-      "topics": [
-        "fenerbahce"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 94.8
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-3067353df5edcd643d2fb807",
@@ -552,7 +554,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.8
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-55cae32ef311a6e55d834580",
@@ -578,7 +580,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.8
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-bc43db63cddfaf1f44d09871",
@@ -601,7 +603,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.8
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-725169dee76644e675d7e34f",
@@ -627,7 +629,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.8
+      "qualityScore": 94.5
+    },
+    {
+      "id": "gdelt-d24a019151268a445297925d",
+      "title": "Fenerbahçe fait une grande annonce pour Talisca avant l’OL",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3199728308098250937-fenerbahce-fait-une-grande-annonce-pour-talisca-avant-lol",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/aziz-yildirim.jpg",
+      "publishedAt": "2026-08-22T15:29:03.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "fenerbahce"
+      ],
+      "topics": [
+        "fenerbahce"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 94.4
     },
     {
       "id": "gdelt-424a010c1d6b73ff3ee310b3",
@@ -656,7 +681,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.7
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-d21b3bb3228f30422d36b288",
@@ -682,7 +707,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
     },
     {
       "id": "gdelt-9b151f98abbf02fa359a78bf",
@@ -705,7 +730,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.8
     },
     {
       "id": "gdelt-17dd93cbbe8e9d20aefd880e",
@@ -729,7 +754,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.8
     },
     {
       "id": "gdelt-bb32b8818bd99a213104a98a",
@@ -754,7 +779,56 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-68a2607c1131caf75bcecd6c",
+      "title": "Ligue 2 : c’est le chaos total au FC Nantes",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3263558854832411736-ligue-2-cest-le-chaos-total-au-fc-nantes",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mdz.jpg",
+      "publishedAt": "2026-08-22T16:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "nantes"
+      ],
+      "topics": [
+        "nantes",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
+    },
+    {
+      "id": "gdelt-d5670e49a052a9b444c55100",
+      "title": "PL : Pierre Sage rate ses débuts avec Crystal Palace contre Everton",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7277939681810698722-pl-pierre-sage-rate-ses-debuts-avec-crystal-palace-contre-everton",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/pierre-sage-lens.jpg",
+      "publishedAt": "2026-08-22T15:58:59.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "everton",
+        "crystal-palace"
+      ],
+      "topics": [
+        "everton",
+        "crystal-palace"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-e699b0565d88178d58685a96",
@@ -779,7 +853,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-a5a0e457a788aff5e4ec292b",
@@ -805,7 +879,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-714ac17480e4a0970293116c",
@@ -831,7 +905,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-4f53f74775a05677e171d811",
@@ -857,7 +931,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 92.4
     },
     {
       "id": "gdelt-324a5e9dfbd5fc690144721d",
@@ -883,7 +957,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-82ce26fb1cf35d898e02025d",
@@ -909,7 +983,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-35f944378fd9da3e57f56d01",
@@ -935,7 +1009,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-de6922f4f2a7f91af9bdf3e6",
@@ -963,7 +1037,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-39b93ea324d32afd4813f0b4",
@@ -989,7 +1063,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 92
     },
     {
       "id": "gdelt-b30a0c0122992ef5f2cf7894",
@@ -1015,7 +1089,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-36fced8473241cf639d380d6",
@@ -1040,7 +1114,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-6305ec9cba65dd6206dc43b8",
@@ -1065,7 +1139,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-44040436f284cfddf058571f",
@@ -1090,7 +1164,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-cdd7218721e1168718b8bd3a",
@@ -1113,7 +1187,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-ba5855f41b72bbba482ce135",
@@ -1136,7 +1210,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-b32b266532d2d4e93de03950",
@@ -1160,7 +1234,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-2c88aeb6b1604fbf62f23bea",
@@ -1183,7 +1257,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-a2dacd06c928362628d88187",
@@ -1206,7 +1280,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-1497f2ed5a253a63943de9f0",
@@ -1229,7 +1303,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-0712d6fee380e6ed23253c94",
@@ -1251,7 +1325,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-5778e1e7baf5345fb04fbe18",
@@ -1277,7 +1351,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-91168f3ad90ad3f2d8def0e3",
@@ -1302,7 +1376,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-b4d8c7b56636ccb7cc551d82",
@@ -1327,7 +1401,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-0a31a6cc5b8601e22619a92f",
@@ -1350,7 +1424,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-962ffbbd7f512caddccd8e20",
@@ -1374,7 +1448,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 89.1
+    },
+    {
+      "id": "gdelt-c27fe6569474e9fe83c86aa3",
+      "title": "L’Inter Milan scelle définitivement l’avenir de Lautaro Martinez",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1399291732172934051-linter-milan-scelle-definitivement-lavenir-de-lautaro-martinez",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lautaro-martinez-2526.jpg",
+      "publishedAt": "2026-08-22T16:34:41.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "inter"
+      ],
+      "topics": [
+        "inter"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89
     },
     {
       "id": "gdelt-0d8eb001f8a157e8e426cb04",
@@ -1398,7 +1495,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 89
     },
     {
       "id": "gdelt-6148fa6a7977423b33d952df",
@@ -1421,7 +1518,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-099b68b8bdedf9195bfa1f87",
@@ -1444,7 +1541,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-033f6b4089f383db6e26053c",
@@ -1465,7 +1562,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-ff6aab4b20a7694161b93dab",
@@ -1486,7 +1583,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-d6bebb8a1f914beb707759e0",
@@ -1509,7 +1606,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-bf42acaf98723f32c9dfa50d",
@@ -1533,7 +1630,26 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 88
+    },
+    {
+      "id": "gdelt-b3a7b8cf940ec606252ba890",
+      "title": "JT Foot Mercato : Mourinho a enfin trouvé un milieu",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8823501551933941730-jt-foot-mercato-mourinho-a-enfin-trouve-un-milieu",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-2425.jpg",
+      "publishedAt": "2026-08-22T16:10:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-d062da6a18ab78e74d8b89f5",
@@ -1556,7 +1672,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-91aec0ecd254dc3cd88a17ce",
@@ -1579,7 +1695,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-4db998c8bf67224374262cb7",
@@ -1602,7 +1718,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-c8c0542d0e80da3885476477",
@@ -1625,7 +1741,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-f96f104b4be62389ffac5523",
@@ -1648,7 +1764,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-122c9e5fb7e8e79373337caf",
@@ -1671,7 +1787,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-e5d21ebf6afb7a8032c3ee46",
@@ -1694,7 +1810,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-3a2b787b7c17faa09372ccc4",
@@ -1720,7 +1836,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-83303631e83ba807f80d8309",
@@ -1743,31 +1859,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
-    },
-    {
-      "id": "gdelt-51471cce0dc85f8866140f75",
-      "title": "Strasbourg claque 20 millions pour un défenseur de Bundesliga (officiel)",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/strasbourg-claque-20-millions-pour-un-defenseur-de-bundesliga-officiel-997349",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997349/406786/1200-L-strasbourg-claque-20-millions-pour-un-dfenseur-de-bundesliga-officiel.jpg",
-      "publishedAt": "2026-08-21T10:53:20.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "strasbourg"
-      ],
-      "topics": [
-        "strasbourg",
-        "bundesliga"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-afee928f81aefaf7dd4108a5",
@@ -1791,7 +1883,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-17e0ede5201ea5ced43e6028",
@@ -1816,7 +1908,54 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87.1
+    },
+    {
+      "id": "gdelt-51471cce0dc85f8866140f75",
+      "title": "Strasbourg claque 20 millions pour un défenseur de Bundesliga (officiel)",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/strasbourg-claque-20-millions-pour-un-defenseur-de-bundesliga-officiel-997349",
+      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997349/406786/1200-L-strasbourg-claque-20-millions-pour-un-dfenseur-de-bundesliga-officiel.jpg",
+      "publishedAt": "2026-08-21T10:53:20.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "strasbourg"
+      ],
+      "topics": [
+        "strasbourg",
+        "bundesliga"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 87.1
+    },
+    {
+      "id": "gdelt-36c9f63935d61d6edcd45ec0",
+      "title": "PSG : Luis Enrique ouvert à l’utilisation de l’IA",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6553340262542716222-psg-luis-enrique-ouvert-a-lutilisation-de-lia",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epaliveseven870863.jpg",
+      "publishedAt": "2026-08-22T12:38:50.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87
     },
     {
       "id": "gdelt-3c04c13e04e5978be95b366e",
@@ -1842,30 +1981,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
-    },
-    {
-      "id": "gdelt-36c9f63935d61d6edcd45ec0",
-      "title": "PSG : Luis Enrique ouvert à l’utilisation de l’IA",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6553340262542716222-psg-luis-enrique-ouvert-a-lutilisation-de-lia",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epaliveseven870863.jpg",
-      "publishedAt": "2026-08-22T12:38:50.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 87
     },
     {
       "id": "gdelt-fe197d88e37dfff17689c952",
@@ -1890,32 +2006,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
-    },
-    {
-      "id": "gdelt-a940d6d54ae3075649bbb4dc",
-      "title": "Manchester United humilié par Hull City, le speaker annonce en plus l'annulation des trains retours !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/etranger/manchester-united-humilie-par-hull-city-le-speaker-annonce-en-plus-lannulation-des-trains-retours-997487",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997487/406856/1200-L-manchester-united-humili-par-hull-city-le-speaker-annonce-en-plus-l-annulation-des-trains-retours.jpg",
-      "publishedAt": "2026-08-22T15:58:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "man-united",
-        "hull"
-      ],
-      "topics": [
-        "man-united",
-        "hull"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-a9001ae70f54133109618bbf",
@@ -1938,7 +2029,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-29cef9cc3d8139c9b046a1f7",
@@ -1964,7 +2055,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-3400e2cc1aba84e8423208b6",
@@ -1987,7 +2078,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-9bde6cb31ebed115a57e973e",
@@ -2010,7 +2101,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.5
+    },
+    {
+      "id": "gdelt-302632d86825ec019999519a",
+      "title": "Ligue 1 : suivre Lens / Auxerre en direct, live et streaming (+ score en temps réel et résultat final)",
+      "summary": "Publication référencée chez stars-actu.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.stars-actu.fr/2026/08/ligue-1-suivre-lens-auxerre-en-direct-live-et-streaming-score-en-temps-reel-et-resultat-final/",
+      "imageURL": "https://www.stars-actu.fr/wp-content/uploads/2026/02/ligue1plus.jpeg",
+      "publishedAt": "2026-08-22T16:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "stars-actu.fr",
+        "name": "stars-actu.fr",
+        "websiteURL": "https://stars-actu.fr"
+      },
+      "teams": [
+        "lens",
+        "auxerre"
+      ],
+      "topics": [
+        "lens",
+        "auxerre",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-4b3de16714f4cc853bc20c26",
@@ -2033,30 +2150,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
-    },
-    {
-      "id": "gdelt-ee9df09a68fe4f9c3cc5efab",
-      "title": "Real Madrid : le premier groupe officiel de José Mourinho",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5392617551271306454-real-madrid-le-premier-groupe-officiel-de-jose-mourinho",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine279900-1920x1080.jpg",
-      "publishedAt": "2026-08-21T16:17:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-10fbaa82665ec3eb507b70e3",
@@ -2079,7 +2173,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-8d2a2b0506fb189e32ee964c",
@@ -2102,7 +2196,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-f536776925047471045e0141",
@@ -2125,7 +2219,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-3713a0497fe47970bc679c2b",
@@ -2148,7 +2242,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-822e2982a5fc1faa5d6c9d51",
@@ -2169,7 +2263,56 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.8
+    },
+    {
+      "id": "gdelt-ee9df09a68fe4f9c3cc5efab",
+      "title": "Real Madrid : le premier groupe officiel de José Mourinho",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5392617551271306454-real-madrid-le-premier-groupe-officiel-de-jose-mourinho",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine279900-1920x1080.jpg",
+      "publishedAt": "2026-08-21T16:17:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 85.8
+    },
+    {
+      "id": "gdelt-1bd84f044bcb8ab8ebafe618",
+      "title": "Rodez humilie Nantes à la Beaujoire, le calvaire continue pour les Canaris en Ligue 2",
+      "summary": "Publication référencée chez ladepeche.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.ladepeche.fr/2026/08/22/rodez-humilie-nantes-a-la-beaujoire-le-calvaire-continue-pour-les-canaris-en-ligue-2-13518650.php",
+      "imageURL": "https://images.ladepeche.fr/api/v1/images/view/6a89b60cde2177362a094a2c/hd/image.jpg?v=1",
+      "publishedAt": "2026-08-22T16:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "ladepeche.fr",
+        "name": "ladepeche.fr",
+        "websiteURL": "https://ladepeche.fr"
+      },
+      "teams": [
+        "nantes",
+        "rodez"
+      ],
+      "topics": [
+        "nantes",
+        "rodez",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-f65e74ece0aedd43c88669f5",
@@ -2195,7 +2338,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.9
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-e1aba95eb91cbffb9daf6db3",
@@ -2222,7 +2365,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.8
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-457a3b3c0f89d88ad9b35bae",
@@ -2245,7 +2388,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-1eb921e2116cffd3d5878e02",
@@ -2271,7 +2414,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.6
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-bec6c46f9b8a282f8a79d05d",
@@ -2294,7 +2437,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-232df60f8018b3629fb569c8",
@@ -2317,154 +2460,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
-    },
-    {
-      "id": "gdelt-4e668b319e56b3545bf2af33",
-      "title": "Nantes-Rodez (2-5) : la déroute des Canaris, toujours derniers de Ligue 2",
-      "summary": "Publication référencée chez lanouvelletribune.info. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://lanouvelletribune.info/2026/08/nantes-rodez-2-5-la-deroute-des-canaris-toujours-derniers-de-ligue-2/",
-      "imageURL": "https://lanouvelletribune.info/wp-content/uploads/2026/08/Ligue-2-.webp",
-      "publishedAt": "2026-08-22T14:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lanouvelletribune.info",
-        "name": "lanouvelletribune.info",
-        "websiteURL": "https://lanouvelletribune.info"
-      },
-      "teams": [
-        "nantes",
-        "rodez"
-      ],
-      "topics": [
-        "nantes",
-        "rodez",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 85.4
-    },
-    {
-      "id": "gdelt-3cdb1795b8d8eaedcb927c6b",
-      "title": "Premier League : Man United chute d'entrée face à Hull City, Nobel Mendy buteur",
-      "summary": "Publication référencée chez pressafrik.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.pressafrik.com/Premier-League-Man-United-chute-d-entree-face-a-Hull-City-Nobel-Mendy-buteur_a310350.html",
-      "imageURL": "https://www.pressafrik.com/photo/art/grande/97775762-68062195.jpg?v=1787408068",
-      "publishedAt": "2026-08-22T14:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "pressafrik.com",
-        "name": "pressafrik.com",
-        "websiteURL": "https://pressafrik.com"
-      },
-      "teams": [
-        "man-united",
-        "hull"
-      ],
-      "topics": [
-        "man-united",
-        "hull",
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 85.3
-    },
-    {
-      "id": "gdelt-a3ee6f7584201046869af1cb",
-      "title": "Les bonnes raisons de suivre la Serie A cette saison",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/articles/italie-cinq-bonnes-raisons-de-suivre-la-serie-a-2026-2027",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjExODI0MDUvSUNPTlNQT1JUXzM3MjAwOV8wMDQxLTE0MDB4OTMzLmpwZw/1300/les-bonnes-raisons-de-suivre-la-serie-a-cette-saison.jpg",
-      "publishedAt": "2026-08-22T08:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [
-        "serie-a"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.3
-    },
-    {
-      "id": "gdelt-87c4e572e872ea160b5e9ab9",
-      "title": "Elise Bussaglia de retour au PSG",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/elise-bussaglia-de-retour-au-psg-en-tant-quadjointe-de-paulo-cesar",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjIwOTQwMjYvMTE2MzI4NDItMTQwMHg5MzMuanBn/1300/elise-bussaglia-de-retour-au-psg.jpg",
-      "publishedAt": "2026-08-22T08:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.3
-    },
-    {
-      "id": "gdelt-2579ed9a3826c71c9b288d32",
-      "title": "Un international danois de Galatasaray signe au Havre",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/mercato-un-international-danois-de-galatasaray-signe-au-havre",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjExNzE3NDUvOTc2MzczMC0xNDAweDkzMy5qcGc/1300/un-international-danois-de-galatasaray-signe-au-havre.jpg",
-      "publishedAt": "2026-08-21T18:17:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "galatasaray"
-      ],
-      "topics": [
-        "galatasaray",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-55c19bf7d9eae4e0d2702cb3",
-      "title": "LOSC : Davide Ancelotti annonce deux bonnes nouvelles et quatre forfaits pour le match face à Angers SCO",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-losc-davide-ancelotti-annonce-deux-bonnes-nouvelles-et-quatre-forfaits-pour-le-match-face-a-angers-sco-535469.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260726103702-4971.jpg",
-      "publishedAt": "2026-08-21T12:25:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "lille",
-        "angers"
-      ],
-      "topics": [
-        "lille",
-        "angers"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
       "qualityScore": 85.2
     }
   ],
-  "generatedAt": "2026-08-22T15:58:48.508Z",
+  "generatedAt": "2026-08-22T16:35:40.713Z",
   "stale": false
 }
