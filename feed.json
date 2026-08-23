@@ -6,7 +6,7 @@
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a7655393839315254387-serie-a-la-juventus-debute-bien-a-frosinone-lecce-domine-venise",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/juventus-turin-2526.jpg",
-      "publishedAt": "2026-08-23T18:34:40.000Z",
+      "publishedAt": "2026-08-23T20:02:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -26,7 +26,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100.3
+      "qualityScore": 100.7
     },
     {
       "id": "gdelt-7fb1c8c2270f1d6359e4cad1",
@@ -55,7 +55,111 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.8
+      "qualityScore": 99.5
+    },
+    {
+      "id": "gdelt-643160cb32f846babd6b2b49",
+      "title": "Rennes-PSG : les compositions officielles du premier choc du dimanche soir de la saison en Ligue 1",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/rennes-psg-les-compositions-officielles-du-premier-choc-du-dimanche-soir-de-la-saison-en-ligue-1-954078",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954078/388727/1200-L-rennes-psg-les-compositions-officielles-du-premier-choc-du-dimanche-soir-de-la-saison-en-ligue-1.jpg",
+      "publishedAt": "2026-08-23T20:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.8
+    },
+    {
+      "id": "gdelt-4036f000da25a35429a95065",
+      "title": "U19 National : le PSG l'emporte, l'OM freiné, l'OL battu, Montpellier humilié…",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/u19-national-le-psg-lemporte-lom-freine-lol-battu-montpellier-humilie-954106",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954106/388741/1200-L-u19-national-le-psg-lemporte-lom-frein-lol-battu-montpellier-humili.jpg",
+      "publishedAt": "2026-08-23T20:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "montpellier"
+      ],
+      "topics": [
+        "psg",
+        "montpellier",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.8
+    },
+    {
+      "id": "gdelt-9a4ade863404d05902a8883a",
+      "title": "Live Atalanta - Sassuolo (1-1) la 1re journée de Serie A 2026/2027 23/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/1791780116167127647-atalanta-vs-sassuolo",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-6073609457645068646-4917517608763714132.jpg",
+      "publishedAt": "2026-08-23T20:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "atalanta",
+        "sassuolo"
+      ],
+      "topics": [
+        "atalanta",
+        "sassuolo",
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.7
+    },
+    {
+      "id": "gdelt-1e84af2a1c00619ac816e207",
+      "title": "Live Rennes - PSG (2-0) la 1re journée de Ligue 1 McDonald's 2026/2027 23/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/5525585030422418331-rennes-vs-paris-saint-germain",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-883536008222022270-5241637088424990117.jpg",
+      "publishedAt": "2026-08-23T20:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.7
     },
     {
       "id": "gdelt-0fc4b052e0e9304af6947204",
@@ -83,7 +187,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 97
+      "qualityScore": 96.7
     },
     {
       "id": "gdelt-5b090eb115263174962df942",
@@ -106,7 +210,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.8
+      "qualityScore": 96.5
     },
     {
       "id": "gdelt-bc87285b60cf5aef528cb012",
@@ -133,7 +237,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 96
     },
     {
       "id": "gdelt-08da9e85bb967d2ac4d09687",
@@ -159,7 +263,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-933153f8b51ce0fd819dc9a8",
@@ -185,7 +289,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-b505c220333b914b447e4c6e",
@@ -211,7 +315,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-c14294c7c9649a4b8ff4a9c7",
@@ -237,7 +341,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 95.2
     },
     {
       "id": "gdelt-20f3ca54b8def54bb48ec95f",
@@ -263,7 +367,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-0557417925badd9cc3defb35",
@@ -290,7 +394,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-ffa7f8a701240f3aca589b89",
@@ -316,7 +420,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
     },
     {
       "id": "gdelt-775f598650150391be546aaa",
@@ -342,7 +446,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
     },
     {
       "id": "gdelt-c6cdd5854d5156dabd9466d0",
@@ -368,7 +472,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
     },
     {
       "id": "gdelt-4e6519362ee855109ba6c0a0",
@@ -394,7 +498,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 94
     },
     {
       "id": "gdelt-d0b7ab425d20a5ec7e8b212e",
@@ -417,7 +521,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-ed62900b3b83a7975ab25638",
@@ -443,7 +547,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.4
+      "qualityScore": 93.1
     },
     {
       "id": "gdelt-10c1c968fa45ddabb3884abf",
@@ -468,7 +572,105 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.3
+      "qualityScore": 93
+    },
+    {
+      "id": "gdelt-9a745b6240407efe6a21d8e5",
+      "title": "Le premier but de Ferran Torres avec le PSG contre Rennes",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5742949264440049712-le-premier-but-de-ferran-torres-avec-le-psg-contre-rennes",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/m-28629-1920x1080.jpg",
+      "publishedAt": "2026-08-23T20:22:22.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
+    },
+    {
+      "id": "gdelt-1c32896edb5100526e8745dd",
+      "title": "Ligue 3 : Yoann Godin prend la tête de Valenciennes dans un contexte de restructuration",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-3-yoann-godin-prend-la-tete-de-valenciennes-dans-un-contexte-de-restructuration-954080",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954080/388729/1200-L-ligue-3-yoann-godin-prend-la-tte-de-valenciennes-dans-un-contexte-de-restructuration.jpg",
+      "publishedAt": "2026-08-23T20:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "valenciennes"
+      ],
+      "topics": [
+        "valenciennes",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-2d153f5ef0115143bbd170a0",
+      "title": "Ligue 2 : Saint-Étienne peut entrer dans les livres d'histoire du club en cas de succès à Dijon",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-2-saint-etienne-peut-entrer-dans-les-livres-dhistoire-du-club-en-cas-de-succes-a-dijon-954084",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954084/388731/1200-L-ligue-2-saint-tienne-peut-entrer-dans-les-livres-dhistoire-du-club-en-cas-de-succs-dijon.jpg",
+      "publishedAt": "2026-08-23T20:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-5868a42d01813152a76ff7aa",
+      "title": "Rennes : Brice Samba piégé par la nouvelle règle d’arbitrage face au PSG",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6372480145056868674-rennes-brice-samba-piege-par-la-nouvelle-regle-darbitrage-face-au-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo308752.jpg",
+      "publishedAt": "2026-08-23T20:13:09.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
     },
     {
       "id": "gdelt-85decf32db06074553f4f282",
@@ -494,7 +696,105 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-7960dd33e82643852095d6a8",
+      "title": "Live Torino - Milan (0-0) la 1re journée de Serie A 2026/2027 23/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/6203186976694253674-torino-vs-ac-milan",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-3028356524842172229-7540704180214421418.jpg",
+      "publishedAt": "2026-08-23T20:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "torino"
+      ],
+      "topics": [
+        "torino",
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
+    },
+    {
+      "id": "gdelt-88778267373e28906d2b56ce",
+      "title": "PSG : Luis Campos sort du silence sur le \"pelouse gate\" face à Rennes",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3092807295192831261-psg-luis-campos-sort-du-silence-sur-le-pelouse-gate-face-a-rennes",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecial784551.jpg",
+      "publishedAt": "2026-08-23T20:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
+    },
+    {
+      "id": "gdelt-2fcca22ffb495fe0328b8c28",
+      "title": "Live Tenerife - Almería (0-0) la 2e journée de LaLiga Hypermotion 2026/2027 23/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/2287128567892273917-tenerife-vs-almeria",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-4646761988820667698-8293302650650336862.jpg",
+      "publishedAt": "2026-08-23T20:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "almeria"
+      ],
+      "topics": [
+        "almeria",
+        "la-liga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
+    },
+    {
+      "id": "gdelt-8e939155c4c5fd04270dbeed",
+      "title": "Estéban Lepaul marque son premier but de la saison et enfonce le PSG",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8517624220153183294-esteban-lepaul-marque-son-premier-but-de-la-saison-et-enfonce-le-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lepaul-rennes.jpg",
+      "publishedAt": "2026-08-23T20:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "pau"
+      ],
+      "topics": [
+        "psg",
+        "pau"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-6316530faab64023fb63f2d9",
@@ -519,32 +819,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
-    },
-    {
-      "id": "gdelt-8e939155c4c5fd04270dbeed",
-      "title": "Estéban Lepaul marque son premier but de la saison et enfonce le PSG",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8517624220153183294-esteban-lepaul-marque-son-premier-but-de-la-saison-et-enfonce-le-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lepaul-rennes.jpg",
-      "publishedAt": "2026-08-23T19:29:38.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "pau"
-      ],
-      "topics": [
-        "psg",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-9ab5d847adbb22f1405e5cc1",
@@ -566,31 +841,6 @@
         "fenerbahce"
       ],
       "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 92.6
-    },
-    {
-      "id": "gdelt-88778267373e28906d2b56ce",
-      "title": "PSG : Luis Campos sort du silence sur le \"pelouse gate\" face à Rennes",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3092807295192831261-psg-luis-campos-sort-du-silence-sur-le-pelouse-gate-face-a-rennes",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecial784551.jpg",
-      "publishedAt": "2026-08-23T18:34:24.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "rennes"
-      ],
-      "topics": [
-        "psg",
-        "rennes"
-      ],
-      "reliability": "reported",
       "sourceTier": "recognized",
       "qualityScore": 92.3
     },
@@ -618,32 +868,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 92
     },
     {
-      "id": "gdelt-d05d0a52528472a5abd7c11c",
-      "title": "Rennes-PSG : les compositions officielles",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a142656385563465080-rennes-psg-les-compositions-officielles",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine262762-1920x1080.jpg",
-      "publishedAt": "2026-08-23T18:03:42.000Z",
-      "category": "news",
+      "id": "gdelt-acefb746deab09f2f97a9f1e",
+      "title": "PSG : « Le mercato n'est pas terminé » prévient Luis Campos",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/psg-le-mercato-nest-pas-termine-previent-luis-campos-954112",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954112/388744/1200-L-psg-le-mercato-nest-pas-termin-prvient-luis-campos.jpg",
+      "publishedAt": "2026-08-23T20:16:00.000Z",
+      "category": "transfers",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
       },
       "teams": [
-        "psg",
-        "rennes"
+        "psg"
       ],
       "topics": [
-        "psg",
-        "rennes"
+        "psg"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-eee80ff9279161ef62adbddd",
@@ -667,7 +915,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-0326b33b288462b84228bbed",
@@ -692,7 +940,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-c326203a6a6090e6cff8e059",
@@ -716,7 +964,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-7d00eaa2e173d2b51d5165a1",
@@ -741,7 +989,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-2847c35eee04aec33b09e1ec",
@@ -765,7 +1013,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-2d29a5bd6ee6d4daebcd2da2",
@@ -789,7 +1037,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-e0061144924b671479555a85",
@@ -814,7 +1062,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-76208586ccb8176b508d3652",
@@ -839,7 +1087,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-89389d16b2d9709b6a7bdc92",
@@ -864,7 +1112,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-7d8765665a7a6a7b95042e61",
@@ -888,7 +1136,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-6da465e9feac1324866e7bd7",
@@ -914,7 +1162,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-3fff4be2b4030d4132ab3521",
@@ -939,7 +1187,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-d0f3fd1d6a32bf8f90717087",
@@ -964,7 +1212,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-41703cea192359c4b9fa0faa",
@@ -991,7 +1239,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-38818db544cb4059e09d8051",
@@ -1023,7 +1271,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-624e2ec23bfb2d5cf1ba19bd",
@@ -1048,7 +1296,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-b97dc3eb829bce954d89c4bc",
@@ -1071,7 +1319,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-032165b742dae00a1720bac4",
@@ -1096,7 +1344,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-ac7f68f9044abce76d629f82",
@@ -1121,7 +1369,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-6986c96bfd980595cd09ae0d",
@@ -1144,7 +1392,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-3e5fa9b08104fd4358227b0d",
@@ -1166,7 +1414,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-b706ac27bc64e48b5c3f213e",
@@ -1190,7 +1438,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-25339502a7cc6fcf068f4cb1",
@@ -1213,7 +1461,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-49acb903190b1ea8f1d13f04",
@@ -1239,7 +1487,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-83a6822524b31471bd1ff0db",
@@ -1265,7 +1513,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-5bc29e0f99e9045c96e96997",
@@ -1291,7 +1539,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-5b7b333ae47f2bfa402d4a5e",
@@ -1319,7 +1567,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-e79e1cfffd65925adaca2aac",
@@ -1344,7 +1592,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 90
     },
     {
       "id": "gdelt-e608c69e951cb25c4731a52f",
@@ -1369,7 +1617,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 90
     },
     {
       "id": "gdelt-301cc33eb9c491b1c9821520",
@@ -1394,7 +1642,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 90
     },
     {
       "id": "gdelt-d6bebb8a1f914beb707759e0",
@@ -1419,7 +1667,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-0ff8db042124361b30e2b37e",
@@ -1445,7 +1693,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-195935585aee2c6756c75c73",
@@ -1471,7 +1719,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-30b7d2fe8b1250038deb21c3",
@@ -1494,7 +1742,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-33d0185121eee80aad0fb09f",
@@ -1517,7 +1765,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-f331f51d5f99c75475973334",
@@ -1547,7 +1795,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-c3b086d1c40d8aaf6d00c023",
@@ -1572,7 +1820,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 89.5
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-ef043ed2be1cf2d6c56fed20",
@@ -1606,7 +1854,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-2b6b1d70cb1a847bda8f0224",
@@ -1629,7 +1877,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 89
+    },
+    {
+      "id": "gdelt-7e9bfe627b4065ab37b89cfa",
+      "title": "Foot Amateur : portée par trois indésirables, la réserve de Reims cartonne pour son entrée en lice en Régional 1",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/foot-amateur/foot-amateur-portee-par-trois-indesirables-la-reserve-de-reims-cartonne-pour-son-entree-en-lice-en-regional-1-954103",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954103/388740/1200-L-foot-amateur-porte-par-trois-indsirables-la-rserve-de-reims-cartonne-pour-son-entre-en-lice-en-rgional-1.jpg",
+      "publishedAt": "2026-08-23T20:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "reims"
+      ],
+      "topics": [
+        "reims"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-b88e6f7889f58a901054a0fc",
@@ -1654,7 +1925,122 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-39dd3aec842c7b2a5db024a6",
+      "title": "Live Elche - Barcelone (0-1) la 2e journée de Liga 2026/2027 23/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/7752427207122093029-elche-vs-barcelone",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-1929861189976830328-8158115007993136624.jpg",
+      "publishedAt": "2026-08-23T20:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-c885490e139b621ba58c0f3d",
+      "title": "Elche-Barcelone : les compositions officielles",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6816429553859316825-elche-barcelone-les-compositions-officielles",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lamineyamalfcb.jpg",
+      "publishedAt": "2026-08-23T20:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-104e85e7ac322efadd3fa940",
+      "title": "Manchester City : la réponse cash de Rayan Cherki à Enzo Maresca",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5628331963730910865-manchester-city-la-reponse-cash-de-rayan-cherki-a-enzo-maresca",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine272352-1920x1080.jpg",
+      "publishedAt": "2026-08-23T20:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "man-city"
+      ],
+      "topics": [
+        "man-city"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-81c7cef2f98c06ee3029443c",
+      "title": "Juventus : l'énorme raté de Kolo Muani contre Frosinone",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1823884518279778636-juventus-lenorme-rate-de-kolo-muani-contre-frosinone",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kolo-muani-juventus.jpg",
+      "publishedAt": "2026-08-23T20:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "juventus"
+      ],
+      "topics": [
+        "juventus"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-ca1820a24ed2a3b1adfbbe48",
+      "title": "Le but splendide de Sebastian Szymański face au PSG",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8851369327915664988-le-but-splendide-de-sebastian-szymanski-face-au-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo565697-1920x1080.jpg",
+      "publishedAt": "2026-08-23T20:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-bda76ed74a29f7f1c7e2ee89",
@@ -1687,11 +2073,11 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-e6fdebc1aa3aed2c118fe78e",
-      "title": "Raphinha délivre le FC Barcelone contre Elche !",
+      "title": "Le FC Barcelone se met à l’abri contre Elche !",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a7783904270254223228-suivez-la-rencontre-elche-fc-barcelone-en-direct-commente",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/raphinha-lamine-yamal-2526.jpg",
@@ -1710,30 +2096,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
-    },
-    {
-      "id": "gdelt-ca1820a24ed2a3b1adfbbe48",
-      "title": "Le but splendide de Sebastian Szymański face au PSG",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8851369327915664988-le-but-splendide-de-sebastian-szymanski-face-au-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo565697-1920x1080.jpg",
-      "publishedAt": "2026-08-23T19:05:24.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-66e65d2cb6696da05469bcde",
@@ -1757,7 +2120,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-4280f5398d7db722f5f0570d",
@@ -1782,7 +2145,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-ec081a8f141c6903dc8be5e9",
@@ -1807,76 +2170,26 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
-    },
-    {
-      "id": "gdelt-c885490e139b621ba58c0f3d",
-      "title": "Elche-Barcelone : les compositions officielles",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6816429553859316825-elche-barcelone-les-compositions-officielles",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lamineyamalfcb.jpg",
-      "publishedAt": "2026-08-23T18:26:48.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.2
-    },
-    {
-      "id": "gdelt-104e85e7ac322efadd3fa940",
-      "title": "Manchester City : la réponse cash de Rayan Cherki à Enzo Maresca",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5628331963730910865-manchester-city-la-reponse-cash-de-rayan-cherki-a-enzo-maresca",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine272352-1920x1080.jpg",
-      "publishedAt": "2026-08-23T18:00:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-city"
-      ],
-      "topics": [
-        "man-city"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 88
     },
     {
-      "id": "gdelt-81c7cef2f98c06ee3029443c",
-      "title": "Juventus : l’énorme raté de Kolo Muani contre Frosinone",
+      "id": "gdelt-70cd08e4cc47ece41251767c",
+      "title": "Accord trouvé pour le transfert de Mory Diaw vers Al-Shabab",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1823884518279778636-juventus-lenorme-rate-de-kolo-muani-contre-frosinone",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kolo-muani-juventus.jpg",
-      "publishedAt": "2026-08-23T17:48:54.000Z",
-      "category": "news",
+      "url": "https://www.footmercato.net/a6140365893951378004-accord-trouve-pour-le-transfert-de-mory-diaw-vers-al-shabab",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mory-diaw.jpg",
+      "publishedAt": "2026-08-23T20:02:00.000Z",
+      "category": "transfers",
       "source": {
         "id": "footmercato.net",
         "name": "footmercato.net",
         "websiteURL": "https://footmercato.net"
       },
-      "teams": [
-        "juventus"
-      ],
-      "topics": [
-        "juventus"
-      ],
+      "teams": [],
+      "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-b34e95da1e4e0d5e10f296b9",
@@ -1897,7 +2210,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-9c8b561e43a66f0ff8183f3f",
@@ -1920,7 +2233,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-df43edd2f98e0bf868e56f0d",
@@ -1941,7 +2254,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-b8ef2847adc4483494ed3913",
@@ -1964,7 +2277,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-c5e7d7ec9d006e41a7bb783d",
@@ -1987,7 +2300,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-dde1cb12551568e3bfa35ff2",
@@ -2010,7 +2323,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-85b79ecb7546d2e8c8bc798b",
@@ -2039,7 +2352,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 87.4
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-5b07a50796f3f23a499b268e",
@@ -2069,26 +2382,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
-    },
-    {
-      "id": "gdelt-70cd08e4cc47ece41251767c",
-      "title": "Accord trouvé pour le transfert de Mory Diaw vers Al-Shabab",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6140365893951378004-accord-trouve-pour-le-transfert-de-mory-diaw-vers-al-shabab",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mory-diaw.jpg",
-      "publishedAt": "2026-08-23T18:40:13.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-ee168d811851a2bd825ffd32",
@@ -2109,7 +2403,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 87
     },
     {
       "id": "gdelt-3cd39e3599ebf958e1e4aaf8",
@@ -2133,7 +2427,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 87
     },
     {
       "id": "gdelt-a9b73da34265fe5721a09f40",
@@ -2158,7 +2452,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-8647c104e744b8b7e2625a72",
@@ -2183,7 +2477,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-4ac648b01e49ac5cfd593e3c",
@@ -2213,297 +2507,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
-    },
-    {
-      "id": "gdelt-3d92ce1bd157766a9008f8b1",
-      "title": "Ligue 2 : un Nantes catastrophique humilié par Rodez, Metz évite le pire face à Laval",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-2-un-nantes-catastrophique-humilie-par-rodez-metz-evite-le-pire-face-a-laval-953995",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/953995/388681/1200-L-ligue-2-un-nantes-catastrophique-humili-par-rodez-metz-vite-le-pire-face-laval.jpg",
-      "publishedAt": "2026-08-22T15:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "nantes",
-        "metz",
-        "laval",
-        "rodez"
-      ],
-      "topics": [
-        "nantes",
-        "metz",
-        "laval",
-        "rodez",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.9
-    },
-    {
-      "id": "gdelt-6a12746147166e0c7eb70ce6",
-      "title": "Coupe de France : le FC Cagny (D3) rêve d'un parcours historique pour sa première participation",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-le-fc-cagny-d3-reve-dun-parcours-historique-pour-sa-premiere-participation-954058",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954058/388717/1200-L-coupe-de-france-le-fc-cagny-d3-rve-d-un-parcours-historique-pour-sa-premire-participation.jpg",
-      "publishedAt": "2026-08-23T15:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 86.6
-    },
-    {
-      "id": "gdelt-d041c65b77bf07e9c0d9c45d",
-      "title": "Pourquoi le prince héritier saoudien s'affiche aux côtés du président français à la coupe du monde de esport à Paris ?",
-      "summary": "Publication référencée chez radiofrance.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/l-info-de-france-inter-5610385",
-      "imageURL": "https://www.radiofrance.fr/pikapi/images/c57f3cf4-34a8-484b-9a46-bd8872367a46/2048",
-      "publishedAt": "2026-08-23T15:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "radiofrance.fr",
-        "name": "radiofrance.fr",
-        "websiteURL": "https://radiofrance.fr"
-      },
-      "teams": [],
-      "topics": [
-        "world-cup"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.5
-    },
-    {
-      "id": "gdelt-9880223dd2ce59bd9e48ae92",
-      "title": "Trop fort pour Grenoble, Saint-Étienne prend les commandes de la Ligue 2",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/saint-etienne-colle-un-tarif-a-grenoble-et-prend-les-commandes-de-la-ligue-2",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjIyMTIzNTAvMTQ1MDg3NDItMTQwMHg5MzMuanBn/1300/trop-fort-pour-grenoble-saint-etienne-prend-les-commandes-de-la-ligue-2.jpg",
-      "publishedAt": "2026-08-22T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "saint-etienne",
-        "grenoble"
-      ],
-      "topics": [
-        "saint-etienne",
-        "grenoble",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.4
-    },
-    {
-      "id": "gdelt-1be926717554a260bd83d9a0",
-      "title": "Malmené, Lyon s'impose à Toulouse avant les barrages de Ligue des champions",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/miracule-lyon-simpose-a-toulouse-avant-de-jouer-sa-place-en-ligue-des-champions",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjIyMjMyMjIvMTQ1MTA2NDUtMTQwMHg5MzQuanBn/1300/malmene-lyon-s-impose-a-toulouse-avant-les-barrages-de-ligue-des-champions.jpg",
-      "publishedAt": "2026-08-22T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "ol",
-        "toulouse"
-      ],
-      "topics": [
-        "ol",
-        "toulouse",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.4
-    },
-    {
-      "id": "gdelt-00b11e15a63eb34fed482b64",
-      "title": "Le Mans et Brest éclairent un triste premier samedi soir en Ligue 1",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/le-mans-et-brest-eclairent-un-triste-premier-samedi-soir-en-ligue-1",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjIyMjQ5MzQvMTQ1MTA4ODctMTQwMHg5MzMuanBn/1300/le-mans-et-brest-eclairent-un-triste-premier-samedi-soir-en-ligue-1.jpg",
-      "publishedAt": "2026-08-22T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "brest",
-        "le-mans"
-      ],
-      "topics": [
-        "brest",
-        "le-mans",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.4
-    },
-    {
-      "id": "gdelt-b87639b8300d2ae60d3ac285",
-      "title": "Fenerbahçe : Marco Asensio forfait face à l'OL",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2981831411027168662-fenerbahce-marco-asensio-forfait-face-a-lol",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/marco-asensio-690895f9056ad.jpg",
-      "publishedAt": "2026-08-23T14:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "fenerbahce"
-      ],
-      "topics": [
-        "fenerbahce"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.3
-    },
-    {
-      "id": "gdelt-d5823fd4177deef70b03aa6f",
-      "title": "Live Brunswick - Union Berlin (1-1) 1er tour de Coupe d'Allemagne 2026/2027 23/08",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/7707537600274276296-eintracht-brunswick-vs-union-berlin",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-7695003403050312104-9090419488867508585.jpg",
-      "publishedAt": "2026-08-23T14:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "union-berlin"
-      ],
-      "topics": [
-        "union-berlin"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.3
-    },
-    {
-      "id": "gdelt-94ae3878fcec515e9ad69cfa",
-      "title": "LOSC : Leipzig fait une offre pour Fernandez-Pardo mais…",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a880749640301443867-losc-leipzig-fait-une-offre-pour-fernandez-pardo-mais",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/fernandez-pardo.jpg",
-      "publishedAt": "2026-08-23T14:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.3
-    },
-    {
-      "id": "gdelt-e45cee4fc963e8fc8b38ba8f",
-      "title": "Atlético de Madrid : Julian Alvarez ouvre la porte à un nouveau club",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7151770196317975573-atletico-de-madrid-julian-alvarez-ouvre-la-porte-a-un-nouveau-club",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/julian-alvarez-2526-6a3503c6c8972.jpg",
-      "publishedAt": "2026-08-23T14:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "atletico"
-      ],
-      "topics": [
-        "atletico"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.3
-    },
-    {
-      "id": "gdelt-7e3d10b5a57e9af8703034b8",
-      "title": "Real Madrid : la grosse pique de Thibaut Courtois à Rodri",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a801818054791360581-real-madrid-la-grosse-pique-de-thibaut-courtois-a-rodri",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/thibaut-courtois-2526-693ae00a19906.jpg",
-      "publishedAt": "2026-08-23T14:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.3
-    },
-    {
-      "id": "gdelt-0cc500f89b6aae5e97b0f658",
-      "title": "FC Nantes : Der Zakarian prêt à prendre sa retraite, la grosse annonce du coach nantais",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-2/fc-nantes-der-zakarian-pret-a-prendre-sa-retraite-la-grosse-annonce-du-coach-nantais-997510",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997510/406868/1200-L-fc-nantes-der-zakarian-prt-prendre-sa-retraite-la-grosse-annonce-du-coach-nantais.jpg",
-      "publishedAt": "2026-08-22T20:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "nantes"
-      ],
-      "topics": [
-        "nantes"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 86
     }
   ],
-  "generatedAt": "2026-08-23T19:58:46.642Z",
+  "generatedAt": "2026-08-23T20:34:42.240Z",
   "stale": false
 }
