@@ -26,7 +26,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 103.1
+      "qualityScore": 102.7
     },
     {
       "id": "gdelt-38818db544cb4059e09d8051",
@@ -58,7 +58,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 97.6
+      "qualityScore": 97.2
     },
     {
       "id": "gdelt-49acb903190b1ea8f1d13f04",
@@ -84,7 +84,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.6
+      "qualityScore": 96.2
     },
     {
       "id": "gdelt-83a6822524b31471bd1ff0db",
@@ -110,7 +110,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 96.1
     },
     {
       "id": "gdelt-5bc29e0f99e9045c96e96997",
@@ -136,7 +136,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 96.1
     },
     {
       "id": "gdelt-5b7b333ae47f2bfa402d4a5e",
@@ -164,7 +164,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.4
+      "qualityScore": 96
     },
     {
       "id": "gdelt-0ff8db042124361b30e2b37e",
@@ -190,7 +190,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 95.7
     },
     {
       "id": "gdelt-195935585aee2c6756c75c73",
@@ -216,7 +216,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 95.7
     },
     {
       "id": "gdelt-f331f51d5f99c75475973334",
@@ -246,7 +246,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.7
+      "qualityScore": 95.3
     },
     {
       "id": "gdelt-ef043ed2be1cf2d6c56fed20",
@@ -280,7 +280,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 95.1
     },
     {
       "id": "gdelt-bda76ed74a29f7f1c7e2ee89",
@@ -313,7 +313,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 94.7
     },
     {
       "id": "gdelt-5b07a50796f3f23a499b268e",
@@ -343,7 +343,81 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 93.1
+    },
+    {
+      "id": "gdelt-3cd39e3599ebf958e1e4aaf8",
+      "title": "Coupe de France féminine : un deuxième sacre pour la Saint-Pauloise, vainqueur de la finale régionale",
+      "summary": "Publication référencée chez la1ere.franceinfo.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://la1ere.franceinfo.fr/reunion/coupe-de-france-feminine-un-deuxieme-sacre-pour-la-saint-pauloise-vainqueur-de-la-finale-regionale-1730248.html",
+      "imageURL": "https://la1ere.franceinfo.fr/image/rRX1SF7vlFUMO9OyrKYjMpyD8c4/0x83:1600x983/1200x675/filters:format(webp):quality(80)/outremer%2F2026%2F08%2F23%2F6a8a8a9754910017733637.jpg",
+      "publishedAt": "2026-08-23T08:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "la1ere.franceinfo.fr",
+        "name": "la1ere.franceinfo.fr",
+        "websiteURL": "https://la1ere.franceinfo.fr"
+      },
+      "teams": [
+        "pau"
+      ],
+      "topics": [
+        "pau",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
+    },
+    {
+      "id": "gdelt-a9b73da34265fe5721a09f40",
+      "title": "PSG-Rennes : le PSG n'a pas tenté l'option Jean-Bouin",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7306089832105052885-psg-rennes-le-psg-na-pas-tente-loption-jean-bouin",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree245454-1920x1080.jpg",
+      "publishedAt": "2026-08-23T07:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "rennes"
+      ],
+      "topics": [
+        "psg",
+        "rennes"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.6
+    },
+    {
+      "id": "gdelt-8647c104e744b8b7e2625a72",
+      "title": "Süper Lig : Fenerbahçe déroule grâce à un grand Greenwood avant Lyon",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9078631028140753146-super-lig-fenerbahce-deroule-grace-a-un-grand-greenwood-avant-lyon",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/greenwoodfener.jpg",
+      "publishedAt": "2026-08-23T07:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "ol",
+        "fenerbahce"
+      ],
+      "topics": [
+        "ol",
+        "fenerbahce"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-4ac648b01e49ac5cfd593e3c",
@@ -373,7 +447,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-3d92ce1bd157766a9008f8b1",
@@ -403,56 +477,6 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93
-    },
-    {
-      "id": "gdelt-a9b73da34265fe5721a09f40",
-      "title": "PSG-Rennes : le PSG n’a pas tenté l’option Jean-Bouin",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7306089832105052885-psg-rennes-le-psg-na-pas-tente-loption-jean-bouin",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree245454-1920x1080.jpg",
-      "publishedAt": "2026-08-23T07:21:27.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "rennes"
-      ],
-      "topics": [
-        "psg",
-        "rennes"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.8
-    },
-    {
-      "id": "gdelt-8647c104e744b8b7e2625a72",
-      "title": "Süper Lig : Fenerbahçe déroule grâce à un grand Greenwood avant Lyon",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9078631028140753146-super-lig-fenerbahce-deroule-grace-a-un-grand-greenwood-avant-lyon",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/greenwoodfener.jpg",
-      "publishedAt": "2026-08-23T06:59:06.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "ol",
-        "fenerbahce"
-      ],
-      "topics": [
-        "ol",
-        "fenerbahce"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 92.6
     },
     {
@@ -479,7 +503,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-1be926717554a260bd83d9a0",
@@ -505,7 +529,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-00b11e15a63eb34fed482b64",
@@ -531,7 +555,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-0cc500f89b6aae5e97b0f658",
@@ -554,7 +578,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-93046357a074cd51f49912ed",
@@ -584,7 +608,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-89dc1aab6e85d6cdbbd7ddee",
@@ -610,7 +634,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-eac3ba592fe60eed14b2917c",
@@ -636,7 +660,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-916c3b7835a3e23addd7c81b",
@@ -662,7 +686,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-e743212a23efab0e99803c86",
@@ -688,7 +712,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-d7230d5aed82b9bb0060d9dc",
@@ -709,7 +733,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-a940d6d54ae3075649bbb4dc",
@@ -734,7 +758,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-7aac2f7b7d108662329dbd74",
@@ -760,7 +784,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-af5427bd8746caf1e9012193",
@@ -786,7 +810,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-802cf8ce83e29a3a8720734c",
@@ -812,7 +836,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-19d2b7ad808e2bde360ccfd6",
@@ -838,7 +862,36 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
+    },
+    {
+      "id": "gdelt-b839930f7991ef4b004e443d",
+      "title": "Fils, Pogacar, Thauvin, Lens, Lyon, Real Madrid et PSG",
+      "summary": "Publication référencée chez tarbes7.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://tarbes7.fr/fils-pogacar-thauvin-lens-lyon-real-madrid-et-psg/",
+      "imageURL": "https://tarbes7.fr/wp-content/uploads/2026/08/awdcgddedh0.jpg",
+      "publishedAt": "2026-08-23T07:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "tarbes7.fr",
+        "name": "tarbes7.fr",
+        "websiteURL": "https://tarbes7.fr"
+      },
+      "teams": [
+        "psg",
+        "ol",
+        "lens",
+        "real-madrid"
+      ],
+      "topics": [
+        "psg",
+        "ol",
+        "lens",
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-b1a38f9133833aaf472ec13b",
@@ -864,7 +917,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-f6c1c0387c9308950fd907f0",
@@ -888,7 +941,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-49159d2446fae841d607c0e7",
@@ -916,7 +969,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 89.5
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-33a1beaeb1dbb5e201138d81",
@@ -942,7 +995,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-368ce98f5037c12f201c6839",
@@ -968,7 +1021,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-f16d9105dd611f37e13eea0c",
@@ -994,7 +1047,99 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 89.1
+    },
+    {
+      "id": "gdelt-db4ca1ea3221ad9730aa4afe",
+      "title": "L’AC Milan pense à Ruben Dias pour renforcer sa défense",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1494836698555710615-lac-milan-pense-a-ruben-dias-pour-renforcer-sa-defense",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/ruben-dias-2526-6a8832c64402c.jpg",
+      "publishedAt": "2026-08-23T08:29:21.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "ac-milan"
+      ],
+      "topics": [
+        "ac-milan"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-7d2a51f3088ede5b8ac9df7b",
+      "title": "La mise au point du RC Lens sur la controverse remarquée entre Florian Thauvin et Odsonne Edouard",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9015597804238973704-le-rc-lens-sort-du-silence-sur-laffaire-du-penalty-entre-florian-thauvin-et-odsonne-edouard",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/florianthauvin.jpg",
+      "publishedAt": "2026-08-23T07:55:17.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lens"
+      ],
+      "topics": [
+        "lens"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-09d51eb2335397ff6bcfb68f",
+      "title": "Résultat Fenerbahce - Konyaspor (4-2) la 2e journée de Süper Lig 2026/2027 22/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/6131270551730096609-fenerbahce-vs-konyaspor",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-8716287636082461114-3590880228400243893.jpg",
+      "publishedAt": "2026-08-23T07:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "fenerbahce"
+      ],
+      "topics": [
+        "fenerbahce"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-f99bcd0a6aaab88032a2b221",
+      "title": "Real Madrid : déjà une énorme polémique avec Vinicius Jr, Courtois et Mourinho",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3509916264929890535-real-madrid-deja-une-enorme-polemique-avec-vinicius-jr-courtois-et-mourinho",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/viniciusjrvsespanyol.jpg",
+      "publishedAt": "2026-08-23T07:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-b6a5ef42c1bb8d0ce6355867",
@@ -1021,57 +1166,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
-    },
-    {
-      "id": "gdelt-761fd1f67dfddf85ea12ff6d",
-      "title": "Liga : le Real Madrid s'en sort bien contre l'Espanyol",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4782414522519372922-liga-le-real-madrid-sen-sort-bien-contre-lespanyol",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kylian-mbappe-2526-6a159f6028d2e.jpg",
-      "publishedAt": "2026-08-22T23:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid",
-        "espanyol"
-      ],
-      "topics": [
-        "real-madrid",
-        "espanyol"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.9
-    },
-    {
-      "id": "gdelt-8cbbfc7339dbad3359d7ee97",
-      "title": "Le Deportivo La Corogne s'attaque à un ancien cadre du Real Madrid",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6725489933442811064-le-deportivo-la-corogne-sattaque-a-un-ancien-cadre-du-real-madrid",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/deportivo-coruna.jpg",
-      "publishedAt": "2026-08-22T23:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid",
-        "deportivo"
-      ],
-      "topics": [
-        "real-madrid",
-        "deportivo"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-fce8d5cde81a95c9c58c4320",
@@ -1097,7 +1192,7 @@
       ],
       "reliability": "rumor",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-67d8a262a5b18c149ad838b4",
@@ -1120,15 +1215,15 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.4
     },
     {
-      "id": "gdelt-f99bcd0a6aaab88032a2b221",
-      "title": "Real Madrid : déjà une énorme polémique avec Vinicius Jr, Courtois et Mourinho",
+      "id": "gdelt-761fd1f67dfddf85ea12ff6d",
+      "title": "Liga : le Real Madrid s'en sort bien contre l'Espanyol",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3509916264929890535-real-madrid-deja-une-enorme-polemique-avec-vinicius-jr-courtois-et-mourinho",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/viniciusjrvsespanyol.jpg",
-      "publishedAt": "2026-08-23T07:21:10.000Z",
+      "url": "https://www.footmercato.net/a4782414522519372922-liga-le-real-madrid-sen-sort-bien-contre-lespanyol",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kylian-mbappe-2526-6a159f6028d2e.jpg",
+      "publishedAt": "2026-08-22T23:32:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -1136,14 +1231,41 @@
         "websiteURL": "https://footmercato.net"
       },
       "teams": [
-        "real-madrid"
+        "real-madrid",
+        "espanyol"
       ],
       "topics": [
-        "real-madrid"
+        "real-madrid",
+        "espanyol"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-8cbbfc7339dbad3359d7ee97",
+      "title": "Le Deportivo La Corogne s'attaque à un ancien cadre du Real Madrid",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6725489933442811064-le-deportivo-la-corogne-sattaque-a-un-ancien-cadre-du-real-madrid",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/deportivo-coruna.jpg",
+      "publishedAt": "2026-08-22T23:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid",
+        "deportivo"
+      ],
+      "topics": [
+        "real-madrid",
+        "deportivo"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-35b80a6ff16f8a7ef25059ab",
@@ -1168,7 +1290,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-0c24ae085bdd0fd94b245032",
@@ -1193,7 +1315,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-d4640670f52bdb9403f992a2",
@@ -1218,7 +1340,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-a754f882905a3f1baaa161e5",
@@ -1241,7 +1363,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-5fff327d6ab9e504c769dcf2",
@@ -1264,7 +1386,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-709a2a3d0a0e3ce47f193b2e",
@@ -1290,7 +1412,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-8df811e249e6c93ca487a610",
@@ -1317,7 +1439,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-56e2c831715a61e7972d2dcb",
@@ -1342,7 +1464,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-7f5ac4799a01ff65f754dc3d",
@@ -1368,7 +1490,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-fee8fe5d5317e4b20bc932c4",
@@ -1394,7 +1516,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-a4f936d658a9e73c42cf4f05",
@@ -1420,7 +1542,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-8cdf8b3eff4c9244df717a97",
@@ -1446,7 +1568,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-5060caad7dff9f3cfb59fc3b",
@@ -1471,7 +1593,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-2ff9d026a1468256653144e5",
@@ -1495,7 +1617,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-2b3ff717bb3f8db7938aac46",
@@ -1520,7 +1642,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-885ee81fed6c347220420cd5",
@@ -1546,7 +1668,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-24e276e3cb27695c9e3c15cd",
@@ -1572,7 +1694,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-5ba19bdbe3f8c9912def20d1",
@@ -1598,7 +1720,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-bb4cb8c7022c8fb19d18e510",
@@ -1624,7 +1746,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-3067353df5edcd643d2fb807",
@@ -1650,7 +1772,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-55cae32ef311a6e55d834580",
@@ -1676,7 +1798,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-2ea4141bf94f9e1e57d1a1af",
@@ -1699,32 +1821,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
-    },
-    {
-      "id": "gdelt-eaae7c32ef646dc9f56dc49c",
-      "title": "Suivez la rencontre Espanyol-Real Madrid en direct commenté",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6805895919673465984-suivez-la-rencontre-espanyol-real-madrid-en-direct-commente",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappeschalke.jpg",
-      "publishedAt": "2026-08-22T19:20:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid",
-        "espanyol"
-      ],
-      "topics": [
-        "real-madrid",
-        "espanyol"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-d24a019151268a445297925d",
@@ -1747,7 +1844,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-bc43db63cddfaf1f44d09871",
@@ -1770,7 +1867,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-725169dee76644e675d7e34f",
@@ -1796,7 +1893,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-31313debf802ca9d243d9714",
@@ -1819,7 +1916,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-93c043ef01aa7ca81bdfbdff",
@@ -1842,7 +1939,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
+    },
+    {
+      "id": "gdelt-eaae7c32ef646dc9f56dc49c",
+      "title": "Suivez la rencontre Espanyol-Real Madrid en direct commenté",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6805895919673465984-suivez-la-rencontre-espanyol-real-madrid-en-direct-commente",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappeschalke.jpg",
+      "publishedAt": "2026-08-22T19:20:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid",
+        "espanyol"
+      ],
+      "topics": [
+        "real-madrid",
+        "espanyol"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-61e50fc142d84209a6e13aaa",
@@ -1867,7 +1989,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-7f745bd251542814ee9b17a9",
@@ -1892,7 +2014,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-424a010c1d6b73ff3ee310b3",
@@ -1921,7 +2043,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-af858a34b3e48fa12cf3413a",
@@ -1946,7 +2068,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-b39df64b8676b9488cd45806",
@@ -1971,7 +2093,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 86
     },
     {
       "id": "gdelt-d21b3bb3228f30422d36b288",
@@ -1997,7 +2119,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-9b151f98abbf02fa359a78bf",
@@ -2020,7 +2142,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-cd010d102f06aa7d7bf526b3",
@@ -2044,7 +2166,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-b210216bd72958c2bd681082",
@@ -2069,7 +2191,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-881c61b372da7a0e2229d933",
@@ -2094,7 +2216,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-4a995525f3b76596c791f794",
@@ -2117,7 +2239,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-9424254159c2204697199fe1",
@@ -2140,7 +2262,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-19724647ec0e1c685a3e6453",
@@ -2161,7 +2283,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-c42d50e126c7f03c35a68617",
@@ -2185,7 +2307,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-d5670e49a052a9b444c55100",
@@ -2210,7 +2332,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-bb3fec396571d44833fdfe92",
@@ -2234,7 +2356,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-68a2607c1131caf75bcecd6c",
@@ -2258,7 +2380,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-17dd93cbbe8e9d20aefd880e",
@@ -2282,7 +2404,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-bb32b8818bd99a213104a98a",
@@ -2307,7 +2429,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-e699b0565d88178d58685a96",
@@ -2332,99 +2454,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
-    },
-    {
-      "id": "gdelt-7997e69888e687f6dfc2827a",
-      "title": "L'Atlético de Madrid a accepté une offre pour Julian Alvarez !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3713153959464513712-latletico-de-madrid-a-accepte-une-offre-pour-julian-alvarez",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/julianalvarezvsbayer.jpg",
-      "publishedAt": "2026-08-22T23:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "atletico"
-      ],
-      "topics": [
-        "atletico"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-1591a5decd596fd631cd939c",
-      "title": "L'OL a vécu la soirée idéale à Toulouse !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2054978400273200549-lol-a-vecu-la-soiree-ideale-a-toulouse",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/fonseca-67c839bb43a12.jpg",
-      "publishedAt": "2026-08-22T23:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "toulouse"
-      ],
-      "topics": [
-        "toulouse"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-c9541abaee2f496bffcc32e8",
-      "title": "Fabien Barthez présent lors de Toulouse-OL",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6491883345616757671-fabien-barthez-present-lors-de-toulouse-ol",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/barthez.jpg",
-      "publishedAt": "2026-08-22T23:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "toulouse"
-      ],
-      "topics": [
-        "toulouse"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-87d9dc1aa8341bc3b64b29cf",
-      "title": "Real Madrid : José Mourinho et Kylian Mbappé sauvés par la pépite méconnue",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2444315163816662286-real-madrid-jose-mourinho-et-kylian-mbappe-sauves-par-la-pepite-meconnue",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine282963-1920x1080.jpg",
-      "publishedAt": "2026-08-22T23:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-d6bebb8a1f914beb707759e0",
@@ -2449,15 +2479,15 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.5
     },
     {
-      "id": "gdelt-29417b101b3694fae1d73d3f",
-      "title": "Real Madrid : Mourinho félicite l'arbitre",
+      "id": "gdelt-7997e69888e687f6dfc2827a",
+      "title": "L'Atlético de Madrid a accepté une offre pour Julian Alvarez !",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2485925004848333301-real-madrid-mourinho-felicite-larbitre",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-6a8808d9e138a.jpg",
-      "publishedAt": "2026-08-22T23:31:00.000Z",
+      "url": "https://www.footmercato.net/a3713153959464513712-latletico-de-madrid-a-accepte-une-offre-pour-julian-alvarez",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/julianalvarezvsbayer.jpg",
+      "publishedAt": "2026-08-22T23:32:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -2465,22 +2495,22 @@
         "websiteURL": "https://footmercato.net"
       },
       "teams": [
-        "real-madrid"
+        "atletico"
       ],
       "topics": [
-        "real-madrid"
+        "atletico"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
-      "id": "gdelt-d609c76729f7396be41f4be2",
-      "title": "Le PSG a pris sa décision pour Illya Zabarnyi et Lucas Chevalier",
+      "id": "gdelt-1591a5decd596fd631cd939c",
+      "title": "L'OL a vécu la soirée idéale à Toulouse !",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a377112308068245228-le-psg-a-pris-sa-decision-pour-illya-zabarnyi-et-lucas-chevalier",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/chevalier-6960140f20504.jpg",
-      "publishedAt": "2026-08-22T23:31:00.000Z",
+      "url": "https://www.footmercato.net/a2054978400273200549-lol-a-vecu-la-soiree-ideale-a-toulouse",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/fonseca-67c839bb43a12.jpg",
+      "publishedAt": "2026-08-22T23:32:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -2488,68 +2518,39 @@
         "websiteURL": "https://footmercato.net"
       },
       "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-a5a0e457a788aff5e4ec292b",
-      "title": "Toulouse - OL : la Ligue 1 au second plan, Fonseca prépare le grand turnover en vue de Fenerbahçe",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ol/toulouse-ol-la-ligue-1-au-second-plan-fonseca-prepare-le-grand-turnover-en-vue-de-fenerbahce-997418",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997418/406822/1200-L-toulouse-ol-la-ligue-1-au-second-plan-fonseca-prpare-le-grand-turnover-en-vue-de-fenerbahe.jpg",
-      "publishedAt": "2026-08-22T07:30:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "fenerbahce",
         "toulouse"
       ],
       "topics": [
-        "fenerbahce",
-        "toulouse",
-        "ligue-1"
+        "toulouse"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
-      "id": "gdelt-714ac17480e4a0970293116c",
-      "title": "Ligue 1 : ESTAC Troyes - Paris FC : les compos probables",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-estac-troyes-paris-fc-les-compos-probables-535578.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20251129204515-5277.jpg",
-      "publishedAt": "2026-08-22T07:30:00.000Z",
+      "id": "gdelt-c9541abaee2f496bffcc32e8",
+      "title": "Fabien Barthez présent lors de Toulouse-OL",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6491883345616757671-fabien-barthez-present-lors-de-toulouse-ol",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/barthez.jpg",
+      "publishedAt": "2026-08-22T23:32:00.000Z",
       "category": "news",
       "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
       },
       "teams": [
-        "paris-fc",
-        "troyes"
+        "toulouse"
       ],
       "topics": [
-        "paris-fc",
-        "troyes",
-        "ligue-1"
+        "toulouse"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     }
   ],
-  "generatedAt": "2026-08-23T07:49:01.710Z",
+  "generatedAt": "2026-08-23T08:38:35.887Z",
   "stale": false
 }
