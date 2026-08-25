@@ -24,7 +24,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.4
+      "qualityScore": 99
     },
     {
       "id": "gdelt-7fe21e6a5737b9192c224fc8",
@@ -48,7 +48,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.6
+      "qualityScore": 96.2
     },
     {
       "id": "gdelt-dc1b7545788180e7b7999d6b",
@@ -74,7 +74,80 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.4
+      "qualityScore": 96
+    },
+    {
+      "id": "gdelt-74422cabfd8702a3cfb61658",
+      "title": "Mercato : le RC Lens flaire le bon coup avec un international Espoirs français exilé en Arabie",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/mercato-le-rc-lens-flaire-le-bon-coup-avec-un-international-espoirs-francais-exile-en-arabie-997675",
+      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997675/406951/1200-L-mercato-le-rc-lens-flaire-le-bon-coup-avec-un-international-espoirs-franais-exil-en-arabie.jpg",
+      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "lens"
+      ],
+      "topics": [
+        "lens",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.4
+    },
+    {
+      "id": "gdelt-226e6045c94be5d9f608140f",
+      "title": "Mercato PSG : Ibrahim Mbaye s'est éloigné de Liverpool, un club mystère a avancé dans l'ombre",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-psg-ibrahim-mbaye-s-est-eloigne-de-liverpool-un-club-mystere-a-avance-dans-l-ombre-536037.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260805081753-4538.jpg",
+      "publishedAt": "2026-08-25T06:35:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg",
+        "liverpool"
+      ],
+      "topics": [
+        "psg",
+        "liverpool"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.2
+    },
+    {
+      "id": "gdelt-7de9a82ff79dace00e831e71",
+      "title": "Liverpool avance pour Barcola, Leao vers la Premier League : les dernières infos mercato",
+      "summary": "Publication référencée chez eurosport.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.eurosport.fr/football/transferts/2026-2027/liverpool-avance-pour-barcola-leao-vers-la-premier-league-les-dernieres-infos-mercato_lci50028856/liveevent.shtml",
+      "imageURL": "https://i.eurosport.com/2026/07/31/image-51137eae-45c4-4fbc-85c6-52a89c8884b1.jpeg",
+      "publishedAt": "2026-08-25T06:16:24.149Z",
+      "category": "transfers",
+      "source": {
+        "id": "eurosport.fr",
+        "name": "eurosport.fr",
+        "websiteURL": "https://eurosport.fr"
+      },
+      "teams": [
+        "liverpool"
+      ],
+      "topics": [
+        "liverpool",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95
     },
     {
       "id": "gdelt-2a6ecd666a0bed82f6c7578b",
@@ -100,7 +173,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.7
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-481f75c0dd19ee9955ba916f",
@@ -126,7 +199,55 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 93.4
+    },
+    {
+      "id": "gdelt-8099a42d657c940e58792ba2",
+      "title": "Nice : une offensive de Premier League pour Melvin Bard",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2700568806867488720-nice-une-offensive-de-premier-league-pour-melvin-bard",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo585739-1920x1080.jpg",
+      "publishedAt": "2026-08-25T07:59:54.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "nice"
+      ],
+      "topics": [
+        "nice",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
+    },
+    {
+      "id": "gdelt-e8389894170fac497b3e7c21",
+      "title": "Ligue des Champions : de lourdes mesures prises avant OL-Fenerbahçe",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3232451994238799823-ldc-de-lourdes-mesures-prises-avant-ol-fenerbahce-classe-a-hauts-risques",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo694183-1920x1080.jpg",
+      "publishedAt": "2026-08-25T07:53:57.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "fenerbahce"
+      ],
+      "topics": [
+        "fenerbahce",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-e6845e24bb1d0a90a8054640",
@@ -151,7 +272,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "official",
-      "qualityScore": 92.8
+      "qualityScore": 92.4
     },
     {
       "id": "gdelt-577a294487e8540d2e6eb154",
@@ -175,7 +296,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 92
     },
     {
       "id": "gdelt-9142bdb2036bf40d5ba9df36",
@@ -201,7 +322,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-78082db5423696cb2406dbd3",
@@ -227,7 +348,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-f47b64b8ddf5d4b79cf1f5e8",
@@ -253,7 +374,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-f96463dd4507d319cd8c2b68",
@@ -279,7 +400,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-b896af9e9e1768abcec18d35",
@@ -305,7 +426,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-a7258c597b2404171c949895",
@@ -328,7 +449,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 91
     },
     {
       "id": "gdelt-4bedd46ddb9cc98b513f1b7a",
@@ -353,7 +474,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-f2906cf5287931db1c5ce6d7",
@@ -378,7 +499,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-6362acf29c7207d658e5ea97",
@@ -400,7 +521,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-58dfb87f6d1c9abd99f45a03",
@@ -423,7 +544,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-4e6519362ee855109ba6c0a0",
@@ -449,7 +570,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 90
     },
     {
       "id": "gdelt-ddc305654ecd0503e5c1ad29",
@@ -474,54 +595,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
-    },
-    {
-      "id": "gdelt-b4d45c14e8d1fbd1b3f0232c",
-      "title": "Mercato ESTAC : L'ESTAC Troyes annonce une signature importante ! (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-estac-l-estac-troyes-annonce-une-signature-importante-officiel-535993.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260426115112-8815.jpg",
-      "publishedAt": "2026-08-24T16:05:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "troyes"
-      ],
-      "topics": [
-        "troyes"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 90.3
-    },
-    {
-      "id": "gdelt-d02f906af5eda0d0e0489520",
-      "title": "Ligue 2 : les résultats complets du week-end et le classement après la 3e journée",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-2-les-resultats-complets-du-week-end-et-le-classement-apres-la-3e-journee-954204",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954204/388789/1200-L-ligue-2-les-rsultats-complets-du-week-end-et-le-classement-aprs-la-3e-journe.jpg",
-      "publishedAt": "2026-08-25T01:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "saint-etienne"
-      ],
-      "topics": [
-        "saint-etienne",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-f01811d5a294da4b3e4cab05",
@@ -546,7 +620,54 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.9
+    },
+    {
+      "id": "gdelt-b4d45c14e8d1fbd1b3f0232c",
+      "title": "Mercato ESTAC : L'ESTAC Troyes annonce une signature importante ! (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-estac-l-estac-troyes-annonce-une-signature-importante-officiel-535993.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260426115112-8815.jpg",
+      "publishedAt": "2026-08-24T16:05:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "troyes"
+      ],
+      "topics": [
+        "troyes"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 89.9
+    },
+    {
+      "id": "gdelt-d02f906af5eda0d0e0489520",
+      "title": "Ligue 2 : les résultats complets du week-end et le classement après la 3e journée",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-2-les-resultats-complets-du-week-end-et-le-classement-apres-la-3e-journee-954204",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954204/388789/1200-L-ligue-2-les-rsultats-complets-du-week-end-et-le-classement-aprs-la-3e-journe.jpg",
+      "publishedAt": "2026-08-25T01:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-170bb5a49e5b73b284b48ce4",
@@ -571,7 +692,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-1199e54773983ef6d3fd5d5d",
@@ -596,7 +717,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-8dfc9f4104b6efa03366ef9f",
@@ -622,7 +743,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-acd734c50b00a00d4960586b",
@@ -648,7 +769,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-b69ce96d6efd4a1b5e929379",
@@ -672,7 +793,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-415b3bf869f31abfbf166b65",
@@ -695,7 +816,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-21b2e9552bd60ff646b1b0fe",
@@ -718,7 +839,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-f8f7087ac0470e4fe63a9b8a",
@@ -745,7 +866,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-8a44d9909ab475e7ebf616b5",
@@ -768,7 +889,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-30d783b0599b894f37fa33c8",
@@ -791,7 +912,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-dbf2bf96493210fd20e3efaf",
@@ -814,7 +935,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-9612dbab6ee150da512282fd",
@@ -838,7 +959,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-a3ad8ac45bfa468eb9be303d",
@@ -861,32 +982,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
-    },
-    {
-      "id": "gdelt-93e60b974dde8d3642a15e68",
-      "title": "JT Foot Mercato : Arsenal en passe de boucler une vente à 65 M€",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3767908869656752697-jt-foot-mercato-arsenal-en-passe-de-boucler-une-vente-a-65-meur",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/gabriel-martinelli-2526-6a1de36cdca5a.jpg",
-      "publishedAt": "2026-08-24T15:38:06.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "arsenal",
-        "saint-etienne"
-      ],
-      "topics": [
-        "arsenal",
-        "saint-etienne"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-81926bfe056db04c39657df0",
@@ -910,7 +1006,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-6870df720f10287b42b7f042",
@@ -935,7 +1031,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.7
+    },
+    {
+      "id": "gdelt-93e60b974dde8d3642a15e68",
+      "title": "JT Foot Mercato : Arsenal en passe de boucler une vente à 65 M€",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3767908869656752697-jt-foot-mercato-arsenal-en-passe-de-boucler-une-vente-a-65-meur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/gabriel-martinelli-2526-6a1de36cdca5a.jpg",
+      "publishedAt": "2026-08-24T15:38:06.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "arsenal",
+        "saint-etienne"
+      ],
+      "topics": [
+        "arsenal",
+        "saint-etienne"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-05fd688f6cb1ef0f07a42343",
@@ -958,7 +1079,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-d64c42cb6fa96686669df38b",
@@ -981,7 +1102,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-de90615c0f50c083cf02f85e",
@@ -1003,7 +1124,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-57f99b4fcf05fc4e613f19cf",
@@ -1031,7 +1152,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-b5cb8b618de48c40b6aaea10",
@@ -1059,7 +1180,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-fb9a70abad6489e36c68c90a",
@@ -1080,7 +1201,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87
     },
     {
       "id": "gdelt-24af46c089b36e970b76433d",
@@ -1107,7 +1228,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87
     },
     {
       "id": "gdelt-ef121b1a7c2225739f292ed7",
@@ -1128,7 +1249,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-00789d3037a4672ebeab82e2",
@@ -1151,7 +1272,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-0adb7ef47921689317d03bee",
@@ -1175,7 +1296,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-cda460509b4b1d2dc2cc0dbe",
@@ -1200,7 +1321,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-450d878b23a9518b9d736d29",
@@ -1225,7 +1346,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 86
     },
     {
       "id": "gdelt-02887be4555ff22841e0dbce",
@@ -1248,7 +1369,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 86
     },
     {
       "id": "gdelt-aa25abc039beca082f94face",
@@ -1269,7 +1390,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-b0f34c32b5e08e0549cec1ff",
@@ -1295,7 +1416,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-4b5fa78a3fa513b1dfee4e5f",
@@ -1318,7 +1439,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-58afff0f4be7637fe64c3a6c",
@@ -1341,7 +1462,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-a4bdd377f1fcc13b214d5440",
@@ -1364,7 +1485,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-dbe616a4d4154eaeb328cf79",
@@ -1387,7 +1508,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 85
     },
     {
       "id": "gdelt-d0ea77c97f6696efbf70c72b",
@@ -1412,7 +1533,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-d52bdc8a5916f54fdde003ec",
@@ -1438,7 +1559,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-1968436c42f6e13d32b21c73",
@@ -1461,7 +1582,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-5d9179c9ca00a078d87c4462",
@@ -1486,7 +1607,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-1efc2c8b319a2ce0987d0c0c",
@@ -1514,7 +1635,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-ff47c53f787aef40b6a187a7",
@@ -1541,7 +1662,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-76efb453d5887c8fe758928b",
@@ -1560,7 +1681,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 84
     },
     {
       "id": "gdelt-17951b035457c063e9ee4b82",
@@ -1579,7 +1700,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 84
     },
     {
       "id": "gdelt-103a12e315c1927870d54fc3",
@@ -1605,7 +1726,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-ee5128b8adeec1b7d1391c0a",
@@ -1631,7 +1752,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-6a02496d978529703dec9087",
@@ -1652,7 +1773,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-7d408c993f053385fa403cbc",
@@ -1677,7 +1798,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-9fb3f28e2983287b98c7a5b2",
@@ -1700,7 +1821,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-07e208e92628d384d1841869",
@@ -1721,7 +1842,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-05196de7a7e4de55b74e6579",
@@ -1744,31 +1865,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84
+      "qualityScore": 83.7
     },
     {
-      "id": "gdelt-74422cabfd8702a3cfb61658",
-      "title": "Mercato : le RC Lens flaire le bon coup avec un international Espoirs français exilé en Arabie",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/mercato-le-rc-lens-flaire-le-bon-coup-avec-un-international-espoirs-francais-exile-en-arabie-997675",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/997675/406951/1200-L-mercato-le-rc-lens-flaire-le-bon-coup-avec-un-international-espoirs-franais-exil-en-arabie.jpg",
-      "publishedAt": "2026-08-25T07:00:00.000Z",
+      "id": "gdelt-b2881944f54a55f9457117b6",
+      "title": "Mercato LOSC : Ayyoub Bouaddi a passé sa visite médicale avec Manchester City",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-losc-ayyoub-bouaddi-a-passe-sa-visite-medicale-avec-manchester-city-536040.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/europa-league/2026/zoom/el-20260319222734-5045.jpg",
+      "publishedAt": "2026-08-25T07:27:00.000Z",
       "category": "transfers",
       "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
       "teams": [
-        "lens"
+        "lille",
+        "man-city"
       ],
       "topics": [
-        "lens",
-        "switzerland"
+        "lille",
+        "man-city"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.8
+      "qualityScore": 83.6
     },
     {
       "id": "gdelt-64a173ddcb6f469f08617f0a",
@@ -1789,7 +1911,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-0ee8241dddaa08cc6d687f61",
@@ -1810,32 +1932,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
-    },
-    {
-      "id": "gdelt-226e6045c94be5d9f608140f",
-      "title": "Mercato PSG : Ibrahim Mbaye s'est éloigné de Liverpool, un club mystère a avancé dans l'ombre",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-psg-ibrahim-mbaye-s-est-eloigne-de-liverpool-un-club-mystere-a-avance-dans-l-ombre-536037.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260805081753-4538.jpg",
-      "publishedAt": "2026-08-25T06:35:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "psg",
-        "liverpool"
-      ],
-      "topics": [
-        "psg",
-        "liverpool"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-630b16f93f06b5134bfdf44b",
@@ -1860,7 +1957,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-acf399212160abf74f39213d",
@@ -1885,7 +1982,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-5060caad7dff9f3cfb59fc3b",
@@ -1910,31 +2007,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
-    },
-    {
-      "id": "gdelt-7de9a82ff79dace00e831e71",
-      "title": "Liverpool avance pour Barcola, Leao vers la Premier League : les dernières infos mercato",
-      "summary": "Publication référencée chez eurosport.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.eurosport.fr/football/transferts/2026-2027/liverpool-avance-pour-barcola-leao-vers-la-premier-league-les-dernieres-infos-mercato_lci50028856/liveevent.shtml",
-      "imageURL": "https://i.eurosport.com/2026/07/31/image-51137eae-45c4-4fbc-85c6-52a89c8884b1.jpeg",
-      "publishedAt": "2026-08-25T06:16:24.149Z",
-      "category": "transfers",
-      "source": {
-        "id": "eurosport.fr",
-        "name": "eurosport.fr",
-        "websiteURL": "https://eurosport.fr"
-      },
-      "teams": [
-        "liverpool"
-      ],
-      "topics": [
-        "liverpool",
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.4
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-ce18137e179ba551e94de0ad",
@@ -1962,7 +2035,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-daca11d0d3f0a2a9169112b3",
@@ -1984,7 +2057,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 82.7
     },
     {
       "id": "gdelt-5e894f1dd09e7b7d4cf99fc9",
@@ -2009,7 +2082,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.8
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-3034bc8307ea8e90959b0e6f",
@@ -2032,7 +2105,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-4c9b5566c470443c12315bb8",
@@ -2055,7 +2128,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-b105d85e9c101aef4498dfa4",
@@ -2076,7 +2149,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-da4fa89dea773e0829da5ff5",
@@ -2099,7 +2172,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-013711ca1a58410d6bc1c6a9",
@@ -2120,7 +2193,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-ff773ac4ac241e612f62a1da",
@@ -2143,7 +2216,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-bec348f89bd47f934430fb81",
@@ -2166,7 +2239,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.4
+      "qualityScore": 82
     },
     {
       "id": "gdelt-5ec6dd2d20bd7b3e92601751",
@@ -2189,7 +2262,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.4
+      "qualityScore": 82
     },
     {
       "id": "gdelt-189ae835295b98aba523fff9",
@@ -2212,7 +2285,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.4
+      "qualityScore": 82
     },
     {
       "id": "gdelt-2d4fb4f379374d4e46658d22",
@@ -2235,7 +2308,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.4
+      "qualityScore": 82
     },
     {
       "id": "gdelt-cdee6d53ef2df27e6a60b5cd",
@@ -2256,7 +2329,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.4
+      "qualityScore": 82
     },
     {
       "id": "gdelt-1e6481b869c564c4463bdc54",
@@ -2279,7 +2352,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.4
+      "qualityScore": 82
     },
     {
       "id": "gdelt-7fb1c8c2270f1d6359e4cad1",
@@ -2308,57 +2381,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82
-    },
-    {
-      "id": "gdelt-fc6212f6c89ff5bd5bb06880",
-      "title": "Serie A. L'AS Rome écrase la Fiorentina et marque les esprits grâce à Malen lors de la",
-      "summary": "Publication référencée chez toulon.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://toulon.maville.com/actu/actudet_-serie-a-l-as-rome-ecrase-la-fiorentina-et-marque-les-esprits-grace-a-malen-lors-de-la-premiere-journee_fil-7450096_actu.Htm",
-      "imageURL": "https://www.maville.com/photosmvi/2026/08/25/P36091820D7450096G_crop_1080-600_.jpg",
-      "publishedAt": "2026-08-25T06:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "toulon.maville.com",
-        "name": "toulon.maville.com",
-        "websiteURL": "https://toulon.maville.com"
-      },
-      "teams": [
-        "fiorentina"
-      ],
-      "topics": [
-        "fiorentina",
-        "serie-a"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 81.4
-    },
-    {
-      "id": "gdelt-21804eaf9f9a1c50fc77f853",
-      "title": "Premier League : Chelsea s'impose 3-2 face à Fulham dans un match spectaculaire",
-      "summary": "Publication référencée chez pressafrik.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.pressafrik.com/Premier-League-Chelsea-s-impose-3-2-face-a-Fulham-dans-un-match-spectaculaire_a310480.html",
-      "imageURL": "https://www.pressafrik.com/photo/art/grande/97800709-68076785.jpg?v=1787608626",
-      "publishedAt": "2026-08-24T22:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "pressafrik.com",
-        "name": "pressafrik.com",
-        "websiteURL": "https://pressafrik.com"
-      },
-      "teams": [
-        "chelsea",
-        "fulham"
-      ],
-      "topics": [
-        "chelsea",
-        "fulham",
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 81.4
+      "qualityScore": 81.7
     },
     {
       "id": "gdelt-9cc12cc51160557703b8dcbe",
@@ -2381,34 +2404,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.4
-    },
-    {
-      "id": "gdelt-831959f2000944d2cc77c13c",
-      "title": "Chelsea valide le prêt de Mamadou Sarr à la Real Sociedad après l'échec d'Aguerd",
-      "summary": "Publication référencée chez senego.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://senego.com/chelsea-valide-le-pret-de-mamadou-sarr-a-la-real-sociedad-apres-lechec-daguerd_1996734.html",
-      "imageURL": "https://senego.com/wp-content/uploads/2026/08/tmpk7kfn9w5.jpg",
-      "publishedAt": "2026-08-24T23:46:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "senego.com",
-        "name": "senego.com",
-        "websiteURL": "https://senego.com"
-      },
-      "teams": [
-        "chelsea",
-        "real-sociedad"
-      ],
-      "topics": [
-        "chelsea",
-        "real-sociedad"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 81.2
+      "qualityScore": 81.1
     }
   ],
-  "generatedAt": "2026-08-25T07:26:46.466Z",
+  "generatedAt": "2026-08-25T08:11:18.185Z",
   "stale": false
 }
