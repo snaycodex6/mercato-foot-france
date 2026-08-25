@@ -26,7 +26,36 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 103
+      "qualityScore": 102.5
+    },
+    {
+      "id": "gdelt-4f39020bd3cd4356d309ba13",
+      "title": "RB Leipzig : la Lazio, Galatasaray et Leeds intéressés par Conrad Harder",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2469598752910784037-rb-leipzig-la-lazio-galatasaay-et-leeds-interesses-par-conrad-harder",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/conrad-harder-2627.jpg",
+      "publishedAt": "2026-08-25T13:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "galatasaray",
+        "lazio",
+        "rb-leipzig",
+        "leeds"
+      ],
+      "topics": [
+        "galatasaray",
+        "lazio",
+        "rb-leipzig",
+        "leeds"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 100.5
     },
     {
       "id": "gdelt-7c09ac5facb9e132adf6479a",
@@ -53,7 +82,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100
+      "qualityScore": 99.5
     },
     {
       "id": "gdelt-c877c8d4bb4f0fb78440ba6a",
@@ -78,36 +107,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99.9
-    },
-    {
-      "id": "gdelt-4f39020bd3cd4356d309ba13",
-      "title": "RB Leipzig : la Lazio, Galatasaray et Leeds intéressés par Conrad Harder",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2469598752910784037-rb-leipzig-la-lazio-galatasaay-et-leeds-interesses-par-conrad-harder",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/conrad-harder-2627.jpg",
-      "publishedAt": "2026-08-25T09:38:41.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "galatasaray",
-        "lazio",
-        "rb-leipzig",
-        "leeds"
-      ],
-      "topics": [
-        "galatasaray",
-        "lazio",
-        "rb-leipzig",
-        "leeds"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 99.3
+      "qualityScore": 99.4
     },
     {
       "id": "gdelt-f5c456cc9ce64986f1de9df3",
@@ -130,7 +130,59 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97
+      "qualityScore": 96.5
+    },
+    {
+      "id": "gdelt-99ad9e7c22e2c4d2995a6d77",
+      "title": "OL : Paulo Fonseca dévoile son plan de jeu pour vaincre le Fenerbahçe et retrouver la Ligue des Champions",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ol-paulo-fonseca-devoile-son-plan-de-jeu-pour-vaincre-le-fenerbahce-et-retrouver-la-ligue-des-champions-536062.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250423090547-2232.jpg",
+      "publishedAt": "2026-08-25T12:35:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "fenerbahce",
+        "pau"
+      ],
+      "topics": [
+        "fenerbahce",
+        "pau",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.3
+    },
+    {
+      "id": "gdelt-084e811d70c8036a0fc60b13",
+      "title": "OL : Avant le barrage retour de Ligue des Champions, Paulo Fonseca prend la défense des supporters du Fenerbahçe SK",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ol-avant-le-barrage-retour-de-ligue-des-champions-paulo-fonseca-prend-la-defense-des-supporters-du-fenerbahce-sk-536063.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260427135749-3635.jpg",
+      "publishedAt": "2026-08-25T12:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "fenerbahce",
+        "pau"
+      ],
+      "topics": [
+        "fenerbahce",
+        "pau",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.3
     },
     {
       "id": "gdelt-c63d9080c69e3b3655f81ba3",
@@ -156,7 +208,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.6
+      "qualityScore": 96.1
     },
     {
       "id": "gdelt-af2cf2d9108aea960069584f",
@@ -179,7 +231,32 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 96
+    },
+    {
+      "id": "gdelt-e45f2c465434e36fa2e3bf20",
+      "title": "Michele Di Gregorio quitte la Juventus pour Bournemouth",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6126868042213698148-michele-di-gregorio-quitte-la-juventus-pour-bournemouth",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/di-gregorio.jpg",
+      "publishedAt": "2026-08-25T13:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "juventus",
+        "bournemouth"
+      ],
+      "topics": [
+        "juventus",
+        "bournemouth"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-d7ad8fa3430e88fa6a714b3b",
@@ -205,7 +282,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-9cac1aa7dec1349765d8c341",
@@ -231,7 +308,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 95.3
     },
     {
       "id": "gdelt-545f83e0be30ac08beaac63a",
@@ -255,7 +332,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-fc770953c130312ae3c7e016",
@@ -280,32 +357,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.5
-    },
-    {
-      "id": "gdelt-e45f2c465434e36fa2e3bf20",
-      "title": "Michele Di Gregorio quitte la Juventus pour Bournemouth",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6126868042213698148-michele-di-gregorio-quitte-la-juventus-pour-bournemouth",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/di-gregorio.jpg",
-      "publishedAt": "2026-08-25T09:45:31.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "juventus",
-        "bournemouth"
-      ],
-      "topics": [
-        "juventus",
-        "bournemouth"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 94.4
+      "qualityScore": 94
     },
     {
       "id": "gdelt-eafea42a6e9ce40de3e5ae5c",
@@ -330,7 +382,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-062c5917943c63cb51f90c7c",
@@ -355,7 +407,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-4d8bee515a552f22ef497947",
@@ -380,7 +432,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-7fe21e6a5737b9192c224fc8",
@@ -404,7 +456,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-dc1b7545788180e7b7999d6b",
@@ -430,7 +482,81 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 93.1
+    },
+    {
+      "id": "gdelt-a0c732e4d79d3157547cdb64",
+      "title": "Tottenham claque près de 100 millions pour un flop de Manchester City",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/mercato-le-joueur-bresilien-de-manchester-city-savinho-rejoint-officiellement-tottenham",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/08/25121900/14382128-1400x933.jpg",
+      "publishedAt": "2026-08-25T13:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "man-city",
+        "tottenham"
+      ],
+      "topics": [
+        "man-city",
+        "tottenham"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
+    },
+    {
+      "id": "gdelt-42bc7140cc0833ebaa7066ea",
+      "title": "OL : Paulo Fonseca veut marquer l’histoire contre Fenerbahçe",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5143481566500285211-ol-paulo-fonseca-veut-marquer-lhistoire-contre-fenerbahce",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo682968-1920x1080.jpg",
+      "publishedAt": "2026-08-25T13:43:38.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "fenerbahce",
+        "pau"
+      ],
+      "topics": [
+        "fenerbahce",
+        "pau"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
+    },
+    {
+      "id": "gdelt-eb4b75a56cdb3e20a44051a4",
+      "title": "Torino : un club de Ligue 2 a tenté de recruter Pietro Pellegri",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2759876142015067330-torino-un-club-de-ligue-2-a-tente-de-recruter-pietro-pellegri",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/pietro-pellegri.jpg",
+      "publishedAt": "2026-08-25T13:25:15.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "torino"
+      ],
+      "topics": [
+        "torino",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-b2881944f54a55f9457117b6",
@@ -455,7 +581,56 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.2
+      "qualityScore": 92.7
+    },
+    {
+      "id": "gdelt-ff114db28769560f4195069b",
+      "title": "Ligue des Champions : l'OL a dû gérer un sacré problème avant le Fenerbahçe",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a882832299473012256-ligue-des-champions-lol-a-du-gerer-un-sacre-probleme-avant-le-fenerbahce",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/groupama-stadium-olympique-lyonnais.jpg",
+      "publishedAt": "2026-08-25T13:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "fenerbahce"
+      ],
+      "topics": [
+        "fenerbahce",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.5
+    },
+    {
+      "id": "gdelt-b575ec3ff74b11c863c70eba",
+      "title": "Le groupe du Real Madrid contre la Real Sociedad",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2822901247748708625-le-groupe-du-real-madrid-contre-la-real-sociedad",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-6a8808d9e138a.jpg",
+      "publishedAt": "2026-08-25T13:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid",
+        "real-sociedad"
+      ],
+      "topics": [
+        "real-madrid",
+        "real-sociedad"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-74422cabfd8702a3cfb61658",
@@ -479,7 +654,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-226e6045c94be5d9f608140f",
@@ -504,32 +679,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
-    },
-    {
-      "id": "gdelt-b575ec3ff74b11c863c70eba",
-      "title": "Le groupe du Real Madrid contre la Real Sociedad",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2822901247748708625-le-groupe-du-real-madrid-contre-la-real-sociedad",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-6a8808d9e138a.jpg",
-      "publishedAt": "2026-08-25T12:19:57.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid",
-        "real-sociedad"
-      ],
-      "topics": [
-        "real-madrid",
-        "real-sociedad"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-7de9a82ff79dace00e831e71",
@@ -553,7 +703,53 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 92.1
+    },
+    {
+      "id": "gdelt-90ce9068a9598bdf6972288d",
+      "title": "Tottenham s'offre Savinho",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3439991490660654369-tottenham-soffre-savinho",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/savinhocity.jpg",
+      "publishedAt": "2026-08-25T13:02:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "tottenham"
+      ],
+      "topics": [
+        "tottenham"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.5
+    },
+    {
+      "id": "gdelt-ee86994e02020306b5050612",
+      "title": "Le LOSC trouve un accord pour récupérer Dilane Bakwa",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3032172979049288040-le-losc-trouve-un-accord-pour-recuperer-dilane-bakwa",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dilane-bakwa-2425-zeigt-in-die-kamera.jpg",
+      "publishedAt": "2026-08-25T13:02:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-a95c6514d94cb694cf0d7b5f",
@@ -575,7 +771,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-2efa7be16f98a1503ae19e66",
@@ -599,7 +795,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-2a6ecd666a0bed82f6c7578b",
@@ -625,31 +821,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
-    },
-    {
-      "id": "gdelt-ff114db28769560f4195069b",
-      "title": "Ligue des Champions : l’OL a dû gérer un sacré problème avant le Fenerbahçe",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a882832299473012256-ligue-des-champions-lol-a-du-gerer-un-sacre-probleme-avant-le-fenerbahce",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/groupama-stadium-olympique-lyonnais.jpg",
-      "publishedAt": "2026-08-25T10:02:49.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "fenerbahce"
-      ],
-      "topics": [
-        "fenerbahce",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-53c4986d258c7cb8ac77433e",
@@ -673,7 +845,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-0772b9174a7bfbcfd1d587b6",
@@ -698,7 +870,26 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.6
+    },
+    {
+      "id": "gdelt-586d1618c2c4c13318672b2f",
+      "title": "L'Éthiopie annonce sa candidature pour la CAN 2028",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6348796092905275012-lethiopie-annonce-sa-candidature-pour-la-can-2028",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/can-trophee.jpg",
+      "publishedAt": "2026-08-25T13:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-481f75c0dd19ee9955ba916f",
@@ -724,7 +915,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-8099a42d657c940e58792ba2",
@@ -748,7 +939,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-e8389894170fac497b3e7c21",
@@ -772,7 +963,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-2c37361716f138f51829a94c",
@@ -797,7 +988,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-466cec6c9403592c3094a2aa",
@@ -818,7 +1009,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-997b6afd768a3fcb856be463",
@@ -841,30 +1032,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
-    },
-    {
-      "id": "gdelt-90ce9068a9598bdf6972288d",
-      "title": "Tottenham s’offre Savinho",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3439991490660654369-tottenham-soffre-savinho",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/savinhocity.jpg",
-      "publishedAt": "2026-08-25T09:02:31.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "tottenham"
-      ],
-      "topics": [
-        "tottenham"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-e6845e24bb1d0a90a8054640",
@@ -889,30 +1057,57 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "official",
-      "qualityScore": 90
+      "qualityScore": 89.5
     },
     {
-      "id": "gdelt-ee86994e02020306b5050612",
-      "title": "Le LOSC trouve un accord pour récupérer Dilane Bakwa",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3032172979049288040-le-losc-trouve-un-accord-pour-recuperer-dilane-bakwa",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dilane-bakwa-2425-zeigt-in-die-kamera.jpg",
-      "publishedAt": "2026-08-25T08:52:52.000Z",
+      "id": "gdelt-55df6054aaf2aa42234bd8a0",
+      "title": "Mercato Lorient : Un défenseur de Naples s'engage au Lorient FC (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-lorient-un-defenseur-de-naples-s-engage-au-lorient-fc-officiel-536064.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250801103609-2463.jpg",
+      "publishedAt": "2026-08-25T12:48:00.000Z",
       "category": "transfers",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
       "teams": [
-        "lille"
+        "napoli",
+        "lorient"
       ],
       "topics": [
-        "lille"
+        "napoli",
+        "lorient"
       ],
-      "reliability": "reported",
+      "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 89.4
+    },
+    {
+      "id": "gdelt-6adcaed33b85757d83f9f7f5",
+      "title": "OL : Paulo Fonseca annonce des changements dans son onze de départ pour le retour face au Fenerbahçe SK",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ol-paulo-fonseca-annonce-des-changements-dans-son-onze-de-depart-pour-le-retour-face-au-fenerbahce-sk-536066.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/buzz/2026/zoom/buzz-20260803171647-4712.jpg",
+      "publishedAt": "2026-08-25T12:45:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "fenerbahce",
+        "pau"
+      ],
+      "topics": [
+        "fenerbahce",
+        "pau"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-577a294487e8540d2e6eb154",
@@ -936,7 +1131,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 89.1
+    },
+    {
+      "id": "gdelt-949a30dd369ac4dcc0fd33df",
+      "title": "Le FC Lorient se fait prêter un titulaire de l'AZ - France - FC Lorient",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/mercato-le-fc-lorient-se-fait-preter-un-titulaire-de-laz",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/08/25115249/13401240-1400x933.jpg",
+      "publishedAt": "2026-08-25T13:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "lorient"
+      ],
+      "topics": [
+        "lorient"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-9142bdb2036bf40d5ba9df36",
@@ -962,15 +1180,107 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88.8
     },
     {
-      "id": "gdelt-586d1618c2c4c13318672b2f",
-      "title": "L’Éthiopie annonce sa candidature pour la CAN 2028",
+      "id": "gdelt-97c8fcf0c3df14a6cfc4eee6",
+      "title": "OL : Paulo Fonseca fait une énorme révélation sur Malick Fofana !",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6348796092905275012-lethiopie-annonce-sa-candidature-pour-la-can-2028",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/can-trophee.jpg",
-      "publishedAt": "2026-08-25T09:14:33.000Z",
+      "url": "https://www.footmercato.net/a164520686108350574-ol-paulo-fonseca-fait-une-enorme-revelation-sur-malick-fofana",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo690950-1920x1080.jpg",
+      "publishedAt": "2026-08-25T13:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "pau"
+      ],
+      "topics": [
+        "pau"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.5
+    },
+    {
+      "id": "gdelt-82df0109c6c915c94ed7ca66",
+      "title": "Aston Villa lâche une offre pour recruter Jean-Philippe Mateta !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4032380167929584362-aston-villa-lache-une-offre-pour-recruter-jean-philippe-mateta",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mateta-6a1769595f4da.jpg",
+      "publishedAt": "2026-08-25T13:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "aston-villa"
+      ],
+      "topics": [
+        "aston-villa"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.5
+    },
+    {
+      "id": "gdelt-2ee5b156226d72fc1d8f82a1",
+      "title": "Le Mans FC : l'avenir de Milan Robin suspendu à sa situation contractuelle",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8363473181990717221-le-mans-fc-lavenir-de-milan-robin-suspendu-a-sa-situation-contractuelle",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree496380-1920x1080-1.jpg",
+      "publishedAt": "2026-08-25T13:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "le-mans"
+      ],
+      "topics": [
+        "le-mans"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.5
+    },
+    {
+      "id": "gdelt-365e61ee67fa02eeab334ec6",
+      "title": "Le Real Madrid boucle l'arrivée d'Oscar Naasei",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1787124875183151254-le-real-madrid-boucle-larrivee-doscar-naasei",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/florentino-perez-2023.jpg",
+      "publishedAt": "2026-08-25T13:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.5
+    },
+    {
+      "id": "gdelt-38cf364a854e959923fc17bb",
+      "title": "Canal+ préparerait un coup pour reprendre les droits de la Ligue 1",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1908232602720536575-canal-preparerait-un-coup-pour-reprendre-les-droits-de-la-ligue-1",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/l1-dazn-canal.jpg",
+      "publishedAt": "2026-08-25T13:01:18.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -978,10 +1288,12 @@
         "websiteURL": "https://footmercato.net"
       },
       "teams": [],
-      "topics": [],
-      "reliability": "confirmed",
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-78082db5423696cb2406dbd3",
@@ -1007,7 +1319,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-f47b64b8ddf5d4b79cf1f5e8",
@@ -1033,7 +1345,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-f96463dd4507d319cd8c2b68",
@@ -1059,7 +1371,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-b896af9e9e1768abcec18d35",
@@ -1085,7 +1397,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-a7258c597b2404171c949895",
@@ -1108,7 +1420,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-66c12d7b2abe1cdcc386a8c8",
@@ -1131,30 +1443,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
-    },
-    {
-      "id": "gdelt-97c8fcf0c3df14a6cfc4eee6",
-      "title": "OL : Paulo Fonseca fait une énorme révélation sur Malick Fofana !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a164520686108350574-ol-paulo-fonseca-fait-une-enorme-revelation-sur-malick-fofana",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo690950-1920x1080.jpg",
-      "publishedAt": "2026-08-25T11:42:26.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "pau"
-      ],
-      "topics": [
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 88
     },
     {
       "id": "gdelt-4bedd46ddb9cc98b513f1b7a",
@@ -1179,7 +1468,26 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-b954c87389f6a18833b832ff",
+      "title": "Mercato : le TFC fixe un ultimatum à Cristian Cásseres",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7593981154354520671-mercato-le-tfc-fixe-un-ultimatum-a-cristian-casseres",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo539411-1920x1080.jpg",
+      "publishedAt": "2026-08-25T13:02:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-105485532fa9b2378b43c3b3",
@@ -1200,7 +1508,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-44dcef61807ce07698833e70",
@@ -1221,7 +1529,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-bff2e4ae96688d05663369fa",
@@ -1242,7 +1550,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-ff051b5b79005a962e0315da",
@@ -1265,30 +1573,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
-    },
-    {
-      "id": "gdelt-82df0109c6c915c94ed7ca66",
-      "title": "Aston Villa lâche une offre pour recruter Jean-Philippe Mateta !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4032380167929584362-aston-villa-lache-une-offre-pour-recruter-jean-philippe-mateta",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mateta-6a1769595f4da.jpg",
-      "publishedAt": "2026-08-25T10:46:11.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "aston-villa"
-      ],
-      "topics": [
-        "aston-villa"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-f2906cf5287931db1c5ce6d7",
@@ -1313,7 +1598,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-6362acf29c7207d658e5ea97",
@@ -1335,7 +1620,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-58dfb87f6d1c9abd99f45a03",
@@ -1358,30 +1643,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
-    },
-    {
-      "id": "gdelt-365e61ee67fa02eeab334ec6",
-      "title": "Le Real Madrid boucle l’arrivée d’Oscar Naasei",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1787124875183151254-le-real-madrid-boucle-larrivee-doscar-naasei",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/florentino-perez-2023.jpg",
-      "publishedAt": "2026-08-25T10:32:43.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-4e6519362ee855109ba6c0a0",
@@ -1407,7 +1669,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-ddc305654ecd0503e5c1ad29",
@@ -1432,7 +1694,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87
     },
     {
       "id": "gdelt-f01811d5a294da4b3e4cab05",
@@ -1457,7 +1719,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 87
     },
     {
       "id": "gdelt-b4d45c14e8d1fbd1b3f0232c",
@@ -1480,30 +1742,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
-    },
-    {
-      "id": "gdelt-2ee5b156226d72fc1d8f82a1",
-      "title": "Le Mans FC : l’avenir de Milan Robin suspendu à sa situation contractuelle",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8363473181990717221-le-mans-fc-lavenir-de-milan-robin-suspendu-a-sa-situation-contractuelle",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree496380-1920x1080-1.jpg",
-      "publishedAt": "2026-08-25T09:44:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "le-mans"
-      ],
-      "topics": [
-        "le-mans"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 87
     },
     {
       "id": "gdelt-d02f906af5eda0d0e0489520",
@@ -1527,7 +1766,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-3ce7887ff79d40089fc6e0f5",
@@ -1550,7 +1789,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-170bb5a49e5b73b284b48ce4",
@@ -1575,7 +1814,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-1199e54773983ef6d3fd5d5d",
@@ -1600,7 +1839,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-8a44d9909ab475e7ebf616b5",
@@ -1623,7 +1862,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-415b3bf869f31abfbf166b65",
@@ -1646,7 +1885,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-30d783b0599b894f37fa33c8",
@@ -1669,7 +1908,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-21b2e9552bd60ff646b1b0fe",
@@ -1692,7 +1931,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-d64c42cb6fa96686669df38b",
@@ -1715,7 +1954,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-05fd688f6cb1ef0f07a42343",
@@ -1738,7 +1977,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-a3ad8ac45bfa468eb9be303d",
@@ -1761,7 +2000,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-dbf2bf96493210fd20e3efaf",
@@ -1784,7 +2023,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-8dfc9f4104b6efa03366ef9f",
@@ -1810,7 +2049,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-acd734c50b00a00d4960586b",
@@ -1836,7 +2075,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-b69ce96d6efd4a1b5e929379",
@@ -1860,7 +2099,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-f8f7087ac0470e4fe63a9b8a",
@@ -1887,26 +2126,52 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.6
     },
     {
-      "id": "gdelt-b954c87389f6a18833b832ff",
-      "title": "Mercato : le TFC fixe un ultimatum à Cristian Cásseres",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7593981154354520671-mercato-le-tfc-fixe-un-ultimatum-a-cristian-casseres",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo539411-1920x1080.jpg",
-      "publishedAt": "2026-08-25T08:59:23.000Z",
-      "category": "transfers",
+      "id": "gdelt-118e9a22cdacecda28788a07",
+      "title": "Lens écrase Auxerre 5-2 pour son entrée en Ligue 1",
+      "summary": "Publication référencée chez lanouvelletribune.info. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://lanouvelletribune.info/2026/08/lens-ecrase-auxerre-5-2-pour-son-entree-en-ligue-1/",
+      "imageURL": "https://lanouvelletribune.info/wp-content/uploads/2017/04/football1.jpg",
+      "publishedAt": "2026-08-25T13:01:00.000Z",
+      "category": "news",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "lanouvelletribune.info",
+        "name": "lanouvelletribune.info",
+        "websiteURL": "https://lanouvelletribune.info"
+      },
+      "teams": [
+        "lens",
+        "auxerre"
+      ],
+      "topics": [
+        "lens",
+        "auxerre",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.5
+    },
+    {
+      "id": "gdelt-a10b6a9b27f663b4b1b9dedc",
+      "title": "Un pays ravagé par la guerre veut accueillir la CAN 2028",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/can-lethiopie-un-pays-en-proie-a-de-nombreux-conflits-armes-veut-accueillir-la-can-2028",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2024/07/23182032/1659821-1400x931.jpg",
+      "publishedAt": "2026-08-25T13:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
       },
       "teams": [],
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-9612dbab6ee150da512282fd",
@@ -1930,7 +2195,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-81926bfe056db04c39657df0",
@@ -1954,7 +2219,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-6870df720f10287b42b7f042",
@@ -1979,7 +2244,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-93e60b974dde8d3642a15e68",
@@ -2004,7 +2269,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-6a92910580424832d21de63e",
@@ -2023,7 +2288,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-de90615c0f50c083cf02f85e",
@@ -2045,59 +2310,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-99ad9e7c22e2c4d2995a6d77",
-      "title": "OL : Paulo Fonseca dévoile son plan de jeu pour vaincre le Fenerbahçe et retrouver la Ligue des Champions",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ol-paulo-fonseca-devoile-son-plan-de-jeu-pour-vaincre-le-fenerbahce-et-retrouver-la-ligue-des-champions-536062.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250423090547-2232.jpg",
-      "publishedAt": "2026-08-25T12:35:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "fenerbahce",
-        "pau"
-      ],
-      "topics": [
-        "fenerbahce",
-        "pau",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-084e811d70c8036a0fc60b13",
-      "title": "OL : Avant le barrage retour de Ligue des Champions, Paulo Fonseca prend la défense des supporters du Fenerbahçe SK",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ol-avant-le-barrage-retour-de-ligue-des-champions-paulo-fonseca-prend-la-defense-des-supporters-du-fenerbahce-sk-536063.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260427135749-3635.jpg",
-      "publishedAt": "2026-08-25T12:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "fenerbahce",
-        "pau"
-      ],
-      "topics": [
-        "fenerbahce",
-        "pau",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-47d8cfff1074da506248a93a",
@@ -2120,7 +2333,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 84.8
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-57f99b4fcf05fc4e613f19cf",
@@ -2148,7 +2361,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-b5cb8b618de48c40b6aaea10",
@@ -2176,7 +2389,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-a54c8cd3e5470e8c1e8cdd71",
@@ -2203,224 +2416,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-fb9a70abad6489e36c68c90a",
-      "title": "Une Coupe du monde à 211 équipes, la dernière carte d'Infantino - FIFA",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/articles/une-coupe-du-monde-u15-a-211-equipes-la-derniere-carte-de-gianni-infantino-pour-sauver-sa-place-a-la-fifa",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjQyMjE1NDQvSUNPTlNQT1JUXzM3MDQwOV8yMDQ0LTE0MDB4OTM0LmpwZw/300/une-coupe-du-monde-a-211-equipes-la-derniere-carte-d-infantino.jpg",
-      "publishedAt": "2026-08-25T04:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [
-        "world-cup"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-24af46c089b36e970b76433d",
-      "title": "Lille prépare l'après-Bouaddi, Lepaul va rester à Rennes : les dernières infos mercato",
-      "summary": "Publication référencée chez eurosport.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.eurosport.fr/football/transferts/2026-2027/nkunku-a-trouve-son-nouveau-club-luis-enrique-satisfait-du-mercato-les-dernieres-infos-mercato_lci50028830/liveevent.shtml",
-      "imageURL": "https://i.eurosport.com/2026/06/25/image-2e884f93-bcb3-439f-a4dc-1803cfd3aaf5.jpeg",
-      "publishedAt": "2026-08-24T06:10:06.709Z",
-      "category": "transfers",
-      "source": {
-        "id": "eurosport.fr",
-        "name": "eurosport.fr",
-        "websiteURL": "https://eurosport.fr"
-      },
-      "teams": [
-        "lille",
-        "rennes",
-        "pau"
-      ],
-      "topics": [
-        "lille",
-        "rennes",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-ef121b1a7c2225739f292ed7",
-      "title": "En pleine tourmente, Gianni Infantino annonce la création d'une Coupe du monde U15 à 211 pays",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-du-monde/en-pleine-tourmente-gianni-infantino-annonce-la-creation-dune-coupe-du-monde-u15-a-211-pays-954182",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954182/388777/1200-L-en-pleine-tourmente-gianni-infantino-annonce-la-cration-d-une-coupe-du-monde-u15-211-pays.jpg",
-      "publishedAt": "2026-08-24T15:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "world-cup"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-33d57e68961f0fe436f0fde4",
-      "title": "Avant d'affronter Toulouse en ligue ,1 Lyon la tête à la ligue des champions ?",
-      "summary": "Publication référencée chez toulouse7.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://toulouse7.com/2026/08/19/avant-daffronter-toulouse-en-ligue-1-lyon-la-tete-a-la-ligue-des-champions/",
-      "imageURL": "https://toulouse7.com/wp-content/uploads/2026/08/t5uhugtzg2g.jpg",
-      "publishedAt": "2026-08-25T09:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "toulouse7.com",
-        "name": "toulouse7.com",
-        "websiteURL": "https://toulouse7.com"
-      },
-      "teams": [
-        "ol",
-        "toulouse"
-      ],
-      "topics": [
-        "ol",
-        "toulouse",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 84.3
-    },
-    {
-      "id": "gdelt-00789d3037a4672ebeab82e2",
-      "title": "Mercato PSG : ça va bouger pour Renato Sanches",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6684108179148457791-mercato-psg-ca-va-bouger-pour-renato-sanches",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/renato-sanches-2023.jpg",
-      "publishedAt": "2026-08-24T21:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.3
-    },
-    {
-      "id": "gdelt-0adb7ef47921689317d03bee",
-      "title": "Aux Pays-Bas, des feux d'artifice lancés par des fans font des blessés - Eredivisie - J3 - Cambuur-Feyenoord (2-5)",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/eredivisie-cinq-supporters-de-cambuur-blesses-par-des-feux-dartifice-lances-par-des-fans-de-feyenoord",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjQxNTU0MjAvSUNPTlNQT1JUXzM3MjY0N18wMDEwLTE0MDB4OTMzLmpwZw/300/aux-pays-bas-des-feux-d-artifice-lances-par-des-fans-font-des-blesses.jpg",
-      "publishedAt": "2026-08-24T18:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "feyenoord"
-      ],
-      "topics": [
-        "feyenoord",
-        "eredivisie"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.8
-    },
-    {
-      "id": "gdelt-cda460509b4b1d2dc2cc0dbe",
-      "title": "Manchester City : un indésirable se rapproche d'un accord avec Newcastle",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2969702663426664045-manchester-city-un-indesirable-se-rapproche-dun-accord-avec-newcastle",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/enzo-maresca-2627.jpg",
-      "publishedAt": "2026-08-24T12:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-city",
-        "newcastle"
-      ],
-      "topics": [
-        "man-city",
-        "newcastle"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.8
-    },
-    {
-      "id": "gdelt-450d878b23a9518b9d736d29",
-      "title": "Brighton : un supporter décède après la victoire contre Aston Villa",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8856391645628294230-brighton-un-supporter-decede-apres-la-victoire-contre-aston-villa",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/falmer-stadium.jpg",
-      "publishedAt": "2026-08-24T18:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "aston-villa",
-        "brighton"
-      ],
-      "topics": [
-        "aston-villa",
-        "brighton"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.6
-    },
-    {
-      "id": "gdelt-02887be4555ff22841e0dbce",
-      "title": "Mercato Nice : Terem Moffi quitte l'OGC Nice et signe en Allemagne (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-nice-terem-moffi-quitte-l-ogc-nice-et-signe-en-allemagne-officiel-535953.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2025/zoom/ldc-20250806224121-8100.jpg",
-      "publishedAt": "2026-08-24T08:11:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "nice"
-      ],
-      "topics": [
-        "nice"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 84.1
     }
   ],
-  "generatedAt": "2026-08-25T12:59:54.427Z",
+  "generatedAt": "2026-08-25T13:59:08.006Z",
   "stale": false
 }
