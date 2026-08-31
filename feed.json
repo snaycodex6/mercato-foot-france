@@ -26,7 +26,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 109.3
+      "qualityScore": 106.3
     },
     {
       "id": "gdelt-38ccb9b7a7da20ee4f5f2b9c",
@@ -52,7 +52,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.9
+      "qualityScore": 93.8
     },
     {
       "id": "gdelt-49b6e8c2d91fa05478e04c62",
@@ -80,7 +80,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.8
+      "qualityScore": 93.8
     },
     {
       "id": "gdelt-fca83646daff2997e508aee9",
@@ -106,7 +106,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-5574dbd4e6190c3ca38d5ec8",
@@ -133,7 +133,55 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-d3e616ab3887a0d00b9c1a9a",
+      "title": "Savez-vous que la meilleure brasserie artisanale du Monde est Catalane ? Rencontre avec Élodie et Gregor Engler",
+      "summary": "Publication référencée chez radiofrance.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.radiofrance.fr/francebleu/podcasts/les-gens-d-ici-ici-roussillon/savez-vous-que-la-meilleure-brasserie-artisanale-du-monde-est-catalane-rencontre-avec-elodie-et-gregor-engler-5918334",
+      "imageURL": "https://www.radiofrance.fr/pikapi/images/6d539426-5d10-4a2c-956b-0e056b1bb513/2048",
+      "publishedAt": "2026-08-31T06:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "radiofrance.fr",
+        "name": "radiofrance.fr",
+        "websiteURL": "https://radiofrance.fr"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.5
+    },
+    {
+      "id": "gdelt-7cfd177d93c19a3fa4dec80e",
+      "title": "Monaco s'offre l'OM et la tête de la Ligue 1 sans forcer",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/monaco-soffre-lom-et-la-tete-de-la-ligue-1-sans-forcer-954733",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954733/389055/1200-L-monaco-soffre-lom-et-la-tte-de-la-ligue-1-sans-forcer.jpg",
+      "publishedAt": "2026-08-31T00:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "monaco"
+      ],
+      "topics": [
+        "monaco",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-41dac7eb0c21815bc53b5fa6",
@@ -159,31 +207,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
-    },
-    {
-      "id": "gdelt-7cfd177d93c19a3fa4dec80e",
-      "title": "Monaco s'offre l'OM et la tête de la Ligue 1 sans forcer",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/monaco-soffre-lom-et-la-tete-de-la-ligue-1-sans-forcer-954733",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954733/389055/1200-L-monaco-soffre-lom-et-la-tte-de-la-ligue-1-sans-forcer.jpg",
-      "publishedAt": "2026-08-31T00:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "monaco"
-      ],
-      "topics": [
-        "monaco",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-020f35da1a56b593bff768e4",
@@ -209,7 +233,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-0d0e18444e82698d0a0a1091",
@@ -234,7 +258,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 92
     },
     {
       "id": "gdelt-8e7694c87782a83735a56d7e",
@@ -260,7 +284,54 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95
+      "qualityScore": 91.9
+    },
+    {
+      "id": "gdelt-03bf0c677c701dee39b9163c",
+      "title": "Dijon-Saint-Étienne : où et quand suivre cette rencontre de Ligue 2 ?",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/dijon-saint-etienne-ou-et-quand-suivre-cette-rencontre-de-ligue-2-954180",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954180/388775/1200-L-dijon-saint-tienne-o-et-quand-suivre-cette-rencontre-de-ligue-2.jpg",
+      "publishedAt": "2026-08-31T05:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
+    },
+    {
+      "id": "gdelt-6b2d47895186d01ce61c7b63",
+      "title": "PSG : une recrue estivale se fait déjà reprendre de volée en interne !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8848035186558517425-psg-une-recrue-estivale-se-fait-deja-reprendre-de-volee-en-interne",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/psgaston.jpg",
+      "publishedAt": "2026-08-31T05:50:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-2ff645cfc87e43020df97636",
@@ -286,7 +357,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.2
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-4f4740f303b519b5a21bf8ca",
@@ -312,7 +383,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.2
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-de6b0a5ff6c29177ed59170e",
@@ -338,7 +409,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.2
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-306895d04f8e8afc097d5910",
@@ -364,7 +435,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.7
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-f31f6a98443241acfbc41b4a",
@@ -390,7 +461,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.7
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-73d4329b5b301513e2edb8f2",
@@ -415,7 +486,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.7
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-cde1b9c078db61cc30d797db",
@@ -441,7 +512,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-02fb9456c15baccc2ab1bea6",
@@ -466,7 +537,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.2
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-03c56e6557ed56b2b3c82362",
@@ -489,7 +560,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.2
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-c7e3b70da73e56085887cb50",
@@ -512,7 +583,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.2
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-a55ce4fdccddc4f75a76b6d4",
@@ -536,7 +607,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-cea7a1e34dd5f277c3beb2ca",
@@ -562,7 +633,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-5b1f0f2e31ad9a1634eb9287",
@@ -581,7 +652,7 @@
       "topics": [],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-4781bc1d89627f06cbef29d4",
@@ -605,7 +676,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-3f56b6222fb558f8cfba6677",
@@ -629,7 +700,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-0c11ea84d5527bfdafc4e758",
@@ -653,7 +724,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-449e6e30fda25dbb6c84d5a9",
@@ -679,7 +750,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-d7b071e880fc4ca9ae83f6b2",
@@ -705,7 +776,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-0b3e35bfabe0e8b74d90bf49",
@@ -730,7 +801,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-1f2165ae466f1a6af8391f89",
@@ -754,7 +825,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-50a06805fed8fd335f2161d0",
@@ -778,7 +849,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-5262509da85e5b50bc02761d",
@@ -803,7 +874,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-c15ca9e7471fef549ebee7d7",
@@ -827,7 +898,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-cd2e13a1670c4e7caf927dfe",
@@ -850,7 +921,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-fd095c5a7d48ed8b547797bf",
+      "title": "AS Roma : Gasperini réclame encore deux recrues",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1785625811066933009-as-roma-gasperini-reclame-encore-deux-recrues",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epaliveeight678698.jpg",
+      "publishedAt": "2026-08-31T06:10:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "roma"
+      ],
+      "topics": [
+        "roma"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-02d244bf096c60c4ba677507",
@@ -874,7 +968,51 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 88.3
+    },
+    {
+      "id": "gdelt-0d10df52be34e1c3733e187c",
+      "title": "Aston Villa met 30 M€ sur un défenseur de Championship",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5750347168224179024-aston-villa-met-30-meur-sur-un-defenseur-de-championship",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/taylor-harwood-bellis-2627.jpg",
+      "publishedAt": "2026-08-31T05:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "aston-villa"
+      ],
+      "topics": [
+        "aston-villa"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88
+    },
+    {
+      "id": "gdelt-3a2d41eb49b0101a4e1e930b",
+      "title": "Coupe de France : clubs de R1, Béziers et le FC Drouais surpris par des « petits »",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-clubs-de-r1-beziers-et-le-fc-drouais-surpris-par-des-petits-954730",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954730/389054/1200-L-coupe-de-france-clubs-de-r1-bziers-et-le-fc-drouais-surpris-par-des-petits-.jpg",
+      "publishedAt": "2026-08-31T05:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-b71f81a6ffa56f45640f8ccf",
@@ -901,7 +1039,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-b517a93d5603dc634e6541cd",
@@ -924,7 +1062,119 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 87.6
+    },
+    {
+      "id": "gdelt-045f473e7491f8a98f0cf354",
+      "title": "Premier League : Fulham : Crystal Palace, sur quelle chaîne et à quelle heure voir le derby londonien en direct ?",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-premier-league-fulham-crystal-palace-sur-quelle-chaine-et-a-quelle-heure-voir-le-derby-londonien-en-direct-536905.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/illustrations/2026/zoom/match-20260831092647-5838.jpg",
+      "publishedAt": "2026-08-31T04:30:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "crystal-palace",
+        "fulham",
+        "derby"
+      ],
+      "topics": [
+        "crystal-palace",
+        "fulham",
+        "derby",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.5
+    },
+    {
+      "id": "gdelt-8004548efc67f5d1cf2aac7a",
+      "title": "Serie A : Fiorentina : Torino, sur quelle chaîne et à quelle heure voir le derby toscan en direct ?",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-serie-a-fiorentina-torino-sur-quelle-chaine-et-a-quelle-heure-voir-le-derby-toscan-en-direct-536902.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/illustrations/2026/zoom/match-20260831092551-3536.jpg",
+      "publishedAt": "2026-08-31T04:30:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "fiorentina",
+        "torino",
+        "derby"
+      ],
+      "topics": [
+        "fiorentina",
+        "torino",
+        "derby",
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.5
+    },
+    {
+      "id": "gdelt-57363ee29a9775abdcf310ed",
+      "title": "Ligue 2 : Grenoble vs Annecy : Sur quelle chaîne suivre le derby savoyard et à quelle heure ?",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-2-grenoble-vs-annecy-sur-quelle-chaine-suivre-le-derby-savoyard-et-a-quelle-heure-536892.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/illustrations/2026/zoom/match-20260831092236-6380.jpg",
+      "publishedAt": "2026-08-31T04:30:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "grenoble",
+        "annecy",
+        "derby"
+      ],
+      "topics": [
+        "grenoble",
+        "annecy",
+        "derby",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.5
+    },
+    {
+      "id": "gdelt-8a276aea31720ba00380f5b2",
+      "title": "Saudi Pro League : Al Ittihad : Al Nassr, sur quelle chaîne et à quelle heure voir le derby saoudien en direct ?",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-saudi-pro-league-al-ittihad-al-nassr-sur-quelle-chaine-et-a-quelle-heure-voir-le-derby-saoudien-en-direct-536914.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/illustrations/2026/zoom/match-20260831092935-7114.jpg",
+      "publishedAt": "2026-08-31T04:30:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "al-nassr",
+        "al-ittihad",
+        "derby"
+      ],
+      "topics": [
+        "al-nassr",
+        "al-ittihad",
+        "derby",
+        "saudi-pro-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-20a66a9d174cffd131a5e342",
@@ -948,7 +1198,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-b0ae6d93cb7481b1dbd2b4a9",
@@ -973,7 +1223,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-d17160b5d631070fb3bf0b5a",
@@ -997,7 +1247,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-32eb8cb6c2c0adeafc3cf62b",
@@ -1022,7 +1272,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-1b4702597de3fd9e56f950c4",
@@ -1046,7 +1296,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-2d5d3a02328842e11d6db429",
@@ -1071,7 +1321,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 87
     },
     {
       "id": "gdelt-beac84baec619efd82276f5d",
@@ -1095,7 +1345,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-389fe47f216bc7c166943bcc",
@@ -1120,7 +1370,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-6bd1ed613d08671b0fc05bb3",
@@ -1145,7 +1395,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-02e5db6a207babffd8dde978",
@@ -1167,7 +1417,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-1101f2b1d506e0ab2951c1b7",
@@ -1190,7 +1440,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-d423ea9b43085f3ce2808811",
@@ -1213,7 +1463,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-ed5a6790c9a69b77d6f557c5",
@@ -1237,7 +1487,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-dba7a15d96d0bb5a0442f5fd",
@@ -1262,7 +1512,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-a99ba55cf7505947da7029b5",
@@ -1287,7 +1537,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-75e7f376e5ec5508d92066cc",
@@ -1312,7 +1562,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-2847c35eee04aec33b09e1ec",
@@ -1336,7 +1586,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-dcf3b238c25b73e66a256594",
@@ -1361,7 +1611,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-65fc1dc5640a18b8a2e85cae",
@@ -1386,7 +1636,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-639cce7041455758db9fc568",
@@ -1414,7 +1664,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-9435eeaabd243678ab705efc",
@@ -1442,7 +1692,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-18d7a0f1e88dd263007b584f",
@@ -1465,7 +1715,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-c831317bb0205a4f58fb0db8",
@@ -1490,7 +1740,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 85.1
+    },
+    {
+      "id": "gdelt-8bab3da8b7019bef069ce41b",
+      "title": "Sarrebourg. Son équipe en Ligue des champions face au PSG et Lille : l'aventure slovaque de Serge Costa",
+      "summary": "Publication référencée chez republicain-lorrain.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.republicain-lorrain.fr/societe/2026/08/31/le-sarrebourgeois-serge-costa-qualifie-en-ligue-des-champions-face-au-psg-et-lille",
+      "imageURL": "https://cdn-s-www.republicain-lorrain.fr/images/A4B51FAE-D190-4956-B8C6-6F74C841BD98/FB1200/photo-1788103956.jpg",
+      "publishedAt": "2026-08-31T05:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "republicain-lorrain.fr",
+        "name": "republicain-lorrain.fr",
+        "websiteURL": "https://republicain-lorrain.fr"
+      },
+      "teams": [
+        "psg",
+        "lille"
+      ],
+      "topics": [
+        "psg",
+        "lille",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-41ebfaabae5eeedcb03e9e56",
@@ -1513,7 +1789,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-0290fb7f5648ebeab5e3de4d",
@@ -1536,7 +1812,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-c0de21b4fc431e76ac865041",
@@ -1559,7 +1835,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-f8f4576fe99f6c55aed642b6",
@@ -1582,7 +1858,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-e0856d0a041fd7e1e789e77c",
@@ -1605,7 +1881,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-c40953cdbdbc8ca8837d6cfc",
@@ -1626,7 +1902,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-1548ebf77985cdd1f98e8b02",
@@ -1647,7 +1923,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-67cba23084ab0cb59cfc4f0d",
@@ -1668,7 +1944,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-1fc1a365cff413f3c0002372",
@@ -1691,7 +1967,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-7e8f8540d9bf76cd7e33173e",
@@ -1714,7 +1990,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84.6
+    },
+    {
+      "id": "gdelt-e9d545bf9bd46df368e1a19c",
+      "title": "JT Foot Mercato : le Barça a trouvé son numéro 9",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4341880036058594735-jt-foot-mercato-le-barca-a-trouve-son-numero-9",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/gabriel-jesus-2627.jpg",
+      "publishedAt": "2026-08-30T16:36:40.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-33b75b9c827407949dda3fb7",
@@ -1740,7 +2039,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-b7b86263374d9894cf2a22e0",
@@ -1768,30 +2067,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
-    },
-    {
-      "id": "gdelt-e9d545bf9bd46df368e1a19c",
-      "title": "JT Foot Mercato : le Barça a trouvé son numéro 9",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4341880036058594735-jt-foot-mercato-le-barca-a-trouve-son-numero-9",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/gabriel-jesus-2627.jpg",
-      "publishedAt": "2026-08-30T16:36:40.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-92361389e0e7991fbf4633ba",
@@ -1816,7 +2092,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-9eee6716201f6800abe4aca0",
@@ -1842,7 +2118,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-060630efd1648842d6d46de7",
@@ -1865,7 +2141,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-5ec000081731af0ddf3684c3",
@@ -1888,7 +2164,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-3ccee87ffccfc8f056ae3b1e",
@@ -1909,7 +2185,45 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 84
+    },
+    {
+      "id": "gdelt-4f5b3db969633820fe94f24f",
+      "title": "Les meilleures bastons du foot sont dans le nouveau SO FOOT",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/magazines/les-meilleures-bastons-du-foot-sont-dans-le-nouveau-so-foot",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/08/30215809/couverture.jpg",
+      "publishedAt": "2026-08-31T05:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.9
+    },
+    {
+      "id": "gdelt-3fd51d5b5abbe90180c0cbca",
+      "title": "Arnaud et Clément : « Samir Nasri serait un bon personnage de fiction » - Culture Foot",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/arnaud-et-clement-realisateurs-dun-grand-raccourci-samir-nasri-serait-un-bon-personnage-de-fiction",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/08/27105808/WhatsApp-Image-2026-08-27-at-10.29.19-1400x933.jpeg",
+      "publishedAt": "2026-08-31T05:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-3eb0e60d65c2abb6281ef2f9",
@@ -1928,7 +2242,32 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 83.6
+    },
+    {
+      "id": "gdelt-d58937a11c464319ed02db03",
+      "title": "Chelsea : Xabi Alonso explique l’absence d’Enzo Fernandez contre Brighton",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6405842027609922195-chelsea-xabi-alonso-explique-labsence-denzo-fernandez-contre-brighton",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/enzo-fernandez-2627.jpg",
+      "publishedAt": "2026-08-30T12:36:26.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "chelsea",
+        "brighton"
+      ],
+      "topics": [
+        "chelsea",
+        "brighton"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.6
     },
     {
       "id": "gdelt-9f4e15e79ea88ed15e323802",
@@ -1958,497 +2297,165 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 83.6
     },
     {
-      "id": "gdelt-d58937a11c464319ed02db03",
-      "title": "Chelsea : Xabi Alonso explique l’absence d’Enzo Fernandez contre Brighton",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6405842027609922195-chelsea-xabi-alonso-explique-labsence-denzo-fernandez-contre-brighton",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/enzo-fernandez-2627.jpg",
-      "publishedAt": "2026-08-30T12:36:26.000Z",
+      "id": "gdelt-6427e24b51c5611afd0257f1",
+      "title": "Ligue 2 : Laval vs Red Star : Sur quelle chaîne et à quelle heure voir le match en direct ?",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-2-laval-vs-red-star-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-en-direct-536889.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/illustrations/2026/zoom/match-20260831092200-9721.jpg",
+      "publishedAt": "2026-08-31T04:30:00.000Z",
       "category": "news",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
       "teams": [
-        "chelsea",
-        "brighton"
-      ],
-      "topics": [
-        "chelsea",
-        "brighton"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.6
-    },
-    {
-      "id": "gdelt-650bf5ee5306e8c3c6515a66",
-      "title": "Ligue 2 : Reims s’offre un large succès au Red Star, Annecy et Metz dos à dos",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3720764154208340226-ligue-2-reims-soffre-un-large-succes-au-red-star-annecy-et-metz-dos-a-dos",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/reims-6a92e5c13ebec.jpg",
-      "publishedAt": "2026-08-29T13:59:49.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "metz",
-        "reims",
-        "annecy",
+        "laval",
         "red-star"
       ],
       "topics": [
-        "metz",
-        "reims",
-        "annecy",
+        "laval",
         "red-star",
         "ligue-2"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 83.5
     },
     {
-      "id": "gdelt-144165a59125194dff27351f",
-      "title": "PSG : Michel Platini donne le Ballon d'Or à Khvicha Kvaratskhelia",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1986507435050676625-psg-michel-platini-donne-le-ballon-dor-a-khvicha-kvaratskhelia",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/michel-platinin.jpg",
-      "publishedAt": "2026-08-30T19:47:00.000Z",
+      "id": "gdelt-b072e7254897d01c60293aa1",
+      "title": "Premier League : Aston Villa vs Arsenal : sur quelle chaîne et à quelle heure voir le match en direct ?",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-premier-league-aston-villa-vs-arsenal-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-en-direct-536882.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/illustrations/2026/zoom/match-20260831091949-8421.jpg",
+      "publishedAt": "2026-08-31T04:30:00.000Z",
       "category": "news",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
       "teams": [
-        "psg"
+        "arsenal",
+        "aston-villa"
       ],
       "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.2
-    },
-    {
-      "id": "gdelt-c03654975aa26949472df249",
-      "title": "Borussia Dortmund : rupture des ligaments croisés pour Giannis Konstantelias",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9074820537483932891-borussia-dortmund-rupture-des-ligaments-croises-pour-giannis-konstantelias",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/giannis-konstantelias-2627-2.jpg",
-      "publishedAt": "2026-08-30T19:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "dortmund"
-      ],
-      "topics": [
-        "dortmund"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.2
-    },
-    {
-      "id": "gdelt-61e4373f7ac50b156606238f",
-      "title": "Live Cordoba - Grenade (1-0) la 3e journée de LaLiga Hypermotion 2026/2027 30/08",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/3554376667911424203-cordoba-vs-grenade",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-6570807399467221075-1765046592166476736.jpg",
-      "publishedAt": "2026-08-30T19:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "la-liga"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.2
-    },
-    {
-      "id": "gdelt-4f8eb865927c13aeb059a360",
-      "title": "Real Madrid : Jude Bellingham a encore choqué tout son monde !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1293868111345477650-real-madrid-jude-bellingham-a-encore-choque-tout-son-monde",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jude-bellingham-2526-6957b4ea29ff7.jpg",
-      "publishedAt": "2026-08-30T19:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.2
-    },
-    {
-      "id": "gdelt-238fd821ddfa10d0c582385b",
-      "title": "Ligue 2 : Aïmen Moueffek vers un départ de l'ASSE, mercato pas encore terminé à Clermont ?",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/ligue-2-aimen-moueffek-vers-un-depart-de-lasse-mercato-pas-encore-termine-a-clermont-954694",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954694/389036/1200-L-ligue-2-amen-moueffek-vers-un-dpart-de-lasse-mercato-pas-encore-termin-clermont.jpg",
-      "publishedAt": "2026-08-30T19:02:00.000Z",
-      "category": "rumors",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "saint-etienne",
-        "clermont"
-      ],
-      "topics": [
-        "saint-etienne",
-        "clermont",
-        "ligue-2"
-      ],
-      "reliability": "rumor",
-      "sourceTier": "recognized",
-      "qualityScore": 85.9
-    },
-    {
-      "id": "gdelt-58a03ee821182b01bc1a1809",
-      "title": "Premier League : Hull City enchaîne bien, Everton et Bournemouth se quittent sur un nul",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4684504922675036499-premier-league-hull-city-enchaine-bien-everton-et-bournemouth-se-quittent-sur-un-nul",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/hull-city-v-middlesbrough-sky-bet-championship-final-2.jpg",
-      "publishedAt": "2026-08-29T19:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "everton",
-        "bournemouth",
-        "hull"
-      ],
-      "topics": [
-        "everton",
-        "bournemouth",
-        "hull",
+        "arsenal",
+        "aston-villa",
         "premier-league"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 83.5
     },
     {
-      "id": "gdelt-d145921c1c11845488b9cbe3",
-      "title": "Le Barça a enfin trouvé son attaquant ! - Espagne - Barcelone",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/mercato-gabriel-jesus-arsenal-tout-pres-du-fc-barcelone-et-dun-deplacement-au-parc-des-princes",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/08/30173342/14378429-1400x933.jpg",
-      "publishedAt": "2026-08-30T18:46:00.000Z",
+      "id": "gdelt-1b03a6a7a5b5e9bd49fab1a1",
+      "title": "Serie A : Atalanta Bergame : Bologne, sur quelle chaîne et à quelle heure suivre le match en direct ?",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-serie-a-atalanta-bergame-bologne-sur-quelle-chaine-et-a-quelle-heure-suivre-le-match-en-direct-536881.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/illustrations/2026/zoom/match-20260831091928-7786.jpg",
+      "publishedAt": "2026-08-31T04:30:00.000Z",
       "category": "news",
       "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
       "teams": [
-        "barcelona"
+        "atalanta",
+        "bologna"
       ],
       "topics": [
-        "barcelona"
+        "atalanta",
+        "bologna",
+        "serie-a"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 83.5
     },
     {
-      "id": "gdelt-a549e3d551e6a93527fd6207",
-      "title": "L'équipe de France nettement battue et éliminée en 8es de finale de l'Euro par la Grèce",
-      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lequipe.fr/Volley-ball/Actualites/L-equipe-de-france-nettement-battue-et-eliminee-en-8es-de-finale-de-l-euro-par-la-grece/1714737",
-      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/l-euro-est-deja-fini-pour-les-bleues-cev-d-r/1500000002565592/191:134,1232:827-1200-800-75/1858c.jpg",
-      "publishedAt": "2026-08-30T18:46:00.000Z",
+      "id": "gdelt-439ad569ffc5176539e6245c",
+      "title": "Saudi Pro League : Al Shabab : Al Hilal, sur quelle chaîne et à quelle heure voir le derby de Riyad en direct ?",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-saudi-pro-league-al-shabab-al-hilal-sur-quelle-chaine-et-a-quelle-heure-voir-le-derby-de-riyad-en-direct-536893.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/illustrations/2026/zoom/match-20260831092306-9029.jpg",
+      "publishedAt": "2026-08-31T04:30:00.000Z",
       "category": "news",
       "source": {
-        "id": "lequipe.fr",
-        "name": "lequipe.fr",
-        "websiteURL": "https://lequipe.fr"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
-      "teams": [],
+      "teams": [
+        "al-hilal",
+        "derby"
+      ],
       "topics": [
-        "france"
+        "al-hilal",
+        "derby",
+        "saudi-pro-league"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 83.5
     },
     {
-      "id": "gdelt-b4bdaa1403aed90b7f7f361c",
-      "title": "Doublé pour Brunner, Monaco enfonce l’OM !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4232343766688275873-suivez-la-rencontre-as-monaco-olympique-de-marseille-en-direct-commente",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/asmonaco.jpg",
-      "publishedAt": "2026-08-30T18:35:00.000Z",
+      "id": "gdelt-465c76a1b47f8989b717c2c7",
+      "title": "Serie A : Inter Milan - Naples : Sur quelle chaîne et à quelle heure voir le choc en direct ?",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-serie-a-inter-milan-naples-sur-quelle-chaine-et-a-quelle-heure-voir-le-choc-en-direct-536910.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/illustrations/2026/zoom/match-20260831092823-8908.jpg",
+      "publishedAt": "2026-08-31T04:30:00.000Z",
       "category": "news",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
       "teams": [
-        "monaco"
+        "inter",
+        "napoli"
       ],
       "topics": [
-        "monaco"
+        "inter",
+        "napoli",
+        "serie-a"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 83.5
     },
     {
-      "id": "gdelt-84767def8595e1cac7a747d5",
-      "title": "Florian Thauvin passe un cap et entre dans l'histoire de la Ligue 1 avec Lens face à Strasbourg",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/strasbourg-lens-florian-thauvin-passe-un-cap-et-entre-dans-lhistoire-de-la-ligue-1-998134",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/998134/407187/1200-L-strasbourg-lens-florian-thauvin-passe-un-cap-et-entre-dans-l-histoire-de-la-ligue-1.jpg",
-      "publishedAt": "2026-08-29T18:33:39.000Z",
+      "id": "gdelt-3b2b7b0bf1cf3bf18a5e9675",
+      "title": "Premier League : Manchester City : Coventry City, sur quelle chaîne et à quelle heure voir le match en direct ?",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-premier-league-manchester-city-coventry-city-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-en-direct-536906.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/illustrations/2026/zoom/match-20260831092707-6028.jpg",
+      "publishedAt": "2026-08-31T04:30:00.000Z",
       "category": "news",
       "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
       "teams": [
-        "lens",
-        "strasbourg",
-        "saint-etienne"
+        "man-city",
+        "coventry"
       ],
       "topics": [
-        "lens",
-        "strasbourg",
-        "saint-etienne",
-        "ligue-1"
+        "man-city",
+        "coventry",
+        "premier-league"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
-    },
-    {
-      "id": "gdelt-b946f59ee0bc4002676a2430",
-      "title": "Strasbourg : Samir El Mourabet bloqué par le propriétaire de Chelsea",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4770676752141000678-strasbourg-samir-el-mourabet-bloque-par-le-proprietaire-de-chelsea",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree495867-1920x1080.jpg",
-      "publishedAt": "2026-08-30T10:15:01.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "strasbourg",
-        "chelsea"
-      ],
-      "topics": [
-        "strasbourg",
-        "chelsea"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.5
-    },
-    {
-      "id": "gdelt-0bb5a993de372b830b02a03d",
-      "title": "Yassine porte Strasbourg et s'offre Lens - Ligue 1 - J2 - Strasbourg-Lens (2-1)",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/articles/porte-par-les-dribbles-et-le-double-de-gessime-yassine-strasbourg-renverse-lens",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDgvMjkxODU5MDkvSUNPTlNQT1JUXzM3Mjk0N18wMTc4LTE0MDB4OTMzLmpwZw/300/yassine-porte-strasbourg-et-s-offre-lens.jpg",
-      "publishedAt": "2026-08-29T19:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "lens",
-        "strasbourg"
-      ],
-      "topics": [
-        "lens",
-        "strasbourg",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.1
-    },
-    {
-      "id": "gdelt-73108fe23aaf2aeeac3b5cb4",
-      "title": "Real Madrid - Málaga : les compositions officielles",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9125738632165675626-real-madrid-malaga-les-compositions-officielles",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine279900-1920x1080.jpg",
-      "publishedAt": "2026-08-30T17:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-62bae08b75f47fb467cb25d7",
-      "title": "Manchester United : un grand d'Europe veut récupérer Leny Yoro sur le gong",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7913278596461468994-manchester-united-un-grand-deurope-veut-recuperer-leny-yoro-sur-le-gong",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/yoro-698481771d18d.jpg",
-      "publishedAt": "2026-08-30T17:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-united"
-      ],
-      "topics": [
-        "man-united"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-7b9e615192dc93c82ffc45bf",
-      "title": "L'AC Milan touche au but pour Omari Hutchinson",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3615209370305179171-lac-milan-touche-au-but-pour-omari-hutchinson",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/omari-hutchinson-2324-6650d358adb3b.jpg",
-      "publishedAt": "2026-08-30T17:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "ac-milan"
-      ],
-      "topics": [
-        "ac-milan"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-7c990aefcd5522a0a8717b00",
-      "title": "Manchester United : Sir Alex Ferguson de retour à Old Trafford",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a185905089432540115-manchester-united-sir-alex-ferguson-de-retour-a-old-trafford",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/sir-alex-ferguson-mu-2223-img1.jpg",
-      "publishedAt": "2026-08-30T17:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-united"
-      ],
-      "topics": [
-        "man-united"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-18fde29efde9d3f487ed2c78",
-      "title": "Karim Benzema va quitter Al-Hilal",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4073061236657036084-karim-benzema-va-quitter-al-hilal",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/benzema-jog31urzjf8t78eaiu1aajxiew.jpeg",
-      "publishedAt": "2026-08-30T17:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "al-hilal"
-      ],
-      "topics": [
-        "al-hilal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-4c4d22f817626b24f58aa34b",
-      "title": "PSG : Barça, City, Aston Villa... les 5 dates à retenir en Ligue des Champions",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/psg/psg-barca-city-aston-villa-les-5-dates-a-retenir-en-ligue-des-champions-998110",
-      "imageURL": "https://static.onzemondial.com/8/2026/08/photo_article/998110/407175/1200-L-psg-bara-city-aston-villa-les-5-dates-retenir-en-ligue-des-champions.jpg",
-      "publishedAt": "2026-08-29T17:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "psg",
-        "barcelona",
-        "aston-villa"
-      ],
-      "topics": [
-        "psg",
-        "barcelona",
-        "aston-villa",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 83.5
     }
   ],
-  "generatedAt": "2026-08-31T01:19:08.055Z",
+  "generatedAt": "2026-08-31T07:30:07.164Z",
   "stale": false
 }
