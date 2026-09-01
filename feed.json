@@ -26,7 +26,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 103.8
+      "qualityScore": 101.3
     },
     {
       "id": "gdelt-c1cdec9454d426056a64ab4c",
@@ -51,7 +51,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 103.5
+      "qualityScore": 101
     },
     {
       "id": "gdelt-5eaa67947b6e0cd39dd31c84",
@@ -76,7 +76,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 101.8
+      "qualityScore": 99.3
+    },
+    {
+      "id": "gdelt-f613e39ce5bc30aa52baf940",
+      "title": "Étranger : Karim Benzema annonce son départ d'Al-Hilal",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/equipe-de-france/etranger-karim-benzema-annonce-son-depart-dal-hilal-954793",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954793/389084/1200-L-tranger-karim-benzema-annonce-son-dpart-dal-hilal.jpg",
+      "publishedAt": "2026-09-01T05:17:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "al-hilal"
+      ],
+      "topics": [
+        "al-hilal"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 97.8
     },
     {
       "id": "gdelt-a6675543c4464f7e3085eb8d",
@@ -102,7 +125,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.8
+      "qualityScore": 97.3
     },
     {
       "id": "gdelt-68d77c28da3e0b3f46e291b9",
@@ -126,7 +149,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99.6
+      "qualityScore": 97.1
     },
     {
       "id": "gdelt-8360248f4d06cafa2e195dd6",
@@ -151,7 +174,31 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98.9
+      "qualityScore": 96.3
+    },
+    {
+      "id": "gdelt-3976f32a79e30e5e9721183f",
+      "title": "Monaco : accord total trouvé pour la vente de Folarin Balogun en Premier League",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/monaco-accord-ttotal-trouve-pour-la-vente-de-folarin-balogun-en-premier-league-954821",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954821/389097/1200-L-monaco-accord-total-trouv-pour-la-vente-de-folarin-balogun-en-premier-league.jpg",
+      "publishedAt": "2026-09-01T05:16:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "monaco"
+      ],
+      "topics": [
+        "monaco",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.8
     },
     {
       "id": "gdelt-bfd268b860548fcc7b443807",
@@ -175,7 +222,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.8
+      "qualityScore": 95.3
     },
     {
       "id": "gdelt-c015259fbc19b17c4c5dd29e",
@@ -203,7 +250,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.7
+      "qualityScore": 95.1
     },
     {
       "id": "gdelt-02da633a7bd2f257a707b80f",
@@ -228,7 +275,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.2
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-64de349ba50e735a2826b669",
@@ -251,7 +298,32 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.2
+      "qualityScore": 93.7
+    },
+    {
+      "id": "gdelt-6c81efc46f170fbe8d7b1336",
+      "title": "Mercato PSG : Liverpool annonce le transfert XXL de Bradley Barcola (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-psg-liverpool-annonce-le-transfert-xxl-de-bradley-barcola-officiel-536977.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250702095340-5257.jpg",
+      "publishedAt": "2026-08-31T13:04:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg",
+        "liverpool"
+      ],
+      "topics": [
+        "psg",
+        "liverpool"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 93.7
     },
     {
       "id": "gdelt-8d1f925f74f24c8a8487e6f2",
@@ -279,7 +351,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.2
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-c5a364a33bb7c092934fabfa",
@@ -308,32 +380,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.2
-    },
-    {
-      "id": "gdelt-6c81efc46f170fbe8d7b1336",
-      "title": "Mercato PSG : Liverpool annonce le transfert XXL de Bradley Barcola (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-psg-liverpool-annonce-le-transfert-xxl-de-bradley-barcola-officiel-536977.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250702095340-5257.jpg",
-      "publishedAt": "2026-08-31T13:04:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "psg",
-        "liverpool"
-      ],
-      "topics": [
-        "psg",
-        "liverpool"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 96.2
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-7a4e277ff2bf0ee042ad0ae0",
@@ -360,7 +407,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-1edcaa21947cf93ec259410d",
@@ -386,7 +433,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-e556db17ab4da928c58be546",
@@ -413,7 +460,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-14a9e14507440de5fe057b71",
@@ -439,7 +486,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 93.3
+    },
+    {
+      "id": "gdelt-65fc1dc5640a18b8a2e85cae",
+      "title": "Résultat Real Madrid - Malaga (4-0) la 3e journée de Liga 2026/2027 30/08",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/1477918751542217059-real-madrid-vs-malaga",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-437056100178881559-1420546933856673029.jpg",
+      "publishedAt": "2026-09-01T05:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid",
+        "malaga"
+      ],
+      "topics": [
+        "real-madrid",
+        "malaga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-6680cbcb4e64a1526647db8f",
@@ -465,7 +537,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-de6af43651167003251c5b7b",
@@ -489,7 +561,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.8
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-93ef1b1013fcc481580e2103",
@@ -515,7 +587,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 92
     },
     {
       "id": "gdelt-efc55d7c270363f6cd595309",
@@ -541,7 +613,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 92
     },
     {
       "id": "gdelt-a1b0caf130cd7eebfb3006dc",
@@ -566,7 +638,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 91
     },
     {
       "id": "gdelt-748591960412e2fb6cdcf862",
@@ -591,7 +663,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 91
     },
     {
       "id": "gdelt-041be22c566dd2ff551d103f",
@@ -615,7 +687,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.4
+      "qualityScore": 90.9
     },
     {
       "id": "gdelt-0edca7025316a41627449b94",
@@ -638,30 +710,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
-    },
-    {
-      "id": "gdelt-498a5b0dfd12498be0f1b5e0",
-      "title": "Al-Hilal annonce le départ de Karim Benzema",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2197366226577777665-al-hilal-annonce-le-depart-de-karim-benzema",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/benzema-jog31urzjf8t78eaiu1aajxiew.jpeg",
-      "publishedAt": "2026-08-31T14:21:37.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "al-hilal"
-      ],
-      "topics": [
-        "al-hilal"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-f0fe20db170a40dfc7c8ee1f",
@@ -685,7 +734,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-8482d9d9721cab7d52e6ff14",
@@ -709,7 +758,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-5c039a5f286e4ebac300d49f",
@@ -736,7 +785,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-944e52232164622311bb5445",
@@ -759,7 +808,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-65bcc57edfb13e61c57028e5",
@@ -783,7 +832,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-e114e50ea4c1dad03f9dd455",
@@ -808,7 +857,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-4708375eff8056dd1d3dcf8b",
@@ -833,7 +882,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-2c17b5e5401928d49352a1ba",
@@ -858,7 +907,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-331aa478788322c68c9a7040",
@@ -881,7 +930,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 89.2
+    },
+    {
+      "id": "gdelt-0335b6c61b26e0aee81442da",
+      "title": "Liverpool va débourser 35M€ pour un gardien de 18 ans",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3658113526521188454-liverpool-va-debourser-35meur-pour-un-gardien-de-18-ans",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lucca-brughmans-2526.jpg",
+      "publishedAt": "2026-09-01T05:18:03.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "liverpool"
+      ],
+      "topics": [
+        "liverpool"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-fd9560ee877b4f229f5619b9",
@@ -905,7 +977,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-045f473e7491f8a98f0cf354",
@@ -933,7 +1005,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-8004548efc67f5d1cf2aac7a",
@@ -961,7 +1033,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-57363ee29a9775abdcf310ed",
@@ -989,7 +1061,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-8a276aea31720ba00380f5b2",
@@ -1017,30 +1089,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
-    },
-    {
-      "id": "gdelt-067d2e11dd9cb66711b4f75b",
-      "title": "L'AS Monaco a trouvé un accord à 50 M€ pour la vente de Folarin Balogun",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2320139805631421163-monaco-a-trouve-un-accord-a-50-meur-pour-la-vente-de-folarin-balogun",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/balogun-68f941a558bd5.jpg",
-      "publishedAt": "2026-08-31T22:17:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "monaco"
-      ],
-      "topics": [
-        "monaco"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-c55d3ae108e67779fae13995",
@@ -1065,7 +1114,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88
     },
     {
       "id": "gdelt-212a14412354f5f3db4ba491",
@@ -1090,7 +1139,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88
     },
     {
       "id": "gdelt-753d8a384745c2af8d4603d1",
@@ -1115,7 +1164,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88
     },
     {
       "id": "gdelt-1c00a9c7676fe973400628f7",
@@ -1140,7 +1189,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88
     },
     {
       "id": "gdelt-7d760926076d56dc208229dc",
@@ -1165,7 +1214,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88
     },
     {
       "id": "gdelt-d517d073a5f8989d287bf152",
@@ -1190,7 +1239,55 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88
+    },
+    {
+      "id": "gdelt-b6c0a45437f7baa204ef17b0",
+      "title": "Coupe de France : le tirage au sort du troisième tour en Corse, l'AC Ajaccio et les clubs de N2 fixés",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-le-tirage-au-sort-du-troisieme-tour-en-corse-2-lac-ajaccio-et-les-clubs-de-n2-fixes-954777",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954777/389077/1200-L-coupe-de-france-le-tirage-au-sort-du-troisime-tour-en-corse.jpg",
+      "publishedAt": "2026-08-31T19:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "ajaccio"
+      ],
+      "topics": [
+        "ajaccio",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.9
+    },
+    {
+      "id": "gdelt-7e12c7b755ea4d9e2eaffe42",
+      "title": "Info Foot-National : Nancy va récupérer un avant-centre libre de tout contrat",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/info-foot-national-nancy-va-recuperer-un-avant-centre-libre-de-tout-contrat-954812",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954812/389093/1200-L-info-foot-national-nancy-va-rcuprer-un-avant-centre-libre-de-tout-contrat.jpg",
+      "publishedAt": "2026-08-31T19:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "nancy"
+      ],
+      "topics": [
+        "nancy",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-d621b6e9088533adbcb0e3f6",
@@ -1215,55 +1312,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
-    },
-    {
-      "id": "gdelt-b6c0a45437f7baa204ef17b0",
-      "title": "Coupe de France : le tirage au sort du troisième tour en Corse, l'AC Ajaccio et les clubs de N2 fixés",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-le-tirage-au-sort-du-troisieme-tour-en-corse-2-lac-ajaccio-et-les-clubs-de-n2-fixes-954777",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954777/389077/1200-L-coupe-de-france-le-tirage-au-sort-du-troisime-tour-en-corse.jpg",
-      "publishedAt": "2026-08-31T19:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "ajaccio"
-      ],
-      "topics": [
-        "ajaccio",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 90.4
-    },
-    {
-      "id": "gdelt-7e12c7b755ea4d9e2eaffe42",
-      "title": "Info Foot-National : Nancy va récupérer un avant-centre libre de tout contrat",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/info-foot-national-nancy-va-recuperer-un-avant-centre-libre-de-tout-contrat-954812",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954812/389093/1200-L-info-foot-national-nancy-va-rcuprer-un-avant-centre-libre-de-tout-contrat.jpg",
-      "publishedAt": "2026-08-31T19:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "nancy"
-      ],
-      "topics": [
-        "nancy",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-1d956b4e0c6bede20dc01904",
@@ -1288,7 +1337,26 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-b3d3ac88b356fef72060ec96",
+      "title": "Mercato : le jour le plus long",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3999866569782178332-mercato-le-jour-le-plus-long",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mercato1-1920x1080.jpg",
+      "publishedAt": "2026-09-01T05:06:03.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-ca97f26866c7e9389d76d6c0",
@@ -1313,7 +1381,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-aab968909169a481cdfbd101",
@@ -1338,7 +1406,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-a5400c99dbef088b8c28bc29",
@@ -1361,7 +1429,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 87
     },
     {
       "id": "gdelt-6dac2b0323cdece4bfcb1e11",
@@ -1384,7 +1452,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 87
     },
     {
       "id": "gdelt-49bf8aa7c3c74fcc6d0f7c92",
@@ -1407,7 +1475,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-016a01530aa8f96a4ad36969",
@@ -1430,7 +1498,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-48e339de633418228311edd8",
@@ -1453,7 +1521,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-290071b6281e0f4a5aa7690e",
@@ -1476,7 +1544,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 86.2
+    },
+    {
+      "id": "gdelt-40f4ea9789d5430f55f9f71c",
+      "title": "Premier League. Service minimum pour Arsenal, vainqueur d'Aston Villa d'une courte tête",
+      "summary": "Publication référencée chez toulon.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://toulon.maville.com/actu/actudet_-premier-league-service-minimum-pour-arsenal-vainqueur-d-aston-villa-d-une-courte-tete_fil-7458134_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/09/01/P36102719D7458134G_crop_1080-600_.jpg",
+      "publishedAt": "2026-09-01T05:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "toulon.maville.com",
+        "name": "toulon.maville.com",
+        "websiteURL": "https://toulon.maville.com"
+      },
+      "teams": [
+        "arsenal",
+        "aston-villa"
+      ],
+      "topics": [
+        "arsenal",
+        "aston-villa",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-fb23c1c17d3b1bcf7c4784f0",
@@ -1500,7 +1594,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-623c7f77d947d391f642696a",
@@ -1525,7 +1619,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-b0310b093ca52834a9bfc6d4",
@@ -1550,7 +1644,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-4418bb1adb3d15b36c04f723",
@@ -1573,7 +1667,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-689d58857604ca2dd4988bc0",
@@ -1596,7 +1690,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-0bd929c559e84cd8f256753a",
@@ -1619,7 +1713,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-a948cec443b55e5dff38e719",
@@ -1642,7 +1736,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-426602332e9c29e7c0c22b58",
@@ -1665,7 +1759,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-459a8496333ae48fa13b0c44",
@@ -1688,7 +1782,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-07efbd775f8119f119148805",
@@ -1711,30 +1805,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
-    },
-    {
-      "id": "gdelt-97ffa79140506d410b73716f",
-      "title": "Liverpool : le transfert de Cody Gakpo tombe à l’eau !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5222345925245096930-liverpool-le-transfert-de-cody-gakpo-tombe-a-leau",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/cody-gakpo-2627.jpg",
-      "publishedAt": "2026-08-31T16:10:51.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "liverpool"
-      ],
-      "topics": [
-        "liverpool"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-85d69cdf2afb07a30ec65f2a",
@@ -1762,7 +1833,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
+    },
+    {
+      "id": "gdelt-97ffa79140506d410b73716f",
+      "title": "Liverpool : le transfert de Cody Gakpo tombe à l’eau !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5222345925245096930-liverpool-le-transfert-de-cody-gakpo-tombe-a-leau",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/cody-gakpo-2627.jpg",
+      "publishedAt": "2026-08-31T16:10:51.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "liverpool"
+      ],
+      "topics": [
+        "liverpool"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-fc6d920987be8bd71e7a0e5f",
@@ -1785,7 +1879,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 85
     },
     {
       "id": "gdelt-c9f471fba83b5a2044bf033e",
@@ -1810,7 +1904,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-21db4634b61119867ebe7486",
@@ -1834,7 +1928,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-8a01cac45c16857ed672ba46",
@@ -1858,7 +1952,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-4ccd678e66125b5194788808",
+      "title": "Liga. Le FC Barcelone s'offre la victoire et un festival offensif face au Rayo Vallecano",
+      "summary": "Publication référencée chez toulon.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://toulon.maville.com/actu/actudet_-liga-le-fc-barcelone-s-offre-la-victoire-et-un-festival-offensif-face-au-rayo-vallecano_fil-7458137_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/09/01/P36102722D7458137G_crop_1080-600_.jpg",
+      "publishedAt": "2026-09-01T05:02:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "toulon.maville.com",
+        "name": "toulon.maville.com",
+        "websiteURL": "https://toulon.maville.com"
+      },
+      "teams": [
+        "barcelona",
+        "rayo-vallecano"
+      ],
+      "topics": [
+        "barcelona",
+        "rayo-vallecano"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-8f0952b43126b6a26f1b12ea",
@@ -1881,7 +2000,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-6427e24b51c5611afd0257f1",
@@ -1907,7 +2026,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-b072e7254897d01c60293aa1",
@@ -1933,7 +2052,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-1b03a6a7a5b5e9bd49fab1a1",
@@ -1959,7 +2078,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-439ad569ffc5176539e6245c",
@@ -1985,7 +2104,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-465c76a1b47f8989b717c2c7",
@@ -2011,7 +2130,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-3b2b7b0bf1cf3bf18a5e9675",
@@ -2037,7 +2156,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-1b8ae2d6d9036493ae18c396",
@@ -2063,7 +2182,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 86.8
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-96719da2f3781f10224dd451",
@@ -2086,7 +2205,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-3610ff71c2f079b5dab7b085",
@@ -2109,7 +2228,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84
     },
     {
       "id": "gdelt-ca2573531f0c2d3336c0e406",
@@ -2132,7 +2251,93 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84
+    },
+    {
+      "id": "gdelt-0e2639174715411a145bd090",
+      "title": "Foot féminin : la Française Sandie Toletti inscrit un but complètement fou dans le derby madrilène",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/foot-feminin/foot-feminin-la-francaise-sandie-toletti-inscrit-un-but-completement-fou-dans-le-derby-madrilene-954756",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954756/389066/1200-L-foot-fminin-la-franaise-sandie-toletti-inscrit-un-but-compltement-fou-dans-le-derby-madrilne.jpg",
+      "publishedAt": "2026-08-31T19:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "derby"
+      ],
+      "topics": [
+        "derby"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.9
+    },
+    {
+      "id": "gdelt-38e3b34c8a5dbd5d7f625ac9",
+      "title": "Ligue 1 : l'OL « condamne fermement » les agressions à l'extérieur du stade après la réception du Havre",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-1-lol-condamne-fermement-les-agressions-a-lexterieur-du-stade-apres-la-reception-du-havre-954809",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954809/389091/1200-L-ligue-1-lol-condamne-fermement-les-agressions-lextrieur-du-stade-aprs-la-rception-du-havre.jpg",
+      "publishedAt": "2026-08-31T19:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.9
+    },
+    {
+      "id": "gdelt-f355dd44afefcce273cedb92",
+      "title": "U17 Nationaux : les Talents Foot-National de la deuxième journée du groupe A",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/u17-nationaux-les-talents-foot-national-de-la-deuxieme-journee-du-groupe-a-954763",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954763/389070/1200-L-u17-nationaux-les-talents-foot-national-de-la-deuxime-journe-du-groupe-a.jpg",
+      "publishedAt": "2026-08-31T19:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.9
+    },
+    {
+      "id": "gdelt-c39d8b691822a88333ed2030",
+      "title": "U19 Nationaux : les Talents Foot-National des deux premières journées du groupe A",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/u19-nationaux-les-talents-foot-national-des-deux-premieres-journees-du-groupe-a-954780",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954780/389079/1200-L-u19-nationaux-les-talents-foot-national-des-deux-premires-journes-du-groupe-a.jpg",
+      "publishedAt": "2026-08-31T19:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-89fcad848e070e6d575104d1",
@@ -2157,93 +2362,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
-    },
-    {
-      "id": "gdelt-0e2639174715411a145bd090",
-      "title": "Foot féminin : la Française Sandie Toletti inscrit un but complètement fou dans le derby madrilène",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/foot-feminin/foot-feminin-la-francaise-sandie-toletti-inscrit-un-but-completement-fou-dans-le-derby-madrilene-954756",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954756/389066/1200-L-foot-fminin-la-franaise-sandie-toletti-inscrit-un-but-compltement-fou-dans-le-derby-madrilne.jpg",
-      "publishedAt": "2026-08-31T19:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "derby"
-      ],
-      "topics": [
-        "derby"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.4
-    },
-    {
-      "id": "gdelt-38e3b34c8a5dbd5d7f625ac9",
-      "title": "Ligue 1 : l'OL « condamne fermement » les agressions à l'extérieur du stade après la réception du Havre",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-1-lol-condamne-fermement-les-agressions-a-lexterieur-du-stade-apres-la-reception-du-havre-954809",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954809/389091/1200-L-ligue-1-lol-condamne-fermement-les-agressions-lextrieur-du-stade-aprs-la-rception-du-havre.jpg",
-      "publishedAt": "2026-08-31T19:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.4
-    },
-    {
-      "id": "gdelt-f355dd44afefcce273cedb92",
-      "title": "U17 Nationaux : les Talents Foot-National de la deuxième journée du groupe A",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/u17-nationaux-les-talents-foot-national-de-la-deuxieme-journee-du-groupe-a-954763",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954763/389070/1200-L-u17-nationaux-les-talents-foot-national-de-la-deuxime-journe-du-groupe-a.jpg",
-      "publishedAt": "2026-08-31T19:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.4
-    },
-    {
-      "id": "gdelt-c39d8b691822a88333ed2030",
-      "title": "U19 Nationaux : les Talents Foot-National des deux premières journées du groupe A",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/u19-nationaux-les-talents-foot-national-des-deux-premieres-journees-du-groupe-a-954780",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954780/389079/1200-L-u19-nationaux-les-talents-foot-national-des-deux-premires-journes-du-groupe-a.jpg",
-      "publishedAt": "2026-08-31T19:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-a00fced3965416207fcf3cb6",
@@ -2266,7 +2385,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-58026fc1045807663cca4741",
@@ -2291,7 +2410,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-2f198c74f4f6f8bce3891c84",
@@ -2314,7 +2433,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-c3332594ffda442580f3b0fd",
@@ -2333,140 +2452,9 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
-    },
-    {
-      "id": "gdelt-53908005402c0b5caba50f92",
-      "title": "Monaco : Everton fait une offre pour Folarin Balogun",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2190482643436814141-monaco-everton-fait-une-offre-pour-folarin-balogun",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/balogun-6927547575cd4.jpg",
-      "publishedAt": "2026-08-31T09:05:16.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "monaco",
-        "everton"
-      ],
-      "topics": [
-        "monaco",
-        "everton"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-38ccb9b7a7da20ee4f5f2b9c",
-      "title": "Info Foot-National : le Red Star prêt à rapatrier Côme Bianay Balcot, discussions avancées avec le Torino",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/info-foot-national-le-red-star-pret-a-rapatrier-come-bianay-balcot-discussions-avancees-avec-le-torino-954705",
-      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954705/389042/1200-L-info-foot-national-le-red-star-prt-rapatrier-cme-bianay-balcot-discussions-avances-avec-le-torino.jpg",
-      "publishedAt": "2026-08-30T19:02:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "torino",
-        "red-star"
-      ],
-      "topics": [
-        "torino",
-        "red-star",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-49b6e8c2d91fa05478e04c62",
-      "title": "Ligue 1 : le Paris FC écrase Nice et prend la tête du classement",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6959012470196675394-ligue-1-le-paris-fc-ecrase-nice-et-prend-la-tete-du-classement",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsfrthree243957-1920x1080.jpg",
-      "publishedAt": "2026-08-30T17:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "nice",
-        "paris-fc",
-        "saint-etienne"
-      ],
-      "topics": [
-        "nice",
-        "paris-fc",
-        "saint-etienne",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-c9f11172df45b35f75aa7d02",
-      "title": "Bradley Barcola à Liverpool, c'est fait ! Le club de Premier League casse sa tirelire et lâche 145 millions d'euros pour l'ailier des Bleus, le PSG boucle la plus grosse vente de son histoire",
-      "summary": "Publication référencée chez ladepeche.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.ladepeche.fr/2026/08/31/bradley-barcola-a-liverpool-cest-fait-le-club-de-premier-league-casse-sa-tirelire-et-lache-145-millions-deuros-pour-lailier-des-bleus-le-psg-boucle-la-13529753.php",
-      "imageURL": "https://images.ladepeche.fr/api/v1/images/view/6a958627ee69f8a5c005fc38/hd/image.jpg?v=1",
-      "publishedAt": "2026-08-31T14:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "ladepeche.fr",
-        "name": "ladepeche.fr",
-        "websiteURL": "https://ladepeche.fr"
-      },
-      "teams": [
-        "psg",
-        "liverpool",
-        "saint-etienne"
-      ],
-      "topics": [
-        "psg",
-        "liverpool",
-        "saint-etienne",
-        "premier-league",
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 85.1
-    },
-    {
-      "id": "gdelt-e576c54851bd50c544a38cb0",
-      "title": "Le PSG s’est renseigné sur Jaydee Canvot",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8168386900865364-le-psg-sest-renseigne-sur-jaydee-canvot",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jaydee-canvot.jpg",
-      "publishedAt": "2026-08-31T16:26:08.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 83
     }
   ],
-  "generatedAt": "2026-09-01T00:38:46.499Z",
+  "generatedAt": "2026-09-01T05:43:23.187Z",
   "stale": false
 }
