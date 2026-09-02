@@ -1,6 +1,32 @@
 {
   "items": [
     {
+      "id": "gdelt-e9845189b6198dab3fb3ba6c",
+      "title": "Ligue 2 : Rodez rapatrie Marco Essimi, Boulogne annonce une recrue",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-2-rodez-rapatrie-marco-essimi-boulogne-annonce-une-recrue-954933",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954933/389153/1200-L-ligue-2-rodez-rapatrie-marco-essimi-boulogne-annonce-une-recrue.jpg",
+      "publishedAt": "2026-09-02T14:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "rodez",
+        "boulogne"
+      ],
+      "topics": [
+        "rodez",
+        "boulogne",
+        "ligue-2"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 105.6
+    },
+    {
       "id": "gdelt-3cd00849efa65981ea47d156",
       "title": "Ligue 1 : Lille annonce le transfert XXL de Fernandez-Pardo en Premier League, Lorient envoie un jeune en L2",
       "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
@@ -25,7 +51,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 100.4
+      "qualityScore": 98.6
+    },
+    {
+      "id": "gdelt-ac6a3a5a25e7813860ac8165",
+      "title": "LOSC : Olivier Létang annonce le départ à venir de 4 joueurs",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3714270769824600573-losc-olivier-letang-annonce-le-depart-a-venir-de-4-joueurs",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecial865498-1.jpg",
+      "publishedAt": "2026-09-02T13:49:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 97.2
     },
     {
       "id": "gdelt-a422ff8df277d94dae3b36d9",
@@ -51,7 +100,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.1
+      "qualityScore": 97.2
     },
     {
       "id": "gdelt-e70131a899dda882bdc22122",
@@ -81,7 +130,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 98.1
+      "qualityScore": 96.2
     },
     {
       "id": "gdelt-5716c80b2aab6e537e59e6f1",
@@ -109,7 +158,104 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 98.1
+      "qualityScore": 96.2
+    },
+    {
+      "id": "gdelt-5b8fece429d430b4ead18843",
+      "title": "Ligue 1 : pourquoi Toulouse-Lille se jouera exceptionnellement ce jeudi",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4919138795472159475-ligue-1-pourquoi-toulouse-lille-se-jouera-exceptionnellement-ce-jeudi",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine771047-1920x1080.jpg",
+      "publishedAt": "2026-09-02T13:12:19.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lille",
+        "toulouse"
+      ],
+      "topics": [
+        "lille",
+        "toulouse",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.9
+    },
+    {
+      "id": "gdelt-1080a18d0943fe85eeab2405",
+      "title": "Mercato Nantes : Herba Guirrassy quitte le FC Nantes pour rejoindre les Young Boys Berne (officiel) !",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-nantes-herba-guirrassy-quitte-le-fc-nantes-pour-rejoindre-les-young-boys-berne-officiel-537267.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250907194811-7947.jpg",
+      "publishedAt": "2026-09-02T10:08:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "nantes"
+      ],
+      "topics": [
+        "nantes"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 95.4
+    },
+    {
+      "id": "gdelt-27395534c75d08f6e7447743",
+      "title": "Mercato Monaco : L'AS Monaco se sépare de Thilo Kehrer (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-monaco-l-as-monaco-se-separe-de-thilo-kehrer-officiel-537259.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2024/zoom/ldc-20241211233058-9334.jpg",
+      "publishedAt": "2026-09-02T09:15:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "monaco"
+      ],
+      "topics": [
+        "monaco"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 95
+    },
+    {
+      "id": "gdelt-8e43edefc9964aa596544347",
+      "title": "Galatasaray s'offre Deniz Gül en provenance du FC Porto",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9059417825294541674-galatasaray-soffre-deniz-gul-en-provenance-du-fc-porto",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/deniz-gul-2627.jpg",
+      "publishedAt": "2026-09-02T13:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "porto",
+        "galatasaray"
+      ],
+      "topics": [
+        "porto",
+        "galatasaray"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 94.8
     },
     {
       "id": "gdelt-fe4fe40a0b05faf3877fe1ac",
@@ -134,7 +280,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 94.2
     },
     {
       "id": "gdelt-99d56eb832dc715b35e08ce1",
@@ -164,7 +310,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.7
+      "qualityScore": 93.8
     },
     {
       "id": "gdelt-7110952b45901fa8de630632",
@@ -188,7 +334,31 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 93.7
+    },
+    {
+      "id": "gdelt-d5fd8678245838721a77c8f8",
+      "title": "Ligue 1 : Strasbourg perd Ben Chilwell un an après son arrivée, Maitland-Niles transféré par l'OL",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-1-strasbourg-perd-ben-chilwell-un-an-apres-son-arrivee-maitland-niles-transfere-par-lol-954919",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954919/389146/1200-L-ligue-1-strasbourg-perd-ben-chilwell-un-an-aprs-son-arrive-maitland-niles-transfr-par-lol.jpg",
+      "publishedAt": "2026-09-02T14:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "strasbourg"
+      ],
+      "topics": [
+        "strasbourg",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-a14066238d506baf1b57feb9",
@@ -212,7 +382,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.4
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-475f8d78669f179e6e28594c",
@@ -238,7 +408,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 92.4
     },
     {
       "id": "gdelt-3709e7e50ffcf8dcd5ae851f",
@@ -264,7 +434,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.2
+      "qualityScore": 92.3
+    },
+    {
+      "id": "gdelt-295461b4324c63b37573e9fd",
+      "title": "Pourquoi Alex Iwobi s'apprête à entrer dans un cercle très fermé en Premier League - Angleterre - Fulham",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/premier-league-alex-iwobi-sur-le-point-dimiter-des-legendes-de-la-premier-league",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/02144550/14456091-1400x1041.jpg",
+      "publishedAt": "2026-09-02T13:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "fulham"
+      ],
+      "topics": [
+        "fulham",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-f60e1618e7c64ea2426795b1",
@@ -289,7 +483,32 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 92
+    },
+    {
+      "id": "gdelt-70258b1204221272b4152d18",
+      "title": "Lille-PSG : l'arbitre de la rencontre revient sur les polémiques",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a548947700205054919-lille-psg-larbitre-de-la-rencontre-revient-sur-les-polemiques",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldtwo834575-1-1920x1080.jpg",
+      "publishedAt": "2026-09-02T13:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "lille"
+      ],
+      "topics": [
+        "psg",
+        "lille"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-a700207efa571deadd2ef54a",
@@ -313,7 +532,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-c34b03ac5e66e3d8d21e6d72",
@@ -337,7 +556,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.4
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-a2310563e0202ff41bb8114b",
@@ -361,7 +580,145 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.2
+      "qualityScore": 91.4
+    },
+    {
+      "id": "gdelt-4c2461ba229f866c41bbc95d",
+      "title": "Les raisons derrière la folle razzia à 1,2 milliard d’euros de la Serie A sur le mercato",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2545913847027894371-les-raisons-derriere-la-folle-razzia-a-1-2-milliard-deuros-de-la-serie-a-sur-le-mercato",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/visu20.jpg",
+      "publishedAt": "2026-09-02T14:00:36.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.3
+    },
+    {
+      "id": "gdelt-e8ba46a17737f3807591318f",
+      "title": "Les clubs de Premier League n'ont jamais autant dépensé sur le mercato - Angleterre - Mercato",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/avec-plus-de-4-milliards-deuros-depenses-la-premier-league-bat-un-record-de-depenses-sur-le-mercato",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/02122531/14579259-1400x933.jpg",
+      "publishedAt": "2026-09-02T13:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [],
+      "topics": [
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.1
+    },
+    {
+      "id": "gdelt-c03a8a67bec8ad2d80f95d2f",
+      "title": "Combien ce mercato d'été va-t-il vraiment rapporter à l'OM ? - France - Olympique de Marseille",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/combien-ce-mercato-dete-va-t-il-vraiment-rapporter-a-lom",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/06/09172913/13894097-1400x933.jpg",
+      "publishedAt": "2026-09-02T13:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "om"
+      ],
+      "topics": [
+        "om"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.1
+    },
+    {
+      "id": "gdelt-c87ca616a6b326993c99337d",
+      "title": "Le drôle de mercato réalisé par Arsenal",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7584058084118662943-le-drole-de-mercato-realise-par-arsenal",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/julian-alvarez-2526-6900b12a6054b.jpg",
+      "publishedAt": "2026-09-02T13:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "arsenal"
+      ],
+      "topics": [
+        "arsenal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 90.8
+    },
+    {
+      "id": "gdelt-0fa4b2a06fcd2cace92c419e",
+      "title": "Mercato : Aston Villa a tout chamboulé !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a601546938027330519-mercato-aston-villa-a-tout-chamboule",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/design-sans-titre-2025-04-10t012624-602.jpg",
+      "publishedAt": "2026-09-02T13:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "aston-villa"
+      ],
+      "topics": [
+        "aston-villa"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 90.8
+    },
+    {
+      "id": "gdelt-623f80b9f9c120b9405e3535",
+      "title": "INFO ONZE MONDIAL - Mercato : après l'échec des négociations entre Strasbourg et Swansea, Soumaïla Coulibaly rebondit à Watford",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/transferts/info-onze-mondial-mercato-apres-lechec-des-negociations-entre-strasbourg-et-swansea-soumaila-coulibaly-rebondit-a-watford-998455",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/998455/407342/1200-L-info-onze-mondial-mercato-aprs-l-chec-des-ngociations-entre-strasbourg-et-swansea-soumala-coulibaly-rebondit-watford.jpg",
+      "publishedAt": "2026-09-01T20:51:31.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "strasbourg",
+        "watford",
+        "swansea"
+      ],
+      "topics": [
+        "strasbourg",
+        "watford",
+        "swansea"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-38cb0093305896395d310936",
@@ -389,34 +746,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
-    },
-    {
-      "id": "gdelt-623f80b9f9c120b9405e3535",
-      "title": "INFO ONZE MONDIAL - Mercato : après l'échec des négociations entre Strasbourg et Swansea, Soumaïla Coulibaly rebondit à Watford",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/transferts/info-onze-mondial-mercato-apres-lechec-des-negociations-entre-strasbourg-et-swansea-soumaila-coulibaly-rebondit-a-watford-998455",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/998455/407342/1200-L-info-onze-mondial-mercato-aprs-l-chec-des-ngociations-entre-strasbourg-et-swansea-soumala-coulibaly-rebondit-watford.jpg",
-      "publishedAt": "2026-09-01T20:51:31.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "strasbourg",
-        "watford",
-        "swansea"
-      ],
-      "topics": [
-        "strasbourg",
-        "watford",
-        "swansea"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-99d87cec62e2848367788fcc",
@@ -443,7 +773,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-66ca4ab76121041e7530e72a",
@@ -468,7 +798,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-458802ba8f46c7605b5e80ba",
@@ -492,7 +822,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-37814f56ee18e6f0ca4a6072",
@@ -518,30 +848,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
-    },
-    {
-      "id": "gdelt-c87ca616a6b326993c99337d",
-      "title": "Le drôle de mercato réalisé par Arsenal",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7584058084118662943-le-drole-de-mercato-realise-par-arsenal",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/julian-alvarez-2526-6900b12a6054b.jpg",
-      "publishedAt": "2026-09-02T10:45:38.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "arsenal"
-      ],
-      "topics": [
-        "arsenal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 90
     },
     {
       "id": "gdelt-95c3a82bdf3ae3870a72c8f5",
@@ -562,7 +869,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-fdbb662cca935dc131db267c",
@@ -585,7 +892,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-3f834c818579e6428c30fae4",
@@ -608,7 +915,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-d41fb6322d382a762fbed4c0",
@@ -632,7 +939,95 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 89.3
+    },
+    {
+      "id": "gdelt-04c6b0f8177084a9a0b6f55a",
+      "title": "Chelsea a contacté Georginio Wijnaldum après l’échec Lamine Camara !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1992910929297142603-chelsea-a-contacte-georginio-wijnaldum-apres-lechec-lamine-camara",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/wijna.jpg",
+      "publishedAt": "2026-09-02T15:10:04.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "chelsea"
+      ],
+      "topics": [
+        "chelsea"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-3333b1ff6f0be719e4af0263",
+      "title": "LOSC : Orlando Gill, le public français et sa relation avec Ethan Mbappé",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8293956748250038827-losc-orlando-gill-le-public-francais-et-sa-relation-avec-ethan-mbappe",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine682519-1920x1080.jpg",
+      "publishedAt": "2026-09-02T14:35:03.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-65f6cd3d19245155be025275",
+      "title": "Foot Amateur : un ancien international français devient l'entraîneur des U15 à Aix-en-Provence",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/foot-amateur/foot-amateur-un-ancien-international-francais-devient-lentraineur-des-u15-a-aix-en-provence-954916",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954916/389145/1200-L-foot-amateur-un-ancien-international-franais-devient-lentraneur-des-u15-aix-en-provence.jpg",
+      "publishedAt": "2026-09-02T14:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-26532a964fc1da02b23e27ac",
+      "title": "Coupe de France : un club de N2 qualifié d'office pour le quatrième tour",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-un-club-de-n2-qualifie-doffice-pour-le-quatrieme-tour-954906",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954906/389139/1200-L-coupe-de-france-un-club-de-n2-qualifi-doffice-pour-le-quatrime-tour.jpg",
+      "publishedAt": "2026-09-02T14:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-344127b5d4af0a83e40732f1",
@@ -657,7 +1052,206 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-34738cd88f8e2791d219a2f8",
+      "title": "Fin d'année pour Khephren Thuram - Italie - Juventus",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/juventus-khephren-thuram-opere-du-genou-et-absent-quatre-mois",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/02140355/13714931-1400x826.jpg",
+      "publishedAt": "2026-09-02T13:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "juventus"
+      ],
+      "topics": [
+        "juventus"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-96c837bcd95fe85b8f6f928a",
+      "title": "Un joueur du Real Madrid arrêté pour conduite en état d'ivresse",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/le-defenseur-espagnol-du-real-madrid-raul-asencio-arrete-pour-conduite-en-etat-divresse",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMDIxNDMwNTEvSUNPTlNQT1JUXzM3MDY0NF8wMDY1LTE0MDB4OTMzLmpwZw/300/un-joueur-du-real-madrid-arrete-pour-conduite-en-etat-d-ivresse.jpg",
+      "publishedAt": "2026-09-02T13:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-762ea9e8f16f900669e56fcd",
+      "title": "Strasbourg voit son dernier « vieux » filer à l'anglaise - France - RC Strasbourg",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/mercato-ben-chilwell-quitte-le-rc-strasbourg-et-rentre-en-angleterre",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/02122725/13740428-1400x933.jpg",
+      "publishedAt": "2026-09-02T13:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "strasbourg"
+      ],
+      "topics": [
+        "strasbourg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-cf7a498e024b5506125e1374",
+      "title": "Le fils de Robinho débarque en Serie A",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/serie-a-robinho-junior-signe-au-genoa-en-provenance-de-santos",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/02152002/12130466.jpg",
+      "publishedAt": "2026-09-02T13:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [],
+      "topics": [
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-6d4468b5650c0599989808c0",
+      "title": "Le village de l'OL s'est réveillé avec un joueur en moins - France - Olympique lyonnais",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/mercato-ainsley-maitland-niles-quitte-lyon-pour-signer-a-everton",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/02112441/14434794-1400x933.jpg",
+      "publishedAt": "2026-09-02T13:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "ol"
+      ],
+      "topics": [
+        "ol"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-04a8d1cac4547bf505cbf1e8",
+      "title": "AS Monaco : Balogun, Lamine Camara… la grosse mise au point de Thiago Scuro",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9031939018722865360-monaco-balogun-lamine-camara-la-grosse-mise-au-point-de-thiago-scuro",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/design-sans-titre-2025-08-14t153826-597.jpg",
+      "publishedAt": "2026-09-02T13:19:24.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "monaco"
+      ],
+      "topics": [
+        "monaco"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88
+    },
+    {
+      "id": "gdelt-627bd1cf524ee18a3987a547",
+      "title": "Atlético : les raisons de l’échec du transfert de Nicolas Tagliafico",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6499431679468623215-atletico-les-raisons-de-lechec-du-transfert-de-nicolas-tagliafico",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/tagliafico-6579a5c75e279.jpg",
+      "publishedAt": "2026-09-02T15:13:09.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.9
+    },
+    {
+      "id": "gdelt-d6a0fd123b5e9ab25cedeeb6",
+      "title": "Ces joueurs libres comme l'air qui pourraient dépanner bien des clubs de Ligue 1",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a500248990197945448-ces-joueurs-libres-comme-lair-qui-pourraient-depanner-bien-des-clubs-de-ligue-1",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/visu19.jpg",
+      "publishedAt": "2026-09-02T13:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-be5aec27ca8e52a8250533b1",
+      "title": "Arsenal : le nouveau Kvaratskhelia va s'engager 5 ans",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1476275317821757208-arsenal-le-nouveau-kvaratskhelia-va-sengager-5-ans",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mikel-arteta-2526-6a2bd68c0dc81.jpg",
+      "publishedAt": "2026-09-02T13:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "arsenal"
+      ],
+      "topics": [
+        "arsenal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-ffed6725715b843b355e393a",
@@ -680,7 +1274,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-0aa49ebc747e47d6ad8e7059",
@@ -705,7 +1299,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-e99275fd0d5ea4278463fa86",
@@ -726,7 +1320,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-bf66862a979d133c4d62b8a3",
@@ -748,7 +1342,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-73742d76e2f73c64c0a1b6fa",
@@ -773,7 +1367,45 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 87.3
+    },
+    {
+      "id": "gdelt-d4409572cf500d5769189391",
+      "title": "Le feuilleton Fofana, symbole du grand n'importe quoi du mercato - Mercato",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/le-transfert-de-malick-fofana-a-sunderland-symbole-du-grand-nimporte-quoi-du-mercato-dete-2026",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMDIxMDQyMjAvSUNPTlNQT1JUXzM3MjUwM18wMTAxLTEtMTQwMHg5MzMuanBn/300/le-feuilleton-fofana-symbole-du-grand-n-importe-quoi-du-mercato.jpg",
+      "publishedAt": "2026-09-02T13:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.1
+    },
+    {
+      "id": "gdelt-46e3593d8354fb55a64b7978",
+      "title": "Les dix aberrations de l'été sur le marché des transferts - Mercato",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/top-10-les-transferts-les-plus-aberrants-de-lete-2026",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMDIxNDM0MzIvSUNPTlNQT1JUXzM3MTEyMl8wMDY2LTE0MDB4OTMzLmpwZw/300/les-dix-aberrations-de-l-ete-sur-le-marche-des-transferts.jpg",
+      "publishedAt": "2026-09-02T13:31:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-46ae642c06452c775b7cfbcc",
@@ -798,74 +1430,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
-    },
-    {
-      "id": "gdelt-d6a0fd123b5e9ab25cedeeb6",
-      "title": "Ces joueurs libres comme l’air qui pourraient dépanner bien des clubs de Ligue 1",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a500248990197945448-ces-joueurs-libres-comme-lair-qui-pourraient-depanner-bien-des-clubs-de-ligue-1",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/visu19.jpg",
-      "publishedAt": "2026-09-02T11:32:05.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.9
-    },
-    {
-      "id": "gdelt-be5aec27ca8e52a8250533b1",
-      "title": "Arsenal : le nouveau Kvaratskhelia va s’engager 5 ans",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1476275317821757208-arsenal-le-nouveau-kvaratskhelia-va-sengager-5-ans",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mikel-arteta-2526-6a2bd68c0dc81.jpg",
-      "publishedAt": "2026-09-02T11:28:57.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "arsenal"
-      ],
-      "topics": [
-        "arsenal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.9
-    },
-    {
-      "id": "gdelt-deea984dfd365a8378637db1",
-      "title": "Le PSG a-t-il réussi son mercato d'été ? - France - Paris Saint-Germain",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/articles/le-paris-sg-a-t-il-reussi-son-mercato-dete",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMDExNTQzMjQvSUNPTlNQT1JUXzM3MjU4N18wNDA4LTE0MDB4OTMzLmpwZw/300/le-psg-a-t-il-reussi-son-mercato-d-ete-e2-80-af.jpg",
-      "publishedAt": "2026-09-02T04:46:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-931a86a6df07d1bc43db8055",
@@ -890,7 +1455,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86.8
+    },
+    {
+      "id": "gdelt-deea984dfd365a8378637db1",
+      "title": "Le PSG a-t-il réussi son mercato d'été ? - France - Paris Saint-Germain",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/le-paris-sg-a-t-il-reussi-son-mercato-dete",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMDExNTQzMjQvSUNPTlNQT1JUXzM3MjU4N18wNDA4LTE0MDB4OTMzLmpwZw/300/le-psg-a-t-il-reussi-son-mercato-d-ete-e2-80-af.jpg",
+      "publishedAt": "2026-09-02T04:46:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-4768bef3243c3996b2fa0e07",
@@ -915,7 +1503,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-ee9e1c3d8a3c1ea6cd2a73c9",
@@ -940,7 +1528,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-6acf75035a6e58bd641e0107",
@@ -963,7 +1551,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-6ca140e98a55b218c40b29d9",
@@ -986,7 +1574,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-5b7da146fbc19fdcfb9b9371",
@@ -1009,7 +1597,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-e04a10f6361c4ed32e584427",
@@ -1030,7 +1618,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-fa5c8c38542e800fda25365e",
@@ -1051,7 +1639,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-d650945d07f5cd96aaa1c6ff",
@@ -1072,7 +1660,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-57f37df1a6c1bff2ecdf5b7e",
@@ -1095,7 +1683,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-9af0b39528944a1aa7508166",
@@ -1114,7 +1702,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-4cd620a0de4526a90d376e61",
@@ -1137,7 +1725,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 85.8
+    },
+    {
+      "id": "gdelt-fd283682c268cbfa80f9610c",
+      "title": "OM : c'est officiel, Benatia a tranché pour sa nouvelle aventure !",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/om-cest-officiel-benatia-a-tranche-pour-sa-nouvelle-aventure-998529",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/998529/407379/1200-L-om-c-est-officiel-benatia-a-tranch-pour-sa-nouvelle-aventure.jpg",
+      "publishedAt": "2026-09-02T14:32:40.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [],
+      "topics": [
+        "switzerland"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-04311bc25293702458d7647c",
@@ -1160,7 +1769,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-ee6d51d08eb0830e2f5009bc",
@@ -1179,7 +1788,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-25b1279002399562301174fe",
@@ -1198,7 +1807,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-3047cd6032502d9ef9696979",
@@ -1217,7 +1826,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-2dfad5b9d7eed60d90dc2c7b",
@@ -1243,7 +1852,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 85.5
+    },
+    {
+      "id": "gdelt-6c59abce357732a0512aa8a6",
+      "title": "Juventus : Khéphren Thuram absent jusqu’en 2027",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5837676111690237436-juventus-khephren-thuram-absent-jusquen-2027",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/thuram-juventus.jpg",
+      "publishedAt": "2026-09-02T07:42:02.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "juventus"
+      ],
+      "topics": [
+        "juventus"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-f9c5530aea53fd928708827e",
@@ -1268,7 +1900,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-bbbf3ef5cf7f669121d57fa0",
@@ -1292,7 +1924,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-d90b5e0d63b1f24827b3caa3",
@@ -1320,7 +1952,7 @@
       ],
       "reliability": "rumor",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-62525bca7edf694c92d98c3b",
@@ -1342,7 +1974,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-22c00b4b459a1368991fb4ca",
@@ -1364,7 +1996,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-de7086daf3430ec004643fb1",
@@ -1389,30 +2021,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
-    },
-    {
-      "id": "gdelt-6c59abce357732a0512aa8a6",
-      "title": "Juventus : Khéphren Thuram absent jusqu’en 2027",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5837676111690237436-juventus-khephren-thuram-absent-jusquen-2027",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/thuram-juventus.jpg",
-      "publishedAt": "2026-09-02T07:42:02.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "juventus"
-      ],
-      "topics": [
-        "juventus"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-7e603d1110a19ccbe85754bd",
@@ -1435,7 +2044,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-a59e96d897a226d65b3a9b84",
@@ -1460,7 +2069,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.1
+    },
+    {
+      "id": "gdelt-ee47dfdac1346ad17ca299e7",
+      "title": "Mercato MHSC : Montpellier offre un contrat pro à une pépite de sa formation (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-mhsc-montpellier-offre-un-contrat-pro-a-une-pepite-de-sa-formation-officiel-537285.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260313220413-8714.jpg",
+      "publishedAt": "2026-09-02T13:06:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "montpellier"
+      ],
+      "topics": [
+        "montpellier"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-8abd5cdc07d4b0bf4cb184a8",
@@ -1483,7 +2115,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-478b5ab7f05d984e64744b8b",
@@ -1508,7 +2140,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-00997966ca859648aea9c792",
@@ -1529,7 +2161,45 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.8
+    },
+    {
+      "id": "gdelt-fbf43f2e66a2a9303ef456e2",
+      "title": "Foot Amateur : la commission de discipline de la Ligue de Normandie sanctionne lourdement six clubs",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/foot-amateur/foot-amateur-la-commission-de-discipline-de-la-ligue-de-normandie-sanctionne-lourdement-six-clubs-954922",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954922/389148/1200-L-foot-amateur-la-commission-de-discipline-de-la-ligue-de-normandie-sanctionne-lourdement-six-clubs.jpg",
+      "publishedAt": "2026-09-02T14:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.6
+    },
+    {
+      "id": "gdelt-45cc3f96efc91d5359345fcd",
+      "title": "Foot Amateur : la date de la reprise des compétitions dans les Pays de la Loire est connue",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/foot-amateur/foot-amateur-la-date-de-la-reprise-des-competitions-dans-les-pays-de-la-loire-est-connue-954936",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954936/389155/1200-L-foot-amateur-la-date-de-la-reprise-des-comptitions-dans-les-pays-de-la-loire-est-connue.jpg",
+      "publishedAt": "2026-09-02T14:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-cbccbb0a7081ca7f7f0af75c",
@@ -1552,7 +2222,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-bb441a1f8a51b88420d5a69f",
@@ -1579,7 +2249,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-415c9b8291cb86c8c4cb5d39",
@@ -1605,30 +2275,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
-    },
-    {
-      "id": "gdelt-4af1eae2b7f52958587551cf",
-      "title": "Barça : la raison du mal-être de Lamine Yamal lors de la première journée est connue",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8002899942744770526-barca-la-raison-du-mal-etre-de-lamine-yamal-lors-de-la-premiere-journee-est-connue",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lamineyamalfcb.jpg",
-      "publishedAt": "2026-09-02T06:10:48.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-13a6535a353e6e58f9b1c59e",
@@ -1651,7 +2298,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-7b70854584c1fca113f653c3",
@@ -1679,709 +2326,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
-    },
-    {
-      "id": "gdelt-3772ebba2a762259175d350b",
-      "title": "Malick Fofana quitte l’OL pour Sunderland",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1619139761190731201-malick-fofana-quitte-lol-pour-sunderland",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/malick-fofana-2627.jpg",
-      "publishedAt": "2026-09-02T00:03:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "sunderland"
-      ],
-      "topics": [
-        "sunderland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.2
-    },
-    {
-      "id": "gdelt-1be9c4d727aa16e1d80d9638",
-      "title": "Everton et Monaco continuent de discuter pour Folarin Balogun",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2462292560914317864-everton-et-monaco-continuent-de-discuter-pour-folarin-balogun",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/xnaphotosthree132165.jpg",
-      "publishedAt": "2026-09-01T21:37:21.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "monaco",
-        "everton"
-      ],
-      "topics": [
-        "monaco",
-        "everton"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86
-    },
-    {
-      "id": "gdelt-c1cdec9454d426056a64ab4c",
-      "title": "Mercato Rennes : Lilian Brassier quitte la Ligue 1 et le Stade Rennais pour signer en Bundesliga (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-rennes-lilian-brassier-quitte-la-ligue-1-et-le-stade-rennais-pour-signer-en-bundesliga-officiel-537028.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250308193027-4150.jpg",
-      "publishedAt": "2026-08-31T19:40:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "rennes"
-      ],
-      "topics": [
-        "rennes",
-        "ligue-1",
-        "bundesliga"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 86
-    },
-    {
-      "id": "gdelt-1b2956bf572a553e16837827",
-      "title": "Le Real Madrid a reçu une offre pour Eduardo Camavinga",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5256266886689626126-le-real-madrid-a-recu-une-offre-pour-eduardo-camavinga",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/eduardo-camavinga-6a951d7e72120.jpg",
-      "publishedAt": "2026-09-02T05:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.9
-    },
-    {
-      "id": "gdelt-5838051f5c35f7a16c598596",
-      "title": "L'Atlético de Madrid veut passer devant la Juventus pour Nicolas Tagliafico",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3411759048379246195-latletico-de-madrid-veut-passer-devant-la-juventus-pour-nicolas-tagliafico",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/tagliafico-68d5a15bdedd7.jpg",
-      "publishedAt": "2026-09-01T13:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "atletico",
-        "juventus",
-        "saint-etienne"
-      ],
-      "topics": [
-        "atletico",
-        "juventus",
-        "saint-etienne"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.8
-    },
-    {
-      "id": "gdelt-9a69d508c99f5d0fc2f4f66a",
-      "title": "Ces pays où le mercato est encore ouvert",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1378965718275098519-ces-pays-ou-le-mercato-est-encore-ouvert",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/estadio-jornalista-mario-filho-maracana.jpg",
-      "publishedAt": "2026-09-02T07:05:50.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.7
-    },
-    {
-      "id": "gdelt-37cd2dc65ac729347aeb2dd2",
-      "title": "Accord verbal entre Crystal Palace et l'OM pour Quinten Timber",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a841781390228581936-accord-verbal-entre-crystal-palace-et-lom-pour-quinten-timber",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/design-sans-titre-2026-03-13t223904-292.jpg",
-      "publishedAt": "2026-09-01T23:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "crystal-palace"
-      ],
-      "topics": [
-        "crystal-palace"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.7
-    },
-    {
-      "id": "gdelt-8a354e64e81247927a6132d3",
-      "title": "Youssouf Fofana rejoint finalement le Séville FC !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2106374958896004402-youssouf-fofana-rejoint-finalement-le-seville-fc",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/youssouffofana.jpg",
-      "publishedAt": "2026-09-01T23:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "sevilla"
-      ],
-      "topics": [
-        "sevilla"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.7
-    },
-    {
-      "id": "gdelt-ad065e1846cc89dfa498ceb3",
-      "title": "Manchester City s'offre Enzo Fernandez pour 146 M€",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a364983283388871744-manchester-city-soffre-enzo-fernandez-pour-146-meur",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/enzo-fernandez-2526-6a350366cbc8f.jpg",
-      "publishedAt": "2026-09-01T23:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-city"
-      ],
-      "topics": [
-        "man-city"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.7
-    },
-    {
-      "id": "gdelt-6b2d47895186d01ce61c7b63",
-      "title": "PSG : une recrue estivale se fait déjà reprendre de volée en interne !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8848035186558517425-psg-une-recrue-estivale-se-fait-deja-reprendre-de-volee-en-interne",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/psgaston.jpg",
-      "publishedAt": "2026-09-01T23:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.7
-    },
-    {
-      "id": "gdelt-6d8dbcc385722155989bc3b5",
-      "title": "Strasbourg frôle l'indigestion avec Chelsea",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/avec-les-arrivees-du-milieu-dario-essugo-et-de-lattaquant-deivid-washington-strasbourg-recrute-encore-a-chelsea",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMDEyMTUwMDcvSUNPTlNQT1JUXzM3MTk3MF8wMDI3LTE0MDB4OTMzLmpwZw/300/strasbourg-frole-l-indigestion-avec-chelsea.jpg",
-      "publishedAt": "2026-09-01T21:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "strasbourg",
-        "chelsea"
-      ],
-      "topics": [
-        "strasbourg",
-        "chelsea"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.7
-    },
-    {
-      "id": "gdelt-ea14fa7e2e924c669271fa5f",
-      "title": "Un visage bien connu de la Ligue 1 arrive à Rennes",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/mercato-boulaye-dia-retrouve-la-ligue-1-avec-rennes",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/08/31130214/14468963-1400x933.jpg",
-      "publishedAt": "2026-09-01T21:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "rennes"
-      ],
-      "topics": [
-        "rennes",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.7
-    },
-    {
-      "id": "gdelt-fe59db8bfff116a53d69cd02",
-      "title": "Ligue 3 : la programmation des J9 et J10",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-3-la-programmation-des-j9-et-j10-954849",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954849/389109/1200-L-ligue-3-la-programmation-des-j9-et-j10.jpg",
-      "publishedAt": "2026-09-02T04:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.6
-    },
-    {
-      "id": "gdelt-9d7b9f06f8a8772a4efefad1",
-      "title": "Manchester City casse sa tirelire pour Iliman Ndiaye",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6106584698881101929-manchester-city-casse-sa-tirelire-pour-iliman-ndiaye",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/iliman-ndiaye-2627.jpg",
-      "publishedAt": "2026-09-01T20:33:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-city",
-        "saint-etienne"
-      ],
-      "topics": [
-        "man-city",
-        "saint-etienne"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.5
-    },
-    {
-      "id": "gdelt-4232e6c71e07ca5c04d977cb",
-      "title": "Fiorentina : Wilfried Gnonto va enfin découvrir la Serie A",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8160313323276393330-fiorentina-wilfried-gnonto-va-enfin-decouvrir-la-serie-a",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/photo-sans-77-63b819a929088.jpg",
-      "publishedAt": "2026-09-01T20:33:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "fiorentina"
-      ],
-      "topics": [
-        "fiorentina",
-        "serie-a"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.5
-    },
-    {
-      "id": "gdelt-5d51cef05262d4f32af97b1a",
-      "title": "Chelsea : Honest Ahanor prêté immédiatement à Crystal Palace",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2302031475232657540-chelsea-honest-ahanor-prete-immediatement-a-crystal-palace",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/honest-ahanor-2627.jpg",
-      "publishedAt": "2026-09-01T14:34:18.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "chelsea",
-        "crystal-palace"
-      ],
-      "topics": [
-        "chelsea",
-        "crystal-palace"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.5
-    },
-    {
-      "id": "gdelt-2b7d66d4e1ea8708ee8f2ee9",
-      "title": "Mercato OL : les folles révélations sur le transfert totalement lunaire de Malick Fofana",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2270717127175448091-mercato-ol-le-transfert-totalement-fou-de-malick-fofana-a-mis-le-feu",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/malick-fofana-2526-68e8d0ba6285c.jpg",
-      "publishedAt": "2026-09-02T06:30:37.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.4
-    },
-    {
-      "id": "gdelt-3102c7a0d21972747071f070",
-      "title": "Mercato Le Havre : Un pépite havraise signe son premier contrat professionnel (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-le-havre-un-pepite-havraise-signe-son-premier-contrat-professionnel-officiel-537086.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20251030224612-7675.jpg",
-      "publishedAt": "2026-09-01T10:11:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "le-havre"
-      ],
-      "topics": [
-        "le-havre"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 85.3
-    },
-    {
-      "id": "gdelt-1080a18d0943fe85eeab2405",
-      "title": "Mercato Nantes : Herba Guirrassy quitte le FC Nantes pour rejoindre les Young Boys Berne (officiel) !",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-nantes-herba-guirrassy-quitte-le-fc-nantes-pour-rejoindre-les-young-boys-berne-officiel-537267.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250907194811-7947.jpg",
-      "publishedAt": "2026-09-02T10:08:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "nantes"
-      ],
-      "topics": [
-        "nantes"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-6571d50f5cdab62eebe1f178",
-      "title": "Escargots, sauce wassaï, pikliz haïtien : en Guyane, des burgers inspirés de la Coupe du monde.",
-      "summary": "Publication référencée chez la1ere.franceinfo.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://la1ere.franceinfo.fr/guyane/escargots-sauce-wassai-pikliz-haitien-en-guyane-des-burgers-inspires-de-la-coupe-du-monde-1718278.html",
-      "imageURL": "https://la1ere.franceinfo.fr/image/W01paum2IlWLXVD_hx5X3lEGybw/0x0:1920x1080/1200x675/filters:format(webp):quality(80)/outremer%2F2026%2F07%2F08%2F6a4e62dd484bb285760780.png",
-      "publishedAt": "2026-09-02T04:03:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "la1ere.franceinfo.fr",
-        "name": "la1ere.franceinfo.fr",
-        "websiteURL": "https://la1ere.franceinfo.fr"
-      },
-      "teams": [],
-      "topics": [
-        "world-cup"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-e2267b3384162cf6a317df1c",
-      "title": "Ligue 1 : l'attaquant belge Matias Fernandez-Pardo quitte Lille pour Newcastle",
-      "summary": "Publication référencée chez lecourrier.vn. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://lecourrier.vn/ligue-1-lattaquant-belge-matias-fernandez-pardo-quitte-lille-pour-newcastle/1354578.html",
-      "imageURL": "https://image.lecourrier.vn/MediaUpload/Medium/2026/09/02/073236-field_media_image-3050556-ef72dbb7f4a2bce7d3aaadaa6cfd54a4d67c077d.webp",
-      "publishedAt": "2026-09-02T04:03:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "lecourrier.vn",
-        "name": "lecourrier.vn",
-        "websiteURL": "https://lecourrier.vn"
-      },
-      "teams": [
-        "lille",
-        "newcastle"
-      ],
-      "topics": [
-        "lille",
-        "newcastle",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-fd977dd943f15e3282e2d162",
-      "title": "Robinio Vaz rejoint Hull City",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9021370448811975609-robinio-vaz-rejoint-hull-city",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/robinio-vaz.jpg",
-      "publishedAt": "2026-09-01T21:42:48.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "hull"
-      ],
-      "topics": [
-        "hull"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85
-    },
-    {
-      "id": "gdelt-bfb4a62d7fbb9d4207611db8",
-      "title": "Chelsea signe un international italien et le prête dans la foulée",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/mercato-chelsea-signe-un-international-italien-et-le-prete-dans-la-foulee",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/01145656/14419566-1400x933.jpg",
-      "publishedAt": "2026-09-01T13:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "chelsea"
-      ],
-      "topics": [
-        "chelsea",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-27395534c75d08f6e7447743",
-      "title": "Mercato Monaco : L'AS Monaco se sépare de Thilo Kehrer (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-monaco-l-as-monaco-se-separe-de-thilo-kehrer-officiel-537259.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2024/zoom/ldc-20241211233058-9334.jpg",
-      "publishedAt": "2026-09-02T09:15:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "monaco"
-      ],
-      "topics": [
-        "monaco"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-ab63274615f009b8e380442e",
-      "title": "Arsenal prête Ethan Nwaneri au Borussia Dortmund",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5636991420973729495-arsenal-prete-ethan-nwaneri-au-borussia-dortmund",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo476439-69753af177aac.jpg",
-      "publishedAt": "2026-09-01T19:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "arsenal",
-        "dortmund"
-      ],
-      "topics": [
-        "arsenal",
-        "dortmund"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-6afa5dbe29744860fa25599d",
-      "title": "Manchester City et Chelsea tombent d’accord pour le transfert d’Enzo Fernandez",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1162173737393927493-manchester-city-et-chelsea-tombent-daccord-pour-le-transfert-denzo-fernandez",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/enzo-fernandez-2627.jpg",
-      "publishedAt": "2026-09-01T13:15:20.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-city",
-        "chelsea"
-      ],
-      "topics": [
-        "man-city",
-        "chelsea"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-575415b7044473828071ddce",
-      "title": "Stade lavallois. Laval recrute Alpha Diallo (RC Lens) dans les dernières heures du mercato",
-      "summary": "Publication référencée chez lecourrierdelamayenne.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lecourrierdelamayenne.fr/actualite-40992-stade-lavallois-laval-recrute-alpha-diallo-rc-lens-dans-les-dernieres-heures-du-mercato",
-      "imageURL": "https://medias.lecourrierdelamayenne.fr/photos/1200/40992-alpha-diallo-passe-par-les-girondins-de-bordeaux-et-le-rc-lens-s-engage-pour-trois-ans-avec-le?v=1788339225",
-      "publishedAt": "2026-09-02T11:02:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "lecourrierdelamayenne.fr",
-        "name": "lecourrierdelamayenne.fr",
-        "websiteURL": "https://lecourrierdelamayenne.fr"
-      },
-      "teams": [
-        "lens",
-        "laval"
-      ],
-      "topics": [
-        "lens",
-        "laval"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-5bff3135483bddf3bdaaa9cc",
-      "title": "Un banni de l'OM en prêt avec option d'achat à l'Atalanta Bergame - Italie - Atalanta Bergame",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/jonathan-rowe-ancien-joueur-de-marseille-officiellement-prete-a-latalanta-bergame-depuis-bologne",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMDExOTU3MTYvSUNPTlNQT1JUXzM2Mzk0MF8wMTg1LTE0MDB4OTMzLmpwZw/300/un-banni-de-l-om-en-pret-avec-option-d-achat-a-l-atalanta-bergame.jpg",
-      "publishedAt": "2026-09-01T21:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "atalanta"
-      ],
-      "topics": [
-        "atalanta"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-175f0bdd85dfe7b422d8e09d",
-      "title": "Mercato OL : Lyon se sépare de Duje Caleta-Car (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-lyon-se-separe-de-duje-caleta-car-officiel-537070.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2023/zoom/l1-20231001093141-2671.jpg",
-      "publishedAt": "2026-09-01T08:51:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "ol"
-      ],
-      "topics": [
-        "ol"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-099102a4cd92095a928f4435",
-      "title": "OM : le message d’adieu de Quinten Timber",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5175899463073677917-om-le-message-dadieu-de-quinten-timber",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/timber-om.jpg",
-      "publishedAt": "2026-09-02T10:38:51.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 84.5
+    },
+    {
+      "id": "gdelt-4af1eae2b7f52958587551cf",
+      "title": "Barça : la raison du mal-être de Lamine Yamal lors de la première journée est connue",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8002899942744770526-barca-la-raison-du-mal-etre-de-lamine-yamal-lors-de-la-premiere-journee-est-connue",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lamineyamalfcb.jpg",
+      "publishedAt": "2026-09-02T06:10:48.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.4
     }
   ],
-  "generatedAt": "2026-09-02T11:38:54.165Z",
+  "generatedAt": "2026-09-02T15:20:24.682Z",
   "stale": false
 }
