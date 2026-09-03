@@ -26,7 +26,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 109.4
+      "qualityScore": 106.9
     },
     {
       "id": "gdelt-b40e710716c94c625d36afea",
@@ -54,7 +54,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 101
+      "qualityScore": 98.5
     },
     {
       "id": "gdelt-e9845189b6198dab3fb3ba6c",
@@ -80,7 +80,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 100.5
+      "qualityScore": 98
     },
     {
       "id": "gdelt-6a83f6c115b599218f85ec6f",
@@ -104,7 +104,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99.4
+      "qualityScore": 96.9
     },
     {
       "id": "gdelt-ec41c130bb19698643044cb8",
@@ -128,7 +128,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99
+      "qualityScore": 96.5
+    },
+    {
+      "id": "gdelt-2090a2470eb9d5bac7e2583a",
+      "title": "Toulouse-LOSC : où voir le coup d'envoi de la 3e journée de Ligue 1, à quelle heure ?",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/toulouse-losc-ou-voir-le-coup-denvoi-de-la-3e-journee-de-ligue-1-a-quelle-heure-954979",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954979/389179/1200-L-toulouse-losc-o-voir-le-coup-denvoi-de-la-3e-journe-de-ligue-1-quelle-heure.jpg",
+      "publishedAt": "2026-09-03T05:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "lille",
+        "toulouse"
+      ],
+      "topics": [
+        "lille",
+        "toulouse",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.4
     },
     {
       "id": "gdelt-2b7752cf10b53a26f21ad67e",
@@ -152,7 +178,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98.7
+      "qualityScore": 96.2
     },
     {
       "id": "gdelt-efd0d22bbb38396362bdbd82",
@@ -178,7 +204,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 97
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-3deda441f67369efd24a7a07",
@@ -201,7 +227,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 93.4
     },
     {
       "id": "gdelt-10c72a348fd75785f1704ca7",
@@ -224,7 +250,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-58f5586ce6c43019b940a0fe",
@@ -247,7 +273,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 93
     },
     {
       "id": "gdelt-9d58dc36329ed94a4c2a6357",
@@ -271,7 +297,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-f549bc0c371c32b5b71b67b7",
@@ -294,7 +320,54 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 92.7
+    },
+    {
+      "id": "gdelt-7258e001e593bea39b20639d",
+      "title": "Rouen-Valenciennes : sur quelle chaîne et à quelle heure voir le match de Ligue 3",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/rouen-valenciennes-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-ligue-3-954773",
+      "imageURL": "https://media.foot-national.com/18/2026/08/photo_article/954773/389075/1200-L-rouen-valenciennes-sur-quelle-chane-et-quelle-heure-voir-le-match-de-ligue-3.jpg",
+      "publishedAt": "2026-09-03T05:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "valenciennes"
+      ],
+      "topics": [
+        "valenciennes",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.4
+    },
+    {
+      "id": "gdelt-faf211d0cdeddd3f2c9693e4",
+      "title": "Officiel : Keito Nakamura débarque de Reims à l'OL en tant que joker !",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/transferts/officiel-keito-nakamura-debarque-de-reims-a-lol-en-tant-que-joker-998549",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/998549/407388/1200-L-officiel-keito-nakamura-dbarque-de-reims-l-ol-en-tant-que-joker.jpg",
+      "publishedAt": "2026-09-02T18:09:49.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "reims"
+      ],
+      "topics": [
+        "reims"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-a43de1b16b6b4b70fd1ca5b7",
@@ -319,30 +392,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
-    },
-    {
-      "id": "gdelt-faf211d0cdeddd3f2c9693e4",
-      "title": "Officiel : Keito Nakamura débarque de Reims à l'OL en tant que joker !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/transferts/officiel-keito-nakamura-debarque-de-reims-a-lol-en-tant-que-joker-998549",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/998549/407388/1200-L-officiel-keito-nakamura-dbarque-de-reims-l-ol-en-tant-que-joker.jpg",
-      "publishedAt": "2026-09-02T18:09:49.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "reims"
-      ],
-      "topics": [
-        "reims"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-bf99e379262d3b8762cdac80",
@@ -368,7 +418,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-3cd00849efa65981ea47d156",
@@ -395,7 +445,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 91
     },
     {
       "id": "gdelt-7ceed3cd37f0ba80ab971b15",
@@ -421,7 +471,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.4
+      "qualityScore": 90.9
     },
     {
       "id": "gdelt-1cccded7f9af3e9fbf51b0c7",
@@ -444,7 +494,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.3
+      "qualityScore": 90.8
     },
     {
       "id": "gdelt-e0f922fc07cfa4dc429e5e06",
@@ -468,7 +518,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-fd283682c268cbfa80f9610c",
@@ -489,7 +539,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 90
     },
     {
       "id": "gdelt-ac6a3a5a25e7813860ac8165",
@@ -512,7 +562,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-a422ff8df277d94dae3b36d9",
@@ -538,7 +588,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-602b65f51a513f23b3fdfabb",
@@ -562,7 +612,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-ee47dfdac1346ad17ca299e7",
@@ -585,7 +635,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-ba7081774c2e5b0ada292293",
@@ -608,7 +658,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-1738e7d770f7ee593fc1701d",
@@ -632,7 +682,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-b96f2a60147758cf6fde3421",
+      "title": "Filipe Luís se lâche sur le PSG",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3696130454178252193-filipe-luis-se-lache-sur-le-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/filipe-luis-monaco.jpg",
+      "publishedAt": "2026-09-03T05:55:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-e70131a899dda882bdc22122",
@@ -662,7 +735,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-5716c80b2aab6e537e59e6f1",
@@ -690,7 +763,70 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-3e5b46ca6614804765352736",
+      "title": "Équipe de France : Zaïre-Emery a convoqué Didier Deschamps lors du Mondial 2026",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a30005056573070237-equipe-de-france-zaire-emery-a-convoque-didier-deschamps-lors-du-mondial-2026",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine784939-1920x1080.jpg",
+      "publishedAt": "2026-09-03T05:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.5
+    },
+    {
+      "id": "gdelt-4fb9436ef6a071e3b4fec548",
+      "title": "Ligue 3 : le programme complet et les enjeux de la 5e journée",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-3-le-programme-complet-et-les-enjeux-de-la-5e-journee-954930",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954930/389152/1200-L-ligue-3-le-programme-complet-et-les-enjeux-de-la-5e-journe.jpg",
+      "publishedAt": "2026-09-03T05:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-35c9176efd0388529320e301",
+      "title": "Coupe de France : des arbitres pris à partie après un match du 2e tour, le club concerné dénonce les auteurs",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-des-arbitres-pris-a-partie-apres-un-match-du-2e-tour-le-club-concerne-denonce-les-auteurs-954955",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954955/389165/1200-L-coupe-de-france-des-arbitres-pris-partie-aprs-un-match-du-2e-tour-le-club-concern-dnonce-les-auteurs.jpg",
+      "publishedAt": "2026-09-03T05:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-8d279f60b7a826b6861ffe61",
@@ -715,7 +851,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-5b8fece429d430b4ead18843",
@@ -741,7 +877,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-5e7e8d88288298c45aff8a7a",
@@ -764,7 +900,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-4419fd3995881597ecfc285e",
@@ -787,7 +923,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-82642a9eed2afbcae4fce5d1",
@@ -810,7 +946,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-1080a18d0943fe85eeab2405",
@@ -833,7 +969,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-e41f30cdc3b306ffeb487460",
@@ -855,7 +991,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-683a778f37d88e6cf77f3da5",
@@ -880,7 +1016,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-27395534c75d08f6e7447743",
@@ -903,7 +1039,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-8e43edefc9964aa596544347",
@@ -928,7 +1064,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-19185e4678a0ff56b9bbae6f",
@@ -953,7 +1089,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-fe4fe40a0b05faf3877fe1ac",
@@ -978,7 +1114,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-4511723a897f379b7cbf30fd",
@@ -1001,7 +1137,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-2b0ec7a49584da8ccec445b1",
@@ -1024,7 +1160,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-33bb7cf09c702251a04a0185",
@@ -1047,7 +1183,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-5b05b72b6b92a1e94e4314cc",
@@ -1069,7 +1205,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-99d56eb832dc715b35e08ce1",
@@ -1099,7 +1235,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-7110952b45901fa8de630632",
@@ -1123,7 +1259,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-ce411368b753ec01a9d7deaf",
@@ -1146,7 +1282,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-4dd87e412de74e7c754a3eed",
@@ -1167,7 +1303,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-07a15e36cf035d7e8e4a0e38",
@@ -1188,7 +1324,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-8f460e545089a400596b2411",
@@ -1211,7 +1347,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-fd00f7052f5ef7689902dfb1",
@@ -1236,7 +1372,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 87.5
+      "qualityScore": 85
     },
     {
       "id": "gdelt-d5fd8678245838721a77c8f8",
@@ -1260,7 +1396,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 85
     },
     {
       "id": "gdelt-a14066238d506baf1b57feb9",
@@ -1284,7 +1420,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 85
     },
     {
       "id": "gdelt-475f8d78669f179e6e28594c",
@@ -1310,7 +1446,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-c5efcd01ed011f4885aa0879",
@@ -1331,7 +1467,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-1f6a5614a7c9ff2e43586394",
@@ -1352,7 +1488,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-43a2f6b51a1a735c7f112cd7",
@@ -1375,7 +1511,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-4ee91344b4322ba6c1934205",
@@ -1398,7 +1534,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-3709e7e50ffcf8dcd5ae851f",
@@ -1424,7 +1560,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-70c58c99178eab074a1902cd",
@@ -1447,7 +1583,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-295461b4324c63b37573e9fd",
@@ -1471,7 +1607,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-f60e1618e7c64ea2426795b1",
@@ -1496,7 +1632,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-70258b1204221272b4152d18",
@@ -1521,7 +1657,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 84.3
+    },
+    {
+      "id": "gdelt-b553fcb28baf94ba0b3151d3",
+      "title": "Monaco a bloqué le transfert de Lamine Camara à Chelsea après un accord à 55 M€",
+      "summary": "Publication référencée chez senego.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://senego.com/monaco-a-bloque-le-transfert-de-lamine-camara-a-chelsea-apres-un-accord-a-55-me_1999284.html",
+      "imageURL": "https://senego.com/wp-content/uploads/2026/09/tmp9aywb7ml.jpg",
+      "publishedAt": "2026-09-03T04:46:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "senego.com",
+        "name": "senego.com",
+        "websiteURL": "https://senego.com"
+      },
+      "teams": [
+        "monaco",
+        "chelsea"
+      ],
+      "topics": [
+        "monaco",
+        "chelsea"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-a700207efa571deadd2ef54a",
@@ -1545,7 +1706,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-c34b03ac5e66e3d8d21e6d72",
@@ -1569,7 +1730,59 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 84
+    },
+    {
+      "id": "gdelt-428209d195d47849baa34947",
+      "title": "Ligue 1 – Le programme de diffusion de la 8e journée, PSG/Lyon le 25 octobre",
+      "summary": "Publication référencée chez parisfans.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.parisfans.fr/l-1/ligue-1-le-programme-de-diffusion-de-la-8e-journee-psg-lyon-le-25-octobre-926016.html",
+      "imageURL": "https://www.parisfans.fr/wp-content/uploads/2026/07/ICONSPORT_360172_0011-1.jpg",
+      "publishedAt": "2026-09-03T04:00:42.000Z",
+      "category": "news",
+      "source": {
+        "id": "parisfans.fr",
+        "name": "parisfans.fr",
+        "websiteURL": "https://parisfans.fr"
+      },
+      "teams": [
+        "psg",
+        "ol"
+      ],
+      "topics": [
+        "psg",
+        "ol",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.8
+    },
+    {
+      "id": "gdelt-8a5227f4ae7336ab83072ec3",
+      "title": "Ligue 1 – Les clefs de la 3e journée : 1er match jeudi et choc PSG/Monaco",
+      "summary": "Publication référencée chez parisfans.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.parisfans.fr/l-1/ligue-1-les-clefs-de-la-3e-journee-1er-match-jeudi-et-choc-psg-monaco-925474.html",
+      "imageURL": "https://www.parisfans.fr/wp-content/uploads/2026/07/ICONSPORT_361382_0009-2.jpg",
+      "publishedAt": "2026-09-03T04:00:33.000Z",
+      "category": "news",
+      "source": {
+        "id": "parisfans.fr",
+        "name": "parisfans.fr",
+        "websiteURL": "https://parisfans.fr"
+      },
+      "teams": [
+        "psg",
+        "monaco"
+      ],
+      "topics": [
+        "psg",
+        "monaco",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-4c2461ba229f866c41bbc95d",
@@ -1590,7 +1803,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-a2310563e0202ff41bb8114b",
@@ -1614,7 +1827,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-e16e4b0dbe755403b05b13f8",
@@ -1635,7 +1848,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-e86d6c661781f5cd74689ae2",
@@ -1656,7 +1869,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-730acc7e4a250efc20b320bd",
@@ -1677,51 +1890,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
-    },
-    {
-      "id": "gdelt-e8ba46a17737f3807591318f",
-      "title": "Les clubs de Premier League n'ont jamais autant dépensé sur le mercato - Angleterre - Mercato",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/avec-plus-de-4-milliards-deuros-depenses-la-premier-league-bat-un-record-de-depenses-sur-le-mercato",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/02122531/14579259-1400x933.jpg",
-      "publishedAt": "2026-09-02T13:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86
-    },
-    {
-      "id": "gdelt-c03a8a67bec8ad2d80f95d2f",
-      "title": "Combien ce mercato d'été va-t-il vraiment rapporter à l'OM ? - France - Olympique de Marseille",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/combien-ce-mercato-dete-va-t-il-vraiment-rapporter-a-lom",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/06/09172913/13894097-1400x933.jpg",
-      "publishedAt": "2026-09-02T13:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "om"
-      ],
-      "topics": [
-        "om"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-85995f2c9b8fc4fcddb109a9",
@@ -1744,7 +1913,51 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.5
+    },
+    {
+      "id": "gdelt-e8ba46a17737f3807591318f",
+      "title": "Les clubs de Premier League n'ont jamais autant dépensé sur le mercato - Angleterre - Mercato",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/avec-plus-de-4-milliards-deuros-depenses-la-premier-league-bat-un-record-de-depenses-sur-le-mercato",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/02122531/14579259-1400x933.jpg",
+      "publishedAt": "2026-09-02T13:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [],
+      "topics": [
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.5
+    },
+    {
+      "id": "gdelt-c03a8a67bec8ad2d80f95d2f",
+      "title": "Combien ce mercato d'été va-t-il vraiment rapporter à l'OM ? - France - Olympique de Marseille",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/combien-ce-mercato-dete-va-t-il-vraiment-rapporter-a-lom",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/06/09172913/13894097-1400x933.jpg",
+      "publishedAt": "2026-09-02T13:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "om"
+      ],
+      "topics": [
+        "om"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-076a2c1def6f7e411c06c945",
@@ -1767,7 +1980,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-3c7f70d00a4d7aa6e5a8d86c",
@@ -1788,7 +2001,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-ef0f8355e11842f61b2b646b",
@@ -1811,7 +2024,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-303adb6e9232114402dc0ebd",
@@ -1834,7 +2047,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-c87ca616a6b326993c99337d",
@@ -1857,7 +2070,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-0fa4b2a06fcd2cace92c419e",
@@ -1880,7 +2093,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-38cb0093305896395d310936",
@@ -1908,7 +2121,26 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 83.3
+    },
+    {
+      "id": "gdelt-b960db009ab38fce09f6fa8f",
+      "title": "La tapisserie de Bayeux est arrivée au British Museum de Londres après un transfert historique",
+      "summary": "Publication référencée chez radiofrance.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/la-tapisserie-de-bayeux-est-arrivee-au-british-museum-de-londres-pour-y-etre-exposee-5638055",
+      "imageURL": "https://www.radiofrance.fr/pikapi/images/493e41b2-1009-443d-bc86-9405f7060134/2048",
+      "publishedAt": "2026-09-02T20:47:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "radiofrance.fr",
+        "name": "radiofrance.fr",
+        "websiteURL": "https://radiofrance.fr"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-623f80b9f9c120b9405e3535",
@@ -1935,26 +2167,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
-    },
-    {
-      "id": "gdelt-b960db009ab38fce09f6fa8f",
-      "title": "La tapisserie de Bayeux est arrivée au British Museum de Londres après un transfert historique",
-      "summary": "Publication référencée chez radiofrance.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-info-de-france-inter/la-tapisserie-de-bayeux-est-arrivee-au-british-museum-de-londres-pour-y-etre-exposee-5638055",
-      "imageURL": "https://www.radiofrance.fr/pikapi/images/493e41b2-1009-443d-bc86-9405f7060134/2048",
-      "publishedAt": "2026-09-02T20:47:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "radiofrance.fr",
-        "name": "radiofrance.fr",
-        "websiteURL": "https://radiofrance.fr"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-99d87cec62e2848367788fcc",
@@ -1981,7 +2194,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 83.1
     },
     {
       "id": "gdelt-5756c7ec868c51608fd2e66a",
@@ -2004,7 +2217,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 83
     },
     {
       "id": "gdelt-0f36a20560a5c853f6feaadd",
@@ -2027,7 +2240,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-6b559463ed25432b08051f74",
@@ -2048,7 +2261,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-66ca4ab76121041e7530e72a",
@@ -2073,7 +2286,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 82.8
     },
     {
       "id": "gdelt-458802ba8f46c7605b5e80ba",
@@ -2097,7 +2310,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 82.7
     },
     {
       "id": "gdelt-22cd264f29b0cce04e4f8c8a",
@@ -2116,7 +2329,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-d6641018e98e603a9b579927",
@@ -2135,7 +2348,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-79cb1d6a00f66ea20beef4a9",
@@ -2154,215 +2367,9 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-37814f56ee18e6f0ca4a6072",
-      "title": "Torino : Daniel Bragança quitte le Sporting pour la Serie A",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3014399946569881774-torino-daniel-braganca-quitte-le-sporting-pour-la-serie-a",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epaliveeight784857-1920x1080.jpg",
-      "publishedAt": "2026-09-01T19:19:38.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "torino",
-        "braga"
-      ],
-      "topics": [
-        "torino",
-        "braga",
-        "serie-a"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-5a45f6178cb4e28d0571758f",
-      "title": "« J'ai déjà dormi jusqu'à 11 heures » : avant le début de la Coupe du monde, Carla Leite présente l'application pour lutter contre le jet-lag gérée par le staff médical des Bleues",
-      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lequipe.fr/Basket/Actualites/-j-ai-deja-dormi-jusqu-a-11-heures-avant-le-debut-de-la-coupe-du-monde-carla-leite-presente-l-application-pour-lutter-contre-le-jet-lag-geree-par-le-staff-medical-des-bleues/1715532",
-      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/-a-reau-l-equipe/1500000002568280/0:0,2000:1333-1200-800-75/a9884.jpg",
-      "publishedAt": "2026-09-02T17:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lequipe.fr",
-        "name": "lequipe.fr",
-        "websiteURL": "https://lequipe.fr"
-      },
-      "teams": [],
-      "topics": [
-        "world-cup"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-e8e2dd0b9e0d058fa2282a5d",
-      "title": "Transferts : Montpellier lâche Yanis Issoufou au club anglais de Millwall et attend son remplaçant avant la fin du mercato",
-      "summary": "Publication référencée chez midilibre.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.midilibre.fr/2026/09/01/transferts-montpellier-lache-yanis-issoufou-au-club-anglais-de-millwall-et-attend-son-remplacant-avant-la-fin-du-mercato-13530741.php",
-      "imageURL": "https://images.midilibre.fr/api/v1/images/view/6a96860d531be5bead0536b6/hd/image.jpg?v=1",
-      "publishedAt": "2026-09-03T00:17:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "midilibre.fr",
-        "name": "midilibre.fr",
-        "websiteURL": "https://midilibre.fr"
-      },
-      "teams": [
-        "montpellier",
-        "millwall"
-      ],
-      "topics": [
-        "montpellier",
-        "millwall"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-95c3a82bdf3ae3870a72c8f5",
-      "title": "Ligue 1 : le chiffre impressionnant des ventes sur le mercato d'été",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4175564941788459808-ligue-1-le-chiffre-impressionnant-des-ventes-sur-le-mercato-dete",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/bradley-barcola-2526.jpg",
-      "publishedAt": "2026-09-02T10:16:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-fdbb662cca935dc131db267c",
-      "title": "Le PSG désigne ses 2 priorités pour le prochain mercato",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3550360066514203799-le-psg-designe-ses-2-priorites-pour-le-prochain-mercato",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/luis-60df83e0aaf5d.jpg",
-      "publishedAt": "2026-09-02T10:16:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-3f834c818579e6428c30fae4",
-      "title": "Enzo Fernandez annonce son départ de Chelsea",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1921198738315643477-enzo-fernandez-annonce-son-depart-de-chelsea",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/enzo-fernandez-2627.jpg",
-      "publishedAt": "2026-09-01T21:55:45.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "chelsea"
-      ],
-      "topics": [
-        "chelsea"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.2
-    },
-    {
-      "id": "gdelt-d41fb6322d382a762fbed4c0",
-      "title": "Mercato MHSC : Montpellier acte le prêt d'un ailier de Ligue 1 (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-mhsc-montpellier-acte-le-pret-d-un-ailier-de-ligue-1-officiel-537129.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250731220657-8686.jpg",
-      "publishedAt": "2026-09-01T13:56:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "montpellier"
-      ],
-      "topics": [
-        "montpellier",
-        "ligue-1"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.2
-    },
-    {
-      "id": "gdelt-a55fbadd68cd3735def804a0",
-      "title": "Premier League - Leon Bailey quitte Aston Villa et se lie à l'Olympiakos",
-      "summary": "Publication référencée chez dhnet.be. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.dhnet.be/dernieres-depeches/2026/09/03/premier-league-leon-bailey-quitte-aston-villa-et-se-lie-a-lolympiakos-JTOP2B6HAZEZ7MSKFMAQPSEDI4/",
-      "imageURL": "https://www.dhnet.be/resizer/v2/7VMUDRERRBCZFHIRPIT3OFNCE4.png?auth=e26ec744f03e936804ed79e7aebfa711f3f6ad9ee4d8768a59ebacc7229c4737&quality=85&smart=true",
-      "publishedAt": "2026-09-02T23:46:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "dhnet.be",
-        "name": "dhnet.be",
-        "websiteURL": "https://dhnet.be"
-      },
-      "teams": [
-        "aston-villa"
-      ],
-      "topics": [
-        "aston-villa",
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 84.1
-    },
-    {
-      "id": "gdelt-1006abeef8af60245743c27b",
-      "title": "Le Bayern ne tremble pas, Olise encore décisif",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/coupe-dallemagne-grace-a-michael-olise-le-bayern-ne-tremble-pas-contre-osnabruck",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMDIyMjIzMjYvSUNPTlNQT1JUXzM3MzMxNl8wMDA4LTE0MDB4OTM0LmpwZw/300/le-bayern-ne-tremble-pas-olise-encore-decisif.jpg",
-      "publishedAt": "2026-09-02T23:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 82.4
     }
   ],
-  "generatedAt": "2026-09-03T01:29:59.909Z",
+  "generatedAt": "2026-09-03T06:27:04.048Z",
   "stale": false
 }
