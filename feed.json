@@ -25,7 +25,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 101.5
+      "qualityScore": 100.5
     },
     {
       "id": "gdelt-e8a5934817c8d4d99aec4a26",
@@ -51,7 +51,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 100.3
+      "qualityScore": 99.4
     },
     {
       "id": "gdelt-fb92718a92b20515e0313a48",
@@ -77,7 +77,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.2
+      "qualityScore": 98.3
     },
     {
       "id": "gdelt-2c5813f4ef0b9763de827a16",
@@ -105,7 +105,108 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98.4
+      "qualityScore": 97.4
+    },
+    {
+      "id": "gdelt-c85058b4221b6a13236c19ed",
+      "title": "Mercato Nantes : Le FC Nantes enregistre le prêt d'un milieu de terrain formé au club (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-nantes-le-fc-nantes-enregistre-le-pret-d-un-milieu-de-terrain-forme-au-club-officiel-537475.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250817100617-6198.jpg",
+      "publishedAt": "2026-09-03T22:13:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "nantes"
+      ],
+      "topics": [
+        "nantes"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 96.4
+    },
+    {
+      "id": "gdelt-a8eade8d8962c8635f56bab9",
+      "title": "Ligue 1 : le LOSC poursuit sa série folle à l'extérieur à Toulouse et s'empare provisoirement de la première place",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-1-le-losc-poursuit-sa-serie-folle-a-lexterieur-a-toulouse-et-sempare-provisoirement-de-la-premiere-place-955050",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955050/389215/1200-L-ligue-1-le-losc-poursuit-sa-srie-folle-lextrieur-toulouse-et-sempare-provisoirement-de-la-premire-place.jpg",
+      "publishedAt": "2026-09-03T23:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "lille",
+        "toulouse"
+      ],
+      "topics": [
+        "lille",
+        "toulouse",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.2
+    },
+    {
+      "id": "gdelt-e4c0d6dde9a619562e7460be",
+      "title": "Ligue 3 : freiné à domicile par Valenciennes, Rouen prend la tête provisoire du classement",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-3-freine-a-domicile-par-valenciennes-rouen-prend-la-tete-provisoire-du-classement-955047",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955047/389214/1200-L-ligue-3-frein-domicile-par-valenciennes-rouen-prend-la-tte-provisoire-du-classement.jpg",
+      "publishedAt": "2026-09-03T23:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "saint-etienne",
+        "valenciennes"
+      ],
+      "topics": [
+        "saint-etienne",
+        "valenciennes",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.2
+    },
+    {
+      "id": "gdelt-008ad66346d4f7a911cb5f7f",
+      "title": "Ligue 1 : le LOSC s'impose contre le cours du jeu à Toulouse, Ueda buteur pour sa première !",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/998659",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/998659/407442/1200-L-ligue-1-le-losc-s-impose-contre-le-cours-du-jeu-toulouse-ueda-buteur-pour-sa-premire.jpg",
+      "publishedAt": "2026-09-03T23:06:56.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "lille",
+        "toulouse"
+      ],
+      "topics": [
+        "lille",
+        "toulouse",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.9
     },
     {
       "id": "gdelt-92bab3f05e1613bca2c63ba6",
@@ -131,7 +232,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 95.6
     },
     {
       "id": "gdelt-510d37b54eb2f3fe964940a7",
@@ -154,7 +255,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.4
+      "qualityScore": 95.5
     },
     {
       "id": "gdelt-2ed630eb222f4568e083fb55",
@@ -182,7 +283,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.2
+      "qualityScore": 95.3
     },
     {
       "id": "gdelt-6d0c935d9f538f9beb48a40b",
@@ -209,7 +310,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
+      "qualityScore": 94.4
+    },
+    {
+      "id": "gdelt-a67ef4e79e4b605f7b8b59d6",
+      "title": "Résultat Rouen - Valenciennes (1-1) la 5e journée de Ligue 3 2026/2027 03/09",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/4308988351328405986-rouen-vs-valenciennes",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-5314047259973965616-6196889460594357870.jpg",
+      "publishedAt": "2026-09-04T01:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "valenciennes"
+      ],
+      "topics": [
+        "valenciennes",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-4bc45d0874c39b01c103c3da",
@@ -232,7 +357,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 92.8
     },
     {
       "id": "gdelt-41f9aa45f9c7e6c38002b7bb",
@@ -257,7 +382,31 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 92.7
+    },
+    {
+      "id": "gdelt-cbb55c59b4dc00aa6c8b7c39",
+      "title": "Ligue 3 : le FVS défaillant sur le visionnage d'une situation de penalty pendant Rouen-Valenciennes",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-3-le-fvs-defaillant-sur-le-visionnage-dune-situation-de-penalty-pendant-rouen-valenciennes-955045",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955045/389213/1200-L-ligue-3-le-fvs-dfaillant-sur-le-visionnage-dune-situation-de-penalty-pendant-rouen-valenciennes.jpg",
+      "publishedAt": "2026-09-03T23:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "valenciennes"
+      ],
+      "topics": [
+        "valenciennes",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-055e1c4d1b5969ebfdac5a42",
@@ -282,7 +431,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-8cbdd7420c099d761740fad5",
@@ -308,7 +457,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93
+      "qualityScore": 92
     },
     {
       "id": "gdelt-2847c35eee04aec33b09e1ec",
@@ -332,7 +481,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-11541f9568e7d950a2171e1c",
@@ -357,7 +506,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-7d39b3e2235d1fb5a310255d",
@@ -380,7 +529,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-991da08b2b00680fbf55c2f1",
@@ -403,30 +552,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
-    },
-    {
-      "id": "gdelt-38b84988337194839b490a3e",
-      "title": "PSG : le Parc des Princes s'offre une nouvelle pelouse venue d'Irlande",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3332827907494320903-psg-le-parc-des-princes-soffre-une-nouvelle-pelouse-venue-dirlande",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree245454-1920x1080.jpg",
-      "publishedAt": "2026-09-03T22:02:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-78fbdf1f0dbda77b8c8443a3",
@@ -449,7 +575,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 90.3
+    },
+    {
+      "id": "gdelt-38b84988337194839b490a3e",
+      "title": "PSG : le Parc des Princes s'offre une nouvelle pelouse venue d'Irlande",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3332827907494320903-psg-le-parc-des-princes-soffre-une-nouvelle-pelouse-venue-dirlande",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree245454-1920x1080.jpg",
+      "publishedAt": "2026-09-03T22:02:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-11008c33ac040c8496a8a547",
@@ -472,7 +621,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-c54c3faded35390d6e0b5e83",
@@ -497,7 +646,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-4deead4929c5f08c008e5353",
@@ -525,7 +674,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 90.7
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-c282b9d7db119fb16f1625bd",
@@ -550,7 +699,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 90.5
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-a36d1f1db9686c15141a6587",
@@ -573,7 +722,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-971490b2b283de045508bc41",
@@ -598,7 +747,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-9eec96d85e1590ec0d6eae81",
@@ -623,7 +772,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-b40e710716c94c625d36afea",
@@ -651,7 +800,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-993528362012078a9f5a1c00",
@@ -674,7 +823,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-e9845189b6198dab3fb3ba6c",
@@ -700,7 +849,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-55e837eefb4b5ab734578118",
@@ -727,7 +876,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 89.4
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-10ae609fb349378d58c93a7b",
@@ -751,7 +900,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 88.3
+    },
+    {
+      "id": "gdelt-437bcb7f7779a1c414c845f0",
+      "title": "Coupe de France : le tirage au sort du 3e tour dans les Côtes-d'Armor, deux clubs de N2 fixés",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-le-tirage-au-sort-du-3e-tour-dans-les-cotes-darmor-deux-clubs-de-n2-fixes-955027",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955027/389205/1200-L-coupe-de-france-le-tirage-au-sort-du-3e-tour-dans-les-ctes-darmor.jpg",
+      "publishedAt": "2026-09-03T23:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-34f4780ce3023ff13a02a882",
@@ -772,7 +942,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-3e550d56168d7a507f5ff570",
@@ -795,7 +965,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-6a83f6c115b599218f85ec6f",
@@ -819,7 +989,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-20700802b6a9b08be9678685",
@@ -842,7 +1012,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-88ae13c32fd78233bb6b2cfb",
@@ -865,7 +1035,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-d1b922e09eb2e063967e666f",
@@ -888,7 +1058,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-f2d5c7a5fb50682fba49a956",
@@ -911,7 +1081,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-b264e3d39e9ad816bc026493",
@@ -934,7 +1104,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-d86dbe711de5eef9d1a21427",
@@ -955,7 +1125,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-694d2f7389ec54bab9d652c9",
@@ -978,7 +1148,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-aaa82518cfb8509c5f6251ec",
@@ -1001,7 +1171,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-1078c02b4843dfe3f56977cb",
@@ -1024,7 +1194,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-4e320181ccfcce25d0a82f8e",
@@ -1047,7 +1217,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-5726ffeb6542e1676521ac74",
@@ -1072,7 +1242,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-6dc7e3cf9caedc6ae417921f",
@@ -1094,7 +1264,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-5ec7fde4761c175a3fb0bb6c",
@@ -1118,7 +1288,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-6251c39168bbd462dcbc4a34",
@@ -1142,7 +1312,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-18d9a616e223a31e571a776e",
@@ -1165,7 +1335,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-49ef87424850bf6632bc0c9c",
@@ -1188,31 +1358,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
-    },
-    {
-      "id": "gdelt-09cff99f5fe2c2d868ce67e4",
-      "title": "Une ville belge refuse d'accueillir un match de Ligue Europa - Belgique - Union saint-gilloise",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/ligue-europa-la-ville-de-louvain-refuse-daccueillir-le-match-de-lunion-saint-gilloise-contre-lhapoel-beer-sheva",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/03111431/6480531-1400x933.jpg",
-      "publishedAt": "2026-09-03T13:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "union-saint-gilloise"
-      ],
-      "topics": [
-        "union-saint-gilloise",
-        "europa-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87
     },
     {
       "id": "gdelt-c0f17029fc1d5a2ce74777a2",
@@ -1237,7 +1383,78 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 87
+    },
+    {
+      "id": "gdelt-ec41c130bb19698643044cb8",
+      "title": "Mercato MHSC : Montpellier prête l'un de ses attaquants en Ligue 3 (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-mhsc-montpellier-prete-l-un-de-ses-attaquants-en-ligue-3-officiel-537331.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250731220657-8686.jpg",
+      "publishedAt": "2026-09-02T19:25:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "montpellier"
+      ],
+      "topics": [
+        "montpellier",
+        "ligue-3"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 87
+    },
+    {
+      "id": "gdelt-5efc517c035b84574b7b97f3",
+      "title": "LOSC : Berke Özer n’est pas content malgré sa prestation XXL",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3450573915966980226-losc-berke-ozer-nest-pas-content-malgre-sa-prestation-xxl",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/ozer.jpg",
+      "publishedAt": "2026-09-03T21:08:30.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.9
+    },
+    {
+      "id": "gdelt-09cff99f5fe2c2d868ce67e4",
+      "title": "Une ville belge refuse d'accueillir un match de Ligue Europa - Belgique - Union saint-gilloise",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/ligue-europa-la-ville-de-louvain-refuse-daccueillir-le-match-de-lunion-saint-gilloise-contre-lhapoel-beer-sheva",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/03111431/6480531-1400x933.jpg",
+      "publishedAt": "2026-09-03T13:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "union-saint-gilloise"
+      ],
+      "topics": [
+        "union-saint-gilloise",
+        "europa-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-2090a2470eb9d5bac7e2583a",
@@ -1263,54 +1480,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
-    },
-    {
-      "id": "gdelt-ec41c130bb19698643044cb8",
-      "title": "Mercato MHSC : Montpellier prête l'un de ses attaquants en Ligue 3 (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-mhsc-montpellier-prete-l-un-de-ses-attaquants-en-ligue-3-officiel-537331.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250731220657-8686.jpg",
-      "publishedAt": "2026-09-02T19:25:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "montpellier"
-      ],
-      "topics": [
-        "montpellier",
-        "ligue-3"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 87.9
-    },
-    {
-      "id": "gdelt-5efc517c035b84574b7b97f3",
-      "title": "LOSC : Berke Özer n’est pas content malgré sa prestation XXL",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3450573915966980226-losc-berke-ozer-nest-pas-content-malgre-sa-prestation-xxl",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/ozer.jpg",
-      "publishedAt": "2026-09-03T21:08:30.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-8441e543cd2fa67a3f657566",
@@ -1333,7 +1503,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-0b01609092f3702a1ab9b286",
@@ -1356,7 +1526,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-22513dc63cc387ead1f9a372",
@@ -1379,7 +1549,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-1762368f9512b0712bc8372d",
@@ -1402,7 +1572,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-2b7752cf10b53a26f21ad67e",
@@ -1426,7 +1596,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 86.7
+    },
+    {
+      "id": "gdelt-9ebed3591d963f7691f6dd76",
+      "title": "FC Barcelone : Hamza Abdelkarim rejoint l'effectif officiel – Mali Actu",
+      "summary": "Publication référencée chez maliactu.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://maliactu.net/fc-barcelone-hamza-abdelkarim-rejoint-leffectif-officiel/",
+      "imageURL": "https://maliactu.net/wp-content/uploads/2026/09/793518548_4571456936466689_786850502165351988_n.png",
+      "publishedAt": "2026-09-04T00:31:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "maliactu.net",
+        "name": "maliactu.net",
+        "websiteURL": "https://maliactu.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "other",
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-428209d195d47849baa34947",
@@ -1452,7 +1645,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-8a5227f4ae7336ab83072ec3",
@@ -1478,7 +1671,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-96cbd5df606b115e195cfee2",
@@ -1499,7 +1692,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-18ef858d90ec6a63096c9f54",
@@ -1522,7 +1715,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-0522a05d90f71584e3dea88e",
@@ -1545,7 +1738,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-4336645abd7046a4cef3518e",
@@ -1568,7 +1761,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-4dd48039ee5edfe628ef1746",
@@ -1591,7 +1784,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-f646c37f77c7b9426aad8d45",
@@ -1614,7 +1807,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-debb2fed8d303360a85bfc7f",
@@ -1637,7 +1830,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-d262b87610cff36f94b79a00",
@@ -1660,7 +1853,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-3c08bbccdb89ed1b1a799141",
@@ -1681,7 +1874,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-a8a58e0a8220bd6c41b07b2b",
@@ -1704,7 +1897,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-b5f448e912c2db79a4482189",
@@ -1727,7 +1920,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-b8cb771effdda1370a5385b2",
@@ -1750,7 +1943,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-ab71345cc7ef9f076cadbbd7",
@@ -1776,7 +1969,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 86.2
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-dbdf386986a03be5aeda04b7",
@@ -1799,7 +1992,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-7d5e194be0d2ad6dc56ba1d0",
@@ -1822,7 +2015,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-4e8c01248cb087e60934ff87",
@@ -1846,7 +2039,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-efd0d22bbb38396362bdbd82",
@@ -1872,7 +2065,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-bf3c70bd49b6ee7f1cd74f98",
@@ -1895,7 +2088,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 85
+    },
+    {
+      "id": "gdelt-ac34b06b185a0051fec40cac",
+      "title": "Jupiler Pro League - Oud-Heverlee Louvain s'offre Alessandro Fontanarosa en prêt, Hairemans quitte l'Antwerp",
+      "summary": "Publication référencée chez dhnet.be. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.dhnet.be/dernieres-depeches/2026/09/04/jupiler-pro-league-oud-heverlee-louvain-soffre-alessandro-fontanarosa-en-pret-hairemans-quitte-lantwerp-WE6CD37HGBDZVGBY5O3ZSG3KHQ/",
+      "imageURL": "https://www.dhnet.be/resizer/v2/7VMUDRERRBCZFHIRPIT3OFNCE4.png?auth=e26ec744f03e936804ed79e7aebfa711f3f6ad9ee4d8768a59ebacc7229c4737&quality=85&smart=true",
+      "publishedAt": "2026-09-04T01:16:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "dhnet.be",
+        "name": "dhnet.be",
+        "websiteURL": "https://dhnet.be"
+      },
+      "teams": [
+        "oh-leuven"
+      ],
+      "topics": [
+        "oh-leuven",
+        "belgian-pro-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-6627952ec8162eb0f7cb2c97",
@@ -1916,7 +2133,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-8715a8cf4f40d5e5e7fef5ff",
@@ -1937,7 +2154,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-ee37561d28ae886594eddec7",
@@ -1958,7 +2175,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-adbefcf59d3d5b4657d5be7e",
@@ -1983,7 +2200,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-4e280903d7c557c817e23a38",
@@ -2006,30 +2223,69 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 84.6
     },
     {
-      "id": "gdelt-c85058b4221b6a13236c19ed",
-      "title": "Mercato Nantes : Le FC Nantes enregistre le prêt d'un milieu de terrain formé au club (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-nantes-le-fc-nantes-enregistre-le-pret-d-un-milieu-de-terrain-forme-au-club-officiel-537475.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250817100617-6198.jpg",
-      "publishedAt": "2026-09-03T22:13:00.000Z",
-      "category": "transfers",
+      "id": "gdelt-9292adeffcaf967d386d4291",
+      "title": "OL : Nicolas Tagliafico devrait rester, Mathys De Carvalho en partance pour l'Arabie Saoudite",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ol-nicolas-tagliafico-devrait-rester-mathys-de-carvalho-en-partance-pour-larabie-saoudite-955038",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955038/389210/1200-L-ol-nicolas-tagliafico-devrait-rester-mathys-de-carvalho-en-partance-pour-larabie-saoudite.jpg",
+      "publishedAt": "2026-09-03T23:47:00.000Z",
+      "category": "news",
       "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.2
+    },
+    {
+      "id": "gdelt-0830e0b5ac1b48c6c193f9a4",
+      "title": "Nice : deux départs actés à l'étranger, Hicham Boudaoui pourrait rejoindre un autre club de Ligue 1",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/nice-deux-departs-actes-a-letranger-hicham-boudaoui-pourrait-rejoindre-un-autre-club-de-ligue-1-955031",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955031/389207/1200-L-nice-deux-dparts-acts-l-tranger-hicham-boudaoui-pourrait-rejoindre-un-autre-club-de-ligue-1.jpg",
+      "publishedAt": "2026-09-03T23:46:00.000Z",
+      "category": "rumors",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
       },
       "teams": [
-        "nantes"
+        "nice"
       ],
       "topics": [
-        "nantes"
+        "nice",
+        "ligue-1"
       ],
-      "reliability": "confirmed",
+      "reliability": "rumor",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 84.2
+    },
+    {
+      "id": "gdelt-89caa55ea19fa2d603e47436",
+      "title": "Foot Français : la nouvelle directrice générale de la LFP devrait être nommée ce vendredi",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/foot-francais-la-nouvelle-directrice-generale-de-la-lfp-devrait-etre-nommee-ce-vendredi-955053",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955053/389216/1200-L-foot-franais-la-nouvelle-directrice-gnrale-de-la-lfp-devrait-tre-nomme-ce-vendredi.jpg",
+      "publishedAt": "2026-09-03T23:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-9b1f67a3633613ab047837fd",
@@ -2055,7 +2311,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.1
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-7f8aff1d002dcd23f036caf7",
@@ -2082,7 +2338,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85
+      "qualityScore": 84.1
+    },
+    {
+      "id": "gdelt-3deda441f67369efd24a7a07",
+      "title": "Mercato : L'ex-Parisien El Chadaille Bitshiabu échappe au RC Lens et signe avec le champion de la Süper Lig (officiel) !",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-l-ex-parisien-el-chadaille-bitshiabu-echappe-au-rc-lens-et-signe-avec-le-champion-de-la-super-lig-officiel-537349.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2023/zoom/l1-20230315101942-2057.jpg",
+      "publishedAt": "2026-09-02T21:20:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "lens"
+      ],
+      "topics": [
+        "lens"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 84
     },
     {
       "id": "gdelt-386adb2700b637099e1f4a19",
@@ -2108,291 +2387,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-3deda441f67369efd24a7a07",
-      "title": "Mercato : L'ex-Parisien El Chadaille Bitshiabu échappe au RC Lens et signe avec le champion de la Süper Lig (officiel) !",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-l-ex-parisien-el-chadaille-bitshiabu-echappe-au-rc-lens-et-signe-avec-le-champion-de-la-super-lig-officiel-537349.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2023/zoom/l1-20230315101942-2057.jpg",
-      "publishedAt": "2026-09-02T21:20:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-008ad66346d4f7a911cb5f7f",
-      "title": "Ligue 1 : le LOSC s'impose contre le cours du jeu à Toulouse, Ueda buteur pour sa première !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/998659",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/998659/407442/1200-L-ligue-1-le-losc-s-impose-contre-le-cours-du-jeu-toulouse-ueda-buteur-pour-sa-premire.jpg",
-      "publishedAt": "2026-09-03T23:06:56.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "lille",
-        "toulouse"
-      ],
-      "topics": [
-        "lille",
-        "toulouse",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-a8eade8d8962c8635f56bab9",
-      "title": "Ligue 1 : le LOSC poursuit sa série folle à l’extérieur à Toulouse et s’empare provisoirement de la première place",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-1-le-losc-poursuit-sa-serie-folle-a-lexterieur-a-toulouse-et-sempare-provisoirement-de-la-premiere-place-955050",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955050/389215/1200-L-ligue-1-le-losc-poursuit-sa-srie-folle-lextrieur-toulouse-et-sempare-provisoirement-de-la-premire-place.jpg",
-      "publishedAt": "2026-09-03T23:05:45.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "lille",
-        "toulouse"
-      ],
-      "topics": [
-        "lille",
-        "toulouse",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-ecd9f1cb7491eb0ace98e375",
-      "title": "PSG : Mika Godts raconte son intégration express",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2788351479689785174-psg-mika-godts-raconte-son-integration-express",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/godts123.jpg",
-      "publishedAt": "2026-09-03T15:02:31.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-10c72a348fd75785f1704ca7",
-      "title": "Mercato Auxerre : Cet ailier de l'AJA rejoint le championnat danois (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-auxerre-cet-ailier-de-l-aja-rejoint-le-championnat-danois-officiel-537345.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/buzz/2022/zoom/-20220602221315-4498.jpg",
-      "publishedAt": "2026-09-02T21:00:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "auxerre"
-      ],
-      "topics": [
-        "auxerre"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-e4c0d6dde9a619562e7460be",
-      "title": "Ligue 3 : freiné à domicile par Valenciennes, Rouen prend la tête provisoire du classement",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-3-freine-a-domicile-par-valenciennes-rouen-prend-la-tete-provisoire-du-classement-955047",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955047/389214/1200-L-ligue-3-frein-domicile-par-valenciennes-rouen-prend-la-tte-provisoire-du-classement.jpg",
-      "publishedAt": "2026-09-03T22:46:24.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "saint-etienne",
-        "valenciennes"
-      ],
-      "topics": [
-        "saint-etienne",
-        "valenciennes",
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-8bf9f10e804478240ef4a249",
-      "title": "Real Madrid : Raul Asencio est en grand danger",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8652252282046207296-real-madrid-raul-asencio-est-en-grand-danger",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/raul-asencio-2526.jpg",
-      "publishedAt": "2026-09-03T14:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-e3668b35716fd11067763b5e",
-      "title": "Le PSG veut prolonger Kvaratskhelia avant les résultats du Ballon d'Or…",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2580804828618606120-le-psg-veut-prolonger-kvaratskhelia-avant-les-resultats-du-ballon-dor",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kvicha-6a7d84f6bf7f5.jpg",
-      "publishedAt": "2026-09-03T14:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-c11719f091ca03dd05d4db2c",
-      "title": "Carlo Ancelotti déjà de retour au Real Madrid",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a961188808967534985-carlo-ancelotti-deja-de-retour-au-real-madrid",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/carlo-ancelotti-2425-3.jpg",
-      "publishedAt": "2026-09-03T14:24:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-9d58dc36329ed94a4c2a6357",
-      "title": "Ligue 3 : Bastia se renforce, Le Puy-en-Velay s'offre une légende du RC Grasse",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/ligue-3-bastia-se-renforce-le-puy-en-velay-soffre-une-legende-du-rc-grasse-954976",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954976/389178/1200-L-ligue-3-bastia-se-renforce-le-puy-en-velay-soffre-une-lgende-du-rc-grasse.jpg",
-      "publishedAt": "2026-09-03T00:16:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "saint-etienne"
-      ],
-      "topics": [
-        "saint-etienne",
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-58f5586ce6c43019b940a0fe",
-      "title": "Mercato Auxerre : L'AJA résilie le contrat de cet attaquant (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-auxerre-l-aja-resilie-le-contrat-de-cet-attaquant-officiel-537338.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2024/zoom/l1-20240930091802-8706.jpg",
-      "publishedAt": "2026-09-02T20:25:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "auxerre"
-      ],
-      "topics": [
-        "auxerre"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-c521f754d143ee846d4f1937",
-      "title": "Bayern : la sortie sans détour de Max Eberl sur l'avenir d'Harry Kane",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4029550646819363200-bayern-la-sortie-sans-detour-de-max-eberl-sur-lavenir-dharry-kane",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/harry-kane-2627.jpg",
-      "publishedAt": "2026-09-03T22:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 83.9
     }
   ],
-  "generatedAt": "2026-09-03T23:33:05.751Z",
+  "generatedAt": "2026-09-04T01:24:17.963Z",
   "stale": false
 }
