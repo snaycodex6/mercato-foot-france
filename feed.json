@@ -1,26 +1,56 @@
 {
   "items": [
     {
-      "id": "gdelt-f1766fadc99f308c43479bd4",
-      "title": "Mercato Strasbourg : Le RCSA annonce le départ d'un international (officiel)",
+      "id": "gdelt-7199766c950df632a29a44d0",
+      "title": "PSG : Lucas Hernandez annonce la couleur avant la Ligue des Champions après le revers contre l'AS Monaco",
       "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-strasbourg-le-rcsa-annonce-le-depart-d-un-international-officiel-537607.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2023/zoom/l1-20230701115925-8584.jpg",
-      "publishedAt": "2026-09-04T20:26:00.000Z",
-      "category": "transfers",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-psg-lucas-hernandez-annonce-la-couleur-avant-la-ligue-des-champions-apres-le-revers-contre-l-as-monaco-537619.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260510230142-3694.jpg",
+      "publishedAt": "2026-09-04T21:20:00.000Z",
+      "category": "news",
       "source": {
         "id": "madeinfoot.ouest-france.fr",
         "name": "madeinfoot.ouest-france.fr",
         "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
       "teams": [
-        "strasbourg"
+        "psg",
+        "monaco"
       ],
       "topics": [
-        "strasbourg",
-        "switzerland"
+        "psg",
+        "monaco",
+        "champions-league"
       ],
       "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 101.2
+    },
+    {
+      "id": "gdelt-82be2d060a6711e3abe3ba80",
+      "title": "Ligue 2 : le Red Star s'impose, le derby des Alpes pour Annecy, Sochaux et Dijon arrachent le nul…",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-2-le-red-star-simpose-le-derby-des-alpes-pour-annecy-sochaux-et-dijon-arrachent-le-nul-955140",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955140/389261/1200-L-ligue-2-le-red-star-simpose-le-derby-des-alpes-pour-annecy-sochaux-et-dijon-arrachent-le-nul.jpg",
+      "publishedAt": "2026-09-05T00:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "annecy",
+        "red-star",
+        "derby"
+      ],
+      "topics": [
+        "annecy",
+        "red-star",
+        "derby",
+        "ligue-2"
+      ],
+      "reliability": "reported",
       "sourceTier": "recognized",
       "qualityScore": 100.7
     },
@@ -30,7 +60,7 @@
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a9166479183315686328-ligue-2-annecy-provisoirement-2e-apres-sa-victoire-contre-grenoble-le-red-star-bat-laval",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo710543-1920x1080.jpg",
-      "publishedAt": "2026-09-04T20:10:13.000Z",
+      "publishedAt": "2026-09-04T23:02:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -52,7 +82,57 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.6
+      "qualityScore": 100.1
+    },
+    {
+      "id": "gdelt-f1766fadc99f308c43479bd4",
+      "title": "Mercato Strasbourg : Le RCSA annonce le départ d'un international (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-strasbourg-le-rcsa-annonce-le-depart-d-un-international-officiel-537607.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2023/zoom/l1-20230701115925-8584.jpg",
+      "publishedAt": "2026-09-04T20:26:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "strasbourg"
+      ],
+      "topics": [
+        "strasbourg",
+        "switzerland"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 99.8
+    },
+    {
+      "id": "gdelt-2d5ac4a114d3c5d047304533",
+      "title": "Ligue 1 : Strasbourg envoie Sylla en Turquie, Robin quitte Le Mans",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-1-strasbourg-envoie-sylla-en-turquie-milan-quitte-le-mans-955141",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955141/389262/1200-L-ligue-1-strasbourg-envoie-sylla-en-turquie-milan-quitte-le-mans.jpg",
+      "publishedAt": "2026-09-05T00:17:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "strasbourg",
+        "le-mans"
+      ],
+      "topics": [
+        "strasbourg",
+        "le-mans",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 99.7
     },
     {
       "id": "gdelt-b920c5e36dcec8577ead016f",
@@ -79,7 +159,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99.6
+      "qualityScore": 98.7
     },
     {
       "id": "gdelt-c9aa8e459cd2e812ef467bf5",
@@ -107,7 +187,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.1
+      "qualityScore": 98.2
     },
     {
       "id": "gdelt-09e68886e36dc97584156360",
@@ -131,7 +211,33 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99
+      "qualityScore": 98
+    },
+    {
+      "id": "gdelt-7c0e3bf56ceefa9e6d258803",
+      "title": "Monaco conserve la tête de la Ligue 1 et enfonce le PSG dans le doute",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/monaco-conserve-la-tete-de-la-ligue-1-et-enfonce-le-psg-dans-le-doute-955142",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955142/389263/1200-L-monaco-conserve-la-tte-de-la-ligue-1-et-enfonce-le-psg-dans-le-doute.jpg",
+      "publishedAt": "2026-09-05T00:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "monaco"
+      ],
+      "topics": [
+        "psg",
+        "monaco",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.7
     },
     {
       "id": "gdelt-a36e701ade82645a48e3935a",
@@ -156,7 +262,85 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.3
+      "qualityScore": 96.4
+    },
+    {
+      "id": "gdelt-54c06f0fa0352c5e767f9b46",
+      "title": "Premier League : Liverpool s'impose à Ipswich pour la première de Bradley Barcola",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2917288447650685030-premier-league-liverpool-simpose-a-ipswich-pour-la-premiere-de-bradley-barcola",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour721488-1920x1080.jpg",
+      "publishedAt": "2026-09-04T23:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "liverpool",
+        "ipswich"
+      ],
+      "topics": [
+        "liverpool",
+        "ipswich",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.1
+    },
+    {
+      "id": "gdelt-c3546b56669d5907b3e6a5ad",
+      "title": "Trois hommes interpellés pour l'agression d'un couple après Lyon-Le Havre - Ligue 1 - J2 - Lyon-Le Havre",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/ol-hac-trois-hommes-interpelles-suite-a-lagression-dun-couple",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMDQyMDQ1MDYvSUNPTlNQT1JUXzM3MzQ2MV8wMDAxLTE0MDB4OTMzLmpwZw/300/trois-hommes-interpelles-pour-l-agression-d-un-couple-apres-lyon-le-havre.jpg",
+      "publishedAt": "2026-09-04T23:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "ol",
+        "le-havre"
+      ],
+      "topics": [
+        "ol",
+        "le-havre",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.1
+    },
+    {
+      "id": "gdelt-2bc0ba391d34af89f977c1d1",
+      "title": "Résultat Laval - Red Star (1-2) la 5e journée de Ligue 2 BKT 2026/2027 04/09",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/7195452244929208777-laval-vs-red-star",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-8739455938979179464-3580946646842534872.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "laval",
+        "red-star"
+      ],
+      "topics": [
+        "laval",
+        "red-star",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.1
     },
     {
       "id": "gdelt-be5db8463f76efde96d04b3b",
@@ -179,7 +363,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97
+      "qualityScore": 96
     },
     {
       "id": "gdelt-a4d8b44b3450c03d6575cce7",
@@ -207,7 +391,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.6
+      "qualityScore": 95.7
     },
     {
       "id": "gdelt-844c3ef1dbecf90e9f4f3e0c",
@@ -238,33 +422,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.2
-    },
-    {
-      "id": "gdelt-54c06f0fa0352c5e767f9b46",
-      "title": "Premier League : Liverpool s’impose à Ipswich pour la première de Bradley Barcola",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2917288447650685030-premier-league-liverpool-simpose-a-ipswich-pour-la-premiere-de-bradley-barcola",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour721488-1920x1080.jpg",
-      "publishedAt": "2026-09-04T20:54:43.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "liverpool",
-        "ipswich"
-      ],
-      "topics": [
-        "liverpool",
-        "ipswich",
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 96
+      "qualityScore": 95.2
     },
     {
       "id": "gdelt-c6658480cfd74462d9a3ba69",
@@ -290,7 +448,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.6
+      "qualityScore": 94.7
     },
     {
       "id": "gdelt-d94fa253d2e611aea3b66f09",
@@ -316,7 +474,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
+      "qualityScore": 94.5
     },
     {
       "id": "gdelt-ed3fe0d2b4b1ee47327a8a66",
@@ -342,7 +500,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
+      "qualityScore": 94.4
     },
     {
       "id": "gdelt-184767abf69a89654a9f5abd",
@@ -367,7 +525,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 94.3
     },
     {
       "id": "gdelt-ab5d71de1576ee7a45cf4b43",
@@ -390,7 +548,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 94.2
     },
     {
       "id": "gdelt-18296d80a70cec1935bf840b",
@@ -415,7 +573,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 94.2
     },
     {
       "id": "gdelt-a2e3fa002db57f0f3fae465d",
@@ -440,7 +598,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.7
+      "qualityScore": 93.8
     },
     {
       "id": "gdelt-cf035fbf697e33a5a9146966",
@@ -466,7 +624,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 93.7
     },
     {
       "id": "gdelt-822cc2bed0b7b1df79738bf6",
@@ -492,7 +650,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.4
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-f01b4f584f9b044edbeff610",
@@ -518,7 +676,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.4
     },
     {
       "id": "gdelt-ec4d4f955409830788814008",
@@ -542,7 +700,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 93.2
     },
     {
       "id": "gdelt-18502225e221f815cdf895f0",
@@ -567,7 +725,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-de339d3ac3f0ed43e52a63a9",
@@ -590,7 +748,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.7
+      "qualityScore": 92.8
     },
     {
       "id": "gdelt-341ca9367723c1d4e871bb01",
@@ -615,7 +773,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-b82bac444516d7ab6c04de26",
@@ -638,7 +796,131 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.4
+      "qualityScore": 92.4
+    },
+    {
+      "id": "gdelt-a1eafbe69d50f19f75bfea6c",
+      "title": "Les notes de PSG-Monaco",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/ligue-1-les-tops-et-les-flops-de-psg-monaco",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/04233422/14620131-1400x933.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "psg",
+        "monaco"
+      ],
+      "topics": [
+        "psg",
+        "monaco"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.1
+    },
+    {
+      "id": "gdelt-31ecfbf7a39148b00e049fd1",
+      "title": "Luis Enrique : « On méritait clairement la victoire » - Ligue 1 - J3 - Paris-SG-Monaco (1-2)",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/luis-enrique-apres-la-defaite-du-psg-face-a-monaco-on-meritait-clairement-la-victoire",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/04233602/14620336-1400x933.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "monaco"
+      ],
+      "topics": [
+        "monaco",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.1
+    },
+    {
+      "id": "gdelt-57e912ec7095cbf572cb2ef5",
+      "title": "Monaco renverse le PSG et prend la tête du championnat",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/ligue-1-monaco-surprend-le-psg-et-prend-la-tete-du-championnat",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/04225623/14620262-1400x933.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "psg",
+        "monaco"
+      ],
+      "topics": [
+        "psg",
+        "monaco"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.1
+    },
+    {
+      "id": "gdelt-d3e6094c613bc418d5ab5dde",
+      "title": "L1 : Monaco renverse le PSG !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3601535779245302425-l1-monaco-renverse-le-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/psg-monaco-6a9b2ed8a7c80.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "monaco"
+      ],
+      "topics": [
+        "psg",
+        "monaco"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.1
+    },
+    {
+      "id": "gdelt-c3e989c6d6236054b5532500",
+      "title": "Liverpool et Alexander Isak se font plaisir à Ipswich",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/premier-league-grace-a-un-double-dalexander-isak-liverpool-se-fait-plaisir-a-ipswich",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/04214903/14619084-1400x876.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "liverpool",
+        "ipswich"
+      ],
+      "topics": [
+        "liverpool",
+        "ipswich"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-479aac25f26bac8ffd0da600",
@@ -665,7 +947,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-96b1560d118b4c27f4a1b4e1",
@@ -690,7 +972,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-a161e4f8376e8c28d7527607",
@@ -714,7 +996,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-2465d945600c197cea7481a1",
@@ -739,7 +1021,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-834fdf153523d8f2627db7c7",
@@ -762,7 +1044,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-d1cdccd6ceca05ea21eaf4b2",
@@ -787,32 +1069,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
-    },
-    {
-      "id": "gdelt-9c3d6f9b0cffbae057983c12",
-      "title": "PSG - Monaco : les notes du match",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a373871114633939711-psg-monaco-les-notes-du-match",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/psg-monaco-6a9b2ed8a7c80.jpg",
-      "publishedAt": "2026-09-04T21:06:35.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "monaco"
-      ],
-      "topics": [
-        "psg",
-        "monaco"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-345581762ee16a0aee50b122",
@@ -837,7 +1094,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-8b348153602f10eeb119fbae",
@@ -864,7 +1121,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-719d80fee4c96e821708fb25",
@@ -890,7 +1147,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-329852edf2282abe4114531c",
@@ -916,32 +1173,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
-    },
-    {
-      "id": "gdelt-d3e6094c613bc418d5ab5dde",
-      "title": "L1 : Monaco renverse le PSG !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3601535779245302425-l1-monaco-renverse-le-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/psg-monaco-6a9b2ed8a7c80.jpg",
-      "publishedAt": "2026-09-04T21:00:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "monaco"
-      ],
-      "topics": [
-        "psg",
-        "monaco"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-6d124ba2def9e0d6db409308",
@@ -967,7 +1199,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 90.9
     },
     {
       "id": "gdelt-5037621cb37fe20d6c8935e9",
@@ -991,7 +1223,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-eeba563821f46636616b41c9",
@@ -1015,7 +1247,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-7579ab11b7b7ad73bb795164",
@@ -1040,7 +1272,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-c46cc212c6a9575643041613",
@@ -1065,7 +1297,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-ed6aa6588ec96ba830e4390c",
@@ -1089,7 +1321,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-cb2ab6f714cfabefd7178858",
@@ -1114,7 +1346,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-db964d6f93b91b34d0c6b744",
@@ -1138,7 +1370,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-13fcad533defa3ed8832240e",
@@ -1162,7 +1394,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-c468a7f8b8be32bad35fe841",
@@ -1186,7 +1418,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-56972a5bb4aedfd02574af19",
@@ -1212,33 +1444,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
-    },
-    {
-      "id": "gdelt-7199766c950df632a29a44d0",
-      "title": "PSG : Lucas Hernandez annonce la couleur avant la Ligue des Champions après le revers contre l'AS Monaco",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-psg-lucas-hernandez-annonce-la-couleur-avant-la-ligue-des-champions-apres-le-revers-contre-l-as-monaco-537619.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260510230142-3694.jpg",
-      "publishedAt": "2026-09-04T21:20:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "psg",
-        "monaco"
-      ],
-      "topics": [
-        "psg",
-        "monaco",
-        "champions-league"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 90.2
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-6a6ca0521f1b49f972c1040f",
@@ -1261,7 +1467,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 89.2
     },
     {
       "id": "gdelt-c98dfa273fc0ac11f573fd50",
@@ -1288,7 +1494,79 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-391b53326b16a93b0f1e87f0",
+      "title": "Arkema Première Ligue : l'OL Lyonnes lance la saison par une victoire XXL à Fleury",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/foot-feminin/arkema-premiere-ligue-lol-lyonnes-lance-la-saison-par-une-victoire-xxl-a-fleury-955144",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955144/389264/1200-L-arkema-premire-ligue-lol-lyonnes-lance-la-saison-par-une-victoire-xxl-fleury.jpg",
+      "publishedAt": "2026-09-05T00:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "ol"
+      ],
+      "topics": [
+        "ol"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-09335af293664666b2640e4f",
+      "title": "PSG : Luis Enrique, Joao Neves, Pacho… pluie de prolongations à Paris",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/psg-luis-enrique-joao-neves-pacho-pluie-de-prolongations-a-paris-955138",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955138/389259/1200-L-psg-luis-enrique-joao-neves-pacho-pluie-de-prolongations-paris.jpg",
+      "publishedAt": "2026-09-05T00:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
+    },
+    {
+      "id": "gdelt-2c881a53244756626e16c7ea",
+      "title": "Serie A : Assane Diao signe un doublé face à Genoa, Como prend les commandes du championnat",
+      "summary": "Publication référencée chez pressafrik.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.pressafrik.com/Serie-A-Assane-Diao-signe-un-double-face-a-Genoa-Como-prend-les-commandes-du-championnat_a311051.html",
+      "imageURL": "https://www.pressafrik.com/photo/art/grande/97925934-68179154.jpg?v=1788562980",
+      "publishedAt": "2026-09-04T23:31:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "pressafrik.com",
+        "name": "pressafrik.com",
+        "websiteURL": "https://pressafrik.com"
+      },
+      "teams": [
+        "genoa",
+        "como"
+      ],
+      "topics": [
+        "genoa",
+        "como",
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-1c248ee75c1fb14208dd13f0",
@@ -1312,15 +1590,15 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88.3
     },
     {
-      "id": "gdelt-b3626d30f67c886dcb6cc68d",
-      "title": "PSG : la drôle de réponse de Joâo Neves sur sa prolongation",
+      "id": "gdelt-5eb1228df8b46db3c1d9dc7e",
+      "title": "PSG : la confidence de Luis Enrique sur Ousmane Dembélé",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a27038520187747181-psg-la-drole-de-reponse-de-joao-neves-sur-sa-prolongation",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joao-neves-2526.jpg",
-      "publishedAt": "2026-09-04T22:23:19.000Z",
+      "url": "https://www.footmercato.net/a5506933189363689092-psg-la-confidence-de-luis-enrique-sur-ousmane-dembele",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine782480-1920x1080.jpg",
+      "publishedAt": "2026-09-04T23:19:24.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -1335,7 +1613,304 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-200e86494369d3fb7577443f",
+      "title": "PSG : Luis Enrique s’explique sur la mise à l’écart de Lucas Digne",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3196407374140738397-psg-luis-enrique-sexplique-sur-la-mise-a-lecart-de-lucas-digne",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo692558-1920x1080.jpg",
+      "publishedAt": "2026-09-04T23:15:20.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-3ed89fb964a1471471c20543",
+      "title": "PSG : Luis Enrique assume sa part de responsabilité",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7811643738513593229-psg-luis-enrique-assume-sa-part-de-responsabilite",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotosnine782601-1920x1080.jpg",
+      "publishedAt": "2026-09-04T23:09:42.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-4da0d8869bddb30a96e2ca66",
+      "title": "PSG, Luis Enrique : «on a pas de chance en ce moment»",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6673007903886731201-psg-luis-enrique-on-a-pas-de-chance-en-ce-moment",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine032251-1920x1080.jpg",
+      "publishedAt": "2026-09-04T23:05:12.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-0581d52085e89480a1db07ba",
+      "title": "Liga : avec un penalty manqué de Mbappé, le Real Madrid tombe chez le Bétis Seville",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4020306221677805738-liga-avec-un-penalty-manque-de-mbappe-le-real-madrid-tombe-chez-le-betis-seville",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine308753-1920x1080.jpg",
+      "publishedAt": "2026-09-04T23:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-1a48d0307f5baaf57e5aaabe",
+      "title": "Sondage : le PSG va-t-il laisser échapper le titre de champion de France cette saison ? - Sondage",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/sondage-le-psg-va-t-il-laisser-echapper-le-titre-de-champion-de-france-cette-saison",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/04233533/14620702-1400x933.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-b007115b7e225ad7d02616dd",
+      "title": "Les débuts de Bradley Barcola avec Liverpool",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8805953893563762833-les-debuts-de-bradley-barcola-avec-liverpool",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour691878-1920x1080.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "liverpool"
+      ],
+      "topics": [
+        "liverpool"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-fb17e93932ceb56a74cc3174",
+      "title": "Le Real Madrid concède sa première défaite de la saison",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/liga-le-real-madrid-sincline-face-au-betis-kylian-mbappe-rate-le-penalty-de-legalisation",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/04231709/14620493-1400x933.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-b8637083d8e9b52e8224b8bf",
+      "title": "Un club de Premier League pense à Jamie Vardy",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3267248602364325151-un-club-de-premier-league-pense-a-jamie-vardy",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jamie-vardy-2122-3.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-b6c741099d0801471665d4cf",
+      "title": "PSG : Luis Enrique ne peut pas expliquer la défaite",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2571550684260402864-psg-luis-enrique-ne-peut-pas-expliquer-la-defaite",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/luis-enrique-luis-campos-2324.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-fc30ccff8c6623707bbe6c56",
+      "title": "Le PSG prolonge Luis Enrique et cinq joueurs",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/le-paris-saint-germain-prolonge-luis-enrique-et-cinq-joueurs",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/04210454/14564631-1400x933.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-b3626d30f67c886dcb6cc68d",
+      "title": "PSG : la drôle de réponse de Joâo Neves sur sa prolongation",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a27038520187747181-psg-la-drole-de-reponse-de-joao-neves-sur-sa-prolongation",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joao-neves-2526.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-a2c844a9e64b26630b0ac1f1",
+      "title": "Liverpool : la première apparition de Bradley Barcola donne déjà satisfaction",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5151914367489293751-liverpool-la-premiere-apparition-de-bradley-barcola-donne-deja-satisfaction",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/barcola-liverpool.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "liverpool"
+      ],
+      "topics": [
+        "liverpool"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-a6a4c6921687b1b93e0bcae2",
+      "title": "Real Madrid : le loupé hallucinant de Mbappé",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7137103524831373622-real-madrid-le-loupe-hallucinant-de-mbappe",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappereal2026.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-34193c47bca0f24de828f953",
@@ -1358,7 +1933,29 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-1eb5f2383af9872b7ea57122",
+      "title": "Beauvais : ancien joueur de Ligue 1 et de Ligue 2, Sambou Yatabaré est le nouveau président de l'ASBO",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/beauvais-sambou-yatabare-nouveau-president-de-lasbo-955086",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955086/389234/1200-L-beauvais-ancien-joueur-de-ligue-1-et-de-ligue-2-sambou-yatabar-est-le-nouveau-prsident-de-l-asbo.jpg",
+      "publishedAt": "2026-09-04T14:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-c47eed46f85b94ebfee2258f",
@@ -1384,55 +1981,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
-    },
-    {
-      "id": "gdelt-1eb5f2383af9872b7ea57122",
-      "title": "Beauvais : ancien joueur de Ligue 1 et de Ligue 2, Sambou Yatabaré est le nouveau président de l'ASBO",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/beauvais-sambou-yatabare-nouveau-president-de-lasbo-955086",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955086/389234/1200-L-beauvais-ancien-joueur-de-ligue-1-et-de-ligue-2-sambou-yatabar-est-le-nouveau-prsident-de-l-asbo.jpg",
-      "publishedAt": "2026-09-04T14:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-1",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.6
-    },
-    {
-      "id": "gdelt-e8a5934817c8d4d99aec4a26",
-      "title": "Mercato ASSE : Pas de transfert prestigieux à Liverpool pour Djylian N'Guessan, simplement prêté en Ligue 1 (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-asse-pas-de-transfert-prestigieux-a-liverpool-pour-djylian-n-guessan-simplement-prete-en-ligue-1-officiel-537229.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-2/2026/zoom/l2-20260831162610-6373.jpg",
-      "publishedAt": "2026-09-03T12:10:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "liverpool",
-        "saint-etienne"
-      ],
-      "topics": [
-        "liverpool",
-        "saint-etienne",
-        "ligue-1"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-36fd60771e90d5ff85469e07",
@@ -1453,7 +2002,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-6069a9b50753e287954921bf",
@@ -1474,58 +2023,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
-    },
-    {
-      "id": "gdelt-82be2d060a6711e3abe3ba80",
-      "title": "Ligue 2 : le Red Star s’impose, le derby des Alpes pour Annecy, Sochaux et Dijon arrachent le nul…",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-2-le-red-star-simpose-le-derby-des-alpes-pour-annecy-sochaux-et-dijon-arrachent-le-nul-955140",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955140/389261/1200-L-ligue-2-le-red-star-simpose-le-derby-des-alpes-pour-annecy-sochaux-et-dijon-arrachent-le-nul.jpg",
-      "publishedAt": "2026-09-04T21:56:50.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "annecy",
-        "red-star",
-        "derby"
-      ],
-      "topics": [
-        "annecy",
-        "red-star",
-        "derby",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.5
-    },
-    {
-      "id": "gdelt-a2c844a9e64b26630b0ac1f1",
-      "title": "Liverpool : la première apparition de Bradley Barcola donne déjà satisfaction",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5151914367489293751-liverpool-la-premiere-apparition-de-bradley-barcola-donne-deja-satisfaction",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/barcola-liverpool.jpg",
-      "publishedAt": "2026-09-04T21:55:23.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "liverpool"
-      ],
-      "topics": [
-        "liverpool"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-f4ff481c5625f970d86a8252",
@@ -1549,7 +2047,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-0ca4b15dbdb91279b3008b86",
@@ -1575,7 +2073,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.6
+    },
+    {
+      "id": "gdelt-e8a5934817c8d4d99aec4a26",
+      "title": "Mercato ASSE : Pas de transfert prestigieux à Liverpool pour Djylian N'Guessan, simplement prêté en Ligue 1 (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-asse-pas-de-transfert-prestigieux-a-liverpool-pour-djylian-n-guessan-simplement-prete-en-ligue-1-officiel-537229.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-2/2026/zoom/l2-20260831162610-6373.jpg",
+      "publishedAt": "2026-09-03T12:10:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "liverpool",
+        "saint-etienne"
+      ],
+      "topics": [
+        "liverpool",
+        "saint-etienne",
+        "ligue-1"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-58f25ed2ed2a3161090c8292",
@@ -1601,53 +2125,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
-    },
-    {
-      "id": "gdelt-b6c741099d0801471665d4cf",
-      "title": "PSG : Luis Enrique ne peut pas expliquer la défaite",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2571550684260402864-psg-luis-enrique-ne-peut-pas-expliquer-la-defaite",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/luis-enrique-luis-campos-2324.jpg",
-      "publishedAt": "2026-09-04T21:40:49.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.3
-    },
-    {
-      "id": "gdelt-1ed0a170cd9d21f54ec5d26a",
-      "title": "PSG : Lucas Hernandez ne s’affole pas",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3578704648824895795-psg-lucas-hernandez-ne-saffole-pas",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lucas-hernandez-6a8dd4ec2ad48.jpg",
-      "publishedAt": "2026-09-04T21:18:46.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-d36d9e73775ede5a2b50f931",
@@ -1672,7 +2150,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
+    },
+    {
+      "id": "gdelt-1ed0a170cd9d21f54ec5d26a",
+      "title": "PSG : Lucas Hernandez ne s’affole pas",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3578704648824895795-psg-lucas-hernandez-ne-saffole-pas",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lucas-hernandez-6a8dd4ec2ad48.jpg",
+      "publishedAt": "2026-09-04T21:18:46.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-09ea959b3cd4c5745b9bb54f",
@@ -1695,53 +2196,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
-    },
-    {
-      "id": "gdelt-bcb451ee2b1ca2fec3790334",
-      "title": "PSG : João Neves n’est pas content",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5785995350253667513-psg-joao-neves-nest-pas-content",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epaliveeight527846.jpg",
-      "publishedAt": "2026-09-04T21:08:47.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.1
-    },
-    {
-      "id": "gdelt-0581d52085e89480a1db07ba",
-      "title": "Liga : avec un penalty manqué de Mbappé, le Real Madrid tombe chez le Bétis Seville",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4020306221677805738-liga-avec-un-penalty-manque-de-mbappe-le-real-madrid-tombe-chez-le-betis-seville",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine308753-1920x1080.jpg",
-      "publishedAt": "2026-09-04T21:07:10.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-4b22f69bdb0203227b6e2756",
@@ -1766,7 +2221,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-91a2ace8ec58210cb7ffbb1d",
@@ -1790,62 +2245,34 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 87.2
     },
     {
-      "id": "gdelt-b8637083d8e9b52e8224b8bf",
-      "title": "Un club de Premier League pense à Jamie Vardy",
+      "id": "gdelt-8fdd2aa95ec9cb869c870847",
+      "title": "Fofana, Tagliafico, les arrivées… Matthieu Louis-Jean dévoile les coulisses du mercato de l'OL",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3267248602364325151-un-club-de-premier-league-pense-a-jamie-vardy",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jamie-vardy-2122-3.jpg",
-      "publishedAt": "2026-09-04T20:58:59.000Z",
-      "category": "news",
+      "url": "https://www.footmercato.net/a7675570228670672694-fofana-tagliafico-les-arrivees-matthieu-louis-jean-devoile-les-coulisses-du-mercato-de-lol",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/louis-jean.jpg",
+      "publishedAt": "2026-09-04T23:01:00.000Z",
+      "category": "transfers",
       "source": {
         "id": "footmercato.net",
         "name": "footmercato.net",
         "websiteURL": "https://footmercato.net"
       },
       "teams": [],
-      "topics": [
-        "premier-league"
-      ],
+      "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 87.1
     },
     {
-      "id": "gdelt-2d5ac4a114d3c5d047304533",
-      "title": "Ligue 1 : Strasbourg envoie Sylla en Turquie, Robin quitte Le Mans",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/ligue-1-strasbourg-envoie-sylla-en-turquie-milan-quitte-le-mans-955141",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955141/389262/1200-L-ligue-1-strasbourg-envoie-sylla-en-turquie-milan-quitte-le-mans.jpg",
-      "publishedAt": "2026-09-04T22:41:28.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "strasbourg",
-        "le-mans"
-      ],
-      "topics": [
-        "strasbourg",
-        "le-mans",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.8
-    },
-    {
-      "id": "gdelt-b007115b7e225ad7d02616dd",
-      "title": "Les débuts de Bradley Barcola avec Liverpool",
+      "id": "gdelt-bcb451ee2b1ca2fec3790334",
+      "title": "PSG : João Neves n’est pas content",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8805953893563762833-les-debuts-de-bradley-barcola-avec-liverpool",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour691878-1920x1080.jpg",
-      "publishedAt": "2026-09-04T20:34:19.000Z",
+      "url": "https://www.footmercato.net/a5785995350253667513-psg-joao-neves-nest-pas-content",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epaliveeight527846.jpg",
+      "publishedAt": "2026-09-04T21:08:47.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -1853,14 +2280,14 @@
         "websiteURL": "https://footmercato.net"
       },
       "teams": [
-        "liverpool"
+        "psg"
       ],
       "topics": [
-        "liverpool"
+        "psg"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-9b0278430f634b7f696d5466",
@@ -1886,30 +2313,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
-    },
-    {
-      "id": "gdelt-a6a4c6921687b1b93e0bcae2",
-      "title": "Real Madrid : le loupé hallucinant de Mbappé",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7137103524831373622-real-madrid-le-loupe-hallucinant-de-mbappe",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappereal2026.jpg",
-      "publishedAt": "2026-09-04T19:56:09.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-701a3ad142f15ede889fb2cf",
@@ -1932,7 +2336,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-fb92718a92b20515e0313a48",
@@ -1958,7 +2362,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-fa3beff648ca2015675f6b42",
@@ -1981,30 +2385,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
-    },
-    {
-      "id": "gdelt-33161e192b851db6f5a8c4cc",
-      "title": "PSG : les raisons de la mise à l'écart de Lucas Digne par Luis Enrique",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a813660180807184201-psg-les-raisons-de-la-mise-a-lecart-de-lucas-digne-par-luis-enrique",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo692558-1920x1080.jpg",
-      "publishedAt": "2026-09-04T19:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-aa9bbbb8ab1afd5e452840ac",
@@ -2027,7 +2408,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-9578ba333d9f499b08dd0eef",
@@ -2048,7 +2429,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-4236d0c93635763afe2e6ed5",
@@ -2071,382 +2452,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
-    },
-    {
-      "id": "gdelt-3950568a40e17e9bf80f41a0",
-      "title": "Live Betis - Real Madrid (0-0) la 4e journée de Liga 2026/2027 04/09",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/6407021532749067239-real-betis-vs-real-madrid",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-3277762921136746131-437056100178881559.jpg",
-      "publishedAt": "2026-09-04T19:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.4
-    },
-    {
-      "id": "gdelt-ffd5b2f7697a075807be0bc3",
-      "title": "OL - Auxerre : les compositions officielles",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4574074889247528291-ol-auxerre-les-compositions-officielles",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/tolisso-6a724062c2d23.jpg",
-      "publishedAt": "2026-09-04T19:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "auxerre"
-      ],
-      "topics": [
-        "auxerre"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.4
-    },
-    {
-      "id": "gdelt-632f6a08060dc61fbddb1166",
-      "title": "Barcelone : le club franchit pour la première fois le milliard d'euros de revenus",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4997465289830742807-barcelone-le-club-franchit-pour-la-premiere-fois-le-milliard-deuros-de-revenus",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joan-laporta-65a4e95d152e2.jpg",
-      "publishedAt": "2026-09-04T19:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.4
-    },
-    {
-      "id": "gdelt-057286c1345d4824edeb6b11",
-      "title": "OL : Ernest Nuamah savoure son but contre Auxerre",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4276448530840806061-ol-ernest-nuamah-savoure-son-but-contre-auxerre",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/nuamah-6a9b0b5d074a1.jpg",
-      "publishedAt": "2026-09-04T19:27:19.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "auxerre"
-      ],
-      "topics": [
-        "auxerre"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.2
-    },
-    {
-      "id": "gdelt-4c694159a6e7fd2b73809273",
-      "title": "« Ce n'est jamais suffisant » : Mansour Samb, la sensation qui affole les compteurs en Ligue 3",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/mansour-samb-la-sensation-qui-affole-les-compteurs-en-ligue-3-955083",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955083/389233/1200-L--ce-n-est-jamais-suffisant-mansour-samb-la-sensation-qui-affole-les-compteurs-en-ligue-3.jpg",
-      "publishedAt": "2026-09-04T19:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.1
-    },
-    {
-      "id": "gdelt-7d6ec572845438da5faab1c6",
-      "title": "Agressions racistes après OL-Le Havre : trois supporters interpellés après l'agression d'un couple",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/agressions-racistes-apres-ol-le-havre-trois-supporters-interpelles-apres-lagression-dun-couple-955128",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955128/389254/1200-L-agressions-racistes-aprs-ol-le-havre-trois-supporters-interpells-aprs-lagression-dun-couple.jpg",
-      "publishedAt": "2026-09-04T19:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "le-havre"
-      ],
-      "topics": [
-        "le-havre"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.1
-    },
-    {
-      "id": "gdelt-89cb0a810e13287a89fdb518",
-      "title": "Coupe de France : battu lors des deux premiers tours, un club quand même qualifié pour le 3e tour",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-battu-lors-des-deux-premiers-tours-un-club-quand-meme-qualifie-pour-le-3e-tour-955103",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955103/389243/1200-L-coupe-de-france-battu-lors-des-deux-premiers-tours-un-club-quand-mme-qualifi-pour-le-3e-tour.jpg",
-      "publishedAt": "2026-09-04T19:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.1
-    },
-    {
-      "id": "gdelt-b2fa86456fc5082c956200f7",
-      "title": "Martinelli quitte Arsenal pour le projet sportif saoudien",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/mercato-gabriel-martinelli-part-a-al-hilal-contre-70-millions-deuros",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/04115108/13965714-1400x933.jpg",
-      "publishedAt": "2026-09-04T13:17:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "arsenal"
-      ],
-      "topics": [
-        "arsenal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.1
-    },
-    {
-      "id": "gdelt-5ee928b0ec8495c6faa63bc3",
-      "title": "Le Betis surprend le Real Madrid et ouvre le score !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1300309807299245919-suivez-la-rencontre-real-betis-real-madrid-en-direct-commente",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappevini2.jpg",
-      "publishedAt": "2026-09-04T18:50:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.9
-    },
-    {
-      "id": "gdelt-c9be89d2649115cc1447e595",
-      "title": "Stade Rennais. Les programmations des matches contre Lille, Lorient et Toulouse sont connues",
-      "summary": "Publication référencée chez redon.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://redon.maville.com/actu/actudet_-stade-rennais-les-programmations-des-matches-contre-lille-lorient-et-toulouse-sont-connues_fil-7464319_actu.Htm",
-      "imageURL": "https://www.maville.com/photosmvi/2026/09/04/P36110213D7464319G_crop_1080-600_.jpg",
-      "publishedAt": "2026-09-04T16:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "redon.maville.com",
-        "name": "redon.maville.com",
-        "websiteURL": "https://redon.maville.com"
-      },
-      "teams": [
-        "lille",
-        "rennes",
-        "toulouse",
-        "lorient"
-      ],
-      "topics": [
-        "lille",
-        "rennes",
-        "toulouse",
-        "lorient"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 86.9
-    },
-    {
-      "id": "gdelt-3f4ac7b2c257ae82763ce962",
-      "title": "PSG-Monaco : les compositions probables",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8683735107465459761-psg-monaco-les-compositions-probables",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/psg-monaco-6a9a91873d108.jpg",
-      "publishedAt": "2026-09-04T10:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "monaco"
-      ],
-      "topics": [
-        "psg",
-        "monaco"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.9
-    },
-    {
-      "id": "gdelt-84b207d6dceb5db9ad238a32",
-      "title": "Liverpool : Barcola sur le banc mais…",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6410761324716010838-liverpool-barcola-sur-le-banc-mais",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour691878-1920x1080.jpg",
-      "publishedAt": "2026-09-04T18:15:48.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "liverpool"
-      ],
-      "topics": [
-        "liverpool"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.6
-    },
-    {
-      "id": "gdelt-824fa5139975d8d9cee8a56a",
-      "title": "Mohamed Bayo quitte le LOSC",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2432128619484727121-mohamed-bayo-quitte-le-losc",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/bayo-6788dfec25a9f.jpg",
-      "publishedAt": "2026-09-04T12:15:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.6
-    },
-    {
-      "id": "gdelt-2c5813f4ef0b9763de827a16",
-      "title": "Ligue 1 : Thilo Kehrer (Monaco) prêté à l'Ajax, Auxerre annonce une résiliation de contrat",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/ligue-1-thilo-kehrer-monaco-prete-a-lajax-auxerre-annonce-une-resiliation-de-contrat-954942",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/954942/389158/1200-L-ligue-1-thilo-kehrer-monaco-prt-lajax-auxerre-annonce-une-rsiliation-de-contrat.jpg",
-      "publishedAt": "2026-09-03T00:16:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "monaco",
-        "auxerre",
-        "ajax"
-      ],
-      "topics": [
-        "monaco",
-        "auxerre",
-        "ajax",
-        "ligue-1"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 86.6
-    },
-    {
-      "id": "gdelt-8fdd2aa95ec9cb869c870847",
-      "title": "Fofana, Tagliafico, les arrivées… Matthieu Louis-Jean dévoile les coulisses du mercato de l’OL",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7675570228670672694-fofana-tagliafico-les-arrivees-matthieu-louis-jean-devoile-les-coulisses-du-mercato-de-lol",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/louis-jean.jpg",
-      "publishedAt": "2026-09-04T20:00:55.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.5
-    },
-    {
-      "id": "gdelt-abdec9621ee5d5873877a203",
-      "title": "Un joueur du PSG croit en ses chances pour le Ballon d'or",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/psg-fabian-ruiz-admet-rever-du-ballon-dor",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/04193128/14594654-1400x933.jpg",
-      "publishedAt": "2026-09-04T18:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 86.4
     }
   ],
-  "generatedAt": "2026-09-04T23:00:01.979Z",
+  "generatedAt": "2026-09-05T00:52:26.113Z",
   "stale": false
 }
