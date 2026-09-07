@@ -1,6 +1,56 @@
 {
   "items": [
     {
+      "id": "gdelt-d3b82fc73b41f18164c86519",
+      "title": "Serie A : la Juventus s'offre un nul sur le gong contre l'AC Milan",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6195458920798919457-serie-a-la-juventus-soffre-un-nul-sur-le-gong-contre-lac-milan",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kolo-muani-juventus.jpg",
+      "publishedAt": "2026-09-06T22:46:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "juventus",
+        "ac-milan"
+      ],
+      "topics": [
+        "juventus",
+        "ac-milan",
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 99.2
+    },
+    {
+      "id": "gdelt-f40089b7463a42036f04fe27",
+      "title": "Ligue 2 : l'USL Dunkerque annonce la signature de Gaëtan Robail",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-2-lusl-dunkerque-annonce-la-signature-de-gaetan-robail-955300",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955300/389343/1200-L-ligue-2-lusl-dunkerque-annonce-la-signature-de-gatan-robail.jpg",
+      "publishedAt": "2026-09-06T23:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "dunkerque"
+      ],
+      "topics": [
+        "dunkerque",
+        "ligue-2"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 98.6
+    },
+    {
       "id": "gdelt-0dbbbeee6cb275b6cc125959",
       "title": "Arsenal renverse Chelsea pour recoller à Manchester City en tête de la Premier League",
       "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
@@ -26,33 +76,85 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.5
+      "qualityScore": 98.6
     },
     {
-      "id": "gdelt-d3b82fc73b41f18164c86519",
-      "title": "Serie A : la Juventus s’offre un nul sur le gong contre l’AC Milan",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6195458920798919457-serie-a-la-juventus-soffre-un-nul-sur-le-gong-contre-lac-milan",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kolo-muani-juventus.jpg",
-      "publishedAt": "2026-09-06T20:43:22.000Z",
-      "category": "transfers",
+      "id": "gdelt-3469e100230cbda12b3de73c",
+      "title": "U19 National (J3) : le PSG et l'OM en patrons, Angers déchaîné…",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/u19-national-j3-le-psg-et-lom-en-patrons-angers-dechaine-955298",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955298/389342/1200-L-u19-national-j3-le-psg-et-lom-en-patrons-angers-dchan.jpg",
+      "publishedAt": "2026-09-06T23:31:00.000Z",
+      "category": "news",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
       },
       "teams": [
-        "juventus",
-        "ac-milan"
+        "psg",
+        "angers"
       ],
       "topics": [
-        "juventus",
-        "ac-milan",
-        "serie-a"
+        "psg",
+        "angers",
+        "switzerland"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.1
+      "qualityScore": 96.6
+    },
+    {
+      "id": "gdelt-dbcc304efe0f26e47a4aeaa8",
+      "title": "Le Paris FC fait craquer Marseille au terme d'un match fou - Ligue 1 - J3 - OM-Paris FC (2-3)",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/ligue-1-le-paris-fc-fait-craquer-marseille-au-terme-dun-match-fou",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/06224050/14651322-1400x933.jpg",
+      "publishedAt": "2026-09-06T22:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "om",
+        "paris-fc"
+      ],
+      "topics": [
+        "om",
+        "paris-fc",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.1
+    },
+    {
+      "id": "gdelt-44ee1df8922bdae6a42d606e",
+      "title": "Genesio : « On s'est fait contrer comme une équipe de gamins » - Ligue 1 - J3 - Marseille-Paris FC (2-3)",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/ligue-1-bruno-genesio-lentraineur-de-lolympique-de-marseille-tacle-ses-joueurs-apres-la-defaite-face-au-paris-fc",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/01223907/14595663-1400x933.jpg",
+      "publishedAt": "2026-09-06T22:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "om",
+        "paris-fc"
+      ],
+      "topics": [
+        "om",
+        "paris-fc",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.1
     },
     {
       "id": "gdelt-08dd59cdb4e4466ad393604d",
@@ -78,7 +180,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 95.2
     },
     {
       "id": "gdelt-dff496bb2a7ccc9663b0f080",
@@ -104,7 +206,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.7
+      "qualityScore": 94.8
     },
     {
       "id": "gdelt-dcf824750de9b039975a10a1",
@@ -130,7 +232,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.7
+      "qualityScore": 94.7
     },
     {
       "id": "gdelt-da85a22d934a3c5504e72a27",
@@ -156,7 +258,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.7
+      "qualityScore": 94.7
     },
     {
       "id": "gdelt-750816b510fa6f23be36b172",
@@ -182,7 +284,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 94.4
     },
     {
       "id": "gdelt-8cf34223220508b3c0e326d9",
@@ -208,7 +310,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 94.4
     },
     {
       "id": "gdelt-34d67e34cfe5f693e4440ef1",
@@ -234,7 +336,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 94.4
     },
     {
       "id": "gdelt-ab5b24e473a4f9696c2572d6",
@@ -260,7 +362,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.5
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-ebfea6f901c2b798819cd57d",
@@ -286,7 +388,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.4
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-3c8c45bffdcede02333d2034",
@@ -312,7 +414,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.4
     },
     {
       "id": "gdelt-91b86d94dcc9c3b2ced23dcc",
@@ -338,7 +440,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.4
     },
     {
       "id": "gdelt-607a83af070e1cefbb589466",
@@ -364,7 +466,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.4
     },
     {
       "id": "gdelt-c3772129c2bcc8d1fc7447ac",
@@ -390,7 +492,55 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.4
+    },
+    {
+      "id": "gdelt-d49d5cb8a04d14824b6bc8c7",
+      "title": "Ligue 1 : les résultats complets de la 3e journée et le classement",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-1-les-resultats-complets-de-la-3e-journee-et-le-classement-955306",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955306/389347/1200-L-ligue-1-les-rsultats-complets-de-la-3e-journe-et-le-classement.jpg",
+      "publishedAt": "2026-09-06T23:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.6
+    },
+    {
+      "id": "gdelt-8d19e49c8f0a4667f446432d",
+      "title": "ASSE : « Je me suis régalé », Bernard Caïazzo savoure le retour des Verts au premier plan de la Ligue 2",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/asse-je-me-suis-regale-bernard-caiazzo-savoure-le-retour-des-verts-au-premier-plan-de-la-ligue-2-955290",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955290/389339/1200-L-asse-je-me-suis-rgal-bernard-caazzo-savoure-le-retour-des-verts-au-premier-plan-de-la-ligue-2.jpg",
+      "publishedAt": "2026-09-06T23:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-11897fb75e94da346d6b0f5a",
@@ -415,7 +565,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.4
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-baf6d98cf81f941845fbcb66",
@@ -440,7 +590,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.4
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-46095d94d47322703215bcd4",
@@ -466,7 +616,84 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.3
+      "qualityScore": 92.3
+    },
+    {
+      "id": "gdelt-2123689b21fc190b4c3866b7",
+      "title": "L'AC Milan veut se débarrasser de Zlatan Ibrahimović !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6359576561662356766-lac-milan-veut-se-debarrasser-de-zlatan-ibrahimovic",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/zlatan-ibrahimovic-2526.jpg",
+      "publishedAt": "2026-09-06T22:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "ac-milan",
+        "saint-etienne"
+      ],
+      "topics": [
+        "ac-milan",
+        "saint-etienne"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.2
+    },
+    {
+      "id": "gdelt-00ffdaf0be64d1b061a884e8",
+      "title": "Les notes d'OM-Paris FC - Ligue 1 - J3 - OM-Paris FC (2-3)",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/ligue-1-les-tops-et-les-flops-dom-paris-fc",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/06224329/14650804-1400x933.jpg",
+      "publishedAt": "2026-09-06T22:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "paris-fc"
+      ],
+      "topics": [
+        "paris-fc",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.1
+    },
+    {
+      "id": "gdelt-a472e4ca6bc10baa0a9c5510",
+      "title": "Premier League : Arsenal domine Chelsea et rejoint Manchester City",
+      "summary": "Publication référencée chez lenouvelliste.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://lenouvelliste.com/article/271657/premier-league-arsenal-domine-chelsea-et-rejoint-manchester-city",
+      "imageURL": "https://media.lenouvelliste.com/articles/2026-09-06/e7cd91ea-3573-4983-b390-5f481c6b3674.jpg",
+      "publishedAt": "2026-09-06T22:31:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "lenouvelliste.com",
+        "name": "lenouvelliste.com",
+        "websiteURL": "https://lenouvelliste.com"
+      },
+      "teams": [
+        "man-city",
+        "arsenal",
+        "chelsea"
+      ],
+      "topics": [
+        "man-city",
+        "arsenal",
+        "chelsea",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 92.1
     },
     {
       "id": "gdelt-1d82079b093fb25d136ed0bc",
@@ -492,7 +719,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-35108d123336e4876c828d91",
@@ -518,7 +745,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-1620e1736ca5c18e95f34b90",
@@ -544,7 +771,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 91.8
+    },
+    {
+      "id": "gdelt-0a76db5a040f627fbdd7d1ee",
+      "title": "Grâce à un triplé de Sinayoko, le Paris FC s'offre l'OM",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/grace-a-un-triple-de-sinayoko-le-paris-fc-soffre-lom-955305",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955305/389346/1200-L-grce-un-tripl-de-sinayoko-le-paris-fc-soffre-lom.jpg",
+      "publishedAt": "2026-09-06T23:31:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "paris-fc"
+      ],
+      "topics": [
+        "paris-fc"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-e17156bc9ed47220dcf7bad7",
@@ -567,7 +817,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-791b2aedee3649eb0808ca08",
@@ -591,7 +841,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-00f402bf11b45881fcea6c92",
@@ -599,7 +849,7 @@
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a764241740827007445-fiorentina-thiago-motta-rejoint-la-bataille-avec-tudor-et-palladino",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/thiago-motta-67d7ebdd9eab4.jpg",
-      "publishedAt": "2026-09-06T22:00:00.000Z",
+      "publishedAt": "2026-09-06T22:46:00.000Z",
       "category": "transfers",
       "source": {
         "id": "footmercato.net",
@@ -614,32 +864,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
-    },
-    {
-      "id": "gdelt-2123689b21fc190b4c3866b7",
-      "title": "L’AC Milan veut se débarrasser de Zlatan Ibrahimović !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6359576561662356766-lac-milan-veut-se-debarrasser-de-zlatan-ibrahimovic",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/zlatan-ibrahimovic-2526.jpg",
-      "publishedAt": "2026-09-06T20:00:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "ac-milan",
-        "saint-etienne"
-      ],
-      "topics": [
-        "ac-milan",
-        "saint-etienne"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-9fdc41d79d2aefcfa414ca9b",
@@ -664,7 +889,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-c21861ce97a6aeab906306f1",
@@ -688,7 +913,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-a78f39a329a133b777ea3931",
@@ -713,7 +938,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-909f4f43f1ec660f0a74c885",
@@ -735,7 +960,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-c8e93f5908d933a2d830c215",
@@ -760,32 +985,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
-    },
-    {
-      "id": "gdelt-80f29363a65dca68d023917d",
-      "title": "Un ancien Lyonnais fait déjà des misères à Manchester United",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/premier-league-grace-a-maitland-niles-everton-accroche-manchester-united-a-la-derniere-minute",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/06170910/14645918-1400x968.jpg",
-      "publishedAt": "2026-09-06T17:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "ol",
-        "man-united"
-      ],
-      "topics": [
-        "ol",
-        "man-united"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-64d91687aa29f4e6c2e8f92a",
@@ -810,7 +1010,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 89.8
+    },
+    {
+      "id": "gdelt-80f29363a65dca68d023917d",
+      "title": "Un ancien Lyonnais fait déjà des misères à Manchester United",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/premier-league-grace-a-maitland-niles-everton-accroche-manchester-united-a-la-derniere-minute",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/06170910/14645918-1400x968.jpg",
+      "publishedAt": "2026-09-06T17:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "ol",
+        "man-united"
+      ],
+      "topics": [
+        "ol",
+        "man-united"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89.7
     },
     {
       "id": "gdelt-07d0d18a58508504d6bc9566",
@@ -835,7 +1060,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-4bce126a9006d3316edd8f1e",
@@ -860,7 +1085,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-6459913c07495faba42cf951",
@@ -885,7 +1110,35 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 89.4
+    },
+    {
+      "id": "gdelt-d2340785eb6e20b9253c1d6b",
+      "title": "Arsenal renverse Chelsea (2-1) dans le derby londonien et conserve son sans-faute en Premier League",
+      "summary": "Publication référencée chez pressafrik.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.pressafrik.com/Arsenal-renverse-Chelsea-2-1-dans-le-derby-londonien-et-conserve-son-sans-faute-en-Premier-League_a311117.html",
+      "imageURL": "https://www.pressafrik.com/photo/art/grande/97941895-68186435.jpg?v=1788721480",
+      "publishedAt": "2026-09-06T22:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "pressafrik.com",
+        "name": "pressafrik.com",
+        "websiteURL": "https://pressafrik.com"
+      },
+      "teams": [
+        "arsenal",
+        "chelsea",
+        "derby"
+      ],
+      "topics": [
+        "arsenal",
+        "chelsea",
+        "derby",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-76cde06a2ac4dbb9e7a37f0f",
@@ -913,7 +1166,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-0d621efceaa3a4cd12c463a4",
@@ -938,7 +1191,235 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 88.5
+    },
+    {
+      "id": "gdelt-fb9d4844e8fd31c44f0e49fb",
+      "title": "OM - Paris FC : les notes du match",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1487140113957309744-om-paris-fc-les-notes-du-match",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsfrthree243957-1920x1080-6a9dcf5720a4f.jpg",
+      "publishedAt": "2026-09-06T22:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "paris-fc"
+      ],
+      "topics": [
+        "paris-fc"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-b24c9a9f68a2d69bf6d9167d",
+      "title": "Paris FC : l'immense joie de Lassine Sinayoko après son triplé au Vélodrome",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a896481876442244751-paris-fc-limmense-joie-de-lassine-sinayoko-apres-son-triple-au-velodrome",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsfrthree243956-1920x1080.jpg",
+      "publishedAt": "2026-09-06T22:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "paris-fc"
+      ],
+      "topics": [
+        "paris-fc"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-33177689f5ee866de70a50f6",
+      "title": "Paris FC : Sinayoko a battu un record vieux de 20 ans contre l'OM",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a136606514495787702-paris-fc-sinayoko-a-battu-un-record-vieux-de-20-ans-contre-lom",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsfrthree243957-1920x1080.jpg",
+      "publishedAt": "2026-09-06T22:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "paris-fc"
+      ],
+      "topics": [
+        "paris-fc"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-9ceb8e9ec97a747345aa4df3",
+      "title": "OM : Gouiri égalise encore contre le Paris FC grâce à Harit",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5536504266878962169-om-gouiri-egalise-encore-contre-le-paris-fc-grace-a-harit",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo153309.jpg",
+      "publishedAt": "2026-09-06T22:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "paris-fc"
+      ],
+      "topics": [
+        "paris-fc"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-26909a3893139f48612c4b0f",
+      "title": "Fiorentina : Fabio Grosso déjà démis de ses fonctions",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3661480207208743405-fiorentina-fabio-grosso-deja-demis-de-ses-fonctions",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/grosso-653b99661e3f8.jpg",
+      "publishedAt": "2026-09-06T22:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "fiorentina"
+      ],
+      "topics": [
+        "fiorentina"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-d9ca2547405629cc500ed157",
+      "title": "Real Madrid : le penalty de Kylian Mbappé aurait dû être retiré",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1992042986224836702-real-madrid-le-penalty-de-kylian-mbappe-aurait-du-etre-retire",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine308753-1920x1080.jpg",
+      "publishedAt": "2026-09-06T22:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-83c1ccdee5de8c92bc856c13",
+      "title": "Stéphane Richard : « Il fallait tout faire pour garder Paixão » - France - Olympique de Marseille",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/olympique-de-marseille-stephane-richard-il-fallait-tout-faire-pour-garder-paixao",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/08/26181434/14495621-1400x933.jpg",
+      "publishedAt": "2026-09-06T22:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "om"
+      ],
+      "topics": [
+        "om"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-df8a31ec47fec6a1521eb25e",
+      "title": "La Fiorentina n'a déjà plus d'entraîneur",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/serie-a-fabien-grosso-nest-deja-plus-lentraineur-de-la-fiorentina",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/06235050/14627644-1400x933.jpg",
+      "publishedAt": "2026-09-06T22:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "fiorentina"
+      ],
+      "topics": [
+        "fiorentina"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-3d0c70bb7b42c6c80f79cecc",
+      "title": "La Bundesliga a un leader inattendu",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/vainqueur-de-leintracht-francfort-augsbourg-prend-la-tete-de-la-bundesliga-a-la-surprise-generale",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/06204131/14648942-1400x960.jpg",
+      "publishedAt": "2026-09-06T22:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [],
+      "topics": [
+        "bundesliga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-8e296ff7b30c19e4b55088a3",
+      "title": "Le Paris FC, une équipe qu'on a envie d'aimer",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/ligue-1-apres-sa-belle-victoire-a-marseille-le-paris-fc-peut-il-etre-la-belle-surprise-de-cette-saison-en-ligue-1",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/07000637/14650200-1400x933.jpg",
+      "publishedAt": "2026-09-06T22:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "paris-fc"
+      ],
+      "topics": [
+        "paris-fc"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-0dee15ce4b90b19cf87ebf34",
@@ -964,7 +1445,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-c72886e5e149008109d6d8c9",
@@ -990,7 +1471,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88
     },
     {
       "id": "gdelt-81183172d34f3c600b95cce1",
@@ -1014,7 +1495,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-e5caeb3a1db82cfc9d2c15cc",
@@ -1036,7 +1517,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-c3eeae63cbdb66c4091d8ce2",
@@ -1060,7 +1541,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-7420a753ec969b2e20b1fce3",
@@ -1084,7 +1565,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-13414ce0dbf61f85804b8ed6",
@@ -1108,7 +1589,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-a1a6edfcfe9d5eb1ace7f019",
+      "title": "Paris FC : Lees-Melou pointe du doigt le manque d’efficacité",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3848540940527910234-pierre-lees-melou-pointe-du-doigt-le-manque-defficacite-du-paris-fc",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree423757.jpg",
+      "publishedAt": "2026-09-06T21:34:57.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "paris-fc"
+      ],
+      "topics": [
+        "paris-fc"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-b555fbadeea2eb57f00eae8e",
@@ -1134,76 +1638,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
-    },
-    {
-      "id": "gdelt-26909a3893139f48612c4b0f",
-      "title": "Fiorentina : Fabio Grosso déjà démis de ses fonctions",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3661480207208743405-fiorentina-fabio-grosso-deja-demis-de-ses-fonctions",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/grosso-653b99661e3f8.jpg",
-      "publishedAt": "2026-09-06T21:42:03.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "fiorentina"
-      ],
-      "topics": [
-        "fiorentina"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.6
-    },
-    {
-      "id": "gdelt-a1a6edfcfe9d5eb1ace7f019",
-      "title": "Paris FC : Lees-Melou pointe du doigt le manque d’efficacité",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3848540940527910234-pierre-lees-melou-pointe-du-doigt-le-manque-defficacite-du-paris-fc",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree423757.jpg",
-      "publishedAt": "2026-09-06T21:34:57.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "paris-fc"
-      ],
-      "topics": [
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.6
-    },
-    {
-      "id": "gdelt-b24c9a9f68a2d69bf6d9167d",
-      "title": "Paris FC : l’immense joie de Lassine Sinayoko après son triplé au Vélodrome",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a896481876442244751-paris-fc-limmense-joie-de-lassine-sinayoko-apres-son-triple-au-velodrome",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsfrthree243956-1920x1080.jpg",
-      "publishedAt": "2026-09-06T21:25:35.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "paris-fc"
-      ],
-      "topics": [
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-0f25fd2c9dbea68529107346",
@@ -1231,7 +1666,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-6ef266b2d6e041c9214332d5",
@@ -1256,7 +1691,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-ade5e5ad0bf6c719bc306aad",
@@ -1279,7 +1714,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-81d5abf99def54a26f1058da",
@@ -1305,30 +1740,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
-    },
-    {
-      "id": "gdelt-fb9d4844e8fd31c44f0e49fb",
-      "title": "OM - Paris FC : les notes du match",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1487140113957309744-om-paris-fc-les-notes-du-match",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsfrthree243957-1920x1080-6a9dcf5720a4f.jpg",
-      "publishedAt": "2026-09-06T20:53:42.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "paris-fc"
-      ],
-      "topics": [
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-84298f2d55c43e9785228533",
@@ -1351,7 +1763,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-a3699e728b050043e4f613dc",
@@ -1372,7 +1784,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-fae2580beb212d4ad187f9ce",
@@ -1400,53 +1812,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
-    },
-    {
-      "id": "gdelt-33177689f5ee866de70a50f6",
-      "title": "Paris FC : Sinayoko a battu un record vieux de 20 ans contre l’OM",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a136606514495787702-paris-fc-sinayoko-a-battu-un-record-vieux-de-20-ans-contre-lom",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsfrthree243957-1920x1080.jpg",
-      "publishedAt": "2026-09-06T20:09:43.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "paris-fc"
-      ],
-      "topics": [
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.9
-    },
-    {
-      "id": "gdelt-9ceb8e9ec97a747345aa4df3",
-      "title": "OM : Gouiri égalise encore contre le Paris FC grâce à Harit",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5536504266878962169-om-gouiri-egalise-encore-contre-le-paris-fc-grace-a-harit",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo153309.jpg",
-      "publishedAt": "2026-09-06T20:04:27.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "paris-fc"
-      ],
-      "topics": [
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-7b2b126e6f7384bf9c1f7583",
@@ -1467,7 +1833,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-6d236161d96935ddee216df0",
@@ -1490,7 +1856,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-1fb8a89b38077b0ba433b110",
@@ -1513,7 +1879,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-b78aca9e847ce389a9001cf0",
@@ -1536,7 +1902,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-3ce9d9bbd82df12f4d7e14e6",
@@ -1564,7 +1930,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86
     },
     {
       "id": "gdelt-151c7d7d2e11ac8c08ff01af",
@@ -1592,7 +1958,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86
     },
     {
       "id": "gdelt-bedabaf31375a947f7baa0d5",
@@ -1619,7 +1985,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 86
     },
     {
       "id": "gdelt-8861302d25b1ff706c2a07d4",
@@ -1642,7 +2008,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-8d9f53d51e5fd1b4a491d978",
@@ -1665,7 +2031,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-2e8f19547d0c8219e2ec1ee9",
@@ -1688,7 +2054,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-9072a52f2845314942634e32",
@@ -1716,31 +2082,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
-    },
-    {
-      "id": "gdelt-f40089b7463a42036f04fe27",
-      "title": "Ligue 2 : l’USL Dunkerque annonce la signature de Gaëtan Robail",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/ligue-2-lusl-dunkerque-annonce-la-signature-de-gaetan-robail-955300",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955300/389343/1200-L-ligue-2-lusl-dunkerque-annonce-la-signature-de-gatan-robail.jpg",
-      "publishedAt": "2026-09-06T21:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "dunkerque"
-      ],
-      "topics": [
-        "dunkerque",
-        "ligue-2"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-026a05d6fe94ad94b19e0d28",
@@ -1763,7 +2105,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-a6dc1fbc74a70d5941e567ae",
@@ -1786,7 +2128,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-55168c836068794caa8b7031",
@@ -1809,7 +2151,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-d676ad3ff63f2c346d09675d",
@@ -1832,7 +2174,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-edd38db13b6cbefd6972ef55",
@@ -1855,7 +2197,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-54a925df52d025cd5369d7b4",
@@ -1876,7 +2218,59 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 85.4
+    },
+    {
+      "id": "gdelt-d526dfbcf6045d0b92ba8b26",
+      "title": "Le FC Barcelone écrase Valence (0-5) et s'empare de la tête de la Liga après le faux pas du Real Madrid",
+      "summary": "Publication référencée chez pressafrik.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.pressafrik.com/Le-FC-Barcelone-ecrase-Valence-0-5-et-s-empare-de-la-tete-de-la-Liga-apres-le-faux-pas-du-Real-Madrid_a311116.html",
+      "imageURL": "https://www.pressafrik.com/photo/art/grande/97941802-68186431.jpg?v=1788721154",
+      "publishedAt": "2026-09-06T22:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "pressafrik.com",
+        "name": "pressafrik.com",
+        "websiteURL": "https://pressafrik.com"
+      },
+      "teams": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "topics": [
+        "real-madrid",
+        "barcelona",
+        "la-liga"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.1
+    },
+    {
+      "id": "gdelt-88bb76189b061524094c268a",
+      "title": "Ligue 1 : suivre Marseille / Paris FC en direct, live et streaming (+ score en temps réel et résultat final)",
+      "summary": "Publication référencée chez stars-actu.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.stars-actu.fr/2026/09/ligue-1-suivre-marseille-paris-fc-en-direct-live-et-streaming-score-en-temps-reel-et-resultat-final/",
+      "imageURL": "https://www.stars-actu.fr/wp-content/uploads/2023/10/orangevelodrome.jpg",
+      "publishedAt": "2026-09-06T22:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "stars-actu.fr",
+        "name": "stars-actu.fr",
+        "websiteURL": "https://stars-actu.fr"
+      },
+      "teams": [
+        "om",
+        "paris-fc"
+      ],
+      "topics": [
+        "om",
+        "paris-fc",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-f0494094be52698d762d981c",
@@ -1900,7 +2294,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-c4b7c8ba7f64d8f4d6831119",
@@ -1924,7 +2318,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 85
     },
     {
       "id": "gdelt-b6a634479457ab020d08e2bc",
@@ -1954,7 +2348,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-33e302de7cff87e64be395cf",
+      "title": "La revue de presse PSG : Messi, Mbappé, Neymar, Reims, mercato, notes…",
+      "summary": "Publication référencée chez canal-supporters.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://canal-supporters.com/la-revue-de-presse-psg-messi-mbappe-neymar-reims-mercato/",
+      "imageURL": "https://canal-supporters.com/wp-content/uploads/2021/08/Revue-de-presse-psg-21.jpg",
+      "publishedAt": "2026-09-06T23:46:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "canal-supporters.com",
+        "name": "canal-supporters.com",
+        "websiteURL": "https://canal-supporters.com"
+      },
+      "teams": [
+        "psg",
+        "reims"
+      ],
+      "topics": [
+        "psg",
+        "reims"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-92a2e3acc5f02347e32ef0cf",
@@ -1980,7 +2399,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-a11c42e62f1151be4321f1ae",
@@ -2006,7 +2425,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.5
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-e5802c773390ca14547ab95b",
@@ -2036,7 +2455,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-01795bdb4e9f2590b4c2d040",
@@ -2066,411 +2485,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
-    },
-    {
-      "id": "gdelt-0e425a2304209454558c9c68",
-      "title": "L’Inter Milan blinde sa pépite Pio Esposito",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4619777677377818905-linter-milan-blinde-sa-pepite-pio-esposito",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/esposito-2526.jpg",
-      "publishedAt": "2026-09-06T14:15:22.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "inter"
-      ],
-      "topics": [
-        "inter"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-3469e100230cbda12b3de73c",
-      "title": "U19 National (J3) : le PSG et l’OM en patrons, Angers déchaîné…",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/u19-national-j3-le-psg-et-lom-en-patrons-angers-dechaine-955298",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955298/389342/1200-L-u19-national-j3-le-psg-et-lom-en-patrons-angers-dchan.jpg",
-      "publishedAt": "2026-09-06T22:00:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "psg",
-        "angers"
-      ],
-      "topics": [
-        "psg",
-        "angers",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-13a83928edd130393ddd375a",
-      "title": "Le FC Barcelone massacre Valence !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3118607171168090244-suivez-la-rencontre-valence-fc-barcelone-en-direct-commente",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/pedri-2526xx.jpg",
-      "publishedAt": "2026-09-06T14:05:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-894c2c8286e697481e329588",
-      "title": "OM : le groupe retenu pour la réception du Paris FC dévoilé, Igor Paixão bien présent",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/om-le-groupe-retenu-pour-la-reception-du-paris-fc-devoile-igor-paixao-bien-present-955263",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955263/389327/1200-L-om-le-groupe-retenu-pour-la-rception-du-paris-fc-dvoil-igor-paixo-bien-prsent.jpg",
-      "publishedAt": "2026-09-06T14:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "paris-fc"
-      ],
-      "topics": [
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-feb0c2efd4fbedcecef72868",
-      "title": "Ligue 2 : Le Stade de Reims freiné par l'EA Guingamp, le FC Metz en démonstration contre le Rodez AF... le récap des matchs de 14h",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-2-le-stade-de-reims-freine-par-l-ea-guingamp-le-fc-metz-en-demonstration-contre-le-rodez-af-le-recap-des-matchs-de-14h-537683.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-2/2023/zoom/l2-20231031223643-2670.jpg",
-      "publishedAt": "2026-09-05T13:58:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "metz",
-        "reims",
-        "guingamp",
-        "rodez"
-      ],
-      "topics": [
-        "metz",
-        "reims",
-        "guingamp",
-        "rodez",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-da27cf8656c23e3ec8d993a9",
-      "title": "Mercato LOSC : Lille acte le départ d'un attaquant international africain (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-losc-lille-acte-le-depart-d-un-attaquant-international-africain-officiel-537670.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2023/zoom/l1-20230331143952-4670.jpg",
-      "publishedAt": "2026-09-05T12:07:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille",
-        "switzerland"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-4a55791e8dcf48a345bab65f",
-      "title": "Valence - FC Barcelone : les compositions officielles",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5378093650707487643-valence-fc-barcelone-les-compositions-officielles",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rodri-6a9916bb4d0bb.jpg",
-      "publishedAt": "2026-09-06T13:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-1de176c2d018d46c4ae745ae",
-      "title": "LdC : gros coup dur pour l'Inter avant le choc contre le Real Madrid",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4104027676285614289-ldc-gros-coup-dur-pour-linter-avant-le-choc-contre-le-real-madrid",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/di-marco.jpg",
-      "publishedAt": "2026-09-06T13:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-e5d310177546b132619c3cd7",
-      "title": "Live Hambourg - Mayence (0-0) la 2e journée de Bundesliga 2026/2027 06/09",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/9083482747955019205-hambourg-vs-mayence",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-5119126270972744906-8648149757798347380.jpg",
-      "publishedAt": "2026-09-06T13:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "bundesliga"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-3950568a40e17e9bf80f41a0",
-      "title": "Résultat Betis - Real Madrid (1-0) la 4e journée de Liga 2026/2027 04/09",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/6407021532749067239-real-betis-vs-real-madrid",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-3277762921136746131-437056100178881559.jpg",
-      "publishedAt": "2026-09-06T13:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-1379881a1e7c786340ffec17",
-      "title": "Le Bayern Munich jette un sérieux coup de froid sur l'avenir de Michael Olise",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8887058154810644895-le-bayern-munich-jette-un-serieux-coup-de-froid-sur-lavenir-de-michael-olise",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/michael-olise-2627-6a9d5cb3992ad.jpg",
-      "publishedAt": "2026-09-06T13:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bayern"
-      ],
-      "topics": [
-        "bayern"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-3bbf4b65f1e8afa04806909d",
-      "title": "RC Lens : Dino Toppmöller traverse sa première grosse zone de turbulences",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2060724233339173188-rc-lens-dino-toppmoller-traverse-sa-premiere-grosse-zone-de-turbulences",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo712159-1920x1080.jpg",
-      "publishedAt": "2026-09-06T13:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-724362efc8cbb782c69d6498",
-      "title": "Arsenal : la liste complètement dingue des 21 joueurs ciblés cet été !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2611862151582168380-arsenal-la-liste-completement-dingue-des-21-joueurs-cibles-cet-ete",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mikel-arteta-2425.jpg",
-      "publishedAt": "2026-09-06T13:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "arsenal"
-      ],
-      "topics": [
-        "arsenal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-cf8e3d66251fa5d7615bb040",
-      "title": "OM - Paris FC : les compositions probables",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4921424223065222244-om-paris-fc-les-compositions-probables",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/om-pfc.jpg",
-      "publishedAt": "2026-09-06T13:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "paris-fc"
-      ],
-      "topics": [
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-d08678a9118177e3e4db17fd",
-      "title": "OM, Bruno Genesio : «on s’est fait contrer comme une équipe de gamins»",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5520144457527209186-om-bruno-genesio-on-sest-fait-contrer-comme-une-equipe-de-gamins",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo687280-1920x1080.jpg",
-      "publishedAt": "2026-09-06T21:23:30.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.5
-    },
-    {
-      "id": "gdelt-cafbb4f4bbbe818856cd28e2",
-      "title": "Résultat Le Havre - Brest (1-2) la 3e journée de Ligue 1 McDonald's 2026/2027 05/09",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/5942614395347974301-le-havre-vs-brest",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-2389458581552695860-8946530706764738218.jpg",
-      "publishedAt": "2026-09-05T21:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "brest",
-        "le-havre"
-      ],
-      "topics": [
-        "brest",
-        "le-havre",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.5
-    },
-    {
-      "id": "gdelt-d73ef40f6ee78caba304b80d",
-      "title": "Serie A : la Roma renverse l'Atalanta sur le fil",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2208593425947046702-serie-a-la-roma-renverse-latalanta-sur-le-fil",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/matias-soule-2526.jpg",
-      "publishedAt": "2026-09-05T21:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "roma",
-        "atalanta"
-      ],
-      "topics": [
-        "roma",
-        "atalanta",
-        "serie-a"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 84.1
     }
   ],
-  "generatedAt": "2026-09-06T22:26:41.956Z",
+  "generatedAt": "2026-09-07T00:16:45.531Z",
   "stale": false
 }
