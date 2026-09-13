@@ -1,34 +1,6 @@
 {
   "items": [
     {
-      "id": "gdelt-7b674aadbe5ab206dea43156",
-      "title": "Ligue 2 : Nantes rechute à Sochaux, Guingamp s'offre Annecy",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-2/ligue-2-nantes-rechute-a-sochaux-guingamp-renverse-annecy-999499",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/999499/407860/1200-L-ligue-2-nantes-rechute-sochaux-guingamp-renverse-annecy.jpg",
-      "publishedAt": "2026-09-12T16:22:59.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "nantes",
-        "guingamp",
-        "annecy"
-      ],
-      "topics": [
-        "nantes",
-        "guingamp",
-        "annecy",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 100.6
-    },
-    {
       "id": "gdelt-4b3d64154869831d9c1a5822",
       "title": "Auxerre gagne enfin, spectacle à Lorient et le Paris FC et l'OL muets : les résultats du multiplex en Ligue 1",
       "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
@@ -54,7 +26,35 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100.5
+      "qualityScore": 99.6
+    },
+    {
+      "id": "gdelt-7b674aadbe5ab206dea43156",
+      "title": "Ligue 2 : Nantes rechute à Sochaux, Guingamp s'offre Annecy",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-2/ligue-2-nantes-rechute-a-sochaux-guingamp-renverse-annecy-999499",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/999499/407860/1200-L-ligue-2-nantes-rechute-sochaux-guingamp-renverse-annecy.jpg",
+      "publishedAt": "2026-09-12T16:22:59.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "nantes",
+        "guingamp",
+        "annecy"
+      ],
+      "topics": [
+        "nantes",
+        "guingamp",
+        "annecy",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 99.6
     },
     {
       "id": "gdelt-d4576fe03c4cb8f92b1929c8",
@@ -86,7 +86,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100.4
+      "qualityScore": 99.4
     },
     {
       "id": "gdelt-75e06173a22f1beef41804e8",
@@ -116,7 +116,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.8
+      "qualityScore": 98.8
     },
     {
       "id": "gdelt-910066251a2a78b92c5ed6e2",
@@ -144,7 +144,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.6
+      "qualityScore": 98.6
     },
     {
       "id": "gdelt-f6c498a6c77d64198cf0801b",
@@ -175,7 +175,34 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 98.9
+      "qualityScore": 97.9
+    },
+    {
+      "id": "gdelt-c0fca3d4eda90a9b8c25acf8",
+      "title": "Les favoris assurent : le PSG prend le dessus sur Cesson-Rennes, Nantes facile face à Aix-en-Provence en Daikin StarLigue",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Handball/Actualites/Les-favoris-assurent-le-psg-prend-le-dessus-sur-cesson-rennes-nantes-facile-face-a-aix-en-provence-en-daikin-starligue/1718318",
+      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/ferran-sole-a-inscrit-6-buts-f-faugere-l-equipe/1500000002587677/0:0,2000:1333-1200-800-75/77d3a.jpg",
+      "publishedAt": "2026-09-13T01:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [
+        "psg",
+        "rennes",
+        "nantes"
+      ],
+      "topics": [
+        "psg",
+        "rennes",
+        "nantes"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.9
     },
     {
       "id": "gdelt-2181af3aff35f743a782874e",
@@ -201,7 +228,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 95.6
     },
     {
       "id": "gdelt-56141c09a4f79470d4632214",
@@ -229,7 +256,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.5
+      "qualityScore": 95.6
     },
     {
       "id": "gdelt-1b2ad022a34f20a2d8d7900a",
@@ -255,7 +282,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.4
+      "qualityScore": 95.4
     },
     {
       "id": "gdelt-5e4c416b494430d936cf92c4",
@@ -281,7 +308,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.4
+      "qualityScore": 95.4
     },
     {
       "id": "gdelt-ba83011289e36db4ad818c64",
@@ -307,7 +334,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.4
+      "qualityScore": 95.4
     },
     {
       "id": "gdelt-52719f0d2c03744515d2c9e2",
@@ -333,7 +360,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 95.3
     },
     {
       "id": "gdelt-1573526e3ede5ca44f8cacb2",
@@ -359,7 +386,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 95.3
     },
     {
       "id": "gdelt-1689527904f2f142e82c990a",
@@ -385,7 +412,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-583f22cfcefb4ab3615d4d3f",
@@ -410,7 +437,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
+      "qualityScore": 94.4
     },
     {
       "id": "gdelt-e2e946562ab8bf8d7d40e1fe",
@@ -436,7 +463,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 94.1
     },
     {
       "id": "gdelt-f070524275699933a467ad53",
@@ -462,7 +489,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-06b51ae5ac5960bac1648968",
@@ -488,7 +515,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-ee4cd5804a6675922d23d617",
@@ -514,7 +541,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-1490996116678229018bb098",
@@ -540,7 +567,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-6978ec63f746b25e3e39b40b",
@@ -566,7 +593,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-9d06c5876be795c36460f6a0",
@@ -592,7 +619,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-1eddc0c32f0133185ddac84a",
@@ -618,7 +645,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-19914b7c63bc73daaf15f33b",
@@ -644,7 +671,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 93.9
     },
     {
       "id": "gdelt-88ef0bcac44374dd4a7e2976",
@@ -670,7 +697,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.3
     },
     {
       "id": "gdelt-b3b0e611321089ee88a19c07",
@@ -697,7 +724,29 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94
+      "qualityScore": 93.1
+    },
+    {
+      "id": "gdelt-4b7fb2a2bec27aa735f0c194",
+      "title": "C'est l'heure de la revanche : les Bleues en mission contre les États-Unis en finale de la Coupe du monde, deux ans après le crève-coeur des JO de Paris",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Basket/Article/C-est-l-heure-de-la-revanche-les-bleues-en-mission-contre-les-etats-unis-en-finale-de-la-coupe-du-monde-deux-ans-apres-le-creve-coeur-des-jo-de-paris/1718378",
+      "imageURL": "https://www.lequipe.fr/_medias/img-photo-jpg/marine-johannes-dans-ses-oeuvres-face-a-l-allemagne-samedi-a-la-uber-arena-de-berlin-a-reau-l-equipe/1500000002587831/238:279,1726:1272-1200-800-75/06161",
+      "publishedAt": "2026-09-13T01:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [],
+      "topics": [
+        "world-cup",
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-44457995040294094d3b1100",
@@ -722,7 +771,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.9
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-f49b385c0cda3f553184d921",
@@ -748,7 +797,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.3
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-68cef5a3ad39a3220d45b39f",
@@ -774,7 +823,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-a2d7027bc06a3dd2ed97bb3c",
@@ -800,7 +849,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-f9303ef1e0f3ef90cd108a87",
@@ -826,7 +875,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-1e442eb99339021bff6d7e3c",
@@ -852,7 +901,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-86f34fcbee54d8a3985d9ef5",
@@ -878,7 +927,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-f1a669b04601362b7bdd5da6",
@@ -904,7 +953,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-9f499295baeeb15657c3c3cb",
@@ -930,7 +979,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-de021c9c6961a07daa7d2dd9",
@@ -956,7 +1005,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-54b702bdb8d458bffd1519ad",
@@ -978,7 +1027,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-0d64e0d7e04558f3717e9199",
@@ -1000,7 +1049,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-a98b38cfa467c0cfcb422174",
@@ -1022,7 +1071,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-5280bb1c13aa60943ad4b90e",
@@ -1048,7 +1097,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-87e7cc5ce7c893e75aff5ffa",
@@ -1073,7 +1122,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-bf91c3322ce3f1f137f005ae",
@@ -1098,7 +1147,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-3ca68f9118e4e7ddc584bddb",
@@ -1123,7 +1172,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-463fcaad3e4b0d9e2a7b0c1d",
@@ -1147,7 +1196,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-5cb4e4a4e8a8217af6cf5f7e",
@@ -1171,7 +1220,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-5211e1fba64dad669eab6338",
@@ -1196,7 +1245,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-4a1fe8c09a5e1b9ce6ecace1",
@@ -1221,7 +1270,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-f35773f6356042ec4ed3484d",
@@ -1246,7 +1295,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-f624576a16caada1dad6a946",
@@ -1271,7 +1320,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-bbbf746a8ca3961f970d148a",
@@ -1296,7 +1345,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 91
     },
     {
       "id": "gdelt-b12fcf7ae2d0cd590b0623ef",
@@ -1318,7 +1367,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-9887fe73255b6293630fd18a",
@@ -1340,7 +1389,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-4696748ff1e9175823beac68",
@@ -1365,7 +1414,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-af90d37e28e49f64019506b4",
@@ -1390,7 +1439,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-9c059a6de27574f80c40b43f",
@@ -1414,7 +1463,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-2ee39ba0f1bf1b0238702547",
@@ -1439,7 +1488,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-545d0ca85b21220e9ebcbc97",
@@ -1463,7 +1512,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.9
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-3bbc4d506e0e7cc53f1c1920",
@@ -1488,7 +1537,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-5dc78e37b20ddd5bcfcd1737",
@@ -1512,7 +1561,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-43931897adf0a1e13df7ed25",
@@ -1536,7 +1585,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-87a22f245e08f6acc0faa044",
@@ -1561,7 +1610,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-22001206c586cd93a121001f",
@@ -1586,7 +1635,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 89.1
+    },
+    {
+      "id": "gdelt-e68490540082e3baeb48c74a",
+      "title": "États-Unis (F) - France (F), Coupe du monde (F), match en direct le 13-09-2026",
+      "summary": "Publication référencée chez lequipe.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequipe.fr/Basket/match-en-direct/coupe-du-monde-f-2026/etats-unis-f-france-f-live/137651",
+      "imageURL": "https://www.lequipe.fr/_medias/img-direct/Basket/0-1200-800-75/etats-unis-f-jpg",
+      "publishedAt": "2026-09-13T01:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequipe.fr",
+        "name": "lequipe.fr",
+        "websiteURL": "https://lequipe.fr"
+      },
+      "teams": [],
+      "topics": [
+        "world-cup"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-072ae189b4a3ff8a2ecda491",
@@ -1615,7 +1685,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 89.8
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-25337645115d92b8585fe92e",
@@ -1641,7 +1711,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-29eef6e6ddc8941dd95acf9d",
@@ -1662,7 +1732,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-dc5bec89a8e8d82c3f8e8f4d",
@@ -1686,7 +1756,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-ba4ff5795777a1123e05a85f",
@@ -1710,7 +1780,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-f063d318dcd596b34fc29ded",
@@ -1734,7 +1804,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-9ea66017395ded7dfccb1668",
@@ -1760,7 +1830,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-a5b0c19a6faf93b3f5cf0020",
@@ -1786,7 +1856,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-0a4d57d00643fb0963a40d6b",
@@ -1812,7 +1882,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 88
     },
     {
       "id": "gdelt-d12a0b317db4a270cbd6cd7a",
@@ -1838,7 +1908,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-8e2982d48924665a96955c8f",
@@ -1864,7 +1934,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-19b18303707854a3e4d5c4a0",
@@ -1885,7 +1955,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-012885204614c349dfa2b83c",
@@ -1906,7 +1976,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-4556d8ab271c894647cc81cb",
@@ -1927,7 +1997,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-85162d16b19e90e65dcaa009",
@@ -1950,7 +2020,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-08fd5b8800b8c4e1220fd984",
@@ -1971,7 +2041,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-552afabef23f3641c90f0a75",
@@ -1994,7 +2064,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-b0a2dc67ef5b3bc55e63389e",
@@ -2017,7 +2087,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-9a0a43732f4335777f8878bc",
@@ -2038,7 +2108,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-6500c15c29f8ca8e096eb2bf",
@@ -2061,7 +2131,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-0fdf1b864a3e368fbc85add8",
@@ -2084,7 +2154,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-8e6fbe18ff937222c20e5eb6",
@@ -2105,7 +2175,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-41f11143c2cf85326224b8e5",
@@ -2129,7 +2199,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-c64fc7b880c63a70801bf280",
@@ -2150,7 +2220,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-87b61170949ce6274b16f10e",
@@ -2171,7 +2241,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-719aafb69e05bb6ad52cb9dd",
@@ -2192,7 +2262,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-b71682a6f38697c1c3b67535",
@@ -2216,7 +2286,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-efa9e1ea6616ad0f03d54778",
@@ -2240,7 +2310,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-89990b760201060c0e033c07",
@@ -2265,7 +2335,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-2dfb05b55dde518a0d25810e",
@@ -2289,7 +2359,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-bd2cfc338190e0281dbcb637",
@@ -2312,7 +2382,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-7351e3366f4493399941c96b",
@@ -2333,7 +2403,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-06c0943c77f693826fec0b3a",
@@ -2356,7 +2426,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-f010e9cd9115bc52f9861710",
@@ -2379,7 +2449,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-9d34aad92d1ba9ea770253d4",
@@ -2402,78 +2472,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
-    },
-    {
-      "id": "gdelt-d33702bfde9205f0cdcaaa34",
-      "title": "Liverpool : les mots de Jérémy Jacquet sur le travail défensif de Bradley Barcola",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2458898066332054821-liverpool-les-mots-de-jeremy-jacquet-sur-le-travail-defensif-de-bradley-barcola",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour700597-1920x1080.jpg",
-      "publishedAt": "2026-09-12T19:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "liverpool"
-      ],
-      "topics": [
-        "liverpool"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.9
-    },
-    {
-      "id": "gdelt-8fb84a3e8ee7eaea834329e4",
-      "title": "PSG : les mots de Khvicha Kvaratskhelia sur sa relation avec Luis Enrique",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2398064712957090646-psg-les-mots-de-khvicha-kvaratskhelia-sur-sa-relation-avec-luis-enrique",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kvicha-6a7d84f6bf7f5.jpg",
-      "publishedAt": "2026-09-12T19:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.9
-    },
-    {
-      "id": "gdelt-9676415ff237cea8cd0cb2f0",
-      "title": "Paris FC - OL : les compositions officielles",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a179682972545195783-paris-fc-ol-les-compositions-officielles",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/openda-6a93452e3de67.jpg",
-      "publishedAt": "2026-09-12T19:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "paris-fc"
-      ],
-      "topics": [
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.9
     }
   ],
-  "generatedAt": "2026-09-12T23:14:05.183Z",
+  "generatedAt": "2026-09-13T01:08:37.194Z",
   "stale": false
 }
