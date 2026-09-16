@@ -27,7 +27,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 102.8
+      "qualityScore": 101.6
     },
     {
       "id": "gdelt-a0822f3c8526af4a6842513c",
@@ -55,7 +55,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 102.4
+      "qualityScore": 101.2
     },
     {
       "id": "gdelt-0ac537f9b4203536583c9327",
@@ -63,7 +63,7 @@
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a851145356142290426-league-cup-liverpool-elimine-tottenham-max-dowman-porte-arsenal-contre-ipswich-town",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/design-sans-titre-2026-03-14t204605-006.jpg",
-      "publishedAt": "2026-09-15T20:57:17.000Z",
+      "publishedAt": "2026-09-16T00:31:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -84,7 +84,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100
+      "qualityScore": 100.6
     },
     {
       "id": "gdelt-14aed0e0575d2a47086603f7",
@@ -110,7 +110,34 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99
+      "qualityScore": 97.9
+    },
+    {
+      "id": "gdelt-d20eb20f7706391eac38b969",
+      "title": "PSG : le Stade Rennais passe à l’offensive pour le match retour",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/psg/psg-le-stade-rennais-passe-a-loffensive-pour-le-match-retour-999785",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/999785/408017/1200-L-psg-le-stade-rennais-passe-loffensive-pour-le-match-retour.jpg",
+      "publishedAt": "2026-09-15T23:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "psg",
+        "rennes",
+        "saint-etienne"
+      ],
+      "topics": [
+        "psg",
+        "rennes",
+        "saint-etienne"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.9
     },
     {
       "id": "gdelt-b1a8f0090d19391327810886",
@@ -136,7 +163,34 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.7
+      "qualityScore": 95.5
+    },
+    {
+      "id": "gdelt-0fee9c4963e50a38a91a631d",
+      "title": "Liverpool sort Tottenham, Arsenal se balade",
+      "summary": "Publication référencée chez eurosport.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.eurosport.fr/football/league-cup/2025-2026/carabao-cup-liverpool-sort-tottenham-arsenal-se-balade_sto23337705/story.shtml",
+      "imageURL": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(186x74:188x72)/origin-imgresizer.eurosport.com/2026/09/15/image-36011f1f-712e-40b5-a809-13cb2abebbd1-85-2560-1440.jpeg",
+      "publishedAt": "2026-09-15T20:58:19.902Z",
+      "category": "news",
+      "source": {
+        "id": "eurosport.fr",
+        "name": "eurosport.fr",
+        "websiteURL": "https://eurosport.fr"
+      },
+      "teams": [
+        "liverpool",
+        "arsenal",
+        "tottenham"
+      ],
+      "topics": [
+        "liverpool",
+        "arsenal",
+        "tottenham"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 94.9
     },
     {
       "id": "gdelt-f1a669b04601362b7bdd5da6",
@@ -162,7 +216,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-dcc996527cf08af23ac101f4",
@@ -188,7 +242,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 94.1
+    },
+    {
+      "id": "gdelt-39edab59fc8b2b51adffc115",
+      "title": "Mercato Lens : Le RCL acte le départ de Dino Toppmöller (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-lens-le-rcl-acte-le-depart-de-dino-toppmoller-officiel-538964.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260612093929-5734.jpg",
+      "publishedAt": "2026-09-15T16:22:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "lens"
+      ],
+      "topics": [
+        "lens"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-b56bc653e1f3cbd86f28924c",
@@ -214,30 +291,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.8
-    },
-    {
-      "id": "gdelt-39edab59fc8b2b51adffc115",
-      "title": "Mercato Lens : Le RCL acte le départ de Dino Toppmöller (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-lens-le-rcl-acte-le-depart-de-dino-toppmoller-officiel-538964.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260612093929-5734.jpg",
-      "publishedAt": "2026-09-15T16:22:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 94.7
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-9b8faac2f41e0732089360c4",
@@ -263,7 +317,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.1
     },
     {
       "id": "gdelt-1616c42a71b443cbd0979550",
@@ -286,7 +340,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.3
+      "qualityScore": 93.1
     },
     {
       "id": "gdelt-9b8b221a140f5e5bfeafae79",
@@ -310,7 +364,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-60ec1f4fad804bd7fafa0d81",
@@ -334,7 +388,31 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.9
+      "qualityScore": 92.7
+    },
+    {
+      "id": "gdelt-f881811fe5dfb12771cd948a",
+      "title": "Résultat Al Hilal - Gharafa (2-1) la 1re journée de AFC Champions League 2026/2027 15/09",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/2935078495209896353-al-hilal-vs-al-gharafa",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-3503382006558810326-586003965278353747.jpg",
+      "publishedAt": "2026-09-16T00:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "al-hilal"
+      ],
+      "topics": [
+        "al-hilal",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.6
     },
     {
       "id": "gdelt-36460bf234ff10d32dc10e68",
@@ -364,7 +442,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 93.1
+      "qualityScore": 91.9
     },
     {
       "id": "gdelt-ccc6a3b41a5d1907596ceb2c",
@@ -389,7 +467,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-b33130235b4d3abe2f3a4dd0",
@@ -413,7 +491,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-b3a91e91ba51b8d4a8b35a0f",
@@ -438,7 +516,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.4
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-ed8a83b25052b71df651b8e2",
@@ -463,7 +541,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-401a42664bab4c07c0e478a2",
@@ -488,7 +566,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-958cd16e4f9ea7ded7459f67",
@@ -512,7 +590,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-d22c41835bf71ed6d750e403",
@@ -537,7 +615,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-6c6e6a9af60e8b2a054a468c",
@@ -562,7 +640,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-57db2a2be93ce0304bbad975",
@@ -586,7 +664,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-368d03364bbe78d2a726118f",
@@ -607,7 +685,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-b409fad608862e46ae7c66e9",
@@ -632,7 +710,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 90
     },
     {
       "id": "gdelt-a212fdf53b08661bdbd1909e",
@@ -656,7 +734,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 90
     },
     {
       "id": "gdelt-fa09cd51d5368602f1e4a3b1",
@@ -682,7 +760,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 89.9
     },
     {
       "id": "gdelt-87f900082aa5fa689c4a05e5",
@@ -708,7 +786,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 89.6
     },
     {
       "id": "gdelt-64d66b2e3243026678fde70f",
@@ -731,7 +809,99 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 89.6
+    },
+    {
+      "id": "gdelt-cd9fbc99d209c3371f875a21",
+      "title": "Liga : le Real Madrid s'en tire très bien sur la pelouse d'Elche",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9182868627343905495-liga-le-real-madrid-sen-tire-tres-bien-sur-la-pelouse-delche",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/real-mbappe.jpg",
+      "publishedAt": "2026-09-16T00:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-0fe26c1aefcdfbf3e6bd4bc7",
+      "title": "La statistique catastrophique de Roberto De Zerbi avec Tottenham",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1348147544303898746-la-statistique-catastrophique-de-roberto-de-zerbi-avec-tottenham",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/roberto-de-zerbi-2526-6a5a0dca5744f.jpg",
+      "publishedAt": "2026-09-16T00:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "tottenham"
+      ],
+      "topics": [
+        "tottenham"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-0bd21f1baa841636b01eeeb0",
+      "title": "Real Madrid : José Mourinho réagit à la sortie de Lamine Yamal sur le Ballon d'Or",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2045537953569481192-real-madrid-jose-mourinho-reagit-a-la-sortie-de-lamine-yamal-sur-le-ballon-dor",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lamine-yamal-2627.jpg",
+      "publishedAt": "2026-09-16T00:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-74100f23d934a0caed065092",
+      "title": "Real Madrid : Mbappé, Konaté et Vinicius au cœur d'une grosse polémique en Espagne",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3653337416163790856-real-madrid-mbappe-konate-et-vinicius-au-coeur-dune-grosse-polemique-en-espagne",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappe123-6aa9ba699f707.jpg",
+      "publishedAt": "2026-09-16T00:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-b4a4fc8f365c940978dcd507",
@@ -756,7 +926,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-77602b30af65f0cd7d86b02f",
@@ -780,7 +950,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-399de46e49bc8930a0e21dc6",
@@ -804,7 +974,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-d8c53ad1ec96752261c5b895",
@@ -829,7 +999,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-a58c388fa9a1c20fbfe914a0",
@@ -853,7 +1023,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-892ff104680ef208544ff228",
@@ -878,30 +1048,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
-    },
-    {
-      "id": "gdelt-0fe26c1aefcdfbf3e6bd4bc7",
-      "title": "La statistique catastrophique de Roberto De Zerbi avec Tottenham",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1348147544303898746-la-statistique-catastrophique-de-roberto-de-zerbi-avec-tottenham",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/roberto-de-zerbi-2526-6a5a0dca5744f.jpg",
-      "publishedAt": "2026-09-15T22:33:25.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "tottenham"
-      ],
-      "topics": [
-        "tottenham"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-390a5b4e8c86b3728d96b3d2",
@@ -922,7 +1069,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-3fc1f4d9cdb4feca7b6dd30b",
@@ -943,30 +1090,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
-    },
-    {
-      "id": "gdelt-74100f23d934a0caed065092",
-      "title": "Real Madrid : Mbappé, Konaté et Vinicius au cœur d’une grosse polémique en Espagne",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3653337416163790856-real-madrid-mbappe-konate-et-vinicius-au-coeur-dune-grosse-polemique-en-espagne",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappe123-6aa9ba699f707.jpg",
-      "publishedAt": "2026-09-15T22:15:44.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-5e5454405f5934ae4953bf90",
@@ -987,7 +1111,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-55dc26b8f14872b99012abd8",
@@ -1008,7 +1132,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-97d0e75f6853d941c08299c0",
@@ -1031,7 +1155,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-c4ab5483b0f6ae1dc14e867f",
@@ -1052,7 +1176,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-41cee2692f9d28833acf0892",
@@ -1077,30 +1201,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
-    },
-    {
-      "id": "gdelt-cd9fbc99d209c3371f875a21",
-      "title": "Liga : le Real Madrid s’en tire très bien sur la pelouse d’Elche",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9182868627343905495-liga-le-real-madrid-sen-tire-tres-bien-sur-la-pelouse-delche",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/real-mbappe.jpg",
-      "publishedAt": "2026-09-15T21:30:08.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-9ba73a9070d10e537d7e4231",
@@ -1123,7 +1224,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 87
     },
     {
       "id": "gdelt-c10753c6fd564793d43300d4",
@@ -1146,7 +1247,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-bbd973488e96787fe24e0cdc",
@@ -1169,7 +1270,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-09a106e4794955e4c2e9f8a6",
@@ -1192,7 +1293,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-0fd4b4c28fa5aa5881146de9",
@@ -1213,7 +1314,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-e1012287db45ccdbec8620f8",
@@ -1236,7 +1337,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-f55aaa5e380bccddad7f22a9",
@@ -1259,7 +1360,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-5af7fe97378a04867630b2c1",
@@ -1282,7 +1383,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-c5f945c0c74d0376e0a9837d",
@@ -1303,7 +1404,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-4113bc1e5d7ba3920024e57c",
@@ -1326,7 +1427,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-d05a591a1fce038c8774a12f",
@@ -1351,7 +1452,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 86.4
+    },
+    {
+      "id": "gdelt-ee423f6a4fead17844f0b143",
+      "title": "Real Madrid : « Le moment est arrivé », une légende annonce sa retraite internationale",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/copa-america/real-madrid-le-moment-est-arrive-une-legende-annonce-sa-retraite-internationale-999789",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/999789/408019/1200-L-real-madrid-le-moment-est-arriv-une-lgende-annonce-sa-retraite-internationale.jpg",
+      "publishedAt": "2026-09-15T23:33:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid",
+        "switzerland"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-ecf28943c1404df961687acf",
@@ -1375,7 +1500,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-5be39a9810ad4b9fbf290bb7",
@@ -1401,7 +1526,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-c1f1f0bdff4d1159dbde3e94",
@@ -1424,7 +1549,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 86
     },
     {
       "id": "gdelt-c0b1e21d59c9e35d3b80ffac",
@@ -1448,7 +1573,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-1bb3a0479cba567d3bf26c72",
@@ -1473,7 +1598,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-9cc2a9cb9e7f1c1c465ccfaa",
@@ -1498,7 +1623,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-b7a0d4eb1580cd893f2c0f77",
@@ -1523,7 +1648,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-d7af27a7461aeca8bc5c5ffb",
@@ -1546,7 +1671,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-d8566b44771ae124dad56f63",
@@ -1571,7 +1696,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-88eea5af8db4b67f44778068",
@@ -1595,7 +1720,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-585b8133f42dbd3698913705",
@@ -1614,30 +1739,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
-    },
-    {
-      "id": "gdelt-e2cf9e2e78d8425fb1f41981",
-      "title": "PSG : l’avis émouvant de Maxwell sur Luis Enrique et Luis Campos",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4367853827332526734-psg-lavis-emouvant-de-maxwell-sur-luis-enrique-et-luis-campos",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/sherrer-max.jpg",
-      "publishedAt": "2026-09-15T17:05:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85
     },
     {
       "id": "gdelt-e90c590e3f4faf279a0eb904",
@@ -1661,7 +1763,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 85
+    },
+    {
+      "id": "gdelt-e2cf9e2e78d8425fb1f41981",
+      "title": "PSG : l’avis émouvant de Maxwell sur Luis Enrique et Luis Campos",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4367853827332526734-psg-lavis-emouvant-de-maxwell-sur-luis-enrique-et-luis-campos",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/sherrer-max.jpg",
+      "publishedAt": "2026-09-15T17:05:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-71a84868a72fd6449d0c949a",
@@ -1686,7 +1811,45 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-754a4aecdf995cfa45c768c3",
+      "title": "OM : les supporters interdits de déplacement face à Besiktas",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7132690293095675440-om-les-supporters-interdits-de-deplacement-a-besiktas",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree007279-1.jpg",
+      "publishedAt": "2026-09-16T00:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.6
+    },
+    {
+      "id": "gdelt-cada67fc8cb6603924a3cb5f",
+      "title": "OL : Kaïl Boudache dévoile son plus grand rêve avec l'Algérie",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5641914949120525165-ol-kail-boudache-devoile-son-plus-grand-reve-avec-lalgerie",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree475683.jpg",
+      "publishedAt": "2026-09-16T00:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-481740ee518579f9a2323579",
@@ -1711,7 +1874,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-a263eddbdcb3a5981d50f512",
@@ -1734,7 +1897,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-a62e60918416efaaae76f702",
@@ -1757,7 +1920,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-4baa48a392c9ceca9f4b909c",
@@ -1780,7 +1943,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-7dc0287bc6073cf8c5049acf",
@@ -1803,7 +1966,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-c917ab6d5744ba592e8eb760",
@@ -1826,7 +1989,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-df0457f68223cf6398bf63ad",
@@ -1849,7 +2012,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-282b4365059936677293bdaa",
@@ -1870,7 +2033,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-4b8a25bd47310fb7235a628f",
@@ -1893,7 +2056,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-e187997c21ecbe5b66d64e59",
@@ -1916,7 +2079,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-b0826576dc98dd34a7a554df",
@@ -1946,34 +2109,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-d20eb20f7706391eac38b969",
-      "title": "PSG : le Stade Rennais passe à l’offensive pour le match retour",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/psg/psg-le-stade-rennais-passe-a-loffensive-pour-le-match-retour-999785",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/999785/408017/1200-L-psg-le-stade-rennais-passe-loffensive-pour-le-match-retour.jpg",
-      "publishedAt": "2026-09-15T23:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "psg",
-        "rennes",
-        "saint-etienne"
-      ],
-      "topics": [
-        "psg",
-        "rennes",
-        "saint-etienne"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 84
     },
     {
       "id": "gdelt-11baa10b24297f5196452430",
@@ -1992,7 +2128,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-3137bec1498fadd0a138814d",
@@ -2018,45 +2154,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-754a4aecdf995cfa45c768c3",
-      "title": "OM : les supporters interdits de déplacement face à Besiktas",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7132690293095675440-om-les-supporters-interdits-de-deplacement-a-besiktas",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree007279-1.jpg",
-      "publishedAt": "2026-09-15T22:03:19.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-cada67fc8cb6603924a3cb5f",
-      "title": "OL : Kaïl Boudache dévoile son plus grand rêve avec l’Algérie",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5641914949120525165-ol-kail-boudache-devoile-son-plus-grand-reve-avec-lalgerie",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree475683.jpg",
-      "publishedAt": "2026-09-15T21:57:08.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-2865dea26abe8b2f85a6816e",
@@ -2082,7 +2180,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-3ce3aec7f5066e31303c6bea",
@@ -2108,7 +2206,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-183d21cec59ff4654c82eb64",
@@ -2134,7 +2232,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 83.1
     },
     {
       "id": "gdelt-54ce58833e2dc9989a628833",
@@ -2159,7 +2257,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 83.1
     },
     {
       "id": "gdelt-26ac4c28ee3667d853826498",
@@ -2183,34 +2281,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.1
-    },
-    {
-      "id": "gdelt-0fee9c4963e50a38a91a631d",
-      "title": "Liverpool sort Tottenham, Arsenal se balade",
-      "summary": "Publication référencée chez eurosport.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.eurosport.fr/football/league-cup/2025-2026/carabao-cup-liverpool-sort-tottenham-arsenal-se-balade_sto23337705/story.shtml",
-      "imageURL": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg):focal(186x74:188x72)/origin-imgresizer.eurosport.com/2026/09/15/image-36011f1f-712e-40b5-a809-13cb2abebbd1-85-2560-1440.jpeg",
-      "publishedAt": "2026-09-15T20:58:19.902Z",
-      "category": "news",
-      "source": {
-        "id": "eurosport.fr",
-        "name": "eurosport.fr",
-        "websiteURL": "https://eurosport.fr"
-      },
-      "teams": [
-        "liverpool",
-        "arsenal",
-        "tottenham"
-      ],
-      "topics": [
-        "liverpool",
-        "arsenal",
-        "tottenham"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-dcb8204f462e71549c61aa73",
@@ -2236,7 +2307,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 82.7
     },
     {
       "id": "gdelt-2be8c7ced6d420d8588c8c06",
@@ -2257,7 +2328,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.8
+      "qualityScore": 82.6
     },
     {
       "id": "gdelt-55e7a96ea99b913bcf479334",
@@ -2278,7 +2349,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-eaa3b03e7ebdeba1198e481e",
@@ -2304,7 +2375,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.4
+      "qualityScore": 82.3
     },
     {
       "id": "gdelt-f14f291ed7923149aaa8aa01",
@@ -2325,74 +2396,9 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 83.1
-    },
-    {
-      "id": "gdelt-93041e0dfbf10068dc1de875",
-      "title": "Coupe du Monde 2030 : le Maroc envoie une nouvelle pique à l'Espagne",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6414363527078076931-coupe-du-monde-2030-le-maroc-envoie-une-nouvelle-pique-a-lespagne",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/sans-titre-2023-01-12t212347-101.jpg",
-      "publishedAt": "2026-09-15T11:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "world-cup"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.1
-    },
-    {
-      "id": "gdelt-ec9e0c194fd33ce1f16bf469",
-      "title": "Tottenham : Richarlison s'en prend publiquement à Roberto De Zerbi",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a422636219658360838-tottenham-richarlison-sen-prend-publiquement-a-roberto-de-zerbi",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/richarlison-2324.jpg",
-      "publishedAt": "2026-09-15T11:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "tottenham"
-      ],
-      "topics": [
-        "tottenham"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.1
-    },
-    {
-      "id": "gdelt-882c438d27fcd686b7f07773",
-      "title": "Équipe de France : Jérémy Jacquet présélectionné par Zinédine Zidane",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1779333601233269998-equipe-de-france-jeremy-jacquet-preselectionne-par-zinedine-zidane",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour700597-1920x1080.jpg",
-      "publishedAt": "2026-09-15T11:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.1
+      "qualityScore": 81.9
     }
   ],
-  "generatedAt": "2026-09-15T22:54:58.645Z",
+  "generatedAt": "2026-09-16T01:15:25.973Z",
   "stale": false
 }
