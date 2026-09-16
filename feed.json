@@ -27,7 +27,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 101.6
+      "qualityScore": 99.2
     },
     {
       "id": "gdelt-a0822f3c8526af4a6842513c",
@@ -55,7 +55,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 101.2
+      "qualityScore": 98.8
     },
     {
       "id": "gdelt-0ac537f9b4203536583c9327",
@@ -84,7 +84,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100.6
+      "qualityScore": 98.2
+    },
+    {
+      "id": "gdelt-ee423f6a4fead17844f0b143",
+      "title": "Real Madrid : « Le moment est arrivé », une légende annonce sa retraite internationale",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/copa-america/real-madrid-le-moment-est-arrive-une-legende-annonce-sa-retraite-internationale-999789",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/999789/408019/1200-L-real-madrid-le-moment-est-arriv-une-lgende-annonce-sa-retraite-internationale.jpg",
+      "publishedAt": "2026-09-15T23:33:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid",
+        "switzerland"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 95.7
     },
     {
       "id": "gdelt-14aed0e0575d2a47086603f7",
@@ -110,7 +134,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 97.9
+      "qualityScore": 95.4
     },
     {
       "id": "gdelt-d20eb20f7706391eac38b969",
@@ -137,7 +161,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 93.4
     },
     {
       "id": "gdelt-b1a8f0090d19391327810886",
@@ -163,7 +187,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 93.1
     },
     {
       "id": "gdelt-0fee9c4963e50a38a91a631d",
@@ -190,7 +214,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.9
+      "qualityScore": 92.4
     },
     {
       "id": "gdelt-f1a669b04601362b7bdd5da6",
@@ -216,7 +240,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-dcc996527cf08af23ac101f4",
@@ -242,7 +266,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-39edab59fc8b2b51adffc115",
@@ -265,7 +289,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-b56bc653e1f3cbd86f28924c",
@@ -291,7 +315,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-9b8faac2f41e0732089360c4",
@@ -317,7 +341,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-1616c42a71b443cbd0979550",
@@ -340,7 +364,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-9b8b221a140f5e5bfeafae79",
@@ -364,31 +388,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
-    },
-    {
-      "id": "gdelt-60ec1f4fad804bd7fafa0d81",
-      "title": "Ligue 3 : Amiens annonce la signature d’un premier contrat professionnel, Maxime Blanc quitte Cannes",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/ligue-3-amiens-annonce-la-signature-dun-premier-contrat-professionnel-maxime-blanc-quitte-cannes-956010",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956010/389695/1200-L-ligue-3-amiens-annonce-la-signature-dun-premier-contrat-professionnel-maxime-blanc-quitte-cannes.jpg",
-      "publishedAt": "2026-09-15T06:40:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "amiens"
-      ],
-      "topics": [
-        "amiens",
-        "ligue-3"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 90.4
     },
     {
       "id": "gdelt-f881811fe5dfb12771cd948a",
@@ -412,7 +412,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 90.2
+    },
+    {
+      "id": "gdelt-60ec1f4fad804bd7fafa0d81",
+      "title": "Ligue 3 : Amiens annonce la signature d’un premier contrat professionnel, Maxime Blanc quitte Cannes",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-3-amiens-annonce-la-signature-dun-premier-contrat-professionnel-maxime-blanc-quitte-cannes-956010",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956010/389695/1200-L-ligue-3-amiens-annonce-la-signature-dun-premier-contrat-professionnel-maxime-blanc-quitte-cannes.jpg",
+      "publishedAt": "2026-09-15T06:40:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "amiens"
+      ],
+      "topics": [
+        "amiens",
+        "ligue-3"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-36460bf234ff10d32dc10e68",
@@ -442,7 +466,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 91.9
+      "qualityScore": 89.4
     },
     {
       "id": "gdelt-ccc6a3b41a5d1907596ceb2c",
@@ -467,7 +491,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
+      "qualityScore": 89
     },
     {
       "id": "gdelt-b33130235b4d3abe2f3a4dd0",
@@ -491,7 +515,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-b3a91e91ba51b8d4a8b35a0f",
@@ -516,7 +540,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-dcce88ecc1ee20a82aaef410",
+      "title": "L’OM a réfléchi à déclarer forfait en Ligue Europa…",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7620427015396137363-lom-a-reflechi-a-declarer-forfait-en-ligue-europa",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/om-6aa502c34b1f3.jpg",
+      "publishedAt": "2026-09-16T05:19:31.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "europa-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-ed8a83b25052b71df651b8e2",
@@ -541,7 +586,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-401a42664bab4c07c0e478a2",
@@ -566,7 +611,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-958cd16e4f9ea7ded7459f67",
@@ -590,7 +635,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-d22c41835bf71ed6d750e403",
@@ -615,7 +660,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-6c6e6a9af60e8b2a054a468c",
@@ -640,7 +685,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-368d03364bbe78d2a726118f",
+      "title": "LDC : Les lieux des deux prochaines finales de Ligue des Champions sont connus (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-les-lieux-des-deux-prochaines-finales-de-ligue-des-champions-sont-connus-officiel-538921.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2025/zoom/ldc-20250514174611-3990.jpg",
+      "publishedAt": "2026-09-15T09:30:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [],
+      "topics": [
+        "champions-league"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-57db2a2be93ce0304bbad975",
@@ -664,28 +730,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
-    },
-    {
-      "id": "gdelt-368d03364bbe78d2a726118f",
-      "title": "LDC : Les lieux des deux prochaines finales de Ligue des Champions sont connus (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-les-lieux-des-deux-prochaines-finales-de-ligue-des-champions-sont-connus-officiel-538921.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2025/zoom/ldc-20250514174611-3990.jpg",
-      "publishedAt": "2026-09-15T09:30:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [],
-      "topics": [
-        "champions-league"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-b409fad608862e46ae7c66e9",
@@ -710,7 +755,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-a212fdf53b08661bdbd1909e",
@@ -734,7 +779,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-fa09cd51d5368602f1e4a3b1",
@@ -760,7 +805,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 87.4
+    },
+    {
+      "id": "gdelt-64d66b2e3243026678fde70f",
+      "title": "Mercato Rennes : Un jeune rennais signe son premier contrat professionnel (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-rennes-un-jeune-rennais-signe-son-premier-contrat-professionnel-officiel-538914.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2023/zoom/l1-20231031213823-6345.jpg",
+      "publishedAt": "2026-09-15T08:30:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "rennes"
+      ],
+      "topics": [
+        "rennes"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-87f900082aa5fa689c4a05e5",
@@ -786,30 +854,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
-    },
-    {
-      "id": "gdelt-64d66b2e3243026678fde70f",
-      "title": "Mercato Rennes : Un jeune rennais signe son premier contrat professionnel (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-rennes-un-jeune-rennais-signe-son-premier-contrat-professionnel-officiel-538914.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2023/zoom/l1-20231031213823-6345.jpg",
-      "publishedAt": "2026-09-15T08:30:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "rennes"
-      ],
-      "topics": [
-        "rennes"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-cd9fbc99d209c3371f875a21",
@@ -832,7 +877,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-0fe26c1aefcdfbf3e6bd4bc7",
@@ -855,7 +900,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-0bd21f1baa841636b01eeeb0",
@@ -878,7 +923,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-74100f23d934a0caed065092",
@@ -901,7 +946,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-b4a4fc8f365c940978dcd507",
@@ -926,7 +971,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-77602b30af65f0cd7d86b02f",
@@ -950,7 +995,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-399de46e49bc8930a0e21dc6",
@@ -974,7 +1019,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-d8c53ad1ec96752261c5b895",
@@ -999,7 +1044,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-a58c388fa9a1c20fbfe914a0",
@@ -1023,7 +1068,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-892ff104680ef208544ff228",
@@ -1048,7 +1093,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-390a5b4e8c86b3728d96b3d2",
@@ -1069,7 +1114,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-3fc1f4d9cdb4feca7b6dd30b",
@@ -1090,7 +1135,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-5e5454405f5934ae4953bf90",
@@ -1111,7 +1156,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-55dc26b8f14872b99012abd8",
@@ -1132,7 +1177,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-97d0e75f6853d941c08299c0",
@@ -1155,7 +1200,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-c4ab5483b0f6ae1dc14e867f",
@@ -1176,7 +1221,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-41cee2692f9d28833acf0892",
@@ -1201,7 +1246,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-9ba73a9070d10e537d7e4231",
@@ -1224,7 +1269,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-c10753c6fd564793d43300d4",
@@ -1247,7 +1292,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-bbd973488e96787fe24e0cdc",
@@ -1270,7 +1315,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-09a106e4794955e4c2e9f8a6",
@@ -1293,7 +1338,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-0fd4b4c28fa5aa5881146de9",
@@ -1314,7 +1359,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-e1012287db45ccdbec8620f8",
@@ -1337,7 +1382,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-f55aaa5e380bccddad7f22a9",
@@ -1360,7 +1405,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-5af7fe97378a04867630b2c1",
@@ -1383,7 +1428,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-c5f945c0c74d0376e0a9837d",
@@ -1404,7 +1449,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-4113bc1e5d7ba3920024e57c",
@@ -1427,7 +1472,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-d05a591a1fce038c8774a12f",
@@ -1452,55 +1497,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
-    },
-    {
-      "id": "gdelt-ee423f6a4fead17844f0b143",
-      "title": "Real Madrid : « Le moment est arrivé », une légende annonce sa retraite internationale",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/copa-america/real-madrid-le-moment-est-arrive-une-legende-annonce-sa-retraite-internationale-999789",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/999789/408019/1200-L-real-madrid-le-moment-est-arriv-une-lgende-annonce-sa-retraite-internationale.jpg",
-      "publishedAt": "2026-09-15T23:33:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid",
-        "switzerland"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 86.1
-    },
-    {
-      "id": "gdelt-ecf28943c1404df961687acf",
-      "title": "Barça : la sortie folle de Lamine Yamal sur son obsession pour la Ligue des champions",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-des-champions/barca-la-sortie-folle-de-lamine-yamal-sur-son-obsession-pour-la-ligue-des-champions-999726",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/999726/407985/1200-L-bara-la-sortie-folle-de-lamine-yamal-sur-son-obsession-pour-la-ligue-des-champions.jpg",
-      "publishedAt": "2026-09-15T11:26:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-5be39a9810ad4b9fbf290bb7",
@@ -1526,7 +1523,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-c1f1f0bdff4d1159dbde3e94",
@@ -1549,7 +1546,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 83.6
+    },
+    {
+      "id": "gdelt-ecf28943c1404df961687acf",
+      "title": "Barça : la sortie folle de Lamine Yamal sur son obsession pour la Ligue des champions",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-des-champions/barca-la-sortie-folle-de-lamine-yamal-sur-son-obsession-pour-la-ligue-des-champions-999726",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/999726/407985/1200-L-bara-la-sortie-folle-de-lamine-yamal-sur-son-obsession-pour-la-ligue-des-champions.jpg",
+      "publishedAt": "2026-09-15T11:26:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.6
     },
     {
       "id": "gdelt-c0b1e21d59c9e35d3b80ffac",
@@ -1573,7 +1594,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-1bb3a0479cba567d3bf26c72",
@@ -1598,7 +1619,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-9cc2a9cb9e7f1c1c465ccfaa",
@@ -1623,7 +1644,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-b7a0d4eb1580cd893f2c0f77",
@@ -1648,7 +1669,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-d7af27a7461aeca8bc5c5ffb",
@@ -1671,7 +1692,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 83.1
     },
     {
       "id": "gdelt-d8566b44771ae124dad56f63",
@@ -1696,7 +1717,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 83
     },
     {
       "id": "gdelt-88eea5af8db4b67f44778068",
@@ -1720,7 +1741,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-585b8133f42dbd3698913705",
@@ -1739,7 +1760,30 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 82.5
+    },
+    {
+      "id": "gdelt-e2cf9e2e78d8425fb1f41981",
+      "title": "PSG : l’avis émouvant de Maxwell sur Luis Enrique et Luis Campos",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4367853827332526734-psg-lavis-emouvant-de-maxwell-sur-luis-enrique-et-luis-campos",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/sherrer-max.jpg",
+      "publishedAt": "2026-09-15T17:05:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-e90c590e3f4faf279a0eb904",
@@ -1763,30 +1807,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
-    },
-    {
-      "id": "gdelt-e2cf9e2e78d8425fb1f41981",
-      "title": "PSG : l’avis émouvant de Maxwell sur Luis Enrique et Luis Campos",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4367853827332526734-psg-lavis-emouvant-de-maxwell-sur-luis-enrique-et-luis-campos",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/sherrer-max.jpg",
-      "publishedAt": "2026-09-15T17:05:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-71a84868a72fd6449d0c949a",
@@ -1811,7 +1832,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-754a4aecdf995cfa45c768c3",
@@ -1830,7 +1851,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-cada67fc8cb6603924a3cb5f",
@@ -1849,7 +1870,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-481740ee518579f9a2323579",
@@ -1874,7 +1895,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-a263eddbdcb3a5981d50f512",
@@ -1897,7 +1918,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-a62e60918416efaaae76f702",
@@ -1920,7 +1941,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-4baa48a392c9ceca9f4b909c",
@@ -1943,7 +1964,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-7dc0287bc6073cf8c5049acf",
@@ -1966,7 +1987,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-c917ab6d5744ba592e8eb760",
@@ -1989,7 +2010,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-df0457f68223cf6398bf63ad",
@@ -2012,7 +2033,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-282b4365059936677293bdaa",
@@ -2033,7 +2054,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-4b8a25bd47310fb7235a628f",
@@ -2056,7 +2077,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-e187997c21ecbe5b66d64e59",
@@ -2079,7 +2100,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
+    },
+    {
+      "id": "gdelt-6e0d27c7c07369a2835c3e21",
+      "title": "Coupe de France. Malgré la sortie sur blessure de Kilian Incredule, Vendée Challans Basket a résisté au Cep Lorient",
+      "summary": "Publication référencée chez larochesuryon.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://larochesuryon.maville.com/actu/actudet_-coupe-de-france-malgre-la-sortie-sur-blessure-de-kilian-incredule-vendee-challans-basket-a-resiste-au-cep-lorient_fil-7480359_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/09/15/P36132225D7480359G_crop_1200-675_.jpg",
+      "publishedAt": "2026-09-16T05:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "larochesuryon.maville.com",
+        "name": "larochesuryon.maville.com",
+        "websiteURL": "https://larochesuryon.maville.com"
+      },
+      "teams": [
+        "lorient"
+      ],
+      "topics": [
+        "lorient",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 81.8
     },
     {
       "id": "gdelt-b0826576dc98dd34a7a554df",
@@ -2109,7 +2154,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84
+      "qualityScore": 81.6
     },
     {
       "id": "gdelt-11baa10b24297f5196452430",
@@ -2128,7 +2173,31 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 81.1
+    },
+    {
+      "id": "gdelt-da25f81c9e85482643f39566",
+      "title": "Sturm Graz-Rennes : sur quelle chaîne et à quelle heure voir le match de Ligue Europa",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-europa/sturm-graz-rennes-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-ligue-europa-956074",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956074/389727/1200-L-sturm-graz-rennes-sur-quelle-chane-et-quelle-heure-voir-le-match-de-ligue-europa.jpg",
+      "publishedAt": "2026-09-16T06:21:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "rennes"
+      ],
+      "topics": [
+        "rennes",
+        "europa-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 81
     },
     {
       "id": "gdelt-3137bec1498fadd0a138814d",
@@ -2154,7 +2223,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 81
+    },
+    {
+      "id": "gdelt-0b9b442562fea6a91d9e1368",
+      "title": "L'OM en Turquie, l'OL à Anderlecht, Rennes en Autriche : le programme de la première journée de Ligue Europa",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-europa/lom-en-turquie-lol-a-anderlecht-rennes-en-autriche-le-programme-de-la-premiere-journee-de-ligue-europa-956110",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956110/389743/1200-L-l-om-en-turquie-l-ol-anderlecht-rennes-en-autriche-le-programme-de-la-premire-journe-de-ligue-europa.jpg",
+      "publishedAt": "2026-09-16T06:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "rennes"
+      ],
+      "topics": [
+        "rennes",
+        "europa-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.9
     },
     {
       "id": "gdelt-2865dea26abe8b2f85a6816e",
@@ -2180,7 +2273,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 80.8
     },
     {
       "id": "gdelt-3ce3aec7f5066e31303c6bea",
@@ -2206,7 +2299,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 80.8
     },
     {
       "id": "gdelt-183d21cec59ff4654c82eb64",
@@ -2232,7 +2325,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.1
+      "qualityScore": 80.7
     },
     {
       "id": "gdelt-54ce58833e2dc9989a628833",
@@ -2257,7 +2350,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.1
+      "qualityScore": 80.7
     },
     {
       "id": "gdelt-26ac4c28ee3667d853826498",
@@ -2281,124 +2374,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 82.9
+      "qualityScore": 80.4
     },
     {
-      "id": "gdelt-dcb8204f462e71549c61aa73",
-      "title": "Ligue 2 : Le FC Metz tombe face au Red Star FC 93",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-2-le-fc-metz-tombe-face-au-red-star-fc-93-538892.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-2/2025/zoom/l2-20250104084946-1681.jpg",
-      "publishedAt": "2026-09-14T20:45:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "metz",
-        "red-star"
-      ],
-      "topics": [
-        "metz",
-        "red-star",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.7
-    },
-    {
-      "id": "gdelt-2be8c7ced6d420d8588c8c06",
-      "title": "Hans Hateboer va retourner en Eredivisie",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6840041011238949715-hans-hateboer-va-retourner-en-eredivisie",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/design-sans-titre-2025-11-02t210559-796.jpg",
-      "publishedAt": "2026-09-15T12:30:57.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "eredivisie"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.6
-    },
-    {
-      "id": "gdelt-55e7a96ea99b913bcf479334",
-      "title": "Mercato : un ancien attaquant bien connu de la Ligue 1 change encore de club",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/mercato-un-ancien-attaquant-bien-connu-de-la-ligue-1-change-encore-de-club-955991",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955991/389688/1200-L-mercato-un-ancien-attaquant-bien-connu-de-la-ligue-1-change-encore-de-club.jpg",
-      "publishedAt": "2026-09-15T06:01:00.000Z",
+      "id": "gdelt-f279da2a501117d786b46ad9",
+      "title": "Castelnaudary. Le COC quitte la coupe de France",
+      "summary": "Publication référencée chez ladepeche.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.ladepeche.fr/2026/09/16/le-coc-quitte-la-coupe-de-france-13553369.php",
+      "imageURL": "https://images.ladepeche.fr/api/v1/images/view/6aaa0de140ef51b55b0cfdd1/hd/image.jpg?v=1",
+      "publishedAt": "2026-09-16T04:47:00.000Z",
       "category": "transfers",
       "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
+        "id": "ladepeche.fr",
+        "name": "ladepeche.fr",
+        "websiteURL": "https://ladepeche.fr"
       },
       "teams": [],
       "topics": [
-        "ligue-1"
+        "coupe-de-france"
       ],
       "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.4
-    },
-    {
-      "id": "gdelt-eaa3b03e7ebdeba1198e481e",
-      "title": "Red Star - FC Metz : les compos officielles du choc de Ligue 2 !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-2/red-star-fc-metz-les-compos-officielles-du-choc-de-ligue-2-999704",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/999704/407966/1200-L-red-star-fc-metz-les-compos-officielles-du-choc-de-ligue-2.jpg",
-      "publishedAt": "2026-09-14T19:46:45.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "metz",
-        "red-star"
-      ],
-      "topics": [
-        "metz",
-        "red-star",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.3
-    },
-    {
-      "id": "gdelt-f14f291ed7923149aaa8aa01",
-      "title": "Équipe de France : Zinédine Zidane va dévoiler sa liste des Bleus, quand et où voir l'annonce ?",
-      "summary": "Publication référencée chez stars-actu.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.stars-actu.fr/2026/09/equipe-de-france-zinedine-zidane-va-devoiler-sa-liste-des-bleus-quand-et-ou-voir-lannonce/",
-      "imageURL": "https://www.stars-actu.fr/wp-content/uploads/2026/07/zidaneconf.jpg",
-      "publishedAt": "2026-09-15T21:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "stars-actu.fr",
-        "name": "stars-actu.fr",
-        "websiteURL": "https://stars-actu.fr"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 81.9
+      "qualityScore": 80.3
     }
   ],
-  "generatedAt": "2026-09-16T01:15:25.973Z",
+  "generatedAt": "2026-09-16T06:10:13.585Z",
   "stale": false
 }
