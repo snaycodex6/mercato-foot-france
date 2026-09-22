@@ -1,6 +1,76 @@
 {
   "items": [
     {
+      "id": "gdelt-b026e0ad47bcdf58e1cf0922",
+      "title": "Benfica répond à Porto en se plaignant de l'arbitrage - Liga Portugal - J7 - Porto-Benfica (3-1)",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/liga-portugal-benfica-repond-au-chambrage-de-porto-et-se-plaint-de-larbitrage",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/21163348/14794128-1400x933.jpg",
+      "publishedAt": "2026-09-21T21:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "benfica",
+        "porto"
+      ],
+      "topics": [
+        "benfica",
+        "porto",
+        "liga-portugal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.8
+    },
+    {
+      "id": "gdelt-d73821d15a486bcf933b6367",
+      "title": "Algérie : Nabil Bentaleb forfait avec les Fennecs, une révélation de Ligue 1 pour le remplacer (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-algerie-nabil-bentaleb-forfait-avec-les-fennecs-une-revelation-de-ligue-1-pour-le-remplacer-officiel-539730.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250213150304-3182.jpg",
+      "publishedAt": "2026-09-21T18:20:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [],
+      "topics": [
+        "algeria"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 95.2
+    },
+    {
+      "id": "gdelt-b748e998797ce553b5776aaa",
+      "title": "Officiel – Le PSG précise la blessure de Zaïre-Emery",
+      "summary": "Publication référencée chez parisfans.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.parisfans.fr/autour-du-psg/officiel-le-psg-precise-la-blessure-de-zaire-emery-938663.html",
+      "imageURL": "https://www.parisfans.fr/wp-content/uploads/2026/09/ICONSPORT_374815_0266.jpg",
+      "publishedAt": "2026-09-21T17:12:33.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "parisfans.fr",
+        "name": "parisfans.fr",
+        "websiteURL": "https://parisfans.fr"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 94.6
+    },
+    {
       "id": "gdelt-762d930c9fc3e54447ba70d1",
       "title": "Brésil : Un joueur de Ligue 1 appelé en renfort par Carlo Ancelotti pour la trêve internationale (officiel)",
       "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
@@ -20,7 +90,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-6041ba105f24e7045abc3987",
@@ -44,7 +114,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.9
+      "qualityScore": 94.4
     },
     {
       "id": "gdelt-2533bb967d87f178107f5813",
@@ -70,7 +140,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-c30f120bc709ea716fb2d9e1",
@@ -93,7 +163,31 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 92.2
+    },
+    {
+      "id": "gdelt-4cc1b2f3b25fb2caa837f3d7",
+      "title": "L'OM risque une sanction pour des chants homophobes - Ligue 1 - J5 - OM-PSG (1-2)",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/ligue-1-lom-risque-une-sanction-pour-des-chants-homophobes-a-lencontre-dousmane-dembele-psg",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMjEyMDIxMzkvSUNPTlNQT1JUXzM3NDgxNV8wNjg4LTE0MDB4OTMzLmpwZw/300/l-om-risque-une-sanction-pour-des-chants-homophobes.jpg",
+      "publishedAt": "2026-09-21T21:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-f7d565c9babe0bc744b6851f",
@@ -118,7 +212,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.2
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-d545d0108ca90954023d53f5",
@@ -142,7 +236,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-e638acc7996d595d1cf8d788",
@@ -166,7 +260,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 91.4
     },
     {
       "id": "gdelt-751d942b6cca892f0ae4c10b",
@@ -192,7 +286,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 91.3
+    },
+    {
+      "id": "gdelt-12de03e86e62afae21879bc8",
+      "title": "La Juve signe professionnel le fils d'une de ses légendes - Italie - Juventus",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/le-fils-de-claudio-marchisio-signe-en-professionnel-avec-la-juventus",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/21164441/12901601-1400x815.jpg",
+      "publishedAt": "2026-09-21T21:31:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "juventus"
+      ],
+      "topics": [
+        "juventus"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-1096aaf5d595b9aca2b2315e",
@@ -216,7 +333,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 90.5
     },
     {
       "id": "gdelt-805b3a2e861c65c6ded6e830",
@@ -243,7 +360,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-ab5091c8016d0074a3dae0d5",
@@ -267,7 +384,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 89.8
     },
     {
       "id": "gdelt-733aeadcf45a57b8bd1e3257",
@@ -292,7 +409,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-048c2c1e7c7e27b6bf23c053",
@@ -316,7 +433,74 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.4
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-ed555d2c323be5b502372b0e",
+      "title": "PSG : les mots forts de la mère de Ferran Torres",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2854263414898247562-psg-les-mots-forts-de-la-mere-de-ferran-torres",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/m-28463-1920x1080.jpg",
+      "publishedAt": "2026-09-21T23:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-07676df88a3ca0fec3ad9b10",
+      "title": "PSG : Jérôme Rothen fustige Khvicha Kvaratskhelia",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5187671063533664953-psg-jerome-rothen-fustige-khvicha-kvaratskhelia",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kvicha-6a7d84f6bf7f5.jpg",
+      "publishedAt": "2026-09-21T23:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-884fce0c028a5fe9c451e840",
+      "title": "Christopher Baloukoula sélectionné en équipe de France U17",
+      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.allezpaillade.com/formation/christopher-baloukoula-selectionne-en-equipe-de-france-u17/",
+      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2026/09/68A0C35E-50D2-40CC-A977-93694C43BC3E-380x348.jpeg",
+      "publishedAt": "2026-09-21T22:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "allezpaillade.com",
+        "name": "allezpaillade.com",
+        "websiteURL": "https://allezpaillade.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88
     },
     {
       "id": "gdelt-86aa318a399ba499e5b634f1",
@@ -342,7 +526,99 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 88
+    },
+    {
+      "id": "gdelt-084e50259406568c654aa108",
+      "title": "Dix nouvelles excuses pour justifier les défaites du Real Madrid",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/articles/les-dix-nouvelles-excuses-pour-justifier-les-defaites-du-real-madrid",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/21162722/14785198-1400x933.jpg",
+      "publishedAt": "2026-09-21T21:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-6f7e7ced7d17eeb5d38f37aa",
+      "title": "Un groupe ultra du PSG exclu du Parc des Princes",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/ligue-1-parias-cohortis-groupe-ultra-du-psg-exclu-du-parc-des-princes-apres-une-rixe",
+      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMjEyMjI1MDAvSUNPTlNQT1JUXzM2NzQ1NV8wMDc0LTE0MDB4OTMzLmpwZw/300/un-groupe-ultra-du-psg-exclu-du-parc-des-princes.jpg",
+      "publishedAt": "2026-09-21T21:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
+    },
+    {
+      "id": "gdelt-2eeaf5725ed5bc2648df4056",
+      "title": "L'Atlético signale le harcèlement arbitral de Mourinho et du Real - Liga - J7 - Atlético-Real Madrid (2-1)",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/la-liga-latletico-madrid-chambre-jose-mourinho-et-le-real",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/21181416/14782076-1400x933.jpg",
+      "publishedAt": "2026-09-21T21:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
+    },
+    {
+      "id": "gdelt-9f08fdd43afcf4cc4a8dc53c",
+      "title": "L'OM bientôt privé de deux titulaires ? - France - Olympique de Marseille",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/ligue-1-les-joueurs-de-lom-igor-paixao-et-amine-harit-passeront-des-examens-mardi",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/21174321/14783947-1400x933.jpg",
+      "publishedAt": "2026-09-21T21:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [
+        "om"
+      ],
+      "topics": [
+        "om"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-a97e64b78563a9324dffa5a8",
@@ -363,7 +639,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-4db11c13e3de0367c28d7cc5",
@@ -384,7 +660,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-a5b118aac25eaa8f1bc59993",
@@ -405,7 +681,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-f263563927c8307b3ab9e7db",
@@ -426,7 +702,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-259cfceb4ba45d726ceefb64",
@@ -447,7 +723,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-db7a23e002e22d6b80cce30e",
@@ -472,30 +748,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
-    },
-    {
-      "id": "gdelt-ed555d2c323be5b502372b0e",
-      "title": "PSG : les mots forts de la mère de Ferran Torres",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2854263414898247562-psg-les-mots-forts-de-la-mere-de-ferran-torres",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/m-28463-1920x1080.jpg",
-      "publishedAt": "2026-09-21T20:04:21.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-5b061958ebed643568377eeb",
@@ -518,7 +771,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87
     },
     {
       "id": "gdelt-b9a0c76e6a696a9497c9a038",
@@ -539,7 +792,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87
     },
     {
       "id": "gdelt-5455fa6f68ceebe7ed094b9a",
@@ -562,7 +815,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87
     },
     {
       "id": "gdelt-552ace860bce35b3eab6efd9",
@@ -585,7 +838,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87
     },
     {
       "id": "gdelt-4ade2570c5a3f9acece4df8e",
@@ -606,7 +859,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87
     },
     {
       "id": "gdelt-88acbbd6a9506e07160897eb",
@@ -629,7 +882,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-5c9c9f6f12192bb68fbdcf67",
@@ -652,7 +905,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-97882855cfa8bf9d119e7940",
@@ -677,7 +930,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-de6711f5e02071419a2facfe",
@@ -698,7 +951,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 86.3
+    },
+    {
+      "id": "gdelt-9153e5f10f1909d2aa794998",
+      "title": "Real Madrid : José Mourinho est déjà prêt à sacrifier l’un de ses trois fantastiques !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9069396499892792495-real-madrid-jose-mourinho-est-deja-pret-a-sacrifier-lun-de-ses-trois-fantastiques",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/bmv.jpg",
+      "publishedAt": "2026-09-21T12:15:48.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-a594eb76864961d334ad7633",
@@ -723,30 +999,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
-    },
-    {
-      "id": "gdelt-9153e5f10f1909d2aa794998",
-      "title": "Real Madrid : José Mourinho est déjà prêt à sacrifier l’un de ses trois fantastiques !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9069396499892792495-real-madrid-jose-mourinho-est-deja-pret-a-sacrifier-lun-de-ses-trois-fantastiques",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/bmv.jpg",
-      "publishedAt": "2026-09-21T12:15:48.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 86.1
     },
     {
       "id": "gdelt-168ece8f632ecce61122dd15",
@@ -770,7 +1023,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-cf9c3aa3ea6200675b82e014",
@@ -793,7 +1046,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-2746236bb3d565f51c18c676",
@@ -816,7 +1069,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-8b5a3239a6efb42cea41d09f",
@@ -839,7 +1092,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-86b241b3b9d9a92340ee0a91",
@@ -862,7 +1115,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-723aa74b1c22e9506b8be9c0",
@@ -883,7 +1136,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-0a6769b737bf76cbf1372897",
@@ -906,7 +1159,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-95abf4e8aa93c126f1062a2c",
@@ -927,7 +1180,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-bf1700b080f31568868b3bf6",
@@ -954,7 +1207,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.5
+      "qualityScore": 85
     },
     {
       "id": "gdelt-fdd097284b8687f2d6956a5c",
@@ -975,7 +1228,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-19c90e0da9e955aee39b9983",
@@ -996,7 +1249,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-fa83967fe69c575597bcd91e",
@@ -1019,7 +1272,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-68e488f1775f68a0b78acf99",
@@ -1040,7 +1293,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-5422c9f8b140cb5ba0d784de",
@@ -1066,7 +1319,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-368346e342aafb68a1b5bbc6",
@@ -1092,7 +1345,29 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 84.4
+    },
+    {
+      "id": "gdelt-b233e81571dace9b9110ac3b",
+      "title": "National 1 : Sabri Hattab quitte la Ligue 3 pour l’US Créteil",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/national-1-sabri-hattab-quitte-la-ligue-3-pour-lus-creteil-956620",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956620/390005/1200-L-national-1-sabri-hattab-quitte-la-ligue-3-pour-lus-crteil.jpg",
+      "publishedAt": "2026-09-21T23:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-3",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-2b68aba86372645ecd4bbab7",
@@ -1111,7 +1386,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-c6bcedc2fac9cbebac01ddc6",
@@ -1132,7 +1407,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-b21e62ff244f9ed37850e416",
@@ -1151,7 +1426,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-e4dde327b3ffd6609e5d9b26",
@@ -1177,7 +1452,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-ab7657b0694bc141e3593d40",
@@ -1203,7 +1478,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-d8397d3a9bcea190e01a36ac",
@@ -1229,7 +1504,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-e5aee96a25b8904e030ea067",
@@ -1255,7 +1530,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-df2fb02c7b1ab3231e015490",
@@ -1282,28 +1557,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-d73821d15a486bcf933b6367",
-      "title": "Algérie : Nabil Bentaleb forfait avec les Fennecs, une révélation de Ligue 1 pour le remplacer (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-algerie-nabil-bentaleb-forfait-avec-les-fennecs-une-revelation-de-ligue-1-pour-le-remplacer-officiel-539730.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250213150304-3182.jpg",
-      "publishedAt": "2026-09-21T18:20:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [],
-      "topics": [
-        "algeria"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-fb00bb7a740a495ecc33ca80",
@@ -1330,7 +1584,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.7
+      "qualityScore": 83.1
+    },
+    {
+      "id": "gdelt-cc2c0fab1745a8943ed3e60d",
+      "title": "Basket. Nicolas Batum, ancien capitaine de l'équipe de France, annonce la fin de sa carrière",
+      "summary": "Publication référencée chez paris.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://paris.maville.com/actu/actudet_-basket-nicolas-batum-ancien-capitaine-de-l-equipe-de-france-annonce-la-fin-de-sa-carriere_fil-7489076_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/09/21/P36143153D7489076G_crop_1200-675_.jpg",
+      "publishedAt": "2026-09-21T22:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "paris.maville.com",
+        "name": "paris.maville.com",
+        "websiteURL": "https://paris.maville.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "other",
+      "qualityScore": 83
     },
     {
       "id": "gdelt-2440131d1b00ac68810cd031",
@@ -1349,7 +1624,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 83
     },
     {
       "id": "gdelt-cf46c84600dfce3fedd321d9",
@@ -1368,7 +1643,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 83
     },
     {
       "id": "gdelt-d7e1f39cc91cbf762e994446",
@@ -1389,7 +1664,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-5b6ca7cfbce2bc2bd326047a",
@@ -1412,7 +1687,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 82.7
     },
     {
       "id": "gdelt-6b24c0d768f09c35cd3a8a5b",
@@ -1435,30 +1710,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
-    },
-    {
-      "id": "gdelt-b748e998797ce553b5776aaa",
-      "title": "Officiel – Le PSG précise la blessure de Zaïre-Emery",
-      "summary": "Publication référencée chez parisfans.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.parisfans.fr/autour-du-psg/officiel-le-psg-precise-la-blessure-de-zaire-emery-938663.html",
-      "imageURL": "https://www.parisfans.fr/wp-content/uploads/2026/09/ICONSPORT_374815_0266.jpg",
-      "publishedAt": "2026-09-21T17:12:33.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "parisfans.fr",
-        "name": "parisfans.fr",
-        "websiteURL": "https://parisfans.fr"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 82.6
     },
     {
       "id": "gdelt-d2f7827d1987e1794902eb54",
@@ -1481,28 +1733,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
-    },
-    {
-      "id": "gdelt-88febf1c99f4dabf86cf3252",
-      "title": "Basket. Nicolas Batum, ancien capitaine de l'équipe de France, annonce la fin de sa carrière",
-      "summary": "Publication référencée chez draguignan.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://draguignan.maville.com/actu/actudet_-basket-nicolas-batum-ancien-capitaine-de-l-equipe-de-france-annonce-la-fin-de-sa-carriere_fil-7489076_actu.Htm",
-      "imageURL": "https://www.maville.com/photosmvi/2026/09/21/P36143153D7489076G_crop_1200-675_.jpg",
-      "publishedAt": "2026-09-21T20:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "draguignan.maville.com",
-        "name": "draguignan.maville.com",
-        "websiteURL": "https://draguignan.maville.com"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "other",
-      "qualityScore": 83.8
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-7eccd4e5df86d85b76137093",
@@ -1528,7 +1759,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.8
+      "qualityScore": 82.3
     },
     {
       "id": "gdelt-5f3f6423680a7be8ba2edb63",
@@ -1554,7 +1785,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.8
+      "qualityScore": 82.3
     },
     {
       "id": "gdelt-bbaab4e9cdfba29b16596b1b",
@@ -1580,7 +1811,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.8
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-5e1273ab10377353deb8a343",
@@ -1606,7 +1837,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.8
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-0d0d3108c2a5c2cf1267c74a",
@@ -1632,7 +1863,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.8
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-8a222f6971d81ccabac17217",
@@ -1655,7 +1886,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
+      "qualityScore": 82.1
     },
     {
       "id": "gdelt-bff4f53a4167807ef8cdd16f",
@@ -1678,7 +1909,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
+      "qualityScore": 82.1
     },
     {
       "id": "gdelt-3d86d742c38b00c295f5730a",
@@ -1701,7 +1932,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
+      "qualityScore": 82.1
     },
     {
       "id": "gdelt-9dbe82f4858fdef4724dd868",
@@ -1727,7 +1958,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 83.2
+      "qualityScore": 81.6
     },
     {
       "id": "gdelt-cc4e3b62649593347880afd3",
@@ -1748,7 +1979,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.2
+      "qualityScore": 81.6
     },
     {
       "id": "gdelt-b73b6cef2a57082e51d76bb6",
@@ -1773,7 +2004,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.1
+      "qualityScore": 81.6
     },
     {
       "id": "gdelt-363d9b31ffe7c0e8e2555b8f",
@@ -1799,7 +2030,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 81.4
     },
     {
       "id": "gdelt-5affa9af451a18cea7980e9d",
@@ -1826,7 +2057,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 81.4
+    },
+    {
+      "id": "gdelt-c3f5441a405861bbbff8a185",
+      "title": "PSG – Ferran Torres meilleur buteur de Ligue 1 -",
+      "summary": "Publication référencée chez canal-supporters.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://canal-supporters.com/psg-ferran-torres-meilleur-buteur-de-ligue-1/",
+      "imageURL": "https://canal-supporters.com/wp-content/uploads/2026/09/Ferran-Torres-1.jpg",
+      "publishedAt": "2026-09-21T22:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "canal-supporters.com",
+        "name": "canal-supporters.com",
+        "websiteURL": "https://canal-supporters.com"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 81.1
     },
     {
       "id": "gdelt-d2010a1f0a7abed2b66793ee",
@@ -1850,7 +2105,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 82.5
+      "qualityScore": 81
     },
     {
       "id": "gdelt-3ce92957b01c335ef95dd2f8",
@@ -1876,7 +2131,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 81
     },
     {
       "id": "gdelt-2fe9a9770d066f96353bee77",
@@ -1902,7 +2157,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 81
     },
     {
       "id": "gdelt-e74735b197f629a2efe8044b",
@@ -1928,7 +2183,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 81
     },
     {
       "id": "gdelt-9acb24a6626f662945f06d9a",
@@ -1954,7 +2209,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 81
     },
     {
       "id": "gdelt-3c7032f3c79ae936409ab31e",
@@ -1980,7 +2235,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 81
     },
     {
       "id": "gdelt-c34e1c5237db62a3669347d6",
@@ -2006,7 +2261,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 81
     },
     {
       "id": "gdelt-703355c62769544d9adef68a",
@@ -2032,7 +2287,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 81
+    },
+    {
+      "id": "gdelt-1918c6bb621504657fa31d9a",
+      "title": "Ligue 1 : gros coup dur pour l’AS Monaco, Denis Zakaria forfait avec la Suisse !",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/ligue-1-gros-coup-dur-pour-las-monaco-denis-zakaria-forfait-avec-la-suisse-1000480",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1000480/408349/1200-L-ligue-1-gros-coup-dur-pour-las-monaco-denis-zakaria-forfait-avec-la-suisse.jpg",
+      "publishedAt": "2026-09-21T23:44:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "monaco"
+      ],
+      "topics": [
+        "monaco",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.9
     },
     {
       "id": "gdelt-8b0ba44f61dec1a9ef402d13",
@@ -2051,7 +2330,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.4
+      "qualityScore": 80.9
     },
     {
       "id": "gdelt-13288533965f9704eed4220e",
@@ -2077,281 +2356,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.4
-    },
-    {
-      "id": "gdelt-a14dda55751523cf6f86f32f",
-      "title": "OM : examens complémentaires à venir pour Paixão et Harit",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1068276849569882480-om-examens-complementaires-a-venir-pour-paixao-et-harit",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/paixao-6a8ec046eb927.jpg",
-      "publishedAt": "2026-09-21T14:58:45.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82
-    },
-    {
-      "id": "gdelt-ecf6d7acebc0189729a6869b",
-      "title": "Grèzes et Malm valident le nul entre Reims et Montpellier: « Une vraie bonne pub pour la Ligue 2 »",
-      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.allezpaillade.com/sdr-mhsc/grezes-et-malm-valident-le-nul-entre-reims-et-montpellier/",
-      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2026/08/ICONSPORT_369129_0492-380x370.jpg",
-      "publishedAt": "2026-09-20T15:00:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "allezpaillade.com",
-        "name": "allezpaillade.com",
-        "websiteURL": "https://allezpaillade.com"
-      },
-      "teams": [
-        "montpellier",
-        "reims"
-      ],
-      "topics": [
-        "montpellier",
-        "reims",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82
-    },
-    {
-      "id": "gdelt-de1259065544916d2914257a",
-      "title": "Foot féminin : Monaco United s'offre le premier derby monégasque",
-      "summary": "Publication référencée chez radio-monaco.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://radio-monaco.com/foot-feminin-monaco-united-soffre-le-premier-derby-monegasque/",
-      "imageURL": "https://radio-monaco.com/wp-content/uploads/2026/09/Monaco-United-derby-770x534.jpeg",
-      "publishedAt": "2026-09-21T14:47:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "radio-monaco.com",
-        "name": "radio-monaco.com",
-        "websiteURL": "https://radio-monaco.com"
-      },
-      "teams": [
-        "monaco",
-        "derby"
-      ],
-      "topics": [
-        "monaco",
-        "derby"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 81.9
-    },
-    {
-      "id": "gdelt-308e87f383f1814dd6e483b5",
-      "title": "Équipe de France : Kylian Mbappé et Ousmane Dembélé vont se dire leurs quatre vérités",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2170727604826194492-equipe-de-france-kylian-mbappe-et-ousmane-dembele-vont-se-dire-leurs-quatre-verites",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour657144-1920x1080.jpg",
-      "publishedAt": "2026-09-21T06:45:05.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.9
-    },
-    {
-      "id": "gdelt-484518aca79b208fb7a7319e",
-      "title": "Real Madrid : Kylian Mbappé a caché le logo Nike sur ses crampons",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4762491528672826580-real-madrid-kylian-mbappe-a-cache-le-logo-nike-sur-ses-crampons",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappevselche.jpg",
-      "publishedAt": "2026-09-21T06:43:05.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.9
-    },
-    {
-      "id": "gdelt-9c437551671e55a767b6dc12",
-      "title": "Ligue 1 : le PSG remporte le Classique et enfonce l'OM",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6026558413441389845-ligue-1-le-psg-remporte-le-classique-et-enfonce-lom",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine346384-1.jpg",
-      "publishedAt": "2026-09-20T22:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.9
-    },
-    {
-      "id": "gdelt-1d9f01c41342f0e46234c99e",
-      "title": "Ligue 1 : après la défaite face au PSG, l'OM est relégable !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6398914280381077709-ligue-1-apres-la-defaite-face-au-psg-lom-est-relegable",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo687280-1920x1080.jpg",
-      "publishedAt": "2026-09-20T22:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.9
-    },
-    {
-      "id": "gdelt-39009ca00e60f5cb619a7331",
-      "title": "Déchaînement de violence, quatre joueurs \"gravement blessés\", un délégué officiel bousculé... Ce qu'il faut savoir sur cet incident survenu à la fin d'une rencontre de football amateur en Lot-et-Garonne",
-      "summary": "Publication référencée chez petitbleu.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.petitbleu.fr/2026/09/21/dechainement-de-violence-quatre-joueurs-gravement-blesses-un-delegue-officiel-bouscule-ce-quil-faut-savoir-sur-cet-incident-survenu-a-la-fin-dune-13561927.php",
-      "imageURL": "https://images.petitbleu.fr/api/v1/images/view/6ab149c4133f342f26024442/hd/image.jpg?v=1",
-      "publishedAt": "2026-09-21T18:17:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "petitbleu.fr",
-        "name": "petitbleu.fr",
-        "websiteURL": "https://petitbleu.fr"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "confirmed",
-      "sourceTier": "other",
-      "qualityScore": 81.7
-    },
-    {
-      "id": "gdelt-c53fbf18bb7d14d912d991d7",
-      "title": "L'international marocain Khalid Boutaib annonce sa retraite du football",
-      "summary": "Publication référencée chez yabiladi.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.yabiladi.com/articles/details/203294/l-international-marocain-khalid-boutaib-annonce.html",
-      "imageURL": "https://static.yabiladi.com/files/articles/yabiladi.fb42c2d47fc8725c95f6c24eb676d9e420260921151150.webp",
-      "publishedAt": "2026-09-21T16:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "yabiladi.com",
-        "name": "yabiladi.com",
-        "websiteURL": "https://yabiladi.com"
-      },
-      "teams": [],
-      "topics": [
-        "switzerland"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "other",
-      "qualityScore": 81.7
-    },
-    {
-      "id": "gdelt-572c9aecfb486cbab4c7834f",
-      "title": "PSG : l’éloge de Vitinha à Ferran Torres",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3093860782993794317-psg-leloge-de-vitinha-a-ferran-torres",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/m-28629-1920x1080.jpg",
-      "publishedAt": "2026-09-21T06:14:42.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.6
-    },
-    {
-      "id": "gdelt-eb3aa512de971bc35a7c8fcd",
-      "title": "PSG : l’inarrêtable Ferran Torres marche déjà sur les pas de Zlatan Ibrahimović",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1476545015113237269-psg-linarretable-ferran-torres-marche-deja-sur-les-pas-de-zlatan-ibrahimovic",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine346512-1920x1080.jpg",
-      "publishedAt": "2026-09-21T06:11:12.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.6
-    },
-    {
-      "id": "gdelt-0ddee7221632b935c487ee29",
-      "title": "LIGUE 2 (Mise à jour) MOB - JSMB cet après-midi à 15h00 - Le derby de la survie !",
-      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.depechedekabylie.com/le-derby-de-la-survie/",
-      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2020/01/mob-jsmb.jpg",
-      "publishedAt": "2026-09-21T20:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "depechedekabylie.com",
-        "name": "depechedekabylie.com",
-        "websiteURL": "https://depechedekabylie.com"
-      },
-      "teams": [
-        "derby"
-      ],
-      "topics": [
-        "derby",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 81.5
+      "qualityScore": 80.9
     }
   ],
-  "generatedAt": "2026-09-21T20:57:49.298Z",
+  "generatedAt": "2026-09-22T00:01:25.871Z",
   "stale": false
 }
