@@ -25,7 +25,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.8
+      "qualityScore": 94.2
     },
     {
       "id": "gdelt-1c15468a06e1160563f5936e",
@@ -51,7 +51,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.6
+      "qualityScore": 94
     },
     {
       "id": "gdelt-1fa1523d4a55dad8a317c346",
@@ -77,7 +77,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.6
+      "qualityScore": 94
     },
     {
       "id": "gdelt-314a9b33f61e0b302c5b0898",
@@ -101,7 +101,120 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.6
+      "qualityScore": 93
+    },
+    {
+      "id": "gdelt-d760188c3bda596d455c7555",
+      "title": "Jusqu'à huit divisions d'écart : ces Petits Poucets qui vont défier des clubs de National 1 et National 2 en Coupe de France",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/jusqua-huit-divisions-decart-ces-petits-poucets-qui-vont-defier-des-clubs-de-national-1-et-national-2-en-coupe-de-france-956840",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956840/390111/1200-L-jusqu-huit-divisions-d-cart-ces-petits-poucets-qui-vont-dfier-des-clubs-de-national-1-et-national-2-en-coupe-de-france.jpg",
+      "publishedAt": "2026-09-24T15:18:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.2
+    },
+    {
+      "id": "gdelt-ff102bee337f07026d6ef92c",
+      "title": "Coupe de France : le programme complet des clubs de National 1 au quatrième tour",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-le-programme-complet-des-clubs-de-national-1-au-quatrieme-tour-956483",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956483/389930/1200-L-coupe-de-france-le-programme-complet-des-clubs-de-national-1-au-quatrime-tour.jpg",
+      "publishedAt": "2026-09-24T15:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.2
+    },
+    {
+      "id": "gdelt-4c2b84eaa1bb8547a4be9307",
+      "title": "RC Lens : la grosse annonce de Franjo Ivanovic sur son avenir",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/rc-lens-la-grosse-annonce-de-franjo-ivanovic-sur-son-avenir-1000685",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1000685/408451/1200-L-rc-lens-la-grosse-annonce-de-franjo-ivanovic-sur-son-avenir.jpg",
+      "publishedAt": "2026-09-24T11:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "lens"
+      ],
+      "topics": [
+        "lens"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 92
+    },
+    {
+      "id": "gdelt-e1da1c9dbc85df87851c2238",
+      "title": "AS Monaco : l'agent d'Aleksandr Golovin revient sur son transfert avorté",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8143537150310855923-as-monaco-lagent-daleksandr-golovin-revient-sur-son-transfert-avorte",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/xnaphotosthree168090-1920x1080.jpg",
+      "publishedAt": "2026-09-24T16:47:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "monaco"
+      ],
+      "topics": [
+        "monaco"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.9
+    },
+    {
+      "id": "gdelt-00a68fa198fb85229765005b",
+      "title": "JT Foot Mercato : la tension monte au Real Madrid",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7435858684358458976-jt-foot-mercato-la-tension-monte-au-real-madrid",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/florentino-perez-2324.jpg",
+      "publishedAt": "2026-09-24T16:18:37.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-dfa3400beb6e571350450aca",
@@ -128,7 +241,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.2
+      "qualityScore": 91.7
     },
     {
       "id": "gdelt-fc87be40964c8641d178192c",
@@ -154,7 +267,29 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 91.5
+    },
+    {
+      "id": "gdelt-c9e6dda3b4230cb213a8a5e5",
+      "title": "Mercato : deux jeunes talents de Ligue 1 prêtés en National 1 pour se relancer",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/mercato-deux-jeunes-talents-de-ligue-1-pretes-en-national-1-pour-se-relancer-956793",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956793/390088/1200-L-mercato-deux-jeunes-talents-de-ligue-1-prts-en-national-1-pour-se-relancer.jpg",
+      "publishedAt": "2026-09-24T07:12:14.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-42a6762cf9b305c16228a1e2",
@@ -178,7 +313,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 90
     },
     {
       "id": "gdelt-c8e176e583617ea715d478d2",
@@ -199,7 +334,137 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 89
+    },
+    {
+      "id": "gdelt-e335ef8440a219c128c4e618",
+      "title": "Équipe de France : scène lunaire entre un journaliste turc et Zinedine Zidane",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7338002298023415000-equipe-de-france-scene-lunaire-entre-un-journaliste-turc-et-zinedine-zidane",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine237568-1920x1080.jpg",
+      "publishedAt": "2026-09-24T16:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-d0838ca3caeba971cf0a657c",
+      "title": "La Juventus espère vendre Loïs Openda à l'OL",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5700914136344861157-la-juventus-espere-vendre-lois-openda-a-lol",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/openda-6a9afe313bd88.jpg",
+      "publishedAt": "2026-09-24T16:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "juventus"
+      ],
+      "topics": [
+        "juventus"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-68f432c0ea468232bf408d12",
+      "title": "Manchester United vend des morceaux de la pelouse d'Old Trafford à 145€ pièce",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a183096311726560053-manchester-united-vend-des-morceaux-de-la-pelouse-dold-trafford-a-145eur-piece",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/oldtrafford.jpg",
+      "publishedAt": "2026-09-24T16:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "man-united"
+      ],
+      "topics": [
+        "man-united"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-11bdfb17923e7b768dea9781",
+      "title": "David Alaba a trouvé un club en Serie A",
+      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.sofoot.com/breves/serie-a-libre-depuis-la-fin-de-son-contrat-avec-le-real-madrid-alaba-sengage-avec-ludinese",
+      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/24161419/14154901-1400x934.jpg",
+      "publishedAt": "2026-09-24T16:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "sofoot.com",
+        "name": "sofoot.com",
+        "websiteURL": "https://sofoot.com"
+      },
+      "teams": [],
+      "topics": [
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-06ec9d320431d0dc8c7245a5",
+      "title": "Équipe de France : nouvelles révélations sur la brouille Dembélé",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3892235053713680754-equipe-de-france-nouvelles-revelations-sur-la-brouille-dembele-mbappe",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour657144-1920x1080.jpg",
+      "publishedAt": "2026-09-24T16:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-83f30e34c5816085c2535929",
+      "title": "La Turquie veut oublier le terrible fiasco de la Coupe du Monde 2026",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6566689605206178112-la-turquie-veut-oublier-le-terrible-fiasco-de-la-coupe-du-monde-2026",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/turquie-6a3634e7e0633.jpg",
+      "publishedAt": "2026-09-24T16:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "world-cup"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-1d5ee13522cf7227960b10ed",
@@ -222,7 +487,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-39e97a75193e47ed63fb08cf",
+      "title": "Le Real Madrid communique sur la blessure d’Ibrahima Konaté",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a293851830090019906-le-real-madrid-communique-sur-la-blessure-dibrahima-konate",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldthree070478-1.jpg",
+      "publishedAt": "2026-09-24T16:09:23.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-b5489d0f93f579615b4bf7c5",
@@ -246,7 +534,141 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-eca2a6535b45f711c9067993",
+      "title": "Équipe de France : Zinedine Zidane explique l’absence de Kylian Mbappé en conférence de presse",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7935010705370380561-equipe-de-france-zinedine-zidane-explique-labsence-de-kylian-mbappe-en-conference-de-presse",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine237564-1920x1080.jpg",
+      "publishedAt": "2026-09-24T15:50:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-acf93267eb9330441e6b8270",
+      "title": "Le Real Madrid publie une vidéo contre le journaliste Juanma Castaño",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8452442189660181619-le-real-madrid-publie-une-video-contre-le-journaliste-juanma-castano",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/estadio-santiago-bernabeu-2425.jpg",
+      "publishedAt": "2026-09-24T15:41:50.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-c390145aef874b295929e0ce",
+      "title": "Équipe de France : les vérités d’Adrien Rabiot sur un éventuel repositionnement de Mbappé",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2661652907345098561-equipe-de-france-les-verites-dadrien-rabiot-sur-un-eventuel-repositionnement-de-mbappe",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/adrien-rabiot-wm26.jpg",
+      "publishedAt": "2026-09-24T15:39:16.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.3
+    },
+    {
+      "id": "gdelt-aabb047ef7dcdc50ffd5f22e",
+      "title": "Comment l’AS Monaco a fait de son centre de formation un modèle de réussite sportif et financier",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1555554227178554941-comment-las-monaco-a-fait-de-son-centre-de-formation-un-modele-de-reussite-sportif-et-financier",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/2026-08-27-confleague-ko-asm-gornik-zabrze-r3cc1773-1920x1080.jpg",
+      "publishedAt": "2026-09-24T15:19:35.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "monaco"
+      ],
+      "topics": [
+        "monaco"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-87fee440bfcb662b4079dc7b",
+      "title": "Un joueur de National 1 de retour en sélection en vue des qualifications pour la CAN 2027",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/un-joueur-de-national-1-de-retour-en-selection-en-vue-des-qualifications-pour-la-can-2027-956842",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956842/390113/1200-L-un-joueur-de-national-1-de-retour-en-slection-en-vue-des-qualifications-pour-la-can-2027.jpg",
+      "publishedAt": "2026-09-24T15:17:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-9c154617cd3419afac5ba2ab",
+      "title": "Manchesterr United et Liverpool en concurrence pour un joueur de Crystal Palace",
+      "summary": "Publication référencée chez mercatofootanglais.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://mercatofootanglais.com/manchesterr-united-et-liverpool-en-concurrence-pour-un-joueur-de-crystal-palace/",
+      "imageURL": "https://mercatofootanglais.com/wp-content/uploads/2022/03/tyrick-mitchell-scaled-e1790224668999.jpg",
+      "publishedAt": "2026-09-24T07:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "mercatofootanglais.com",
+        "name": "mercatofootanglais.com",
+        "websiteURL": "https://mercatofootanglais.com"
+      },
+      "teams": [
+        "liverpool",
+        "crystal-palace"
+      ],
+      "topics": [
+        "liverpool",
+        "crystal-palace"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88
     },
     {
       "id": "gdelt-c5ba3bd068e10070685ae8f1",
@@ -273,7 +695,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.6
+      "qualityScore": 88
     },
     {
       "id": "gdelt-3ea4e72a63af77650374b749",
@@ -299,7 +721,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 88
     },
     {
       "id": "gdelt-294b666a3821596b13ef107a",
@@ -323,7 +745,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 87.3
+    },
+    {
+      "id": "gdelt-9a445fb4481359ff2bf658e1",
+      "title": "PSG : le cas Mika Godts fait déjà jaser",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a519691575560121870-psg-le-cas-mika-godts-fait-deja-jaser",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/godts-6ab4d9f714004.jpg",
+      "publishedAt": "2026-09-24T12:15:28.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-4cd66fceb3944bb304a5bde6",
@@ -344,7 +789,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86
     },
     {
       "id": "gdelt-934b06e243c53d4c509265eb",
@@ -365,7 +810,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86
     },
     {
       "id": "gdelt-e856245a1e958c370dc536e1",
@@ -386,7 +831,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86
     },
     {
       "id": "gdelt-9c2aae04c7656655027635e4",
@@ -407,7 +852,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86
     },
     {
       "id": "gdelt-3ff70f06cc48b4d7c18b6a4a",
@@ -434,7 +879,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 86
     },
     {
       "id": "gdelt-43e5f85ea3f721524062d7e5",
@@ -455,7 +900,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-dd3f976f159a40f816c49021",
@@ -478,7 +923,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-aefb14e47fc36cab10ea5aae",
@@ -499,7 +944,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-eee26c95dc9b31886ae6fd48",
@@ -522,7 +967,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-93f126e5935171b05c3289f6",
@@ -543,7 +988,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 85.1
     },
     {
       "id": "gdelt-4b266812327bbfe4239e30d5",
@@ -566,7 +1011,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-510d8eeb2c8f447510b9dcd7",
@@ -587,7 +1032,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-a17e21ebc64ba78539ee0b88",
@@ -611,7 +1056,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-c61d61174c180045dc3b0697",
@@ -637,7 +1082,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-6d8c3b32521cc83fb23a0ca8",
@@ -658,7 +1103,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84
     },
     {
       "id": "gdelt-fa83054600a86c6fef2eec4e",
@@ -683,7 +1128,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84
     },
     {
       "id": "gdelt-9079e5e441975447e4755fe9",
@@ -706,51 +1151,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 83.9
     },
     {
-      "id": "gdelt-59a7dded26abb73ef1a3eb88",
-      "title": "Équipe de France : Ibrahima Konaté forfait, Leny Yoro le remplace",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2341765473686262429-equipe-de-france-ibrahima-konate-forfait-lenny-yoro-le-remplace",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/ibrahima-konate-2425-6883404b8c2fb.jpg",
-      "publishedAt": "2026-09-24T06:26:13.000Z",
+      "id": "gdelt-89625cc9eec3948351ea7b21",
+      "title": "Stade Rennais : Une légende de l'équipe de France est choquée par Estéban Lepaul",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-stade-rennais-une-legende-de-l-equipe-de-france-est-choquee-par-esteban-lepaul-539989.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260922112337-5151.jpg",
+      "publishedAt": "2026-09-24T14:32:00.000Z",
       "category": "news",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
-      "teams": [],
+      "teams": [
+        "rennes",
+        "pau"
+      ],
       "topics": [
+        "rennes",
+        "pau",
         "france"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
-    },
-    {
-      "id": "gdelt-b6a4bdf2820ea6656985f30b",
-      "title": "Real Madrid : une grande menace plane au-dessus de Vinicius Junior",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5073010522048412868-real-madrid-une-grande-menace-plane-au-dessus-de-vinicius-junior",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-und-vinicius-junior-2627.jpg",
-      "publishedAt": "2026-09-24T06:25:58.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-c91c135e6c80e779e0097352",
@@ -774,7 +1201,51 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 83.8
+    },
+    {
+      "id": "gdelt-59a7dded26abb73ef1a3eb88",
+      "title": "Équipe de France : Ibrahima Konaté forfait, Leny Yoro le remplace",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2341765473686262429-equipe-de-france-ibrahima-konate-forfait-lenny-yoro-le-remplace",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/ibrahima-konate-2425-6883404b8c2fb.jpg",
+      "publishedAt": "2026-09-24T06:26:13.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.7
+    },
+    {
+      "id": "gdelt-b6a4bdf2820ea6656985f30b",
+      "title": "Real Madrid : une grande menace plane au-dessus de Vinicius Junior",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5073010522048412868-real-madrid-une-grande-menace-plane-au-dessus-de-vinicius-junior",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-und-vinicius-junior-2627.jpg",
+      "publishedAt": "2026-09-24T06:25:58.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-55399078f440b8895656e77a",
@@ -799,7 +1270,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-6a7943a2995da7e27edc06fa",
@@ -823,7 +1294,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-dc07a3887affabd66b1a0cc8",
@@ -848,7 +1319,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 83
     },
     {
       "id": "gdelt-55b4b3446e59360330f94799",
@@ -875,7 +1346,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 83
     },
     {
       "id": "gdelt-ad72e10773b601c25838d720",
@@ -900,7 +1371,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-7fadaf01c6b5a4a973eaa3f5",
@@ -926,7 +1397,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-865440ee594493df2411aefb",
@@ -951,7 +1422,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 82.7
     },
     {
       "id": "gdelt-689bb2589dc5cb0b863521a8",
@@ -975,7 +1446,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 82.7
     },
     {
       "id": "gdelt-727304a4d3f9e6379f6edfb4",
@@ -999,7 +1470,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-72a37685d91b7bd41f525214",
@@ -1022,7 +1493,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 82.1
     },
     {
       "id": "gdelt-b5b382c6f9c8922390554a22",
@@ -1045,7 +1516,26 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 81.7
+    },
+    {
+      "id": "gdelt-1c0155caf6561c970cfd0db5",
+      "title": "Canada, OM : Jesse Marsch craint le pire pour Derek Cornelius",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1667370986333075861-canada-om-jesse-marsch-craint-le-pire-pour-derek-cornelius",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo153408-1920x1080.jpg",
+      "publishedAt": "2026-09-24T09:54:14.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-cbdc34f867dd7a7e7464aa3d",
@@ -1069,26 +1559,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 81.5
     },
     {
-      "id": "gdelt-1c0155caf6561c970cfd0db5",
-      "title": "Canada, OM : Jesse Marsch craint le pire pour Derek Cornelius",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1667370986333075861-canada-om-jesse-marsch-craint-le-pire-pour-derek-cornelius",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo153408-1920x1080.jpg",
-      "publishedAt": "2026-09-24T09:54:14.000Z",
+      "id": "gdelt-5616c62357326c76fbd3c6b1",
+      "title": "Ligue 2 - (19ème journée) - La JSMB pour la passe de trois",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/la-jsmb-pour-la-passe-de-trois/",
+      "imageURL": "https://i0.wp.com/www.depechedekabylie.com/wp-content/uploads/2020/01/jsmb21.jpg?fit=500%2C376&ssl=1",
+      "publishedAt": "2026-09-24T15:47:00.000Z",
       "category": "news",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
       },
-      "teams": [],
-      "topics": [],
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "ligue-2"
+      ],
       "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84
+      "sourceTier": "other",
+      "qualityScore": 81.4
     },
     {
       "id": "gdelt-1d171bd585bb5de685f064a0",
@@ -1114,7 +1609,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.8
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-b87b8a566de55f8a5a451dab",
@@ -1138,7 +1633,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
+      "qualityScore": 81.2
     },
     {
       "id": "gdelt-59c3ff144302f00d827ec848",
@@ -1162,7 +1657,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 81.1
     },
     {
       "id": "gdelt-bb809f98a6b135f0086e2e14",
@@ -1186,7 +1681,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 81
     },
     {
       "id": "gdelt-42ad6b1de8cceb32ee6b1f37",
@@ -1210,7 +1705,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 81
     },
     {
       "id": "gdelt-e0451f77007be1cd67f2da13",
@@ -1229,7 +1724,7 @@
       "topics": [],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 81
     },
     {
       "id": "gdelt-229711cd18c1e2e823f6e25f",
@@ -1255,7 +1750,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 81
+    },
+    {
+      "id": "gdelt-9b754b7d3a2c685ab4e87164",
+      "title": "Manchester City – Arsenal : le grand basculement",
+      "summary": "Publication référencée chez mercatofootanglais.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://mercatofootanglais.com/manchester-city-arsenal-le-grand-basculement/",
+      "imageURL": "https://mercatofootanglais.com/wp-content/uploads/2024/07/nottingham-forest-v-west-ham-united-premier-league-scaled-e1790267983187.jpg",
+      "publishedAt": "2026-09-24T16:39:53.000Z",
+      "category": "news",
+      "source": {
+        "id": "mercatofootanglais.com",
+        "name": "mercatofootanglais.com",
+        "websiteURL": "https://mercatofootanglais.com"
+      },
+      "teams": [
+        "man-city",
+        "arsenal"
+      ],
+      "topics": [
+        "man-city",
+        "arsenal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.8
     },
     {
       "id": "gdelt-f5b5c426dd0d60147c12b098",
@@ -1278,30 +1798,72 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 80.7
     },
     {
-      "id": "gdelt-4c2b84eaa1bb8547a4be9307",
-      "title": "RC Lens : la grosse annonce de Franjo Ivanovic sur son avenir",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/rc-lens-la-grosse-annonce-de-franjo-ivanovic-sur-son-avenir-1000685",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1000685/408451/1200-L-rc-lens-la-grosse-annonce-de-franjo-ivanovic-sur-son-avenir.jpg",
-      "publishedAt": "2026-09-24T11:00:00.000Z",
-      "category": "news",
+      "id": "gdelt-b755ec8419013d71cd1274b3",
+      "title": "Clermont Foot : le milieu de terrain Yuliwes Bellache signe à Andrézieux-Bouthéon",
+      "summary": "Publication référencée chez ici.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.ici.fr/auvergne-rhone-alpes/puy-de-dome-63/clermont-ferrand/clermont-foot-le-milieu-de-terrain-yuliwes-bellache-signe-a-andrezieux-boutheon-8113124",
+      "imageURL": "https://www.ici.fr/pikapi/images/549fc9d1-7788-4ebf-8dd5-ded696528fb2/1200x630?webp=false",
+      "publishedAt": "2026-09-24T15:47:00.000Z",
+      "category": "transfers",
       "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
+        "id": "ici.fr",
+        "name": "ici.fr",
+        "websiteURL": "https://ici.fr"
       },
       "teams": [
-        "lens"
+        "clermont"
       ],
       "topics": [
-        "lens"
+        "clermont"
       ],
-      "reliability": "confirmed",
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 80.4
+    },
+    {
+      "id": "gdelt-5323a8ccc51ae82e15476b51",
+      "title": "Ligue 1 : nouveau coup dur pour l'OM, un joueur pourrait être absent de longs mois",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/ligue-1-nouveau-coup-dur-pour-lom-un-joueur-pourrait-etre-absent-de-longs-mois-956859",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956859/390121/1200-L-ligue-1-nouveau-coup-dur-pour-l-om-un-joueur-absent-de-longs-mois.jpg",
+      "publishedAt": "2026-09-24T15:17:00.000Z",
+      "category": "rumors",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "rumor",
       "sourceTier": "recognized",
-      "qualityScore": 82.6
+      "qualityScore": 80.2
+    },
+    {
+      "id": "gdelt-ff4c2716afa92ff01ce5ae57",
+      "title": "Mercato Premier League : Les pépites sénégalaises au cœur des convoitises anglaises",
+      "summary": "Publication référencée chez mercatofootanglais.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://mercatofootanglais.com/mercato-premier-league-les-pepites-senegalaises-au-coeur-des-convoitises-anglaises/",
+      "imageURL": "https://mercatofootanglais.com/wp-content/uploads/2026/09/image-2-1024x683.png",
+      "publishedAt": "2026-09-24T16:54:45.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "mercatofootanglais.com",
+        "name": "mercatofootanglais.com",
+        "websiteURL": "https://mercatofootanglais.com"
+      },
+      "teams": [],
+      "topics": [
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80
     },
     {
       "id": "gdelt-10aa70ad1231305e7aa2da4c",
@@ -1322,7 +1884,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.6
+      "qualityScore": 80
     },
     {
       "id": "gdelt-08aba3599799c4f6905394ca",
@@ -1345,7 +1907,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.6
+      "qualityScore": 80
     },
     {
       "id": "gdelt-bbc318ee38dab2468759d826",
@@ -1368,7 +1930,26 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.6
+      "qualityScore": 80
+    },
+    {
+      "id": "gdelt-36fe9298eb702adcd8e9374c",
+      "title": "Mercato : David Alaba a trouvé son nouveau club (officiel)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-david-alaba-a-trouve-son-nouveau-club-officiel-539976.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/buzz/2026/zoom/buzz-20260902135450-3677.jpg",
+      "publishedAt": "2026-09-24T12:45:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 79.9
     },
     {
       "id": "gdelt-dae84451d53f129f4a2608c1",
@@ -1394,7 +1975,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 82.5
+      "qualityScore": 79.9
     },
     {
       "id": "gdelt-4bbb78e25804c4f091e8addf",
@@ -1419,7 +2000,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.3
+      "qualityScore": 79.8
     },
     {
       "id": "gdelt-9d89f6d9def2ce9d5bf52a22",
@@ -1441,7 +2022,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.3
+      "qualityScore": 79.8
     },
     {
       "id": "gdelt-4913925d0d3d34adae10dff8",
@@ -1466,7 +2047,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.3
+      "qualityScore": 79.7
     },
     {
       "id": "gdelt-130dc2ccfdcbc2ce8cbacd94",
@@ -1489,7 +2070,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.1
+      "qualityScore": 79.5
     },
     {
       "id": "gdelt-1a6b7783620912f4b0736318",
@@ -1515,7 +2096,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82
+      "qualityScore": 79.5
     },
     {
       "id": "gdelt-ceaa0fc345fe5e52473e3fc3",
@@ -1534,26 +2115,7 @@
       "topics": [],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 81.9
-    },
-    {
-      "id": "gdelt-a357b220bb02069f6a8a400b",
-      "title": "OM : Jérôme Rothen s’énerve sur Bruno Genesio",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5745680029801529903-om-jerome-rothen-senerve-sur-bruno-genesio",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rothen-rmcsport.jpg",
-      "publishedAt": "2026-09-24T05:27:24.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.8
+      "qualityScore": 79.4
     },
     {
       "id": "gdelt-4890e206a324ed166066e107",
@@ -1576,29 +2138,49 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.8
+      "qualityScore": 79.3
     },
     {
-      "id": "gdelt-c9e6dda3b4230cb213a8a5e5",
-      "title": "Mercato : deux jeunes talents de Ligue 1 prêtés en National 1 pour se relancer",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/mercato-deux-jeunes-talents-de-ligue-1-pretes-en-national-1-pour-se-relancer-956793",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956793/390088/1200-L-mercato-deux-jeunes-talents-de-ligue-1-prts-en-national-1-pour-se-relancer.jpg",
-      "publishedAt": "2026-09-24T07:12:14.000Z",
-      "category": "transfers",
+      "id": "gdelt-a357b220bb02069f6a8a400b",
+      "title": "OM : Jérôme Rothen s’énerve sur Bruno Genesio",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5745680029801529903-om-jerome-rothen-senerve-sur-bruno-genesio",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rothen-rmcsport.jpg",
+      "publishedAt": "2026-09-24T05:27:24.000Z",
+      "category": "news",
       "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
       },
       "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.2
+    },
+    {
+      "id": "gdelt-3c2f7c9ef49aa766e7fd5bd0",
+      "title": "Mercato OL : La Juventus a déjà pris une décision radicale pour l'été prochain concernant Loïs Openda",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-la-juventus-a-deja-pris-une-decision-radicale-pour-l-ete-prochain-concernant-lois-openda-539993.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2026/zoom/ldc-20260812083556-1332.jpg",
+      "publishedAt": "2026-09-24T15:00:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "juventus"
+      ],
       "topics": [
-        "ligue-1",
-        "switzerland"
+        "juventus"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.7
+      "qualityScore": 79
     },
     {
       "id": "gdelt-705b70224d42f76de38a0c62",
@@ -1622,7 +2204,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 81.6
+      "qualityScore": 79
     },
     {
       "id": "gdelt-ae2975770c6351ed81401da9",
@@ -1641,7 +2223,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.6
+      "qualityScore": 79
     },
     {
       "id": "gdelt-8c64438f6dc717dc3fce95bf",
@@ -1665,7 +2247,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.6
+      "qualityScore": 79
+    },
+    {
+      "id": "gdelt-b8864dcb25bd0488e506d80e",
+      "title": "Mercato OL : Corentin Tolisso a convaincu Pavel Sulc de rester à Lyon cet été",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-corentin-tolisso-a-convaincu-pavel-sulc-de-rester-a-lyon-cet-ete-539988.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260207225831-9624.jpg",
+      "publishedAt": "2026-09-24T14:40:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "ol"
+      ],
+      "topics": [
+        "ol"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 78.8
     },
     {
       "id": "gdelt-02136b296b001480ba717287",
@@ -1688,7 +2293,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.3
+      "qualityScore": 78.8
     },
     {
       "id": "gdelt-8c26b3938e25f82b8043fc8d",
@@ -1709,637 +2314,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.2
-    },
-    {
-      "id": "gdelt-cec7b9e25f6b89852603de4f",
-      "title": "U17 : les Talents Foot-National de la cinquième journée du groupe E",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/u17-les-talents-foot-national-de-la-cinquieme-journee-du-groupe-e-956798",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956798/390091/1200-L-u17-les-talents-foot-national-de-la-cinquime-journe-du-groupe-e.jpg",
-      "publishedAt": "2026-09-23T20:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.2
-    },
-    {
-      "id": "gdelt-536681599f65369a4d0874b2",
-      "title": "Bourgaud enchaîne, première pour Loki et Pi : les Talents Foot-National de la 5e journée du groupe B de National 1",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/bourgaud-enchaine-premiere-pour-loki-et-pi-les-talents-foot-national-de-la-5e-journee-du-groupe-b-de-national-1-956803",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956803/390093/1200-L-bourgaud-enchane-premire-pour-loki-et-pi-les-talents-foot-national-de-la-5e-journe-du-groupe-b-de-national-1.jpg",
-      "publishedAt": "2026-09-23T20:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.2
-    },
-    {
-      "id": "gdelt-71f1f599658ca062f9e44e51",
-      "title": "Équipe de France : Zinédine Zidane a tranché sur ses trois vice-capitaines",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/equipe-de-france/equipe-de-france-zinedine-zidane-a-tranche-sur-ses-trois-vice-capitaines-956785",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956785/390084/1200-L-quipe-de-france-zindine-zidane-a-tranch-sur-ses-trois-vice-capitaines.jpg",
-      "publishedAt": "2026-09-23T20:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.2
-    },
-    {
-      "id": "gdelt-10c6306b2b7c125a6afbe1bb",
-      "title": "L'Équipe de France U17 chute en Finlande pour son premier match amical après une folle entame",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/jeunes/lequipe-de-france-u17-chute-en-finlande-pour-son-premier-match-amical-apres-une-folle-entame-956806",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956806/390094/1200-L-lquipe-de-france-u17-chute-en-finlande-pour-son-premier-match-amical-aprs-une-folle-entame.jpg",
-      "publishedAt": "2026-09-23T20:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.2
-    },
-    {
-      "id": "gdelt-bb5a9bdeceaffcab06b852f3",
-      "title": "Coupe de France : l'adversaire de Nîmes au quatrième tour est connu, les modalités de la rencontre bientôt définies",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-ladversaire-de-nimes-au-quatrieme-tour-est-connu-les-modalites-de-la-rencontre-bientot-definies-956800",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956800/390092/1200-L-coupe-de-france-ladversaire-de-nmes-au-quatrime-tour-est-connu-les-modalits-de-la-rencontre-bientt-dfinies.jpg",
-      "publishedAt": "2026-09-23T20:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.2
-    },
-    {
-      "id": "gdelt-65f22a1ff2dadd3aff015dbd",
-      "title": "Avant de retrouver les Girondins de Bordeaux en Coupe de France, Issam Ben Khemis brille à Angoulême",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/avant-de-retrouver-les-girondins-de-bordeaux-en-coupe-de-france-issam-ben-khemis-brille-a-angouleme-956735",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956735/390062/1200-L-avant-de-retrouver-les-girondins-de-bordeaux-en-coupe-de-france-issam-ben-khemis-brille-angoulme.jpg",
-      "publishedAt": "2026-09-23T12:10:04.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "bordeaux"
-      ],
-      "topics": [
-        "bordeaux",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.2
-    },
-    {
-      "id": "gdelt-40eb18bd4ed833804e19cbab",
-      "title": "Devenir stagiaire chez So Foot : toutes les infos pour la saison 2026-2027 - So Foot - Mercato",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/rejoins-so-foot-en-stage-toutes-les-infos-pour-la-saison-2026-2027",
-      "imageURL": "https://www.sofoot.com/convert/LzIwMjYvMDkvMDkxNTM4MDYvSUNPTlNQT1JUXzM3MDQwOV8wODU2LTE0MDB4OTMzLmpwZw/300/devenir-stagiaire-chez-so-foot-e2-80-af-toutes-les-infos-pour-la-saison-2026-2027.jpg",
-      "publishedAt": "2026-09-23T22:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.1
-    },
-    {
-      "id": "gdelt-0ab393ec886b8b9f5de900cf",
-      "title": "PSG (F) : \"Un résultat très positif\", Paulo César satisfait du point ramené de Madrid",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/ligue-des-champions/psg-f-un-resultat-tres-positif-paulo-cesar-satisfait-du-point-ramene-de-madrid-956747",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956747/390068/1200-L-psg-f-un-rsultat-trs-positif-paulo-csar-satisfait-du-point-ramen-de-madrid.jpg",
-      "publishedAt": "2026-09-23T11:25:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "psg",
-        "pau"
-      ],
-      "topics": [
-        "psg",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.8
-    },
-    {
-      "id": "gdelt-90b2ebd27c4285b2d5e25462",
-      "title": "ASSE : Liverpool et Brest plutôt que les Verts, N'Guessan dévoile la vérité sur son départ du Forez",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/asse-liverpool-et-brest-plutot-que-les-verts-nguessan-devoile-la-verite-sur-son-depart-du-forez-1000534",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1000534/408378/1200-L-asse-liverpool-et-brest-plutt-que-les-verts-n-guessan-dvoile-la-vrit-sur-son-dpart-du-forez.jpg",
-      "publishedAt": "2026-09-22T21:03:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "brest",
-        "liverpool",
-        "saint-etienne"
-      ],
-      "topics": [
-        "brest",
-        "liverpool",
-        "saint-etienne"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.6
-    },
-    {
-      "id": "gdelt-e043295e3293823188e452e1",
-      "title": "LdC (F) : l’OL Lyonnes écrase le Servette avec un 8-0 monumental",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a647840233604771762-ldc-f-lol-lyonnes-ecrase-le-servette-avec-un-8-0-monumental",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxsportsworldtwo975930-1.jpg",
-      "publishedAt": "2026-09-23T18:50:08.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "ol"
-      ],
-      "topics": [
-        "ol"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.5
-    },
-    {
-      "id": "gdelt-5774ec2c2c6e9047c12f06c2",
-      "title": "« Il va falloir bien défendre ensemble » : le Paris FC veut regarder Barcelone dans les yeux",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupes/il-va-falloir-bien-defendre-ensemble-clara-mateo-veut-regarder-barcelone-dans-les-yeux-956718",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956718/390053/1200-L--il-va-falloir-bien-dfendre-ensemble-le-paris-fc-veut-regarder-barcelone-dans-les-yeux.jpg",
-      "publishedAt": "2026-09-23T10:29:45.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "barcelona",
-        "paris-fc"
-      ],
-      "topics": [
-        "barcelona",
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.3
-    },
-    {
-      "id": "gdelt-0f272ccd8a5f1085e3a45faf",
-      "title": "Le PSG réagit à la confirmation du renvoi d’Achraf Hakimi pour viol devant une cour criminelle",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5592735301944885228-le-psg-reagit-a-la-confirmation-du-renvoi-dachraf-hakimi-pour-viol-devant-une-cour-criminelle",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/hakimi-69872e660fb81.jpg",
-      "publishedAt": "2026-09-23T17:49:46.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80
-    },
-    {
-      "id": "gdelt-2619d7b4e6118d092fc7d763",
-      "title": "Rodri déjà indispensable au Barça, la réaction fracassante en interne du Real Madrid",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/liga/rodri-deja-indispensable-au-barca-la-reaction-fracassante-en-interne-du-real-madrid-1000587",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1000587/408402/1200-L-rodri-dj-indispensable-au-bara-la-raction-fracassante-en-interne-du-real-madrid.jpg",
-      "publishedAt": "2026-09-23T09:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "real-madrid",
-        "barcelona"
-      ],
-      "topics": [
-        "real-madrid",
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.8
-    },
-    {
-      "id": "gdelt-8f08e45c055aa0d36ed2468a",
-      "title": "Les 10 prochains coups de com de Mbappé pour le Ballon d'or - Espagne - Real Madrid",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/articles/les-10-prochains-coups-de-com-de-mbappe-pour-le-ballon-dor",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/23110101/14781605-1400x933.jpg",
-      "publishedAt": "2026-09-23T17:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.7
-    },
-    {
-      "id": "gdelt-24cb2ddae7cbf65674d541eb",
-      "title": "Le Ballon d'or n'est pas le plus grand rêve de Mbappé - Espagne - Real Madrid",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/le-plus-grand-reve-de-mbappe-nest-pas-de-gagner-le-ballon-dor",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/23151039/14781502-1400x933.jpg",
-      "publishedAt": "2026-09-23T17:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.7
-    },
-    {
-      "id": "gdelt-224af9d5c1bbea1b665efebf",
-      "title": "Sur les réseaux, les fans de Manchester United se positionnent contre la direction du club",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/les-fans-de-manchester-united-boycottent-ineos-et-la-famille-glazers",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/23150039/14720229-1400x933.jpg",
-      "publishedAt": "2026-09-23T17:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "man-united"
-      ],
-      "topics": [
-        "man-united"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.7
-    },
-    {
-      "id": "gdelt-0e9b488ddfdcb4cfcbf3bbe2",
-      "title": "Real Madrid : discussions à venir avec Jude Bellingham",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4428537219144110473-real-madrid-discussions-a-venir-avec-jude-bellingham",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jude-bellingham-2627.jpg",
-      "publishedAt": "2026-09-23T16:58:09.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.6
-    },
-    {
-      "id": "gdelt-50cd3c6f0b97621c0bec8bef",
-      "title": "PSG : Matvey Safonov se confie sur sa situation",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4159755290032804362-psg-matvey-safonov-se-confie-sur-sa-situation",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine090118-1920x1080.jpg",
-      "publishedAt": "2026-09-23T16:30:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.3
-    },
-    {
-      "id": "gdelt-2f6eefbadde25954f0b0042a",
-      "title": "Mercato - Lens : un guet-apens, la journée horrible vécue par Malang Sarr au moment de signer à NEOM",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/transferts/mercato-lens-un-guet-apens-la-journee-horrible-vecue-par-malang-sarr-au-moment-de-signer-a-neom-1000589",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1000589/408403/1200-L-mercato-lens-un-guet-apens-la-journe-horrible-vcue-par-malang-sarr-au-moment-de-signer-neom.jpg",
-      "publishedAt": "2026-09-23T10:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.1
-    },
-    {
-      "id": "gdelt-96c483d86d6eea158c4a124a",
-      "title": "EXCLU - PSG : \"C'est un joueur d'une qualité énorme\", Pauleta totalement fan des débuts de Ferran Torres !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/exclu-psg-cest-un-joueur-dune-qualite-enorme-pauleta-totalement-fan-des-debuts-de-ferran-torres-1000578",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1000578/408398/1200-L-exclu-psg-c-est-un-joueur-d-une-qualit-norme-pauleta-totalement-fan-des-dbuts-de-ferran-torres.jpg",
-      "publishedAt": "2026-09-23T08:00:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "psg",
-        "pau"
-      ],
-      "topics": [
-        "psg",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.1
-    },
-    {
-      "id": "gdelt-7d3bed02db51d73ccea7cdcf",
-      "title": "Le Real Madrid se mord déjà les doigts pour une recrue",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2967789886936762363-le-real-madrid-a-une-enorme-rage-pour-une-recrue",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-2627.jpg",
-      "publishedAt": "2026-09-23T09:33:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.8
-    },
-    {
-      "id": "gdelt-0cc1885c59cf912c858f1e23",
-      "title": "RC Strasbourg : Dimitri Liénard détruit Liam Rosenior après ses provocations lors de Paris FC - Strasbourg",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-rc-strasbourg-dimitri-lienard-detruit-liam-rosenior-apres-ses-provocations-lors-de-paris-fc-strasbourg-539836.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2026/zoom/ldc-20260318090608-4499.jpg",
-      "publishedAt": "2026-09-23T07:23:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "strasbourg",
-        "paris-fc"
-      ],
-      "topics": [
-        "strasbourg",
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.8
-    },
-    {
-      "id": "gdelt-beb0f09ac508511a846e6987",
-      "title": "Ligue des champions féminine: Le Servette FCCF laminé par Lyon",
-      "summary": "Publication référencée chez lematin.ch. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lematin.ch/story/ligue-des-champions-feminine-le-servette-fccf-lamine-par-lyon-103638044",
-      "imageURL": "https://image.lematin.ch/2026/09/24/255d77f1-2eec-4122-8adf-26f4eb884967.jpg?auto=format%2Ccompress%2Cenhance&fit=max&rect=0%2C0%2C2310%2C1540&s=f748ccaf324d8f258838b4e39817a5ef",
-      "publishedAt": "2026-09-24T05:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lematin.ch",
-        "name": "lematin.ch",
-        "websiteURL": "https://lematin.ch"
-      },
-      "teams": [
-        "ol"
-      ],
-      "topics": [
-        "ol",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
       "qualityScore": 78.7
-    },
-    {
-      "id": "gdelt-179254d36d78d7712331ed87",
-      "title": "Real Madrid : les journalistes espagnols s’acharnent sur Mbappé et son Ballon d’Or",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2718199012494313718-real-madrid-les-journalistes-espagnols-sacharnent-sur-mbappe-et-son-ballon-dor",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappe-edf-2026-2.jpg",
-      "publishedAt": "2026-09-23T15:17:15.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.7
-    },
-    {
-      "id": "gdelt-9c154617cd3419afac5ba2ab",
-      "title": "Manchesterr United et Liverpool en concurrence pour un joueur de Crystal Palace",
-      "summary": "Publication référencée chez mercatofootanglais.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://mercatofootanglais.com/manchesterr-united-et-liverpool-en-concurrence-pour-un-joueur-de-crystal-palace/",
-      "imageURL": "https://mercatofootanglais.com/wp-content/uploads/2022/03/tyrick-mitchell-scaled-e1790224668999.jpg",
-      "publishedAt": "2026-09-24T07:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "mercatofootanglais.com",
-        "name": "mercatofootanglais.com",
-        "websiteURL": "https://mercatofootanglais.com"
-      },
-      "teams": [
-        "liverpool",
-        "crystal-palace"
-      ],
-      "topics": [
-        "liverpool",
-        "crystal-palace"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.6
-    },
-    {
-      "id": "gdelt-7d67f95be9c9c78d4218d3a1",
-      "title": "À quoi joue l’OM avec Milan Leccese et Antoine Valero ?",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7048615002094157844-a-quoi-joue-lom-avec-milan-leccese-et-antoine-valero",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/valero.jpg",
-      "publishedAt": "2026-09-23T15:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lecce"
-      ],
-      "topics": [
-        "lecce"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.6
-    },
-    {
-      "id": "gdelt-771fdc7ac7a2b48862aa0610",
-      "title": "Ligue des champions (F) : le PSG accroche le Real Madrid au terme d'un match animé",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-f-le-psg-accroche-le-real-madrid-au-terme-dun-match-anime-956723",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956723/390055/1200-L-ligue-des-champions-f-le-psg-accroche-le-real-madrid-au-terme-d-un-match-anim.jpg",
-      "publishedAt": "2026-09-22T23:06:12.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "psg",
-        "real-madrid"
-      ],
-      "topics": [
-        "psg",
-        "real-madrid",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.6
     }
   ],
-  "generatedAt": "2026-09-24T11:51:21.107Z",
+  "generatedAt": "2026-09-24T16:58:05.307Z",
   "stale": false
 }
