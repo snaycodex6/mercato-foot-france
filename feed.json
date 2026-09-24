@@ -22,7 +22,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 101.1
+      "qualityScore": 98.5
     },
     {
       "id": "gdelt-dfa3400beb6e571350450aca",
@@ -49,7 +49,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 99.8
+      "qualityScore": 97.2
     },
     {
       "id": "gdelt-b5489d0f93f579615b4bf7c5",
@@ -73,7 +73,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.7
+      "qualityScore": 94.1
     },
     {
       "id": "gdelt-c5ba3bd068e10070685ae8f1",
@@ -100,7 +100,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.1
+      "qualityScore": 93.5
+    },
+    {
+      "id": "gdelt-3ea4e72a63af77650374b749",
+      "title": "Ligue des Champions (F) : le Paris FC démarre sa campagne européenne par une lourde défaite à Barcelone",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-f-le-paris-fc-demarre-sa-campagne-europeenne-par-une-lourde-defaite-a-barcelone-956817",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956817/390100/1200-L-ligue-des-champions-f-le-paris-fc-dmarre-sa-campagne-europenne-par-une-lourde-dfaite-barcelone.jpg",
+      "publishedAt": "2026-09-23T22:56:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "barcelona",
+        "paris-fc"
+      ],
+      "topics": [
+        "barcelona",
+        "paris-fc",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-3ff70f06cc48b4d7c18b6a4a",
@@ -127,7 +153,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.1
+      "qualityScore": 91.5
+    },
+    {
+      "id": "gdelt-a17e21ebc64ba78539ee0b88",
+      "title": "Ligue des Champions Féminine : le classement de la phase régulière",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-feminine-le-classement-de-la-phase-reguliere-956678",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956678/390034/1200-L-ligue-des-champions-fminine-le-classement-de-la-phase-rgulire.jpg",
+      "publishedAt": "2026-09-23T23:59:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 90
     },
     {
       "id": "gdelt-c61d61174c180045dc3b0697",
@@ -153,7 +203,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.6
+      "qualityScore": 90
+    },
+    {
+      "id": "gdelt-6d8c3b32521cc83fb23a0ca8",
+      "title": "Ligue 3 : Villefranche engage un défenseur, le projet de rénovation du Stade Robert-Diochon bientôt voté à Rouen",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/ligue-3-villefranche-engage-un-defenseur-le-projet-de-renovation-du-stade-robert-diochon-bientot-vote-a-rouen-956782",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956782/390083/1200-L-ligue-3-villefranche-engage-un-dfenseur-le-projet-de-rnovation-du-stade-robert-diochon-bientt-vot-rouen.jpg",
+      "publishedAt": "2026-09-24T01:00:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-fa83054600a86c6fef2eec4e",
@@ -178,7 +249,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.1
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-c91c135e6c80e779e0097352",
@@ -202,7 +273,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-55399078f440b8895656e77a",
@@ -227,7 +298,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 89
     },
     {
       "id": "gdelt-6a7943a2995da7e27edc06fa",
@@ -251,7 +322,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-dc07a3887affabd66b1a0cc8",
@@ -276,7 +347,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-55b4b3446e59360330f94799",
@@ -303,7 +374,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-ad72e10773b601c25838d720",
@@ -328,7 +399,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-7fadaf01c6b5a4a973eaa3f5",
@@ -354,7 +425,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-865440ee594493df2411aefb",
@@ -379,7 +450,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-689bb2589dc5cb0b863521a8",
@@ -403,7 +474,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-727304a4d3f9e6379f6edfb4",
@@ -427,7 +498,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-72a37685d91b7bd41f525214",
@@ -450,7 +521,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-b5b382c6f9c8922390554a22",
@@ -473,7 +544,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-cbdc34f867dd7a7e7464aa3d",
@@ -497,7 +568,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 87
     },
     {
       "id": "gdelt-1d171bd585bb5de685f064a0",
@@ -523,7 +594,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-b87b8a566de55f8a5a451dab",
@@ -547,7 +618,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-59c3ff144302f00d827ec848",
@@ -571,7 +642,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-bb809f98a6b135f0086e2e14",
@@ -595,7 +666,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-42ad6b1de8cceb32ee6b1f37",
@@ -619,7 +690,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-e0451f77007be1cd67f2da13",
@@ -638,7 +709,7 @@
       "topics": [],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-229711cd18c1e2e823f6e25f",
@@ -664,7 +735,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-f5b5c426dd0d60147c12b098",
@@ -687,7 +758,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-10aa70ad1231305e7aa2da4c",
@@ -708,7 +779,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-08aba3599799c4f6905394ca",
@@ -731,7 +802,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-bbc318ee38dab2468759d826",
@@ -754,7 +825,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 85.5
+    },
+    {
+      "id": "gdelt-dae84451d53f129f4a2608c1",
+      "title": "Ligue des champions féminine. Le Paris FC commence par une lourde défaite à Barcelone",
+      "summary": "Publication référencée chez draguignan.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://draguignan.maville.com/actu/actudet_-ligue-des-champions-feminine-le-paris-fc-commence-par-une-lourde-defaite-a-barcelone_fil-7492666_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/09/24/P36147644D7492666G_crop_1200-675_.jpg",
+      "publishedAt": "2026-09-24T04:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "draguignan.maville.com",
+        "name": "draguignan.maville.com",
+        "websiteURL": "https://draguignan.maville.com"
+      },
+      "teams": [
+        "barcelona",
+        "paris-fc"
+      ],
+      "topics": [
+        "barcelona",
+        "paris-fc",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-4bbb78e25804c4f091e8addf",
@@ -779,7 +876,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-9d89f6d9def2ce9d5bf52a22",
@@ -801,7 +898,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-4913925d0d3d34adae10dff8",
@@ -826,7 +923,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.2
+    },
+    {
+      "id": "gdelt-fc87be40964c8641d178192c",
+      "title": "Caen-Rouen : où et quand suivre le derby normand du haut de tableau en Ligue 3 ?",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/caen-rouen-ou-et-quand-suivre-le-derby-normand-du-haut-de-tableau-en-ligue-3-956807",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956807/390095/1200-L-caen-rouen-o-et-quand-suivre-le-derby-normand-du-haut-de-tableau-en-ligue-3.jpg",
+      "publishedAt": "2026-09-24T06:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "caen",
+        "derby"
+      ],
+      "topics": [
+        "caen",
+        "derby",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85
     },
     {
       "id": "gdelt-130dc2ccfdcbc2ce8cbacd94",
@@ -849,7 +972,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 85
     },
     {
       "id": "gdelt-ceaa0fc345fe5e52473e3fc3",
@@ -868,7 +991,7 @@
       "topics": [],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-1a6b7783620912f4b0736318",
@@ -894,7 +1017,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 84.9
     },
     {
       "id": "gdelt-4890e206a324ed166066e107",
@@ -917,7 +1040,45 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 84.8
+    },
+    {
+      "id": "gdelt-a357b220bb02069f6a8a400b",
+      "title": "OM : Jérôme Rothen s’énerve sur Bruno Genesio",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5745680029801529903-om-jerome-rothen-senerve-sur-bruno-genesio",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rothen-rmcsport.jpg",
+      "publishedAt": "2026-09-24T05:27:24.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.7
+    },
+    {
+      "id": "gdelt-ae2975770c6351ed81401da9",
+      "title": "Le MHSC retrouve Grammont avec l’OM en ligne de mire",
+      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.allezpaillade.com/effectif/le-mhsc-retrouve-grammont-avec-lom-en-ligne-de-mire/",
+      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2026/05/ICONSPORT_365952_0042-380x370.jpg",
+      "publishedAt": "2026-09-24T05:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "allezpaillade.com",
+        "name": "allezpaillade.com",
+        "websiteURL": "https://allezpaillade.com"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-8c64438f6dc717dc3fce95bf",
@@ -941,7 +1102,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-02136b296b001480ba717287",
@@ -964,7 +1125,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-8c26b3938e25f82b8043fc8d",
@@ -985,7 +1146,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-cec7b9e25f6b89852603de4f",
@@ -1006,7 +1167,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-536681599f65369a4d0874b2",
@@ -1027,7 +1188,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-71f1f599658ca062f9e44e51",
@@ -1048,7 +1209,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-10c6306b2b7c125a6afbe1bb",
@@ -1069,7 +1230,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-bb5a9bdeceaffcab06b852f3",
@@ -1090,7 +1251,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-65f22a1ff2dadd3aff015dbd",
@@ -1114,7 +1275,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-40eb18bd4ed833804e19cbab",
@@ -1133,7 +1294,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 84
     },
     {
       "id": "gdelt-0ab393ec886b8b9f5de900cf",
@@ -1158,7 +1319,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-90b2ebd27c4285b2d5e25462",
@@ -1185,7 +1346,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-e043295e3293823188e452e1",
@@ -1208,7 +1369,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-5774ec2c2c6e9047c12f06c2",
@@ -1233,7 +1394,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-0f272ccd8a5f1085e3a45faf",
@@ -1256,7 +1417,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-2619d7b4e6118d092fc7d763",
@@ -1281,7 +1442,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 82.8
     },
     {
       "id": "gdelt-8f08e45c055aa0d36ed2468a",
@@ -1304,7 +1465,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 82.6
     },
     {
       "id": "gdelt-24cb2ddae7cbf65674d541eb",
@@ -1327,7 +1488,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 82.6
     },
     {
       "id": "gdelt-224af9d5c1bbea1b665efebf",
@@ -1350,7 +1511,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 82.6
     },
     {
       "id": "gdelt-0e9b488ddfdcb4cfcbf3bbe2",
@@ -1373,7 +1534,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-50cd3c6f0b97621c0bec8bef",
@@ -1396,7 +1557,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-2f6eefbadde25954f0b0042a",
@@ -1419,7 +1580,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 82
     },
     {
       "id": "gdelt-96c483d86d6eea158c4a124a",
@@ -1444,7 +1605,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 82
     },
     {
       "id": "gdelt-7d3bed02db51d73ccea7cdcf",
@@ -1467,7 +1628,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.8
     },
     {
       "id": "gdelt-0cc1885c59cf912c858f1e23",
@@ -1492,7 +1653,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 81.7
+    },
+    {
+      "id": "gdelt-beb0f09ac508511a846e6987",
+      "title": "Ligue des champions féminine: Le Servette FCCF laminé par Lyon",
+      "summary": "Publication référencée chez lematin.ch. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lematin.ch/story/ligue-des-champions-feminine-le-servette-fccf-lamine-par-lyon-103638044",
+      "imageURL": "https://image.lematin.ch/2026/09/24/255d77f1-2eec-4122-8adf-26f4eb884967.jpg?auto=format%2Ccompress%2Cenhance&fit=max&rect=0%2C0%2C2310%2C1540&s=f748ccaf324d8f258838b4e39817a5ef",
+      "publishedAt": "2026-09-24T05:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lematin.ch",
+        "name": "lematin.ch",
+        "websiteURL": "https://lematin.ch"
+      },
+      "teams": [
+        "ol"
+      ],
+      "topics": [
+        "ol",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 81.6
     },
     {
       "id": "gdelt-179254d36d78d7712331ed87",
@@ -1515,7 +1700,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 81.6
+    },
+    {
+      "id": "gdelt-7d67f95be9c9c78d4218d3a1",
+      "title": "À quoi joue l’OM avec Milan Leccese et Antoine Valero ?",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7048615002094157844-a-quoi-joue-lom-avec-milan-leccese-et-antoine-valero",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/valero.jpg",
+      "publishedAt": "2026-09-23T15:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lecce"
+      ],
+      "topics": [
+        "lecce"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-771fdc7ac7a2b48862aa0610",
@@ -1541,56 +1749,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
-    },
-    {
-      "id": "gdelt-3ea4e72a63af77650374b749",
-      "title": "Ligue des Champions (F) : le Paris FC démarre sa campagne européenne par une lourde défaite à Barcelone",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-f-le-paris-fc-demarre-sa-campagne-europeenne-par-une-lourde-defaite-a-barcelone-956817",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956817/390100/1200-L-ligue-des-champions-f-le-paris-fc-dmarre-sa-campagne-europenne-par-une-lourde-dfaite-barcelone.jpg",
-      "publishedAt": "2026-09-23T22:56:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "barcelona",
-        "paris-fc"
-      ],
-      "topics": [
-        "barcelona",
-        "paris-fc",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.1
-    },
-    {
-      "id": "gdelt-7d67f95be9c9c78d4218d3a1",
-      "title": "À quoi joue l’OM avec Milan Leccese et Antoine Valero ?",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7048615002094157844-a-quoi-joue-lom-avec-milan-leccese-et-antoine-valero",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/valero.jpg",
-      "publishedAt": "2026-09-23T15:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lecce"
-      ],
-      "topics": [
-        "lecce"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-e03d8832a059126a69e10875",
@@ -1613,7 +1772,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-408cac053cf33486905313ce",
@@ -1636,7 +1795,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-268b7517148616e3df50569d",
@@ -1659,7 +1818,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-6fdc2c5b1b33df63a2c67a88",
@@ -1682,7 +1841,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-e3ed7883fafb98defbfde4cd",
@@ -1703,7 +1862,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-b53aa3a2fb54f8d3d1b19b9e",
@@ -1728,7 +1887,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-0851fee2e7f5b3cecc4a003a",
@@ -1752,7 +1911,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 81.3
+    },
+    {
+      "id": "gdelt-57e2562c3fb6fb3bf4b2efef",
+      "title": "FAF - Le nouveau système de compétition adopté hier - La Ligue 1 passera à 18 clubs",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/la-ligue-1-passera-a-18-clubs/",
+      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2019/01/foot.jpg",
+      "publishedAt": "2026-09-24T04:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 81
     },
     {
       "id": "gdelt-1064b32febda95a9c20833a4",
@@ -1776,7 +1959,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 81
     },
     {
       "id": "gdelt-ed897492aa7145d0c1d126ff",
@@ -1795,7 +1978,31 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 80.9
+    },
+    {
+      "id": "gdelt-294b666a3821596b13ef107a",
+      "title": "Ligue des Champions Féminine – Les résultats de la 1ere journée et le classement",
+      "summary": "Publication référencée chez parisfans.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.parisfans.fr/actu-feminin/ligue-des-champions-feminine-les-resultats-de-la-1ere-journee-et-le-classement-938805.html",
+      "imageURL": "https://www.parisfans.fr/wp-content/uploads/2026/02/ICONSPORT_273188_0153-1000x600.jpg",
+      "publishedAt": "2026-09-24T05:33:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "parisfans.fr",
+        "name": "parisfans.fr",
+        "websiteURL": "https://parisfans.fr"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.8
     },
     {
       "id": "gdelt-b2c5493e86d428c3c1fac443",
@@ -1821,7 +2028,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 80.4
     },
     {
       "id": "gdelt-17d531fe032e3f8751ebb939",
@@ -1840,7 +2047,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-aeb52f39ecf6ef6310be34e7",
@@ -1866,7 +2073,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-ee8808f674e4b2d3f5afe04b",
@@ -1885,7 +2092,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.8
+      "qualityScore": 80.2
     },
     {
       "id": "gdelt-93f82b1785c6bd7933619d98",
@@ -1911,7 +2118,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.6
+      "qualityScore": 80
     },
     {
       "id": "gdelt-e37a9ee32e205d22234d00a1",
@@ -1938,7 +2145,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.3
+      "qualityScore": 79.7
     },
     {
       "id": "gdelt-466b2db029e79a1271ffd2b1",
@@ -1957,7 +2164,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.2
+      "qualityScore": 79.6
     },
     {
       "id": "gdelt-6313578e571e39cf64ed77f1",
@@ -1976,7 +2183,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82
+      "qualityScore": 79.4
     },
     {
       "id": "gdelt-76c3327147a8d2b0404552ce",
@@ -1997,7 +2204,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 82
+      "qualityScore": 79.4
     },
     {
       "id": "gdelt-810b669a2b20237451747f43",
@@ -2023,7 +2230,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.5
+      "qualityScore": 78.9
     },
     {
       "id": "gdelt-bfcbcccdd2563294a2d32f83",
@@ -2046,7 +2253,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 81.5
+      "qualityScore": 78.9
     },
     {
       "id": "gdelt-115f3df7ddadd9cc50052d1d",
@@ -2067,7 +2274,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.4
+      "qualityScore": 78.8
     },
     {
       "id": "gdelt-b4e5d73b3ea3574e9a8bf476",
@@ -2090,7 +2297,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.4
+      "qualityScore": 78.8
     },
     {
       "id": "gdelt-ed627aa05a6fde3e76e43988",
@@ -2113,7 +2320,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.4
+      "qualityScore": 78.8
     },
     {
       "id": "gdelt-a22ccca38bbea0587d7ea6cb",
@@ -2136,220 +2343,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.2
-    },
-    {
-      "id": "gdelt-259597537f39590a701bba96",
-      "title": "L'international U 17 Souleymane « Commissaire » Faye en tests à Chelsea",
-      "summary": "Publication référencée chez senego.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://senego.com/linternational-u-17-souleymane-commissaire-faye-en-tests-a-chelsea_2005465.html",
-      "imageURL": "https://senego.com/wp-content/uploads/2026/09/img_1166.jpeg",
-      "publishedAt": "2026-09-23T23:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "senego.com",
-        "name": "senego.com",
-        "websiteURL": "https://senego.com"
-      },
-      "teams": [
-        "chelsea"
-      ],
-      "topics": [
-        "chelsea",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 81.1
-    },
-    {
-      "id": "gdelt-a17e21ebc64ba78539ee0b88",
-      "title": "Ligue des Champions Féminine : le classement de la phase régulière",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-feminine-le-classement-de-la-phase-reguliere-956678",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956678/390034/1200-L-ligue-des-champions-fminine-le-classement-de-la-phase-rgulire.jpg",
-      "publishedAt": "2026-09-23T23:59:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "saint-etienne"
-      ],
-      "topics": [
-        "saint-etienne",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.6
-    },
-    {
-      "id": "gdelt-c0486c379711c8d66cb251e1",
-      "title": "Mercato Monaco : Quatre jeunes de l'AS Monaco signent leur premier contrat professionnel (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-monaco-quatre-jeunes-de-l-as-monaco-signent-leur-premier-contrat-professionnel-officiel-539786.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250731220709-6837.jpg",
-      "publishedAt": "2026-09-22T13:22:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "monaco"
-      ],
-      "topics": [
-        "monaco"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 80.3
-    },
-    {
-      "id": "gdelt-dd0ec6d36e52bea6d5ce2bfb",
-      "title": "Ligue 1 : La direction de l'arbitrage relève une erreur conséquente commise lors de AS Monaco - RC Lens !",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-la-direction-de-l-arbitrage-releve-une-erreur-consequente-commise-lors-de-as-monaco-rc-lens-539799.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260918223515-2413.jpg",
-      "publishedAt": "2026-09-22T15:15:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "monaco",
-        "lens"
-      ],
-      "topics": [
-        "monaco",
-        "lens",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.2
-    },
-    {
-      "id": "gdelt-6d8c3b32521cc83fb23a0ca8",
-      "title": "Ligue 3 : Villefranche engage un défenseur, le projet de rénovation du Stade Robert-Diochon bientôt voté à Rouen",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/mercato/ligue-3-villefranche-engage-un-defenseur-le-projet-de-renovation-du-stade-robert-diochon-bientot-vote-a-rouen-956782",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/956782/390083/1200-L-ligue-3-villefranche-engage-un-dfenseur-le-projet-de-rnovation-du-stade-robert-diochon-bientt-vot-rouen.jpg",
-      "publishedAt": "2026-09-24T01:00:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80
-    },
-    {
-      "id": "gdelt-7921e545a0231f08610a1482",
-      "title": "Servette Chênois écrasé 8-0 par Lyon en Ligue des champions",
-      "summary": "Publication référencée chez latele.ch. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://latele.ch/articles/servette-chenois-humilie-par-lyon",
-      "imageURL": "https://ats.latele.ch/storage/ats/46455-soiree-compliquee-pour-les-genevoises-face-a-lyon.jpg",
-      "publishedAt": "2026-09-23T20:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "latele.ch",
-        "name": "latele.ch",
-        "websiteURL": "https://latele.ch"
-      },
-      "teams": [
-        "ol"
-      ],
-      "topics": [
-        "ol",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 80
-    },
-    {
-      "id": "gdelt-f4f43f76781b36d8439f4817",
-      "title": "PSG : l’éloge de Luis Campos à Vitinha et João Neves",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1108392330077381468-psg-leloge-de-luis-campos-a-vitinha-et-joao-neves",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/neves-vitinha-but.jpg",
-      "publishedAt": "2026-09-23T06:23:26.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.8
-    },
-    {
-      "id": "gdelt-9fd4906cef981ee78f98a81d",
-      "title": "Équipe de France : \"Fabien Barthez, c'est un atout incroyable !\" s'exclame l'ex-gardien du TFC Cédric Carrasso qui commente la nomination de l'Ariégeois et la convocation de Guillaume Restes",
-      "summary": "Publication référencée chez ladepeche.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.ladepeche.fr/2026/09/23/equipe-de-france-fabien-barthez-cest-un-atout-incroyable-sexclame-lex-gardien-du-tfc-cedric-carrasso-qui-commente-la-nomination-de-lariegeois-et-la-13565575.php",
-      "imageURL": "https://images.ladepeche.fr/api/v1/images/view/6ab423925370d26fe209a504/hd/image.jpg?v=1",
-      "publishedAt": "2026-09-23T20:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "ladepeche.fr",
-        "name": "ladepeche.fr",
-        "websiteURL": "https://ladepeche.fr"
-      },
-      "teams": [],
-      "topics": [
-        "france",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 79.7
-    },
-    {
-      "id": "gdelt-70ba46cc88c38f5fc2ce6f3f",
-      "title": "Luis Campos pense déjà au three-peat du PSG en Ligue des champions",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/luis-campos-pense-deja-au-three-peat-du-psg-en-ligue-des-champions",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/22203550/14722121-1400x933.jpg",
-      "publishedAt": "2026-09-22T22:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.6
+      "qualityScore": 78.6
     }
   ],
-  "generatedAt": "2026-09-24T00:48:04.149Z",
+  "generatedAt": "2026-09-24T06:00:43.799Z",
   "stale": false
 }
