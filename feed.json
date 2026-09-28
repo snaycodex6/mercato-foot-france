@@ -23,7 +23,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-2162e2f3cdb7a1a916024a1b",
@@ -50,7 +50,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.8
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-c05590cc582accc7b7268922",
@@ -72,31 +72,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
-    },
-    {
-      "id": "gdelt-c53afc9a89a2b6bb9d70a9a3",
-      "title": "JT Foot Mercato : premières tensions entre le Real Madrid et l’Équipe de France",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8177585481402950185-jt-foot-mercato-premieres-tensions-entre-le-real-madrid-et-lequipe-de-france",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappe-6ab6edc661f53.jpg",
-      "publishedAt": "2026-09-27T15:40:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid",
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.9
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-d3067d067874ccd05d51f526",
@@ -121,7 +97,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 89.3
+    },
+    {
+      "id": "gdelt-c53afc9a89a2b6bb9d70a9a3",
+      "title": "JT Foot Mercato : premières tensions entre le Real Madrid et l’Équipe de France",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8177585481402950185-jt-foot-mercato-premieres-tensions-entre-le-real-madrid-et-lequipe-de-france",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappe-6ab6edc661f53.jpg",
+      "publishedAt": "2026-09-27T15:40:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid",
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-010620fc680687c4f71b629e",
@@ -142,29 +142,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.5
-    },
-    {
-      "id": "gdelt-7a84ea8abd5316e901562bcb",
-      "title": "Coupe de France : L’incroyable exploit de l’AS Cuines, club de Départemental 2 qui élimine une équipe de National 1",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-coupe-de-france-l-incroyable-exploit-de-l-as-cuines-club-de-departemental-2-qui-elimine-une-equipe-de-national-1-540347.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/buzz/2022/zoom/-20221121091115-9445.jpg",
-      "publishedAt": "2026-09-27T20:41:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [],
-      "topics": [
-        "coupe-de-france",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 89
     },
     {
       "id": "gdelt-bb3f4193acef937c00ed87b3",
@@ -191,7 +169,50 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-7a84ea8abd5316e901562bcb",
+      "title": "Coupe de France : L’incroyable exploit de l’AS Cuines, club de Départemental 2 qui élimine une équipe de National 1",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-coupe-de-france-l-incroyable-exploit-de-l-as-cuines-club-de-departemental-2-qui-elimine-une-equipe-de-national-1-540347.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/buzz/2022/zoom/-20221121091115-9445.jpg",
+      "publishedAt": "2026-09-27T20:41:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-329db515a52d8b3fbc7f47fb",
+      "title": "Coupe de France : les dates des tirages au sort du cinquième tour, région par région",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-les-dates-des-tirages-au-sort-du-cinquieme-tour-region-par-region-957052",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/957052/390217/1200-L-coupe-de-france-les-dates-des-tirages-au-sort-du-5e-tour-de-la-coupe-de-france-rgion-par-rgion.jpg",
+      "publishedAt": "2026-09-28T04:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-6f0e4ec4c2863e834e8905f4",
@@ -214,7 +235,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.8
+      "qualityScore": 88.3
     },
     {
       "id": "gdelt-39e60ad5a4727d758655e761",
@@ -238,7 +259,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 87.4
     },
     {
       "id": "gdelt-54114bd390f5a032be988059",
@@ -260,7 +281,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-0acb7972ef4143227136eb5b",
@@ -281,7 +302,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-1ca4ebc1317a1222d086a2a7",
@@ -302,7 +323,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-dea978f7d67dfe57a961ebd3",
@@ -323,28 +344,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
-    },
-    {
-      "id": "gdelt-5cc642086ffa365209002d7e",
-      "title": "Coupe de France : les dates des tirages au sort du 5e tour de la Coupe de France, région par région",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-les-dates-des-tirages-au-sort-du-5e-tour-de-la-coupe-de-france-region-par-region-957052",
-      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/957052/390217/1200-L-coupe-de-france-les-dates-des-tirages-au-sort-du-5e-tour-de-la-coupe-de-france-rgion-par-rgion.jpg",
-      "publishedAt": "2026-09-27T23:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-8f304e14147ba36d4067eb97",
@@ -365,7 +365,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-df6b231cd46dfe5ca6345156",
@@ -389,7 +389,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.3
+    },
+    {
+      "id": "gdelt-32b74af3d9b556a873f1a822",
+      "title": "Barça : clap de fin pour Araujo et Ter Stegen?",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/liga/barca-clap-de-fin-pour-araujo-et-ter-stegen-1001003",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1001003/408615/1200-L-bara-clap-de-fin-pour-araujo-et-ter-stegen.jpg",
+      "publishedAt": "2026-09-27T23:25:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-ab484b02ef29a3080ffaefbe",
@@ -414,7 +437,55 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 86.2
+    },
+    {
+      "id": "gdelt-95c9250b2232ec7301149955",
+      "title": "Arthur Atta, l’autre talent formé à Rennes qui épate la Serie A",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4966436697244579185-arthur-atta-lautre-talent-forme-a-rennes-qui-epate-la-serie-a",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine286676-1920x1080.jpg",
+      "publishedAt": "2026-09-27T14:59:52.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "rennes"
+      ],
+      "topics": [
+        "rennes",
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86
+    },
+    {
+      "id": "gdelt-52b6d650b62db45ccdb22808",
+      "title": "Coupe de France, 4e tour : Bordeaux prend déjà la porte face à Angoulême",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6310552302112867240-coupe-de-france-4e-tour-bordeaux-prend-deja-la-porte-face-a-angouleme",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/stade-matmut-atlantique.jpg",
+      "publishedAt": "2026-09-27T14:59:41.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "bordeaux"
+      ],
+      "topics": [
+        "bordeaux",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86
     },
     {
       "id": "gdelt-204af62bca72db872b0cf839",
@@ -440,55 +511,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
-    },
-    {
-      "id": "gdelt-95c9250b2232ec7301149955",
-      "title": "Arthur Atta, l’autre talent formé à Rennes qui épate la Serie A",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4966436697244579185-arthur-atta-lautre-talent-forme-a-rennes-qui-epate-la-serie-a",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine286676-1920x1080.jpg",
-      "publishedAt": "2026-09-27T14:59:52.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "rennes"
-      ],
-      "topics": [
-        "rennes",
-        "serie-a"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.5
-    },
-    {
-      "id": "gdelt-52b6d650b62db45ccdb22808",
-      "title": "Coupe de France, 4e tour : Bordeaux prend déjà la porte face à Angoulême",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6310552302112867240-coupe-de-france-4e-tour-bordeaux-prend-deja-la-porte-face-a-angouleme",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/stade-matmut-atlantique.jpg",
-      "publishedAt": "2026-09-27T14:59:41.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bordeaux"
-      ],
-      "topics": [
-        "bordeaux",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 86
     },
     {
       "id": "gdelt-c6686fda378b55700ef7df88",
@@ -511,7 +534,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-63b25d752a58ad4737344592",
@@ -532,7 +555,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-0f2bdcb0bd6f5ba95f3b06ef",
@@ -556,7 +579,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-d7c23e1d984d47c346067d45",
@@ -581,7 +604,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-22ea4ee6f9ac9bff349f14fe",
@@ -604,7 +627,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-10ca3f5696966372767f1a1a",
@@ -625,7 +648,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-77c2647cdfdc48dcb4bad0c5",
@@ -646,7 +669,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-16c5b9cda6762d292e1b98ba",
@@ -670,7 +693,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 85
     },
     {
       "id": "gdelt-dc227458f0fe302bf0ec1954",
@@ -691,28 +714,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
-    },
-    {
-      "id": "gdelt-5ad473df6477c91acc85e90b",
-      "title": "Équipe de France : la grande promesse d’Eduardo Camavinga au sujet de Mbappé",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9057276375482224960-equipe-de-france-la-grande-promesse-deduardo-camavinga-au-sujet-de-mbappe",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/design-sans-titre-87-670833c6bdc51.jpg",
-      "publishedAt": "2026-09-27T18:25:59.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-1a8813708c3c146a636d911a",
@@ -735,7 +737,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 83.8
+    },
+    {
+      "id": "gdelt-5ad473df6477c91acc85e90b",
+      "title": "Équipe de France : la grande promesse d’Eduardo Camavinga au sujet de Mbappé",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9057276375482224960-equipe-de-france-la-grande-promesse-deduardo-camavinga-au-sujet-de-mbappe",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/design-sans-titre-87-670833c6bdc51.jpg",
+      "publishedAt": "2026-09-27T18:25:59.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-a59f1646fdefc5ed4eaa7a14",
@@ -756,7 +779,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-d5fc8de45ebcfffeefa5c5ee",
@@ -779,7 +802,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-9f6bc583f6763a09c3e2e952",
@@ -800,7 +823,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 83
     },
     {
       "id": "gdelt-15097dfd5a4c98a6c73b2256",
@@ -823,7 +846,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.5
+      "qualityScore": 83
     },
     {
       "id": "gdelt-8dafcb7b9653a73e5e61b72b",
@@ -847,7 +870,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-7c8a689d46a1bf1ea0a8feac",
@@ -868,28 +891,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
-    },
-    {
-      "id": "gdelt-8b14efec27085febc1bc4ca2",
-      "title": "Équipe de France : Eduardo Camavinga chambre la Belgique",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3054345578882667097-equipe-de-france-eduardo-camavinga-chambre-la-belgique",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/eduardo-camavinga-2627.jpg",
-      "publishedAt": "2026-09-27T16:13:54.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 82.8
     },
     {
       "id": "gdelt-f2aeabea761c7e80fac58efb",
@@ -913,7 +915,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 82.7
+    },
+    {
+      "id": "gdelt-8b14efec27085febc1bc4ca2",
+      "title": "Équipe de France : Eduardo Camavinga chambre la Belgique",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3054345578882667097-equipe-de-france-eduardo-camavinga-chambre-la-belgique",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/eduardo-camavinga-2627.jpg",
+      "publishedAt": "2026-09-27T16:13:54.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 82.6
     },
     {
       "id": "gdelt-239fbd66e2f19c20e0658aa6",
@@ -934,7 +957,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 82.5
     },
     {
       "id": "gdelt-33e302de7cff87e64be395cf",
@@ -959,7 +982,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.7
+      "qualityScore": 82.1
     },
     {
       "id": "gdelt-0de8776fe4bebd03522f29aa",
@@ -983,7 +1006,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 82.1
     },
     {
       "id": "gdelt-f213a179c708b7d27bfb3ced",
@@ -1007,7 +1030,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 82
     },
     {
       "id": "gdelt-72196b94a2b014b4f03d5e8e",
@@ -1028,7 +1051,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-f44ad452275bf8e9488e9e0d",
@@ -1052,7 +1075,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 81.9
+    },
+    {
+      "id": "gdelt-d7977cff1e5bd39775413703",
+      "title": "Coupe de France. Pas de miracle pour les Girondins de Bordeaux, largement battus par Angoulême",
+      "summary": "Publication référencée chez paris.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://paris.maville.com/actu/actudet_-coupe-de-france-pas-de-miracle-pour-les-girondins-de-bordeaux-largement-battus-par-angouleme_fil-7497964_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/09/28/P36154379D7497964G_crop_1200-675_.jpg",
+      "publishedAt": "2026-09-28T04:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "paris.maville.com",
+        "name": "paris.maville.com",
+        "websiteURL": "https://paris.maville.com"
+      },
+      "teams": [
+        "bordeaux"
+      ],
+      "topics": [
+        "bordeaux",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 81.8
     },
     {
       "id": "gdelt-5e98a7ca5c0ae732091e1cd8",
@@ -1075,7 +1122,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-ab457e3a3c9c7cbb70d9cb36",
@@ -1098,7 +1145,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 81
     },
     {
       "id": "gdelt-79e9b70c3af4da52204e54ee",
@@ -1119,7 +1166,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 80.9
     },
     {
       "id": "gdelt-2ae0641a368e687bc88ef464",
@@ -1142,7 +1189,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.4
+      "qualityScore": 80.9
+    },
+    {
+      "id": "gdelt-7ade784918dbfafbdef9301a",
+      "title": "La folle réaction du Real Madrid après la blessure de Kylian Mbappé",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8101960970402137321-la-folle-reaction-du-real-madrid-apres-la-blessure-de-kylian-mbappe",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappevini2.jpg",
+      "publishedAt": "2026-09-27T12:21:54.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.7
     },
     {
       "id": "gdelt-a9682d06d28d6321fea69ffc",
@@ -1166,30 +1236,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
-    },
-    {
-      "id": "gdelt-7ade784918dbfafbdef9301a",
-      "title": "La folle réaction du Real Madrid après la blessure de Kylian Mbappé",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8101960970402137321-la-folle-reaction-du-real-madrid-apres-la-blessure-de-kylian-mbappe",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mbappevini2.jpg",
-      "publishedAt": "2026-09-27T12:21:54.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.2
+      "qualityScore": 80.7
     },
     {
       "id": "gdelt-d5cb21a583c44f5f7ea3ac03",
@@ -1212,7 +1259,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 80.5
     },
     {
       "id": "gdelt-2cbd9e8f3473061edf9f7edb",
@@ -1239,7 +1286,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.8
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-08448dc6120fcdd8b762d85f",
@@ -1260,7 +1307,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.6
+      "qualityScore": 80
     },
     {
       "id": "gdelt-5f6aa4390e71ac046fb5ae42",
@@ -1285,28 +1332,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.6
-    },
-    {
-      "id": "gdelt-2383e4b6d07e95c8abeb0f86",
-      "title": "Équipe de France : Rayan Cherki ne pense pas au Ballon d’Or",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7042822587945040274-equipe-de-france-rayan-cherki-ne-pense-pas-au-ballon-dor",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rayan-cherki-2627.jpg",
-      "publishedAt": "2026-09-27T10:28:07.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.3
+      "qualityScore": 80
     },
     {
       "id": "gdelt-26f26f26d9fba639ef3ecb74",
@@ -1331,7 +1357,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.3
+      "qualityScore": 79.8
+    },
+    {
+      "id": "gdelt-2383e4b6d07e95c8abeb0f86",
+      "title": "Équipe de France : Rayan Cherki ne pense pas au Ballon d’Or",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7042822587945040274-equipe-de-france-rayan-cherki-ne-pense-pas-au-ballon-dor",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rayan-cherki-2627.jpg",
+      "publishedAt": "2026-09-27T10:28:07.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.7
     },
     {
       "id": "gdelt-630adbb59b99e1d65e2186a7",
@@ -1354,7 +1401,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82
+      "qualityScore": 79.4
     },
     {
       "id": "gdelt-a78f0a050205c46ffb55b781",
@@ -1378,7 +1425,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 81.8
+      "qualityScore": 79.3
     },
     {
       "id": "gdelt-5b8b045794976eccca4b5eb2",
@@ -1403,7 +1450,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 81.6
+      "qualityScore": 79
     },
     {
       "id": "gdelt-64c7b425981b41ae6dd4b039",
@@ -1424,7 +1471,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.3
+      "qualityScore": 78.8
     },
     {
       "id": "gdelt-42dacd657ebe402e1dd8ea33",
@@ -1447,7 +1494,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 81.3
+      "qualityScore": 78.7
     },
     {
       "id": "gdelt-7e5e28d8fa7142a72871798e",
@@ -1470,7 +1517,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.2
+      "qualityScore": 78.6
     },
     {
       "id": "gdelt-2010212eac8b983ed0b72c53",
@@ -1492,7 +1539,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.8
+      "qualityScore": 78.3
     },
     {
       "id": "gdelt-907dc2bf25e7eb4631c27d31",
@@ -1513,7 +1560,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.7
+      "qualityScore": 78.2
     },
     {
       "id": "gdelt-3a001a1d2a54a8a0bf45de7b",
@@ -1534,7 +1581,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.7
+      "qualityScore": 78.1
+    },
+    {
+      "id": "gdelt-72b0ed08ee7dae697dc1eca3",
+      "title": "Mathias Abdou sélectionné en équipe de France U18",
+      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.allezpaillade.com/formation/mathias-abdou-selectionne-en-equipe-de-france-u18/",
+      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2026/09/IMG_6367-380x370.jpeg",
+      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "allezpaillade.com",
+        "name": "allezpaillade.com",
+        "websiteURL": "https://allezpaillade.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 78
     },
     {
       "id": "gdelt-ccaba116e11401614248ab07",
@@ -1558,7 +1626,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.6
+      "qualityScore": 78
     },
     {
       "id": "gdelt-251a6ffa39759195e5100e25",
@@ -1582,28 +1650,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.6
+      "qualityScore": 78
     },
     {
-      "id": "gdelt-72b0ed08ee7dae697dc1eca3",
-      "title": "Mathias Abdou sélectionné en équipe de France U18",
-      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.allezpaillade.com/formation/mathias-abdou-selectionne-en-equipe-de-france-u18/",
-      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2026/09/IMG_6367-380x370.jpeg",
-      "publishedAt": "2026-09-27T07:00:00.000Z",
+      "id": "gdelt-0387bcdc7f7c512275165455",
+      "title": "Ligue des champions d\\'Afrique - La JS Kabylie tenue en échec par le Raja et l'arbitre",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/la-js-kabylie-tenue-en-echec-par-le-raja-et-larbitre/",
+      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2019/12/toufik-addadi.jpg",
+      "publishedAt": "2026-09-28T04:46:00.000Z",
       "category": "news",
       "source": {
-        "id": "allezpaillade.com",
-        "name": "allezpaillade.com",
-        "websiteURL": "https://allezpaillade.com"
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
       },
       "teams": [],
       "topics": [
-        "france"
+        "champions-league"
       ],
       "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.5
+      "sourceTier": "other",
+      "qualityScore": 77.9
     },
     {
       "id": "gdelt-9eb1e2d2cab58fef42379127",
@@ -1627,7 +1695,70 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 80.4
+      "qualityScore": 77.9
+    },
+    {
+      "id": "gdelt-413f55d927f9b3f798a4b043",
+      "title": "Coupe de France (4e tour). Un quadruplé, trois penalties, deux rouges… Le match fou pour le petit poucet du 44",
+      "summary": "Publication référencée chez paris.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://paris.maville.com/actu/actudet_-coupe-de-france-4e-tour-un-quadruple-trois-penalties-deux-rouges-le-match-fou-pour-le-petit-poucet-du-44_fil-7497959_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/09/28/P36154370D7497959G_crop_1200-675_.jpg",
+      "publishedAt": "2026-09-28T04:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "paris.maville.com",
+        "name": "paris.maville.com",
+        "websiteURL": "https://paris.maville.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 77.8
+    },
+    {
+      "id": "gdelt-b56cfb0af50e0f33fb328df4",
+      "title": "Coupe de France. L'énorme exploit de l'AS Cuines, équipe de dixième division, qui élimine un club semi-pro",
+      "summary": "Publication référencée chez paris.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://paris.maville.com/actu/actudet_-coupe-de-france-l-enorme-exploit-de-l-as-cuines-equipe-de-dixieme-division-qui-elimine-un-club-semi-pro_fil-7497956_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/09/28/P36154367D7497956G_crop_1200-675_.jpg",
+      "publishedAt": "2026-09-28T04:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "paris.maville.com",
+        "name": "paris.maville.com",
+        "websiteURL": "https://paris.maville.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 77.8
+    },
+    {
+      "id": "gdelt-78fd7f2862be8320821fb38d",
+      "title": "LIGUE 1 - (7e journée) JS Kabylie 1 – ES Sétif 0 - Une victoire au bout du suspense !",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/une-victoire-au-bout-du-suspense/",
+      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2019/10/oukaci.jpg",
+      "publishedAt": "2026-09-28T04:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 77.8
     },
     {
       "id": "gdelt-936283548e7b989ff216d5a9",
@@ -1648,7 +1779,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 80.3
+      "qualityScore": 77.8
     },
     {
       "id": "gdelt-d0a8c8493d197d88797df7d9",
@@ -1673,7 +1804,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.1
+      "qualityScore": 77.5
     },
     {
       "id": "gdelt-9030c0be9fae393031fc2518",
@@ -1697,7 +1828,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.1
+      "qualityScore": 77.5
+    },
+    {
+      "id": "gdelt-e5f2263f45e9eb89ccf401dc",
+      "title": "LIGUE 2 - (19e journée) - La JSMB piégée par le MCS (2 - 2)",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/la-jsmb-piegee-par-le-mcs-2-2/",
+      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2019/06/jsmb-2.jpg",
+      "publishedAt": "2026-09-28T03:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 77.3
     },
     {
       "id": "gdelt-fd158c4cad7d2fc9daa75007",
@@ -1720,7 +1872,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 79.8
+      "qualityScore": 77.3
     },
     {
       "id": "gdelt-b24c4bd0c993352aaff19184",
@@ -1744,7 +1896,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 79.7
+      "qualityScore": 77.1
+    },
+    {
+      "id": "gdelt-3a72deb9756337deca2a77b2",
+      "title": "LIGUE 1 MOBILIS - (17e journée) JSK - MOB, demain à 16h00 - Que la fête soit !",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/que-la-fete-soit/",
+      "imageURL": "https://i0.wp.com/www.depechedekabylie.com/wp-content/uploads/2019/01/jsk-mob.jpg?fit=700%2C417&ssl=1",
+      "publishedAt": "2026-09-28T02:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 76.9
     },
     {
       "id": "gdelt-069cef706cc0c84c4a9fcc6a",
@@ -1763,7 +1936,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 79.4
+      "qualityScore": 76.9
     },
     {
       "id": "gdelt-cfa4cb81b00df4d4ae91654c",
@@ -1787,7 +1960,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 79.1
+      "qualityScore": 76.5
+    },
+    {
+      "id": "gdelt-fedaffd4bb97188685b18d97",
+      "title": "Lilou Guillem quitte la réserve du Montpellier FC et se retrouve sans club",
+      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.allezpaillade.com/transferts/lilou-guillem-quitte-la-reserve-du-montpellier-fc-et-se-retrouve-sans-club/",
+      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2025/05/IMG_8756-380x370.jpeg",
+      "publishedAt": "2026-09-26T22:00:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "allezpaillade.com",
+        "name": "allezpaillade.com",
+        "websiteURL": "https://allezpaillade.com"
+      },
+      "teams": [
+        "montpellier"
+      ],
+      "topics": [
+        "montpellier"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 76.5
     },
     {
       "id": "gdelt-dcd49071bd9de5ad9024dd7e",
@@ -1816,30 +2012,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 79.1
-    },
-    {
-      "id": "gdelt-fedaffd4bb97188685b18d97",
-      "title": "Lilou Guillem quitte la réserve du Montpellier FC et se retrouve sans club",
-      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.allezpaillade.com/transferts/lilou-guillem-quitte-la-reserve-du-montpellier-fc-et-se-retrouve-sans-club/",
-      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2025/05/IMG_8756-380x370.jpeg",
-      "publishedAt": "2026-09-26T22:00:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "allezpaillade.com",
-        "name": "allezpaillade.com",
-        "websiteURL": "https://allezpaillade.com"
-      },
-      "teams": [
-        "montpellier"
-      ],
-      "topics": [
-        "montpellier"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79
+      "qualityScore": 76.5
     },
     {
       "id": "gdelt-187d00d944c03d39640e7c05",
@@ -1863,7 +2036,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 78.9
+      "qualityScore": 76.4
     },
     {
       "id": "gdelt-92e7098c8af0ceb1916161d7",
@@ -1888,7 +2061,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 78.9
+      "qualityScore": 76.4
     },
     {
       "id": "gdelt-9ed06ef014f489a48f9a4dcb",
@@ -1911,7 +2084,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 78.9
+      "qualityScore": 76.4
     },
     {
       "id": "gdelt-027cc284463458f042779265",
@@ -1932,7 +2105,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 78.7
+      "qualityScore": 76.1
     },
     {
       "id": "gdelt-412de252f142b58447445ee9",
@@ -1956,7 +2129,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 78.6
+      "qualityScore": 76
     },
     {
       "id": "gdelt-6bc440f6f061db045eda2e91",
@@ -1978,7 +2151,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 78.6
+      "qualityScore": 76
     },
     {
       "id": "gdelt-ad5069194de86697e77402ea",
@@ -2000,7 +2173,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 78.6
+      "qualityScore": 76
     },
     {
       "id": "gdelt-4e20c7c5f66a53a9cd762c9b",
@@ -2022,7 +2195,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 78.6
+      "qualityScore": 76
     },
     {
       "id": "gdelt-4d87fa0415a416e838c8601f",
@@ -2044,7 +2217,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 78.6
+      "qualityScore": 76
     },
     {
       "id": "gdelt-b6efafde01b34b13fe56f7e2",
@@ -2066,7 +2239,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 78.6
+      "qualityScore": 76
     },
     {
       "id": "gdelt-752fe84eb5b5aaff69c65a4c",
@@ -2088,218 +2261,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 78.4
+      "qualityScore": 75.9
     },
     {
-      "id": "gdelt-5bcecec1d379584780c928e5",
-      "title": "L'incroyable coup financier du Barça, qui se rapproche du Real Madrid",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/liga/lincroyable-coup-financier-du-barca-qui-se-rapproche-du-real-madrid-1000916",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1000916/408575/1200-L-l-incroyable-coup-financier-du-bara-qui-se-rapproche-du-real-madrid.jpg",
-      "publishedAt": "2026-09-26T18:03:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "real-madrid",
-        "barcelona"
-      ],
-      "topics": [
-        "real-madrid",
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.1
-    },
-    {
-      "id": "gdelt-b2c379afcc4f04450b1d7fe7",
-      "title": "OL : Pavel Šulc révèle pourquoi son transfert à la Juventus a échoué",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2882702039398178985-ol-pavel-sulc-revele-pourquoi-son-transfert-a-la-juventus-a-echoue",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/suc.jpg",
-      "publishedAt": "2026-09-26T19:46:00.000Z",
+      "id": "gdelt-c23df8666950145ebe5c27a6",
+      "title": "En direct, guerre en Ukraine – Séoul exige des excuses de Kiev pour avoir révélé le transfert de prisonniers nord-coréens",
+      "summary": "Publication référencée chez letemps.ch. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.letemps.ch/monde/en-direct-guerre-en-ukraine-seoul-exige-des-excuses-de-kiev-pour-avoir-revele-le-transfert-de-prisonniers-nord-coreens",
+      "imageURL": "https://letemps-17455.kxcdn.com/photos/19731a3b-a2e7-4150-b29b-188c2b371e96/medium",
+      "publishedAt": "2026-09-28T02:32:00.000Z",
       "category": "transfers",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "juventus"
-      ],
-      "topics": [
-        "juventus"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.9
-    },
-    {
-      "id": "gdelt-1064d90ff43170f1e3555e9a",
-      "title": "Équipe de France : Mbappé quitte officiellement le rassemblement, sans être remplacé !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/equipe-de-france/equipe-de-france-mbappe-quitte-officiellement-le-rassemblement-sans-etre-remplace-1000892",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1000892/408561/1200-L-quipe-de-france-mbapp-quitte-officiellement-le-rassemblement-sans-tre-remplac.jpg",
-      "publishedAt": "2026-09-26T11:47:36.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "saint-etienne"
-      ],
-      "topics": [
-        "saint-etienne",
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.9
-    },
-    {
-      "id": "gdelt-d52bed803c6e87eaf6660365",
-      "title": "Équipe de France : Désiré Doué pourrait jouer numéro 9 face à la Belgique",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4308605405188653240-equipe-de-france-desire-doue-pourrait-jouer-numero-9-face-a-la-belgique",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/xnaphotosthree151815-1920x1080.jpg",
-      "publishedAt": "2026-09-27T17:20:43.000Z",
-      "category": "rumors",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "letemps.ch",
+        "name": "letemps.ch",
+        "websiteURL": "https://letemps.ch"
       },
       "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "rumor",
-      "sourceTier": "recognized",
-      "qualityScore": 77.7
-    },
-    {
-      "id": "gdelt-7dfdfdb1efa754cf4522b982",
-      "title": "L'OM écrase Thonon, Saint-Étienne surprend Nantes... tous les résultats de la Coupe LFFP",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/coupe-lffp-lolympique-de-marseille-ecrase-thonon-et-conserve-la-premiere-place-du-classement-las-saint-etienne-surprend-nantes-auxerre-bat-lens-aux-tirs-au-but-tous-les-resultats-de-cette-3",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/09/26181449/14733501-1400x933.jpg",
-      "publishedAt": "2026-09-26T17:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "nantes",
-        "saint-etienne"
-      ],
-      "topics": [
-        "nantes",
-        "saint-etienne"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.6
-    },
-    {
-      "id": "gdelt-b25894654cdce7a8f09d91e6",
-      "title": "Liverpool annonce le retour de Julian Ward au poste de directeur sportif",
-      "summary": "Publication référencée chez mercatofootanglais.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://mercatofootanglais.com/liverpool-annonce-le-retour-de-julian-ward-au-poste-de-directeur-sportif/",
-      "imageURL": "https://mercatofootanglais.com/wp-content/uploads/2024/04/leeds-united-v-liverpool-premier-league-scaled-e1765954237258.jpg",
-      "publishedAt": "2026-09-26T12:39:20.000Z",
-      "category": "news",
-      "source": {
-        "id": "mercatofootanglais.com",
-        "name": "mercatofootanglais.com",
-        "websiteURL": "https://mercatofootanglais.com"
-      },
-      "teams": [
-        "liverpool"
-      ],
-      "topics": [
-        "liverpool"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 77.4
-    },
-    {
-      "id": "gdelt-2daf2297ea0c42d7790aca7a",
-      "title": "LIGUE 2 - (23ème journée) JSMB – MOB, aujourd'hui à 16h00 - Gare au perdant !",
-      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.depechedekabylie.com/gare-au-perdant/",
-      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2020/03/mob-jsmb.jpg",
-      "publishedAt": "2026-09-27T22:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "depechedekabylie.com",
-        "name": "depechedekabylie.com",
-        "websiteURL": "https://depechedekabylie.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-2"
-      ],
+      "topics": [],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 77.3
-    },
-    {
-      "id": "gdelt-97ad1b884245d458668ce1b4",
-      "title": "Lorient : le geste dingue des Merlus pour un club de R3 en Coupe de France",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/coupe-de-france/lorient-le-geste-dingue-des-merlus-pour-un-club-de-r3-en-coupe-de-france-1000912",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1000912/408572/1200-L-lorient-le-geste-dingue-des-merlus-pour-un-club-de-r3-en-coupe-de-france.jpg",
-      "publishedAt": "2026-09-26T16:27:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "lorient"
-      ],
-      "topics": [
-        "lorient",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.3
-    },
-    {
-      "id": "gdelt-32b74af3d9b556a873f1a822",
-      "title": "Barça : clap de fin pour Araujo et Ter Stegen?",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/liga/barca-clap-de-fin-pour-araujo-et-ter-stegen-1001003",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1001003/408615/1200-L-bara-clap-de-fin-pour-araujo-et-ter-stegen.jpg",
-      "publishedAt": "2026-09-27T23:25:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 76.8
+      "qualityScore": 75.8
     }
   ],
-  "generatedAt": "2026-09-27T23:54:49.526Z",
+  "generatedAt": "2026-09-28T04:59:04.138Z",
   "stale": false
 }
