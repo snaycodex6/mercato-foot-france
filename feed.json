@@ -23,7 +23,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 96.7
+      "qualityScore": 95.1
     },
     {
       "id": "gdelt-446f2edf29abbbaadf41aeec",
@@ -52,7 +52,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 93.7
     },
     {
       "id": "gdelt-9105d343abe184aac2248ce0",
@@ -77,7 +77,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-33514c8f167bd3dfccb33c81",
@@ -102,7 +102,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.2
+      "qualityScore": 93.6
     },
     {
       "id": "gdelt-52a901eab255ef6fe5efecf0",
@@ -131,7 +131,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 93
     },
     {
       "id": "gdelt-68415c6716c8502ddbea266a",
@@ -154,7 +154,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.4
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-f025b49a49f79fb2ca3b53f4",
@@ -177,7 +177,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 93.1
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-b98bdd05daddb3895d4e54ff",
@@ -200,7 +200,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 91.3
     },
     {
       "id": "gdelt-75122303f9ff8525ee139710",
@@ -225,7 +225,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.2
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-1d6f0247fcc8a005745d2b77",
@@ -252,7 +252,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-d1fdc2746bf4f922b9594bd4",
@@ -276,7 +276,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-4685bd33dfaa2a49b883dff2",
@@ -300,7 +300,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 90.1
     },
     {
       "id": "gdelt-f96eb3768cfe93eb836324f3",
@@ -323,7 +323,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 90
     },
     {
       "id": "gdelt-bacc1b74c0b72d73d0194736",
@@ -346,7 +346,78 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.2
+      "qualityScore": 89.6
+    },
+    {
+      "id": "gdelt-f1f4e3e67b10de57abf321fa",
+      "title": "Mercato - Barça : une stratégie déjà clairement définie sur le Mercato ?",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/liga/mercato-barca-une-strategie-deja-clairement-definie-sur-le-mercato-1001101",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1001101/408661/1200-L-mercato-bara-une-stratgie-dj-clairement-dfinie-sur-le-mercato.jpg",
+      "publishedAt": "2026-09-28T21:29:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89.4
+    },
+    {
+      "id": "gdelt-36ecba2d4e3ae3fc582d9289",
+      "title": "LDC : LOSC - Real Betis : l'UEFA sanctionne lourdement Ethan Mbappé pour son coup de coude",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-losc-real-betis-l-uefa-sanctionne-lourdement-ethan-mbappe-pour-son-coup-de-coude-540496.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2026/zoom/ldc-20260908221907-4495.jpg",
+      "publishedAt": "2026-09-28T19:09:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "lille",
+        "real-betis"
+      ],
+      "topics": [
+        "lille",
+        "real-betis"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89.2
+    },
+    {
+      "id": "gdelt-52e35dec5f0846c1a762239b",
+      "title": "Mercato : après avoir raté le vrai, le Real Madrid a-t-il lâché \"le nouveau Rodri\" cet été ?",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/liga/mercato-apres-avoir-rate-le-vrai-le-real-madrid-a-t-il-lache-le-nouveau-rodri-cet-ete-1001097",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1001097/408659/1200-L-mercato-aprs-avoir-rat-le-vrai-le-real-madrid-a-t-il-lch-le-nouveau-rodri-cet-t.jpg",
+      "publishedAt": "2026-09-28T21:00:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89.1
     },
     {
       "id": "gdelt-cc3cf4799931343babfd9929",
@@ -369,7 +440,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.5
+      "qualityScore": 88.9
+    },
+    {
+      "id": "gdelt-a8d36517ef1eab021ad0b11c",
+      "title": "FC Metz : 4 pistes pour remplacer Holtz après son départ inattendu",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-2/fc-metz-4-pistes-pour-remplacer-holtz-apres-son-depart-inattendu-1001117",
+      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1001117/408670/1200-L-fc-metz-4-pistes-pour-remplacer-holtz-aprs-son-dpart-inattendu.jpg",
+      "publishedAt": "2026-09-28T19:31:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "metz"
+      ],
+      "topics": [
+        "metz"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-c829b4291b9e68f8e639d607",
@@ -394,7 +488,70 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 88
+    },
+    {
+      "id": "gdelt-887245b43eaa1a1248f9aed6",
+      "title": "Équipe de France, Zinedine Zidane : « c'est ce que je veux pour mon équipe »",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2023150509624270159-equipe-de-france-zinedine-zidane-cest-ce-que-je-veux-pour-mon-equipe",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/zidane-edf.jpg",
+      "publishedAt": "2026-09-29T00:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
+    },
+    {
+      "id": "gdelt-b5b5f89f7741ec221793392e",
+      "title": "Équipe de France : la première très remarquée de Lucas Da Cunha",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8173145432849953877-equipe-de-france-la-premiere-tres-remarquee-de-lucas-da-cunha",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine361817-1920x1080.jpg",
+      "publishedAt": "2026-09-29T00:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
+    },
+    {
+      "id": "gdelt-f0d6c923f4db81bf0587e35c",
+      "title": "Équipe de France : la folle joie de Zidane sur le but d'Olise",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3488411994535169698-equipe-de-france-la-folle-joie-de-zidane-sur-le-but-dolise",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine237567-1920x1080.jpg",
+      "publishedAt": "2026-09-29T00:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-5bbd23b371fa2b930ca43442",
@@ -421,7 +578,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-a049d8f4a096fd1443fb5257",
@@ -444,7 +601,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-2b0b04b4db86c0057e19b591",
@@ -467,7 +624,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-cedfa25f3a421a9c2405f32e",
@@ -491,7 +648,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 87.1
     },
     {
       "id": "gdelt-ab7492dd4efc22ffe87fa068",
@@ -514,7 +671,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 87
     },
     {
       "id": "gdelt-80710fd6f8f453a5ce2de8cd",
@@ -539,7 +696,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-299489aaee5cde63203fa109",
@@ -560,7 +717,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.2
+      "qualityScore": 86.6
     },
     {
       "id": "gdelt-16ee2e21a175467e340aebb9",
@@ -581,28 +738,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
-    },
-    {
-      "id": "gdelt-887245b43eaa1a1248f9aed6",
-      "title": "Équipe de France, Zinedine Zidane : « c’est ce que je veux pour mon équipe »",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2023150509624270159-equipe-de-france-zinedine-zidane-cest-ce-que-je-veux-pour-mon-equipe",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/zidane-edf.jpg",
-      "publishedAt": "2026-09-28T21:37:59.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-4793531a4524668a146857dc",
@@ -623,28 +759,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
-    },
-    {
-      "id": "gdelt-b5b5f89f7741ec221793392e",
-      "title": "Équipe de France : la première très remarquée de Lucas Da Cunha",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8173145432849953877-equipe-de-france-la-premiere-tres-remarquee-de-lucas-da-cunha",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine361817-1920x1080.jpg",
-      "publishedAt": "2026-09-28T21:20:04.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-7e619de4be2b21d5185ea8a9",
@@ -665,28 +780,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
-    },
-    {
-      "id": "gdelt-f0d6c923f4db81bf0587e35c",
-      "title": "Équipe de France : la folle joie de Zidane sur le but d’Olise",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3488411994535169698-equipe-de-france-la-folle-joie-de-zidane-sur-le-but-dolise",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine237567-1920x1080.jpg",
-      "publishedAt": "2026-09-28T20:43:59.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-57267cbec89395095f9dd3ba",
@@ -709,7 +803,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 86
     },
     {
       "id": "gdelt-166d166c7b4720ad63f21f17",
@@ -732,7 +826,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-35191832f462790da190af1f",
@@ -755,7 +849,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-3c73720c27ce55d4eb5ee686",
@@ -780,7 +874,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 85.6
     },
     {
       "id": "gdelt-06820ae2a608b589f991f054",
@@ -804,7 +898,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-4a0c26f3bae66903d496a234",
@@ -828,7 +922,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-38eec31c2cb9f0e2451d7933",
@@ -853,7 +947,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-2c3f98225a58014f5a2294c7",
@@ -878,7 +972,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-b0b167752c9f795a7884416f",
@@ -900,7 +994,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-7f4508265738d8ffa429fa8e",
@@ -923,7 +1017,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-c872a73ba44c67ffe1fb77c1",
@@ -948,7 +1042,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-8a97051f07a802369cf3113c",
@@ -971,7 +1065,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84
     },
     {
       "id": "gdelt-a7abdbc5aa53b20a28c88a66",
@@ -994,7 +1088,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84
     },
     {
       "id": "gdelt-c7a83aa36a428088316528c5",
@@ -1017,7 +1111,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84
     },
     {
       "id": "gdelt-b208a76d56952350f813f77a",
@@ -1038,7 +1132,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84
     },
     {
       "id": "gdelt-96f9f6454bf9bee94b957c78",
@@ -1061,7 +1155,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84
     },
     {
       "id": "gdelt-8e68104e1f82494862dfe068",
@@ -1084,7 +1178,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 84
     },
     {
       "id": "gdelt-1e198149e5c5805fdd00a37e",
@@ -1105,7 +1199,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-f414a5a7f41be2e6be1cfe4e",
@@ -1130,7 +1224,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 83.6
     },
     {
       "id": "gdelt-f4f9c0da112110877e8df0cb",
@@ -1152,7 +1246,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 83.6
     },
     {
       "id": "gdelt-d102c7a7ff5a3d48340bc1f6",
@@ -1175,7 +1269,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.8
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-fba43d5ad76f57c5099f1bf9",
@@ -1200,7 +1294,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 83.1
     },
     {
       "id": "gdelt-91cb4eb32f941ce6fa7eb46d",
@@ -1223,7 +1317,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 82.3
     },
     {
       "id": "gdelt-c57356bad8d951e4b704b188",
@@ -1246,7 +1340,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 83.6
+      "qualityScore": 82
+    },
+    {
+      "id": "gdelt-82be06a2f3a5f0324d7b4d87",
+      "title": "LIGUE 1 MOBILIS - (24e journée) OM - JSK aujourd'hui à 15h00 - Le titre passe par Médéa",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/le-titre-passe-par-medea/",
+      "imageURL": "https://i0.wp.com/www.depechedekabylie.com/wp-content/uploads/2019/02/jsk-1.jpg?fit=1418%2C1303&ssl=1",
+      "publishedAt": "2026-09-29T02:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-39bbc353d03940bb3f304a90",
@@ -1267,7 +1385,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.4
+      "qualityScore": 81.8
     },
     {
       "id": "gdelt-adc6fe10de1940b107686975",
@@ -1292,7 +1410,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.2
+      "qualityScore": 81.6
     },
     {
       "id": "gdelt-b13dcef83e23a7067061d575",
@@ -1315,7 +1433,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.1
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-009a3f4ae643a62cb07a481f",
@@ -1338,7 +1456,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 81.4
     },
     {
       "id": "gdelt-f2deabbd333d15d088f779e8",
@@ -1359,7 +1477,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 81.4
     },
     {
       "id": "gdelt-b4418f684aaede0b412c8b3c",
@@ -1382,7 +1500,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 81.4
     },
     {
       "id": "gdelt-a481e419a55c0a50562fad52",
@@ -1405,7 +1523,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.7
+      "qualityScore": 81.1
     },
     {
       "id": "gdelt-03f91b667b04fb8f878ecaa4",
@@ -1428,7 +1546,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 80.9
     },
     {
       "id": "gdelt-6bc430ad613983d5006845f7",
@@ -1447,7 +1565,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.3
+      "qualityScore": 80.7
     },
     {
       "id": "gdelt-2162e2f3cdb7a1a916024a1b",
@@ -1474,7 +1592,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82
+      "qualityScore": 80.4
     },
     {
       "id": "gdelt-a5107e44d7d05010687377cf",
@@ -1495,7 +1613,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.9
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-cbffc78fc6e84d8406fb4e90",
@@ -1516,7 +1634,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.9
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-560010e0e2354e354c170ff9",
@@ -1537,7 +1655,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.9
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-e572e4604b0238ec05a553ae",
@@ -1558,7 +1676,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.9
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-79876707e5909a40cb463587",
@@ -1581,7 +1699,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.9
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-6c30a762f8aca47584f469d3",
@@ -1602,7 +1720,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.9
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-d499ef3129fdcbf5f123a011",
@@ -1623,7 +1741,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.9
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-acd81edadee2b44259e9f3b9",
@@ -1644,7 +1762,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.8
+      "qualityScore": 80.2
     },
     {
       "id": "gdelt-17ac03817aee60bc2cbba74f",
@@ -1667,7 +1785,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.7
+      "qualityScore": 80.1
+    },
+    {
+      "id": "gdelt-96838bfc9b280e92c5431598",
+      "title": "Ligue des Champions : Mbappé lourdement sanctionné par l’UEFA après son expulsion avec Lille",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-mbappe-lourdement-sanctionne-par-luefa-apres-son-expulsion-avec-lille-957237",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/957237/390310/1200-L-ligue-des-champions-mbapp-lourdement-sanctionn-par-luefa-aprs-son-expulsion-avec-lille.jpg",
+      "publishedAt": "2026-09-29T00:30:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.9
     },
     {
       "id": "gdelt-3a5c1d84ca391d64d2c1afb0",
@@ -1690,7 +1832,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "other",
-      "qualityScore": 81.5
+      "qualityScore": 79.9
     },
     {
       "id": "gdelt-906ad9157ded6016089e7d84",
@@ -1712,7 +1854,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 81
+      "qualityScore": 79.4
     },
     {
       "id": "gdelt-c05590cc582accc7b7268922",
@@ -1734,7 +1876,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81
+      "qualityScore": 79.4
     },
     {
       "id": "gdelt-8206854d6e3e5b4ca1de2a8b",
@@ -1755,7 +1897,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.6
+      "qualityScore": 79
     },
     {
       "id": "gdelt-0b5fde413b2a497e517798f4",
@@ -1778,7 +1920,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.4
+      "qualityScore": 78.8
     },
     {
       "id": "gdelt-d3067d067874ccd05d51f526",
@@ -1803,7 +1945,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80
+      "qualityScore": 78.4
     },
     {
       "id": "gdelt-c53afc9a89a2b6bb9d70a9a3",
@@ -1827,7 +1969,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80
+      "qualityScore": 78.4
     },
     {
       "id": "gdelt-010620fc680687c4f71b629e",
@@ -1848,7 +1990,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 79.7
+      "qualityScore": 78.1
     },
     {
       "id": "gdelt-7a84ea8abd5316e901562bcb",
@@ -1870,7 +2012,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 79.6
+      "qualityScore": 78
     },
     {
       "id": "gdelt-bb3f4193acef937c00ed87b3",
@@ -1897,7 +2039,49 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 79.6
+      "qualityScore": 78
+    },
+    {
+      "id": "gdelt-9c42443111449685856877e8",
+      "title": "LIGUE 1 MOBILIS - (28e journée) JSK - USMA ce soir à 22h30 - Un classico décisif pour le titre",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/un-classico-decisif-pour-le-titre/",
+      "imageURL": "https://i0.wp.com/www.depechedekabylie.com/wp-content/uploads/2019/05/jsk-usm.jpg?fit=583%2C498&ssl=1",
+      "publishedAt": "2026-09-29T02:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 77.9
+    },
+    {
+      "id": "gdelt-71058ba9365dcdfa8fda64a5",
+      "title": "LIGUE DES CHAMPIONS - En prévision du match retour face à Al-Merreikh - La JSK dès aujourd'hui au Soudan",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/la-jsk-des-aujourdhui-au-soudan/",
+      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2019/08/jska.jpg",
+      "publishedAt": "2026-09-29T02:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
+      },
+      "teams": [],
+      "topics": [
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 77.7
     },
     {
       "id": "gdelt-329db515a52d8b3fbc7f47fb",
@@ -1918,30 +2102,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 79.3
+      "qualityScore": 77.7
     },
     {
-      "id": "gdelt-f1f4e3e67b10de57abf321fa",
-      "title": "Mercato - Barça : une stratégie déjà clairement définie sur le Mercato ?",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/liga/mercato-barca-une-strategie-deja-clairement-definie-sur-le-mercato-1001101",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1001101/408661/1200-L-mercato-bara-une-stratgie-dj-clairement-dfinie-sur-le-mercato.jpg",
-      "publishedAt": "2026-09-28T21:29:00.000Z",
-      "category": "transfers",
+      "id": "gdelt-67d721ff307a789b114d4219",
+      "title": "À Liverpool, le Labour retrouve confiance derrière le Premier ministre Andy Burnham",
+      "summary": "Publication référencée chez atlasinfo.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://atlasinfo.fr/a-liverpool-le-labour-retrouve-confiance-derriere-le-premier-ministre-andy-burnham.html",
+      "imageURL": "https://atlasinfo.fr/wp-content/uploads/2026/09/TWITTER-ATLASINFO-16-2.png",
+      "publishedAt": "2026-09-29T01:46:00.000Z",
+      "category": "news",
       "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
+        "id": "atlasinfo.fr",
+        "name": "atlasinfo.fr",
+        "websiteURL": "https://atlasinfo.fr"
       },
       "teams": [
-        "barcelona"
+        "liverpool"
       ],
       "topics": [
-        "barcelona"
+        "liverpool"
       ],
       "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79
+      "sourceTier": "other",
+      "qualityScore": 77.5
     },
     {
       "id": "gdelt-6f0e4ec4c2863e834e8905f4",
@@ -1964,45 +2148,20 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 79
+      "qualityScore": 77.4
     },
     {
-      "id": "gdelt-36ecba2d4e3ae3fc582d9289",
-      "title": "LDC : LOSC - Real Betis : l'UEFA sanctionne lourdement Ethan Mbappé pour son coup de coude",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-losc-real-betis-l-uefa-sanctionne-lourdement-ethan-mbappe-pour-son-coup-de-coude-540496.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2026/zoom/ldc-20260908221907-4495.jpg",
-      "publishedAt": "2026-09-28T19:09:00.000Z",
+      "id": "gdelt-de7905e5d92d42d06bedbfd9",
+      "title": "REAL MADRID - Il devra succéder à Solari - Zidane de retour !",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/zidane-de-retour/",
+      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2019/06/ddkabylie-fb-600x315.jpg",
+      "publishedAt": "2026-09-29T00:32:00.000Z",
       "category": "news",
       "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "lille",
-        "real-betis"
-      ],
-      "topics": [
-        "lille",
-        "real-betis"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.8
-    },
-    {
-      "id": "gdelt-52e35dec5f0846c1a762239b",
-      "title": "Mercato : après avoir raté le vrai, le Real Madrid a-t-il lâché \"le nouveau Rodri\" cet été ?",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/liga/mercato-apres-avoir-rate-le-vrai-le-real-madrid-a-t-il-lache-le-nouveau-rodri-cet-ete-1001097",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1001097/408659/1200-L-mercato-aprs-avoir-rat-le-vrai-le-real-madrid-a-t-il-lch-le-nouveau-rodri-cet-t.jpg",
-      "publishedAt": "2026-09-28T21:00:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
       },
       "teams": [
         "real-madrid"
@@ -2011,8 +2170,8 @@
         "real-madrid"
       ],
       "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.7
+      "sourceTier": "other",
+      "qualityScore": 76.9
     },
     {
       "id": "gdelt-6ba36cd787332c6b07a20dde",
@@ -2035,7 +2194,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 78.5
+      "qualityScore": 76.9
     },
     {
       "id": "gdelt-db49c892313871824ee1399f",
@@ -2060,7 +2219,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 78.5
+      "qualityScore": 76.9
     },
     {
       "id": "gdelt-ad1899c02d88258cde284ca4",
@@ -2084,7 +2243,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 78.3
+      "qualityScore": 76.7
     },
     {
       "id": "gdelt-24c42eaa68f750e6071f5d87",
@@ -2111,7 +2270,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 78.3
+      "qualityScore": 76.7
     },
     {
       "id": "gdelt-c394f46b4119c0bff3cc639a",
@@ -2134,186 +2293,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 78.2
+      "qualityScore": 76.6
     },
     {
-      "id": "gdelt-39e60ad5a4727d758655e761",
-      "title": "Les Girondins de Bordeaux déjà éliminés de la Coupe de France",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/les-girondins-de-bordeaux-deja-elimines-de-la-coupe-de-france",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2024/08/28121741/3295538-1400x933.jpg",
-      "publishedAt": "2026-09-27T17:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "bordeaux"
-      ],
-      "topics": [
-        "bordeaux",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.1
-    },
-    {
-      "id": "gdelt-a8d36517ef1eab021ad0b11c",
-      "title": "FC Metz : 4 pistes pour remplacer Holtz après son départ inattendu",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-2/fc-metz-4-pistes-pour-remplacer-holtz-apres-son-depart-inattendu-1001117",
-      "imageURL": "https://static.onzemondial.com/8/2026/09/photo_article/1001117/408670/1200-L-fc-metz-4-pistes-pour-remplacer-holtz-aprs-son-dpart-inattendu.jpg",
-      "publishedAt": "2026-09-28T19:31:00.000Z",
+      "id": "gdelt-a13cca9068c0db0e5d44dc95",
+      "title": "Prisonniers de guerre nord-coréens : Séoul convoque un diplomate ukrainien pour protester contre la divulgation de leur transfert",
+      "summary": "Publication référencée chez world.kbs.co.kr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://world.kbs.co.kr/service/news_view.htm?lang=f&Seq_Code=96525",
+      "imageURL": "https://worldimg.kbs.co.kr/src/images/news/202511/251111094816_10_k.jpg",
+      "publishedAt": "2026-09-29T01:46:00.000Z",
       "category": "transfers",
       "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "metz"
-      ],
-      "topics": [
-        "metz"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78
-    },
-    {
-      "id": "gdelt-046c9d6bf7427e3f03c7e1a4",
-      "title": "OM : la fortune astronomique de Frank McCourt a augmenté",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1031024732539482772-om-la-fortune-astronomique-de-frank-mccourt-a-augmente",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/frank-mc-court-om.jpg",
-      "publishedAt": "2026-09-28T09:15:39.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "world.kbs.co.kr",
+        "name": "world.kbs.co.kr",
+        "websiteURL": "https://world.kbs.co.kr"
       },
       "teams": [],
       "topics": [],
       "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.8
-    },
-    {
-      "id": "gdelt-259cb1c8f3f8e9a64038559c",
-      "title": "Anas Laghrari devient le bouc émissaire marocain des tensions au Real Madrid",
-      "summary": "Publication référencée chez bladi.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.bladi.net/anas-laghrari-devient-bouc-emissaire-marocain-tensions-real-madrid,123915.html",
-      "imageURL": "https://cdn.bladi.net/local/cache-vignettes/L400xH250/anas-laghrari-real-madrid-814cd.webp",
-      "publishedAt": "2026-09-28T23:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "bladi.net",
-        "name": "bladi.net",
-        "websiteURL": "https://bladi.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 77.7
-    },
-    {
-      "id": "gdelt-52c40549cfd1f437e2a06216",
-      "title": "Tribune CS - Belgique / France avec 3 joueurs du PSG",
-      "summary": "Publication référencée chez canal-supporters.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://canal-supporters.com/tribune-cs-belgique-france-avec-trois-joueurs-du-psg-titulaires/",
-      "imageURL": "https://canal-supporters.com/wp-content/uploads/2026/06/Barcola-Doue-France.jpg",
-      "publishedAt": "2026-09-28T22:47:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "canal-supporters.com",
-        "name": "canal-supporters.com",
-        "websiteURL": "https://canal-supporters.com"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 77.6
-    },
-    {
-      "id": "gdelt-b1fbd8dd6e1362d2f979924a",
-      "title": "ICI Lille : après 5 journées, quel premier bilan pour le LOSC ?",
-      "summary": "Publication référencée chez ici.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.ici.fr/emissions/ici-c-est-lille/ici-lille-apres-5-journees-quel-premier-bilan-pour-le-losc-1481921",
-      "imageURL": "https://www.ici.fr/pikapi/images/400bb92c-11aa-42c4-9d9c-a006af42a268/1200x630?webp=false",
-      "publishedAt": "2026-09-28T22:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "ici.fr",
-        "name": "ici.fr",
-        "websiteURL": "https://ici.fr"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 77.5
-    },
-    {
-      "id": "gdelt-a2d8a328fb3d9f7a7dd069e0",
-      "title": "Équipe du Sénégal : Malang exprime sa joie après sa première convocation avec les \"Lions\"",
-      "summary": "Publication référencée chez pressafrik.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.pressafrik.com/Equipe-du-Senegal-Malang-exprime-sa-joie-apres-sa-premiere-convocation-avec-les-Lions_a312274.html",
-      "imageURL": "https://www.pressafrik.com/photo/art/grande/98188515-68387262.jpg?v=1790626950",
-      "publishedAt": "2026-09-28T22:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "pressafrik.com",
-        "name": "pressafrik.com",
-        "websiteURL": "https://pressafrik.com"
-      },
-      "teams": [],
-      "topics": [
-        "senegal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 77.4
-    },
-    {
-      "id": "gdelt-133b2b360553c24ffd535b9a",
-      "title": "Équipe du Sénégal : la FSF dévoile le staff technique du sélectionneur Patrick Vieira",
-      "summary": "Publication référencée chez pressafrik.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.pressafrik.com/Equipe-du-Senegal-la-FSF-devoile-le-staff-technique-du-selectionneur-Patrick-Vieira_a312273.html",
-      "imageURL": "https://www.pressafrik.com/photo/art/grande/98187907-68386716.jpg?v=1790624800",
-      "publishedAt": "2026-09-28T22:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "pressafrik.com",
-        "name": "pressafrik.com",
-        "websiteURL": "https://pressafrik.com"
-      },
-      "teams": [],
-      "topics": [
-        "senegal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 77.3
+      "qualityScore": 76.5
     }
   ],
-  "generatedAt": "2026-09-28T23:34:34.852Z",
+  "generatedAt": "2026-09-29T02:46:49.513Z",
   "stale": false
 }
