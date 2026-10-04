@@ -22,7 +22,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98.3
+      "qualityScore": 97
     },
     {
       "id": "gdelt-5a044e823ecd0bbbf7e91782",
@@ -50,7 +50,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 97.8
+      "qualityScore": 96.5
+    },
+    {
+      "id": "gdelt-823f122d00b470f1c4db290d",
+      "title": "La Roche intraitable, Caen replonge et Concarneau sur le podium : les résultats de la neuvième journée de Ligue 3",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/la-roche-intraitable-caen-replonge-et-concarneau-sur-le-podium-les-resultats-de-la-neuvieme-journee-de-ligue-3-957651",
+      "imageURL": "https://media.foot-national.com/18/2026/10/photo_article/957651/390526/1200-L-la-roche-intraitable-caen-replonge-et-concarneau-sur-le-podium-les-rsultats-de-la-neuvime-journe-de-ligue-3.jpg",
+      "publishedAt": "2026-10-03T21:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "caen",
+        "concarneau"
+      ],
+      "topics": [
+        "caen",
+        "concarneau",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.7
     },
     {
       "id": "gdelt-6a431336ab662fdb2622787c",
@@ -77,7 +103,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.7
+      "qualityScore": 93.4
+    },
+    {
+      "id": "gdelt-2f023acd911b088bc18792bf",
+      "title": "Ligue 3 : La Roche-sur-Yon et Rouen se détachent, Caen chute à Fleury",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9099072508903878951-ligue-3-la-roche-sur-yon-et-rouen-se-detachent-caen-chute-a-fleury",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mansour-1920x1080.jpg",
+      "publishedAt": "2026-10-04T00:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "caen"
+      ],
+      "topics": [
+        "caen",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
     },
     {
       "id": "gdelt-cc5eb1fb618abf1d56337f3b",
@@ -102,7 +152,29 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.6
+      "qualityScore": 92.3
+    },
+    {
+      "id": "gdelt-72ab26643365f083ddb75da1",
+      "title": "Lisa Mabilon sélectionnée avec l’équipe de France U17F pour participer à la Coupe du Monde U17F 2026",
+      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.allezpaillade.com/feminines/lisa-mabilon-selectionnee-avec-lequipe-de-france-u17-pour-participer-a-la-coupe-du-monde-u17-2026/",
+      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2024/10/IMG_5900-380x370.jpeg",
+      "publishedAt": "2026-10-03T22:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "allezpaillade.com",
+        "name": "allezpaillade.com",
+        "websiteURL": "https://allezpaillade.com"
+      },
+      "teams": [],
+      "topics": [
+        "world-cup",
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-41bb308ceca7bc8b4236af57",
@@ -126,31 +198,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
-    },
-    {
-      "id": "gdelt-2f023acd911b088bc18792bf",
-      "title": "Ligue 3 : La Roche-sur-Yon et Rouen se détachent, Caen chute à Fleury",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9099072508903878951-ligue-3-la-roche-sur-yon-et-rouen-se-detachent-caen-chute-a-fleury",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mansour-1920x1080.jpg",
-      "publishedAt": "2026-10-03T20:50:07.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "caen"
-      ],
-      "topics": [
-        "caen",
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.5
+      "qualityScore": 91.5
     },
     {
       "id": "gdelt-5effab448aa2317f45250956",
@@ -175,7 +223,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 90.5
+    },
+    {
+      "id": "gdelt-20dfa40c0174de0e32eb6dc8",
+      "title": "PSG : bonne nouvelle, Fabian Ruiz quitte l'Espagne et revient à Paris pour un heureux évènement !",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/psg-bonne-nouvelle-fabian-ruiz-quitte-lespagne-et-revient-a-paris-pour-un-heureux-evenement-1001577",
+      "imageURL": "https://static.onzemondial.com/8/2026/10/photo_article/1001577/408902/1200-L-psg-bonne-nouvelle-fabian-ruiz-quitte-l-espagne-et-revient-paris-pour-un-heureux-vnement.jpg",
+      "publishedAt": "2026-10-03T21:00:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-929734fbf699cd4441de80fe",
@@ -199,7 +270,51 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 90.3
+    },
+    {
+      "id": "gdelt-14815f7bbd39324afbcc3f7f",
+      "title": "Mercato Real Madrid : Le Real Madrid aurait déjà une priorité en défense centrale pour la saison prochaine !",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-real-madrid-le-real-madrid-aurait-deja-une-priorite-en-defense-centrale-pour-la-saison-prochaine-541023.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/liga/2020/zoom/liga-20200731104336-4342.jpg",
+      "publishedAt": "2026-10-03T20:15:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89.9
+    },
+    {
+      "id": "gdelt-d829a8049e443e74259c5db3",
+      "title": "Résultat Le Puy - Thionville (1-0) la 9e journée de Ligue 3 2026/2027 03/10",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/8174760818828284290-le-puy-vs-thionville-lusitanos",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-5358740572558397852-5471671489929415748.jpg",
+      "publishedAt": "2026-10-04T00:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.9
     },
     {
       "id": "gdelt-43687df4ed01f408917c964c",
@@ -223,7 +338,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 88.5
     },
     {
       "id": "gdelt-c5613cbc33f03946696a591e",
@@ -246,7 +361,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-681bc2c37d8e7372cc2f8beb",
@@ -268,7 +383,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 88
+    },
+    {
+      "id": "gdelt-a805e6494eb782e227b10c05",
+      "title": "L’équipe de France U19 d’Hichem Abderrebi s’impose face à la Turquie U19",
+      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.allezpaillade.com/selection/lequipe-de-france-u19-dhichem-abderrebi-simpose-face-a-la-turquie-u19/",
+      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2026/09/ICONSPORT_373215_0166-380x370.jpg",
+      "publishedAt": "2026-10-03T22:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "allezpaillade.com",
+        "name": "allezpaillade.com",
+        "websiteURL": "https://allezpaillade.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-f3941075221a212a220d4f15",
@@ -287,7 +423,70 @@
       "topics": [],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-51953bc019fe0477600c3337",
+      "title": "L'OM battu par un club de Ligue 2 en match amical",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/lom-battu-par-un-club-de-ligue-2-en-match-amical-957633",
+      "imageURL": "https://media.foot-national.com/18/2026/10/photo_article/957633/390517/1200-L-l-om-battu-par-un-club-de-ligue-2-en-match-amical.jpg",
+      "publishedAt": "2026-10-03T21:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
+    },
+    {
+      "id": "gdelt-2ce6c02509685912efe0a3ed",
+      "title": "Équipe de France U17 : les Bleuets se relancent avec un large succès en amical",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/espoirs/equipe-de-france-u17-les-bleuets-se-relancent-avec-un-large-succes-en-amical-957648",
+      "imageURL": "https://media.foot-national.com/18/2026/10/photo_article/957648/390524/1200-L-quipe-de-france-u17-les-bleuets-se-relancent-avec-un-large-succs-en-amical.jpg",
+      "publishedAt": "2026-10-03T21:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
+    },
+    {
+      "id": "gdelt-c3ef4e4f738407a0d5ad5495",
+      "title": "Équipe de France Espoirs : les Bleuets souffrent face au Luxembourg mais se qualifient pour l'Euro",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/espoirs/equipe-de-france-espoirs-les-bleuets-frolent-la-catastrophe-mais-dominent-le-luxembourg-et-se-qualifient-pour-leuro-2027-957641",
+      "imageURL": "https://media.foot-national.com/18/2026/10/photo_article/957641/390520/1200-L-quipe-de-france-espoirs-les-bleuets-frlent-la-catastrophe-mais-dominent-le-luxembourg-et-se-qualifient-pour-leuro-2027.jpg",
+      "publishedAt": "2026-10-03T21:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-ef4b2fd41a719cce2f35641f",
@@ -312,7 +511,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-1607721c2c56d7825506b40e",
@@ -337,7 +536,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-7a43f29046e5852b3171c38d",
@@ -361,7 +560,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-fe49506055bb60ad989b8629",
@@ -385,7 +584,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-e34c9853837d5ab436b02698",
@@ -409,7 +608,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 87.5
     },
     {
       "id": "gdelt-1c013e1d1cbd99068c09b067",
@@ -432,7 +631,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-e0b92b33023fbc83aa727689",
@@ -454,7 +653,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-a8ed39cb66fb3a3d96de28d6",
@@ -478,7 +677,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-6bffb9bacb244dda3f49eb3b",
@@ -501,7 +700,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-39c18e7e14bacd6d1072c177",
@@ -524,7 +723,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-9fbdde45ea0457b9e0e882df",
@@ -547,7 +746,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-d6e1efd6f5dcc1227d9837ef",
@@ -568,7 +767,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-6e2a73b728c59364409c7fb3",
@@ -591,7 +790,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87
     },
     {
       "id": "gdelt-43d11e483380dca84f2c9511",
@@ -614,7 +813,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87
     },
     {
       "id": "gdelt-f360044a966923ce973c1222",
@@ -638,7 +837,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 87
     },
     {
       "id": "gdelt-a6f757bb5bdb80f978b4cfa8",
@@ -663,7 +862,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-69d51825c349eae132972846",
@@ -684,7 +883,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 86.5
     },
     {
       "id": "gdelt-60b94805e6b4338b350cc721",
@@ -707,7 +906,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-7eb1840625397f5c52b84616",
@@ -730,7 +929,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-68f23fcd0aa9cff1a62456c3",
@@ -753,7 +952,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 85.7
     },
     {
       "id": "gdelt-f7f21f03e41d069a35890850",
@@ -776,7 +975,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-39e1b5d29ff6e59523b47a62",
@@ -799,7 +998,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-ba3ab54996b66d8102831f9f",
@@ -822,7 +1021,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-0bdd415147dd9f8d270c00c7",
@@ -843,7 +1042,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-f5e73449e4123b1a3cd57e3c",
@@ -868,7 +1067,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-1a3df7b5107d9f4d0e213074",
@@ -892,7 +1091,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-321fae8129238211dca907c2",
@@ -915,7 +1114,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-3b548b3296e1cf66afba3837",
@@ -936,7 +1135,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 84.4
     },
     {
       "id": "gdelt-f7e113f82abe91e0a32c1898",
@@ -955,7 +1154,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-177d87dbee6f38214d843a17",
@@ -978,7 +1177,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 84
     },
     {
       "id": "gdelt-07cf5a710674d5c19701bca7",
@@ -1001,7 +1200,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-7902432d8dd9e94ddc250850",
@@ -1024,7 +1223,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.2
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-e2b548ca62f37b5e8a232570",
@@ -1045,7 +1244,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-bb80b72a5a2408545530ae43",
@@ -1066,7 +1265,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-88a10416c533945912d6093d",
@@ -1089,7 +1288,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-1655787b9ce74e5a353a0dd6",
@@ -1110,7 +1309,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-e8223aaccc37d06ae7943c69",
@@ -1131,7 +1330,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-9a2551413703d7667b8aaacf",
@@ -1152,7 +1351,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-1aef2f7941de173faac017e8",
@@ -1173,7 +1372,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-6b6d327d3ecfb3d482b8cfd0",
@@ -1196,7 +1395,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-d821f6735bf46838b30ec564",
@@ -1220,7 +1419,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-5f7d2b627529aa3a7a34a9f6",
@@ -1243,7 +1442,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.2
+      "qualityScore": 81.9
+    },
+    {
+      "id": "gdelt-1beb761b3d11b48959c509eb",
+      "title": "LIGUE 1 MOBILIS - (27e journée) CSC - JSK, ce soir à 22h30 - Le titre passe par Cirta",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/le-titre-passe-par-cirta/",
+      "imageURL": "https://i0.wp.com/www.depechedekabylie.com/wp-content/uploads/2019/05/jsk-csa.jpg?fit=1044%2C954&ssl=1",
+      "publishedAt": "2026-10-04T00:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 81.8
     },
     {
       "id": "gdelt-2e444cf001ce2de94f54ce7f",
@@ -1264,7 +1487,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.1
+      "qualityScore": 81.8
     },
     {
       "id": "gdelt-393e61dadd5044d6402aac2d",
@@ -1283,7 +1506,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
+      "qualityScore": 81.7
     },
     {
       "id": "gdelt-70794884a6fb4d143587fcf1",
@@ -1306,7 +1529,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 81.6
     },
     {
       "id": "gdelt-f52e4257650cbfa3dcfe1bda",
@@ -1327,7 +1550,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-c72127314948a98526a3306f",
@@ -1348,7 +1571,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-41c193c091cd1d9808bb3f0c",
@@ -1369,7 +1592,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-a784d1773fb317b89aef0300",
@@ -1392,7 +1615,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.8
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-f6f5bb1a0149d4fb6ce44d93",
@@ -1411,7 +1634,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.7
+      "qualityScore": 81.4
     },
     {
       "id": "gdelt-588e7f4961e39cf60bd2b5af",
@@ -1432,7 +1655,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.6
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-0f1fdc183ffc4b9639842a81",
@@ -1453,7 +1676,29 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.6
+      "qualityScore": 81.3
+    },
+    {
+      "id": "gdelt-e9c5fe33bac47e2f7bf5ea61",
+      "title": "Amicaux : les résultats des clubs de Ligue 1 et de Ligue 2 du samedi 3 octobre",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/amicaux-les-resultats-complets-du-samedi-3-octobre-des-clubs-de-ligue-1-et-de-ligue-2-957614",
+      "imageURL": "https://media.foot-national.com/18/2026/10/photo_article/957614/390506/1200-L-amicaux-les-rsultats-des-clubs-de-ligue-1-et-de-ligue-2-du-samedi-3-octobre.jpg",
+      "publishedAt": "2026-10-03T23:58:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.8
     },
     {
       "id": "gdelt-0b38802d15200de0d4d39a45",
@@ -1474,7 +1719,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.1
+      "qualityScore": 80.8
     },
     {
       "id": "gdelt-0ee34cf53f67b1e117933092",
@@ -1497,7 +1742,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 82
+      "qualityScore": 80.6
     },
     {
       "id": "gdelt-46740d710044faa6eaf6a445",
@@ -1522,7 +1767,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 81.8
+      "qualityScore": 80.5
     },
     {
       "id": "gdelt-37f1fc9673c7dd09313d4d78",
@@ -1544,7 +1789,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 81.1
+      "qualityScore": 79.8
     },
     {
       "id": "gdelt-0340d7ff934138ce6492c921",
@@ -1568,7 +1813,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 81.1
+      "qualityScore": 79.8
     },
     {
       "id": "gdelt-2df61a803246313cee49ec4b",
@@ -1589,7 +1834,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.1
+      "qualityScore": 79.8
     },
     {
       "id": "gdelt-65163243f06e66acf56ac7b2",
@@ -1615,7 +1860,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.9
+      "qualityScore": 79.6
+    },
+    {
+      "id": "gdelt-f40914656caf1e99814c9f7f",
+      "title": "Mercato : proche des Bleus, Eli Junior Kroupi vers un gros transfert cet hiver",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/premier-league/mercato-proche-des-bleus-eli-junior-kroupi-vers-un-gros-transfert-cet-hiver-1001554",
+      "imageURL": "https://static.onzemondial.com/8/2026/10/photo_article/1001554/408889/1200-L-mercato-proche-des-bleus-eli-junior-kroupi-vers-un-gros-transfert-cet-hiver.jpg",
+      "publishedAt": "2026-10-03T23:29:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.5
     },
     {
       "id": "gdelt-83a934d782ff15fd4667c49a",
@@ -1639,7 +1905,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.8
+      "qualityScore": 79.5
     },
     {
       "id": "gdelt-d53da373d497e06f49c8b0d9",
@@ -1662,7 +1928,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 80.7
+      "qualityScore": 79.4
     },
     {
       "id": "gdelt-4f9a2a789734aef1410319b8",
@@ -1681,7 +1947,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.6
+      "qualityScore": 79.3
     },
     {
       "id": "gdelt-cabf2c627629f1cfa180a050",
@@ -1704,7 +1970,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.6
+      "qualityScore": 79.3
     },
     {
       "id": "gdelt-a9f2c1bb6aace5a49cd09402",
@@ -1728,7 +1994,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.5
+      "qualityScore": 79.2
     },
     {
       "id": "gdelt-51409b9f8d6c752b1be48fc8",
@@ -1752,7 +2018,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.5
+      "qualityScore": 79.2
     },
     {
       "id": "gdelt-5d94a88c2763099b49e9dd2d",
@@ -1778,7 +2044,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 80.5
+      "qualityScore": 79.2
     },
     {
       "id": "gdelt-ae5f653b1bc38859f97b0d01",
@@ -1801,32 +2067,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 80.2
-    },
-    {
-      "id": "gdelt-aecdf7e1e79536b1b5de2435",
-      "title": "OM - L’OM cède face à Montpellier en fin de match à Martigues",
-      "summary": "Publication référencée chez lephoceen.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lephoceen.fr/infos-om/saison/om-l-om-cede-face-a-montpellier-en-fin-de-match-a-martigues-238557",
-      "imageURL": null,
-      "publishedAt": "2026-10-03T19:20:13.000Z",
-      "category": "news",
-      "source": {
-        "id": "lephoceen.fr",
-        "name": "lephoceen.fr",
-        "websiteURL": "https://lephoceen.fr"
-      },
-      "teams": [
-        "montpellier",
-        "martigues"
-      ],
-      "topics": [
-        "montpellier",
-        "martigues"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.8
+      "qualityScore": 78.9
     },
     {
       "id": "gdelt-9cdbad50528534302f664e9c",
@@ -1851,7 +2092,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 79.8
+      "qualityScore": 78.5
+    },
+    {
+      "id": "gdelt-aecdf7e1e79536b1b5de2435",
+      "title": "OM - L’OM cède face à Montpellier en fin de match à Martigues",
+      "summary": "Publication référencée chez lephoceen.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lephoceen.fr/infos-om/saison/om-l-om-cede-face-a-montpellier-en-fin-de-match-a-martigues-238557",
+      "imageURL": null,
+      "publishedAt": "2026-10-03T19:20:13.000Z",
+      "category": "news",
+      "source": {
+        "id": "lephoceen.fr",
+        "name": "lephoceen.fr",
+        "websiteURL": "https://lephoceen.fr"
+      },
+      "teams": [
+        "montpellier",
+        "martigues"
+      ],
+      "topics": [
+        "montpellier",
+        "martigues"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 78.4
     },
     {
       "id": "gdelt-ec17352c0eebd470cefda69e",
@@ -1875,30 +2141,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 79.7
-    },
-    {
-      "id": "gdelt-20dfa40c0174de0e32eb6dc8",
-      "title": "PSG : bonne nouvelle, Fabian Ruiz quitte l'Espagne et revient à Paris pour un heureux évènement !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/psg-bonne-nouvelle-fabian-ruiz-quitte-lespagne-et-revient-a-paris-pour-un-heureux-evenement-1001577",
-      "imageURL": "https://static.onzemondial.com/8/2026/10/photo_article/1001577/408902/1200-L-psg-bonne-nouvelle-fabian-ruiz-quitte-l-espagne-et-revient-paris-pour-un-heureux-vnement.jpg",
-      "publishedAt": "2026-10-03T21:00:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.6
+      "qualityScore": 78.4
     },
     {
       "id": "gdelt-d32ed42ae665ba70888e528c",
@@ -1920,7 +2163,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 79.4
+      "qualityScore": 78
     },
     {
       "id": "gdelt-f539e433558bae8d7015a3ba",
@@ -1944,30 +2187,51 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 79.4
+      "qualityScore": 78
     },
     {
-      "id": "gdelt-14815f7bbd39324afbcc3f7f",
-      "title": "Mercato Real Madrid : Le Real Madrid aurait déjà une priorité en défense centrale pour la saison prochaine !",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-real-madrid-le-real-madrid-aurait-deja-une-priorite-en-defense-centrale-pour-la-saison-prochaine-541023.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/liga/2020/zoom/liga-20200731104336-4342.jpg",
-      "publishedAt": "2026-10-03T20:15:00.000Z",
-      "category": "transfers",
+      "id": "gdelt-ea3511d1b705d8729d38d6bb",
+      "title": "LIGUE 1 - (9e journée) JSK 1 – ASAM 0 - Les Canaris respirent",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/les-canaris-respirent/",
+      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2019/09/jsk-4.jpg",
+      "publishedAt": "2026-10-04T00:01:00.000Z",
+      "category": "news",
       "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
       },
-      "teams": [
-        "real-madrid"
-      ],
+      "teams": [],
       "topics": [
-        "real-madrid"
+        "ligue-1"
       ],
       "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.2
+      "sourceTier": "other",
+      "qualityScore": 77.8
+    },
+    {
+      "id": "gdelt-60d14496ee1ae0987cc19f7b",
+      "title": "JS Kabylie - Première sortie amicale victorieuse à Evian face au FC Annecy - Les Canaris sur la bonne voie",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/les-canaris-sur-la-bonne-voie/",
+      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2019/07/jsk-test.jpg",
+      "publishedAt": "2026-10-03T23:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
+      },
+      "teams": [
+        "annecy"
+      ],
+      "topics": [
+        "annecy"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 77.7
     },
     {
       "id": "gdelt-7c2a867ef379fc8376dce623",
@@ -1992,241 +2256,15 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 78.7
+      "qualityScore": 77.4
     },
     {
-      "id": "gdelt-aeb903619121827f113cd262",
-      "title": "Mercato OM : L'OM annonce une nouvelle signature importante pour l'avenir (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-om-l-om-annonce-une-nouvelle-signature-importante-pour-l-avenir-officiel-540883.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260414114232-7144.jpg",
-      "publishedAt": "2026-10-02T15:08:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 78.7
-    },
-    {
-      "id": "gdelt-dd67b488e3bdfc96e0259b13",
-      "title": "Amical : Le Stade de Reims s'incline lourdement face au RSC Anderlecht (résumé)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-amical-le-stade-de-reims-s-incline-lourdement-face-au-rsc-anderlecht-resume-540890.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250731220721-5820.jpg",
-      "publishedAt": "2026-10-02T16:25:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "reims",
-        "anderlecht"
-      ],
-      "topics": [
-        "reims",
-        "anderlecht"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.3
-    },
-    {
-      "id": "gdelt-7ffdf715b54497c9026e65a0",
-      "title": "Le joueur du mois de septembre en Premier League n'est pas une star - Angleterre - Brighton",
-      "summary": "Publication référencée chez sofoot.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.sofoot.com/breves/brighton-pascal-gross-elu-joueur-du-mois-de-septembre-en-premier-league",
-      "imageURL": "https://sofoot.s3.eu-central-1.amazonaws.com/wp-content/uploads/2026/10/02143420/14748509-1400x933.jpg",
-      "publishedAt": "2026-10-02T16:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "sofoot.com",
-        "name": "sofoot.com",
-        "websiteURL": "https://sofoot.com"
-      },
-      "teams": [
-        "brighton"
-      ],
-      "topics": [
-        "brighton",
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.2
-    },
-    {
-      "id": "gdelt-4c0b31e6dc300e461b3d1b12",
-      "title": "Amical : Le RC Strasbourg s'incline face au FC Metz (résumé)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-amical-le-rc-strasbourg-s-incline-face-au-fc-metz-resume-540889.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260829181801-9409.jpg",
-      "publishedAt": "2026-10-02T15:55:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "strasbourg",
-        "metz"
-      ],
-      "topics": [
-        "strasbourg",
-        "metz"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78
-    },
-    {
-      "id": "gdelt-6695f4c775bc911319b6791f",
-      "title": "Amical : L'AJ Auxerre joue à se faire peur mais vient à bout du Clermont Foot 63 (résumé)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-amical-l-aj-auxerre-joue-a-se-faire-peur-mais-vient-a-bout-du-clermont-foot-63-resume-540885.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260831150522-7905.jpg",
-      "publishedAt": "2026-10-02T15:34:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "auxerre",
-        "clermont"
-      ],
-      "topics": [
-        "auxerre",
-        "clermont"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.9
-    },
-    {
-      "id": "gdelt-0f1b6565b9f39f8d0ddf94ee",
-      "title": "OM - D1 féminine : malgré le doublé de Ouedraogo, les Marseillaises tenues en échec par Strasbourg",
-      "summary": "Publication référencée chez laprovence.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.laprovence.com/article/om/81036263748516/om-d1-feminine-malgre-le-double-de-ouedraogo-les-marseillaises-tenues-en-echec-par-strasbourg",
-      "imageURL": "https://pictures.laprovence.com/cdn-cgi/image/width=1200,quality=80,format=auto,/media/melody/2026/10/03/om-ouedraogo-1791058166_0d108bcc51ca601208bcc51cab5208v_.jpg",
-      "publishedAt": "2026-10-03T21:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "laprovence.com",
-        "name": "laprovence.com",
-        "websiteURL": "https://laprovence.com"
-      },
-      "teams": [
-        "strasbourg"
-      ],
-      "topics": [
-        "strasbourg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 77.8
-    },
-    {
-      "id": "gdelt-8f1411023fff940a0564b505",
-      "title": "LIGUE 2 - (Mise à jour du calendrier) MOB 2 - JSMB 3 - Du spectacle et des buts",
+      "id": "gdelt-6c01ecbfd77ac5299dd67c8e",
+      "title": "7e journée de Ligue 1: La JSK corrigée à Tizi-Ouzou par l'USMA",
       "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.depechedekabylie.com/du-spectacle-et-des-buts/",
-      "imageURL": "https://i0.wp.com/www.depechedekabylie.com/wp-content/uploads/2020/01/MOB-JSMB-1.jpg?fit=1200%2C801&ssl=1",
-      "publishedAt": "2026-10-03T21:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "depechedekabylie.com",
-        "name": "depechedekabylie.com",
-        "websiteURL": "https://depechedekabylie.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 77.8
-    },
-    {
-      "id": "gdelt-d403af78b4fc7af5b69fd3a0",
-      "title": "Mercato OM : L'OM annonce une prolongation de contrat (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-om-l-om-annonce-une-prolongation-de-contrat-officiel-540874.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260414114230-1700.jpg",
-      "publishedAt": "2026-10-02T13:15:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 77.7
-    },
-    {
-      "id": "gdelt-e510c2c08b47c0b8a55b5c26",
-      "title": "Dans la douleur, l'équipe de Suisse bat la Slovénie et poursuit son sans-faute",
-      "summary": "Publication référencée chez letemps.ch. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.letemps.ch/sport/football/dans-la-douleur-l-equipe-de-suisse-bat-la-slovenie-et-poursuit-son-sans-faute",
-      "imageURL": "https://letemps-17455.kxcdn.com/photos/a7e8cd34-b194-4f0b-86d4-a06fd3522cdf/medium",
-      "publishedAt": "2026-10-03T21:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "letemps.ch",
-        "name": "letemps.ch",
-        "websiteURL": "https://letemps.ch"
-      },
-      "teams": [],
-      "topics": [
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 77.6
-    },
-    {
-      "id": "gdelt-16208d01d9ee5ff338513a52",
-      "title": "Bordeaux : un ancien joueur de Ligue 2 dit oui pour l'aventure en Régional 1",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/bordeaux-un-ancien-joueur-de-ligue-2-dit-oui-pour-laventure-en-regional-1-957518",
-      "imageURL": "https://media.foot-national.com/18/2026/10/photo_article/957518/390459/1200-L-bordeaux-un-ancien-joueur-de-ligue-2-dit-oui-pour-l-aventure-en-rgional-1.jpg",
-      "publishedAt": "2026-10-02T14:59:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "bordeaux"
-      ],
-      "topics": [
-        "bordeaux",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.6
-    },
-    {
-      "id": "gdelt-78fd7f2862be8320821fb38d",
-      "title": "LIGUE 1 - (7e journée) JS Kabylie 1 – ES Sétif 0 - Une victoire au bout du suspense !",
-      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.depechedekabylie.com/une-victoire-au-bout-du-suspense/",
-      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2019/10/oukaci.jpg",
-      "publishedAt": "2026-10-03T20:46:00.000Z",
+      "url": "https://www.depechedekabylie.com/7e-journee-de-ligue-1-la-jsk-corrigee-a-tizi-ouzou-par-lusma/",
+      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2021/01/mellal.jpg",
+      "publishedAt": "2026-10-03T23:01:00.000Z",
       "category": "news",
       "source": {
         "id": "depechedekabylie.com",
@@ -2239,51 +2277,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 77.5
-    },
-    {
-      "id": "gdelt-0056407c7c6aa7ba2f873793",
-      "title": "Équipe de France : la magnifique ovation du Stade de France à Zinédine Zidane",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/equipe-de-france/equipe-de-france-la-magnifique-ovation-du-stade-de-france-a-zinedine-zidane-957555",
-      "imageURL": "https://media.foot-national.com/18/2026/10/photo_article/957555/390478/1200-L-quipe-de-france-la-magnifique-ovation-du-stade-de-france-zindine-zidane.jpg",
-      "publishedAt": "2026-10-02T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.5
-    },
-    {
-      "id": "gdelt-851ef972fb71cc41e7769651",
-      "title": "Équipe de France : le coup-franc sensationnel de Michaël Olise contre l'Italie",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/equipe-de-france/equipe-de-france-le-coup-franc-sensationnel-de-michael-olise-contre-litalie-957559",
-      "imageURL": "https://media.foot-national.com/18/2026/10/photo_article/957559/390481/1200-L-quipe-de-france-le-coup-franc-sensationnel-de-michal-olise-contre-litalie.jpg",
-      "publishedAt": "2026-10-02T22:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.5
+      "qualityScore": 77.3
     }
   ],
-  "generatedAt": "2026-10-03T21:49:56.416Z",
+  "generatedAt": "2026-10-04T00:27:14.447Z",
   "stale": false
 }
