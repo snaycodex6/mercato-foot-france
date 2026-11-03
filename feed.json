@@ -1,6 +1,34 @@
 {
   "items": [
     {
+      "id": "gdelt-5129134fee8638b0c06606dc",
+      "title": "Ligue 1 : Porté par Ludovic Ajorque, le Stade Brestois s'offre le FC Lorient et le derby breton (résumé)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-porte-par-ludovic-ajorque-le-stade-brestois-s-offre-le-fc-lorient-et-le-derby-breton-resume-544440.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20261102222313-4042.jpg",
+      "publishedAt": "2026-11-02T21:36:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "brest",
+        "lorient",
+        "derby"
+      ],
+      "topics": [
+        "brest",
+        "lorient",
+        "derby",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 98.1
+    },
+    {
       "id": "gdelt-4717337ff6806a09ba49b541",
       "title": "Ligue 1 : Brest remporte le derby à Lorient",
       "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
@@ -26,7 +54,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100
+      "qualityScore": 96.2
     },
     {
       "id": "gdelt-8c49aafd6aa672ffa559b564",
@@ -54,7 +82,84 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100
+      "qualityScore": 96.2
+    },
+    {
+      "id": "gdelt-67e469f057e2038ba493efa5",
+      "title": "Ligue 2 : Nancy frappe fort face au Red Star, Reims poursuit sa belle série contre Sochaux",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-2/ligue-2-nancy-frappe-fort-face-au-red-star-reims-poursuit-sa-belle-serie-contre-sochaux-1006642",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006642/410435/1200-L-ligue-2-nancy-frappe-fort-face-au-red-star-reims-poursuit-sa-belle-srie-contre-sochaux.jpg",
+      "publishedAt": "2026-11-02T23:04:02.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "reims",
+        "nancy",
+        "red-star"
+      ],
+      "topics": [
+        "reims",
+        "nancy",
+        "red-star",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.9
+    },
+    {
+      "id": "gdelt-b54f3ce0ba4e9e2036d2ca4a",
+      "title": "Le Real Madrid et le FC Barcelone rendent hommage à Jesús de Miguel après sa disparition",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5897877229957699304-le-real-madrid-et-le-fc-barcelone-rendent-hommage-a-jesus-de-miguel-apres-sa-disparition",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/heliodoro-rodriguez.jpg",
+      "publishedAt": "2026-11-03T09:14:07.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "topics": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.9
+    },
+    {
+      "id": "gdelt-68edd940b1b988c9fb07fa17",
+      "title": "Ligue des champions : un voyage en terre inconnue pour le LOSC face à Bodø/Glimt",
+      "summary": "Publication référencée chez radiofrance.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.radiofrance.fr/franceinfo/podcasts/les-documents-franceinfo/ligue-des-champions-un-voyage-en-terre-inconnue-pour-le-losc-face-a-bodoe-glimt-2242268",
+      "imageURL": "https://www.radiofrance.fr/pikapi/images/a5101a15-a208-444e-b80b-3b9d3562d389/2048",
+      "publishedAt": "2026-11-03T08:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "radiofrance.fr",
+        "name": "radiofrance.fr",
+        "websiteURL": "https://radiofrance.fr"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.7
     },
     {
       "id": "gdelt-bb7931f355a82a2ec721f235",
@@ -80,7 +185,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.7
+      "qualityScore": 92
     },
     {
       "id": "gdelt-fa7af9da2d194dc0171924d6",
@@ -106,7 +211,104 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.7
+      "qualityScore": 92
+    },
+    {
+      "id": "gdelt-aebd4023632a23997a6eba1a",
+      "title": "Mercato : le PSG fonce sur un joueur à plus de 100 M€",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a347169349481740186-mercato-le-psg-fonce-sur-un-joueur-a-plus-de-100-meur",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/khvicha-kvaratskhelia-2627-9.jpg",
+      "publishedAt": "2026-11-03T09:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
+    },
+    {
+      "id": "gdelt-1eb664d1632cba3d6eaa775e",
+      "title": "OL : les 4 vraies raisons du départ surprise de Paulo Fonseca",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4609600599082959313-ol-les-4-vraies-raisons-du-depart-surprise-de-paulo-fonseca",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/fonseca-67c839bb43a12.jpg",
+      "publishedAt": "2026-11-03T09:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "pau"
+      ],
+      "topics": [
+        "pau"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.8
+    },
+    {
+      "id": "gdelt-6083ea1f4ef69ab41b5549d2",
+      "title": "Ligue 2 : L'AS Nancy-Lorraine et le Stade de Reims gagnent et s'invitent dans le top 4 !",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-2-l-as-nancy-lorraine-et-le-stade-de-reims-gagnent-et-s-invitent-dans-le-top-4-544443.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250104085018-9842.jpg",
+      "publishedAt": "2026-11-02T22:15:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "reims",
+        "nancy"
+      ],
+      "topics": [
+        "reims",
+        "nancy",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.5
+    },
+    {
+      "id": "gdelt-491ee8caca3776afe14bbede",
+      "title": "Bayern Munich : « Remporter des trophées »... Kane sans détour sur son départ de Tottenham",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-des-champions/bayern-munich-remporter-des-trophees-kane-sans-detour-sur-son-depart-de-tottenham-1006637",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006637/410433/1200-L-bayern-munich-remporter-des-trophes-kane-sans-dtour-sur-son-dpart-de-tottenham.jpg",
+      "publishedAt": "2026-11-02T23:32:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "tottenham",
+        "bayern"
+      ],
+      "topics": [
+        "tottenham",
+        "bayern"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-5bb7167c6d18525897f12e54",
@@ -130,7 +332,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 94.7
+      "qualityScore": 91
     },
     {
       "id": "gdelt-d7cd73e87c6a5b43c891b35f",
@@ -153,7 +355,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.7
+      "qualityScore": 91
     },
     {
       "id": "gdelt-a0e270f6db20e9976a953017",
@@ -179,7 +381,55 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.5
+      "qualityScore": 89.8
+    },
+    {
+      "id": "gdelt-c2c94be7b336ebd01bd11879",
+      "title": "Mercato OL : L'OL va toucher une jolie somme pour le transfert de Paulo Fonseca vers le Sporting CP",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-l-ol-va-toucher-une-jolie-somme-pour-le-transfert-de-paulo-fonseca-vers-le-sporting-cp-544435.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260308180339-8679.jpg",
+      "publishedAt": "2026-11-02T20:34:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "sporting",
+        "pau"
+      ],
+      "topics": [
+        "sporting",
+        "pau"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89.6
+    },
+    {
+      "id": "gdelt-c62b4a1e17e23ca0e4245e8f",
+      "title": "Le Bayern Munich va bien faire une folie avec Michael Olise",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5402933154640856007-le-bayern-munich-va-bien-faire-une-folie-avec-michael-olise",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/michael-olise-2627-beim-ballon-dor.jpg",
+      "publishedAt": "2026-11-03T09:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "bayern"
+      ],
+      "topics": [
+        "bayern"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-a4a9186f185bcf9c6cb6f3e4",
@@ -203,7 +453,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-471165a7d934be994c44e5bc",
@@ -227,7 +477,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-7be738cfa69546708f999be8",
@@ -250,7 +500,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.7
+      "qualityScore": 87.9
     },
     {
       "id": "gdelt-f80f17e46625cf9fdea6c888",
@@ -273,7 +523,87 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-fc439e7cdf5419fdec399aa6",
+      "title": "Le PSG à Villarreal, Lille en Norvège, Lens face à Côme : le programme de la quatrième journée de Ligue des champions",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-des-champions/le-psg-a-villarreal-lille-en-norvege-lens-face-a-come-le-programme-de-la-quatrieme-journee-de-ligue-des-champions-961944",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/961944/391841/1200-L-le-psg-villarreal-lille-en-norvge-lens-face-cme-le-programme-de-la-quatrime-journe-de-ligue-des-champions.jpg",
+      "publishedAt": "2026-11-03T06:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "lille",
+        "lens",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "lille",
+        "lens",
+        "villarreal",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.3
+    },
+    {
+      "id": "gdelt-9539a9ba7d9ab0b4bb28ed38",
+      "title": "Le FC Metz dans le doute avant de retrouver le MHSC ?",
+      "summary": "Publication référencée chez allezpaillade.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.allezpaillade.com/mhsc-fcm/le-fc-metz-dans-le-doute-avant-de-retrouver-le-mhsc/",
+      "imageURL": "https://www.allezpaillade.com/wp-content/uploads/2026/11/ICONSPORT_377829_0102-380x370.jpg",
+      "publishedAt": "2026-11-03T06:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "allezpaillade.com",
+        "name": "allezpaillade.com",
+        "websiteURL": "https://allezpaillade.com"
+      },
+      "teams": [
+        "metz"
+      ],
+      "topics": [
+        "metz"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.3
+    },
+    {
+      "id": "gdelt-a5248e4c49ced7e19c884287",
+      "title": "Stade Brestois : Un retour important dans le groupe brestois pour le derby face au FC Lorient",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-stade-brestois-un-retour-important-dans-le-groupe-brestois-pour-le-derby-face-au-fc-lorient-544376.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260913205316-1017.jpg",
+      "publishedAt": "2026-11-02T13:54:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "brest",
+        "lorient",
+        "derby"
+      ],
+      "topics": [
+        "brest",
+        "lorient",
+        "derby"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-4a008e4ca4620e657c5be5c8",
@@ -301,34 +631,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
-    },
-    {
-      "id": "gdelt-a5248e4c49ced7e19c884287",
-      "title": "Stade Brestois : Un retour important dans le groupe brestois pour le derby face au FC Lorient",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-stade-brestois-un-retour-important-dans-le-groupe-brestois-pour-le-derby-face-au-fc-lorient-544376.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260913205316-1017.jpg",
-      "publishedAt": "2026-11-02T13:54:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "brest",
-        "lorient",
-        "derby"
-      ],
-      "topics": [
-        "brest",
-        "lorient",
-        "derby"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 87.3
     },
     {
       "id": "gdelt-16c9f37624857058dcf2eed6",
@@ -355,7 +658,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-8bf658fcf49f2886681fbc8c",
@@ -380,35 +683,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
-    },
-    {
-      "id": "gdelt-5129134fee8638b0c06606dc",
-      "title": "Ligue 1 : Porté par Ludovic Ajorque, le Stade Brestois s'offre le FC Lorient et le derby breton (résumé)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-porte-par-ludovic-ajorque-le-stade-brestois-s-offre-le-fc-lorient-et-le-derby-breton-resume-544440.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20261102222313-4042.jpg",
-      "publishedAt": "2026-11-02T21:36:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "brest",
-        "lorient",
-        "derby"
-      ],
-      "topics": [
-        "brest",
-        "lorient",
-        "derby",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 86.3
     },
     {
       "id": "gdelt-db33a389fc24b5903754f2bd",
@@ -433,7 +708,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.6
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-7a65065cf9fc3dd8e5d1dc0f",
@@ -458,7 +733,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-5354ccb37e53659514dfaac0",
@@ -484,7 +759,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.5
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-48633fddb619cfa274b89ea5",
@@ -512,7 +787,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.2
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-2943754f0455a96a33c9e515",
@@ -537,7 +812,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-ec1cd50842333fa514e830d7",
@@ -564,7 +839,52 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 85.1
+    },
+    {
+      "id": "gdelt-df61836f347fafa284127c20",
+      "title": "Villarreal : Georges Mikautadze fait une déclaration très forte sur le PSG avant le choc en Ligue des Champions",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-villarreal-georges-mikautadze-fait-une-declaration-tres-forte-sur-le-psg-avant-le-choc-en-ligue-des-champions-544468.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2025/zoom/ldc-20251210205756-3328.jpg",
+      "publishedAt": "2026-11-03T09:06:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-f3fe77cfe3b0f01505422cdb",
+      "title": "Daniel Riolo promet le pire à l'OM",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7364341763681289216-daniel-riolo-promet-le-pire-a-lom",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/daniel-riolo.jpg",
+      "publishedAt": "2026-11-03T09:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-52272682d10a4d7d45fece96",
@@ -587,7 +907,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-1928cf902bd29d8340fc894d",
@@ -616,7 +936,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.6
+      "qualityScore": 84.8
+    },
+    {
+      "id": "gdelt-50f73afa81f864b8f79c9d4e",
+      "title": "Villarreal-PSG : les compositions probables du match des Parisiens en Ligue des champions",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-des-champions/villarreal-psg-les-compositions-probables-du-match-des-parisiens-en-ligue-des-champions-1006425",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006425/410379/1200-L-villarreal-psg-les-compositions-probables-du-match-des-parisiens-en-ligue-des-champions.jpg",
+      "publishedAt": "2026-11-03T08:50:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-e4624b96c337d3f12cc488b7",
@@ -641,7 +987,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-fffcd1765db0ee07d26a9a5a",
@@ -667,7 +1013,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 84.6
     },
     {
       "id": "gdelt-9fb40703762bd708959b4589",
@@ -688,7 +1034,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 84.2
     },
     {
       "id": "gdelt-abc74aa3bd911a410f2b2b93",
@@ -711,7 +1057,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-e7e83fa9e383ccdfce8caad3",
@@ -734,7 +1080,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84
     },
     {
       "id": "gdelt-8000a1780e2805fb9bb35d3b",
@@ -755,7 +1101,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84
     },
     {
       "id": "gdelt-73c98fe04d2577a0586297fb",
@@ -776,35 +1122,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.7
+      "qualityScore": 84
     },
     {
-      "id": "gdelt-67e469f057e2038ba493efa5",
-      "title": "Ligue 2 : Nancy frappe fort face au Red Star, Reims poursuit sa belle série contre Sochaux",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-2/ligue-2-nancy-frappe-fort-face-au-red-star-reims-poursuit-sa-belle-serie-contre-sochaux-1006642",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006642/410435/1200-L-ligue-2-nancy-frappe-fort-face-au-red-star-reims-poursuit-sa-belle-srie-contre-sochaux.jpg",
-      "publishedAt": "2026-11-02T23:04:02.000Z",
-      "category": "news",
+      "id": "gdelt-838416f5865e5155b97595aa",
+      "title": "Info Foot-National : un mercato d'hiver très calme attendu à Pau",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/mercato/info-foot-national-un-mercato-dhiver-tres-calme-attendu-a-pau-961999",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/961999/391854/1200-L-info-foot-national-un-mercato-d-hiver-trs-calme-attendu-pau.jpg",
+      "publishedAt": "2026-11-03T09:03:00.000Z",
+      "category": "transfers",
       "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
       },
       "teams": [
-        "reims",
-        "nancy",
-        "red-star"
+        "pau"
       ],
       "topics": [
-        "reims",
-        "nancy",
-        "red-star",
-        "ligue-2"
+        "pau",
+        "switzerland"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 83.9
     },
     {
       "id": "gdelt-13f85aa28fa38579bdb990d1",
@@ -827,7 +1169,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-955c3fd51f9c5cc17ea8255f",
@@ -852,7 +1194,59 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 83.8
+    },
+    {
+      "id": "gdelt-dd9d1f8ba7965ef28bb1882c",
+      "title": "FC Barcelone-Aston Villa : chaîne TV, streaming… À quelle heure et où suivre cette affiche de la 4ème journée de Ligue des champions ?",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-des-champions/fc-barcelone-aston-villa-chaine-tv-streaming-a-quelle-heure-et-ou-suivre-cette-affiche-de-la-4eme-journee-de-ligue-des-champions-1005772",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1005772/410205/1200-L-fc-barcelone-aston-villa-chane-tv-streaming-quelle-heure-et-o-suivre-cette-affiche-de-la-4me-journe-de-ligue-des-champions.jpg",
+      "publishedAt": "2026-11-03T06:30:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "barcelona",
+        "aston-villa"
+      ],
+      "topics": [
+        "barcelona",
+        "aston-villa",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.6
+    },
+    {
+      "id": "gdelt-51f49ecaf8fd9b2b9cfb343a",
+      "title": "Villarreal-PSG : à quelle heure et sur quelle chaîne suivre le match des Parisiens comptant pour la 4ème journée de Ligue des champions ?",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-des-champions/villarreal-psg-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-des-parisiens-comptant-pour-la-4eme-journee-de-ligue-des-champions-961187",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/961187/391652/1200-L-villarreal-psg-quelle-heure-et-sur-quelle-chane-suivre-le-match-des-parisiens-comptant-pour-la-4me-journe-de-ligue-des-champions.jpg",
+      "publishedAt": "2026-11-03T06:20:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-dbc32da27637e9b15ef97dd2",
@@ -878,7 +1272,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 83.5
+    },
+    {
+      "id": "gdelt-7fbf9b1d03b96954a4efa832",
+      "title": "JT Foot Mercato : la grosse décision du Real Madrid pour le mercato",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7789766269423964300-jt-foot-mercato-la-grosse-decision-du-real-madrid-pour-le-mercato",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-2627-6ad9c03fa892b.jpg",
+      "publishedAt": "2026-11-02T15:54:59.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-1236f89cf5b9255cdc413be5",
@@ -902,7 +1319,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-5cce8df63b49ceb9d28b93a6",
@@ -921,20 +1338,20 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 83.2
     },
     {
-      "id": "gdelt-7fbf9b1d03b96954a4efa832",
-      "title": "JT Foot Mercato : la grosse décision du Real Madrid pour le mercato",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7789766269423964300-jt-foot-mercato-la-grosse-decision-du-real-madrid-pour-le-mercato",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-2627-6ad9c03fa892b.jpg",
-      "publishedAt": "2026-11-02T15:54:59.000Z",
-      "category": "transfers",
+      "id": "gdelt-620dac4c798dcbb0b75b67ac",
+      "title": "Vinicius va devoir cravacher pour retrouver son statut, un ancien joueur du Real Madrid l'annonce !",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/liga/vinicius-va-devoir-cravacher-pour-retrouver-son-statut-un-ancien-joueur-du-real-madrid-lannonce-1006659",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006659/410440/1200-L-vinicius-va-devoir-cravacher-pour-retrouver-son-statut-un-ancien-joueur-du-real-madrid-l-annonce.jpg",
+      "publishedAt": "2026-11-03T09:32:00.000Z",
+      "category": "news",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
       },
       "teams": [
         "real-madrid"
@@ -942,9 +1359,9 @@
       "topics": [
         "real-madrid"
       ],
-      "reliability": "reported",
+      "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 83
     },
     {
       "id": "gdelt-0ea34c68040303a581e87292",
@@ -969,7 +1386,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.7
+      "qualityScore": 83
     },
     {
       "id": "gdelt-c207d58dc36e1fad9dc798ad",
@@ -992,7 +1409,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 82.6
     },
     {
       "id": "gdelt-f8ad0726e45bb4a44f796f2d",
@@ -1015,7 +1432,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 82.1
     },
     {
       "id": "gdelt-e733b22171249e81562bb1f9",
@@ -1038,7 +1455,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.7
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-5169daf38de626ad4b3a18bf",
@@ -1061,7 +1478,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 81.8
     },
     {
       "id": "gdelt-44ed65e13cc3a763622ee6f5",
@@ -1082,7 +1499,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 81.8
     },
     {
       "id": "gdelt-6c32e3fd4eb93f82d7fc9cad",
@@ -1105,7 +1522,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 81.8
     },
     {
       "id": "gdelt-bc7566ccf219a65c687066a5",
@@ -1126,7 +1543,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 81.8
+    },
+    {
+      "id": "gdelt-35c69058928ffe970e29312d",
+      "title": "Après la victoire dans le derby, les joueurs du Stade Brestois accueillis en héros à leur retour à Brest",
+      "summary": "Publication référencée chez laseyne.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://laseyne.maville.com/actu/actudet_-apres-la-victoire-dans-le-derby-les-joueurs-du-stade-brestois-accueillis-en-heros-a-leur-retour-a-brest_fil-7553765_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/11/03/P36232726D7553765G_crop_1200-675_.jpg",
+      "publishedAt": "2026-11-03T08:47:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "laseyne.maville.com",
+        "name": "laseyne.maville.com",
+        "websiteURL": "https://laseyne.maville.com"
+      },
+      "teams": [
+        "brest",
+        "derby"
+      ],
+      "topics": [
+        "brest",
+        "derby"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 81.7
     },
     {
       "id": "gdelt-574f1c9e6325009d5fc4bd54",
@@ -1147,7 +1589,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-880409adc89c96e516cf7c6e",
@@ -1170,7 +1612,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-14a306d9a27933d581450000",
@@ -1195,7 +1637,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.1
+      "qualityScore": 81.3
     },
     {
       "id": "gdelt-9b39357fd4483df77362dbb8",
@@ -1220,28 +1662,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
-    },
-    {
-      "id": "gdelt-b1dcc0ac5ff76bada3030e38",
-      "title": "L'équipe de France remporte sa première médaille aux Jeux olympiques de la Jeunesse",
-      "summary": "Publication référencée chez franceinfo.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.franceinfo.fr/jeux-olympiques-de-la-jeunesse/l-equipe-de-france-remporte-sa-premiere-medaille-aux-jeux-olympiques-de-la-jeunesse_8264471.html",
-      "imageURL": "https://www.franceinfo.fr/pictures/Ov1jb3R0Mqq5KJPhEdza3XZ9zS8/77x0:402x578/fit-in/1500x843/filters:upscale():fill(blur)/2026/11/02/6ae8ba611e57d407876693.jpg",
-      "publishedAt": "2026-11-02T17:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "franceinfo.fr",
-        "name": "franceinfo.fr",
-        "websiteURL": "https://franceinfo.fr"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 81.2
     },
     {
       "id": "gdelt-591f4d2835606d391fcb7624",
@@ -1268,7 +1689,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 81.2
+    },
+    {
+      "id": "gdelt-b1dcc0ac5ff76bada3030e38",
+      "title": "L'équipe de France remporte sa première médaille aux Jeux olympiques de la Jeunesse",
+      "summary": "Publication référencée chez franceinfo.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.franceinfo.fr/jeux-olympiques-de-la-jeunesse/l-equipe-de-france-remporte-sa-premiere-medaille-aux-jeux-olympiques-de-la-jeunesse_8264471.html",
+      "imageURL": "https://www.franceinfo.fr/pictures/Ov1jb3R0Mqq5KJPhEdza3XZ9zS8/77x0:402x578/fit-in/1500x843/filters:upscale():fill(blur)/2026/11/02/6ae8ba611e57d407876693.jpg",
+      "publishedAt": "2026-11-02T17:32:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "franceinfo.fr",
+        "name": "franceinfo.fr",
+        "websiteURL": "https://franceinfo.fr"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 81.1
     },
     {
       "id": "gdelt-69a507d7ba29f66fc29f5ae6",
@@ -1296,7 +1738,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 81.1
+    },
+    {
+      "id": "gdelt-237a3e9059be4d010f9a0517",
+      "title": "Bodø/Glimt-Lille : les compositions probables du match de l'espoir des Dogues en Ligue des champions",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-des-champions/bodo-glimt-lille-les-compositions-probables-du-match-de-lespoir-des-dogues-en-ligue-des-champions-1006434",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006434/410381/1200-L-bod-glimt-lille-les-compositions-probables-du-match-de-l-espoir-des-dogues-en-ligue-des-champions.jpg",
+      "publishedAt": "2026-11-03T09:20:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 81
     },
     {
       "id": "gdelt-d4ce971ea32ec7d29b044967",
@@ -1323,7 +1789,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 80.9
     },
     {
       "id": "gdelt-0abf3b98f1fd288f9f694aa8",
@@ -1349,7 +1815,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 80.9
+    },
+    {
+      "id": "gdelt-57f1c14a240ca3e0bde8bb61",
+      "title": "Le FC Barcelone vise un jeune talent portugais",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a9019592225681607448-le-fc-barcelone-vise-un-jeune-talent-portugais",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/deco-2526-69a59dbaa890c.jpg",
+      "publishedAt": "2026-11-03T09:02:00.000Z",
+      "category": "rumors",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "rumor",
+      "sourceTier": "recognized",
+      "qualityScore": 80.8
     },
     {
       "id": "gdelt-37aac3cfb2b0fab098715c71",
@@ -1374,7 +1863,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.6
+      "qualityScore": 80.8
     },
     {
       "id": "gdelt-30d08870a8fb0e93937c5524",
@@ -1398,7 +1887,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 80.8
     },
     {
       "id": "gdelt-2168be1ffd09885cb4baa298",
@@ -1424,7 +1913,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.4
+      "qualityScore": 80.6
+    },
+    {
+      "id": "gdelt-bd3c3207e27798042ce9f18c",
+      "title": "LDC : Les cotes et pronostics de Villarreal - PSG : notre analyse complète",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-les-cotes-et-pronostics-de-villarreal-psg-notre-analyse-complete-544463.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2026/zoom/ldc-20260909214020-6416.jpg",
+      "publishedAt": "2026-11-03T08:15:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.5
     },
     {
       "id": "gdelt-e85528a8ee1a8d4b52e03bea",
@@ -1445,7 +1959,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 80.1
+    },
+    {
+      "id": "gdelt-f956b1b8db3b61a6cded2911",
+      "title": "LDC : Villarreal CF - PSG : les compos probables",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-villarreal-cf-psg-les-compos-probables-544457.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2026/zoom/ldc-20261020223946-3316.jpg",
+      "publishedAt": "2026-11-03T07:15:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80
     },
     {
       "id": "gdelt-6b18d5eda4af52e03aca0b8f",
@@ -1464,7 +2003,7 @@
       "topics": [],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
+      "qualityScore": 80
     },
     {
       "id": "gdelt-f119e47a8be13f31660f286a",
@@ -1491,7 +2030,80 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 79.8
+    },
+    {
+      "id": "gdelt-ddecb002041198e98ff588c5",
+      "title": "Atlético Madrid-Bayern Munich : chaîne TV, streaming… À quelle heure et sur quel canal suivre cette alléchante affiche de Ligue des champions ?",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-des-champions/atletico-madrid-bayern-munich-chaine-tv-streaming-a-quelle-heure-et-sur-quel-canal-suivre-cette-allechante-affiche-de-ligue-des-champions-1005780",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1005780/410207/1200-L-atltico-madrid-bayern-munich-chane-tv-streaming-quelle-heure-et-sur-quel-canal-suivre-cette-allchante-affiche-de-ligue-des-champions.jpg",
+      "publishedAt": "2026-11-03T06:50:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "bayern"
+      ],
+      "topics": [
+        "bayern",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.7
+    },
+    {
+      "id": "gdelt-aaade60cdf119a946a8987be",
+      "title": "LDC : Villarreal CF - PSG : les prédictions d'Opta",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-villarreal-cf-psg-les-predictions-d-opta-544369.html",
+      "imageURL": "https://s2.dmcdn.net/v/gYQjw1gw8ed2QJn8U/x480",
+      "publishedAt": "2026-11-03T06:45:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.7
+    },
+    {
+      "id": "gdelt-2e47f786890e1e45a5e4bf00",
+      "title": "Bodø/Glimt-Lille : à quelle heure et sur quelle antenne regarder la rencontre des Dogues en Ligue des champions ?",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-des-champions/bodo-glimt-lille-a-quelle-heure-et-sur-quelle-antenne-regarder-la-rencontre-des-dogues-en-ligue-des-champions-961197",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/961197/391655/1200-L-bod-glimt-lille-quelle-heure-et-sur-quelle-antenne-regarder-la-rencontre-des-dogues-en-ligue-des-champions.jpg",
+      "publishedAt": "2026-11-03T06:40:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.7
     },
     {
       "id": "gdelt-428b8bc6c5b9ba6c9c421f02",
@@ -1514,30 +2126,30 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 83.4
+      "qualityScore": 79.7
     },
     {
-      "id": "gdelt-f48b22d2a97ebabe41b2db13",
-      "title": "Barça : Joan Garcia se fait vanner dans le vestiaire",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6427989402795131086-barca-joan-garcia-se-fait-vanner-dans-le-vestiaire",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joan-garcia.jpg",
-      "publishedAt": "2026-11-02T14:23:55.000Z",
-      "category": "news",
+      "id": "gdelt-423ab55a3359a87d4581e70c",
+      "title": "OL : Daniel Riolo dénonce une véritable honte après le probable départ de Paulo Fonseca",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ol-daniel-riolo-denonce-une-veritable-honte-apres-le-probable-depart-de-paulo-fonseca-544465.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250423090549-5931.jpg",
+      "publishedAt": "2026-11-03T08:30:00.000Z",
+      "category": "transfers",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
       },
       "teams": [
-        "barcelona"
+        "pau"
       ],
       "topics": [
-        "barcelona"
+        "pau"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 79.6
     },
     {
       "id": "gdelt-f8540c57124ecfdd68c37a93",
@@ -1561,7 +2173,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 79.6
     },
     {
       "id": "gdelt-f1fb156c123ac30472650a04",
@@ -1587,33 +2199,54 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 79.6
     },
     {
-      "id": "gdelt-6083ea1f4ef69ab41b5549d2",
-      "title": "Ligue 2 : L'AS Nancy-Lorraine et le Stade de Reims gagnent et s'invitent dans le top 4 !",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-2-l-as-nancy-lorraine-et-le-stade-de-reims-gagnent-et-s-invitent-dans-le-top-4-544443.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250104085018-9842.jpg",
-      "publishedAt": "2026-11-02T22:15:00.000Z",
+      "id": "gdelt-f48b22d2a97ebabe41b2db13",
+      "title": "Barça : Joan Garcia se fait vanner dans le vestiaire",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6427989402795131086-barca-joan-garcia-se-fait-vanner-dans-le-vestiaire",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/joan-garcia.jpg",
+      "publishedAt": "2026-11-02T14:23:55.000Z",
       "category": "news",
       "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
       },
       "teams": [
-        "reims",
-        "nancy"
+        "barcelona"
       ],
       "topics": [
-        "reims",
-        "nancy",
-        "ligue-2"
+        "barcelona"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.2
+      "qualityScore": 79.5
+    },
+    {
+      "id": "gdelt-35b7ad7ed87779fb3e342c90",
+      "title": "Bodø/Glimt-Lille : chaîne TV, streaming… À quelle heure et où suivre la rencontre des Dogues comptant pour la 4ème journée de Ligue des champions ?",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-des-champions/bodo-glimt-lille-chaine-tv-streaming-a-quelle-heure-et-ou-suivre-la-rencontre-des-dogues-comptant-pour-la-4eme-journee-de-ligue-des-champions-1005742",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1005742/410196/1200-L-bod-glimt-lille-chane-tv-streaming-quelle-heure-et-o-suivre-la-rencontre-des-dogues-comptant-pour-la-4me-journe-de-ligue-des-champions.jpg",
+      "publishedAt": "2026-11-03T06:10:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.4
     },
     {
       "id": "gdelt-3f87ce8d262cbd6cae551ccd",
@@ -1636,55 +2269,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.2
-    },
-    {
-      "id": "gdelt-d9a5248afaf3f14bc9037418",
-      "title": "Le Real Madrid change tout pour son mercato hivernal",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8115882152647944694-le-real-madrid-change-tout-pour-son-mercato-hivernal",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-2627-6ad9c03fa892b.jpg",
-      "publishedAt": "2026-11-02T07:46:55.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83
-    },
-    {
-      "id": "gdelt-491ee8caca3776afe14bbede",
-      "title": "Bayern Munich : « Remporter des trophées »... Kane sans détour sur son départ de Tottenham",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-des-champions/bayern-munich-remporter-des-trophees-kane-sans-detour-sur-son-depart-de-tottenham-1006637",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006637/410433/1200-L-bayern-munich-remporter-des-trophes-kane-sans-dtour-sur-son-dpart-de-tottenham.jpg",
-      "publishedAt": "2026-11-02T23:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "tottenham",
-        "bayern"
-      ],
-      "topics": [
-        "tottenham",
-        "bayern"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 79.4
     },
     {
       "id": "gdelt-41accdccaf69a930f6dc735b",
@@ -1707,7 +2292,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 79.2
+    },
+    {
+      "id": "gdelt-d9a5248afaf3f14bc9037418",
+      "title": "Le Real Madrid change tout pour son mercato hivernal",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8115882152647944694-le-real-madrid-change-tout-pour-son-mercato-hivernal",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-2627-6ad9c03fa892b.jpg",
+      "publishedAt": "2026-11-02T07:46:55.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "real-madrid"
+      ],
+      "topics": [
+        "real-madrid"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.2
     },
     {
       "id": "gdelt-38bf113f8e9bd0ee56ac8c73",
@@ -1733,7 +2341,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.9
+      "qualityScore": 79.2
     },
     {
       "id": "gdelt-b74127bdbfd649684e03d37f",
@@ -1756,7 +2364,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.7
+      "qualityScore": 79
     },
     {
       "id": "gdelt-2d620919b9e14674573ed778",
@@ -1777,7 +2385,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 78.8
     },
     {
       "id": "gdelt-73a8141e931e55345bbb5883",
@@ -1800,7 +2408,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 78.7
     },
     {
       "id": "gdelt-704df80f70c4b9cbdff1a1c6",
@@ -1823,605 +2431,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.4
-    },
-    {
-      "id": "gdelt-28914ee21998d3a6521de89e",
-      "title": "Erik ten Hag pense que Manchester United peut être relégué en Championship",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3491775609039490090-erik-ten-hag-pense-que-manchester-united-peut-etre-relegue-en-championship",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/erik-ten-hag-2324.jpg",
-      "publishedAt": "2026-11-02T12:14:56.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-united"
-      ],
-      "topics": [
-        "man-united"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.2
-    },
-    {
-      "id": "gdelt-5ae1c28f80088bae139e0bdd",
-      "title": "Live Marseille - Toulouse (2-0) la 9e journée de Ligue 1 McDonald's 2026/2027 01/11",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/7872936214261963529-marseille-vs-toulouse",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-4523010864861042854-4794560107801668092.jpg",
-      "publishedAt": "2026-11-01T20:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "om",
-        "toulouse"
-      ],
-      "topics": [
-        "om",
-        "toulouse",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.2
-    },
-    {
-      "id": "gdelt-a75eb37c94a3f8b178ebedef",
-      "title": "Premier League : Arsenal fait tomber Liverpool et s'empare de la 1ère place",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6661757344998324918-premier-league-arsenal-fait-tomber-liverpool-et-sempare-de-la-1ere-place",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour788732-1920x1080.jpg",
-      "publishedAt": "2026-11-01T20:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "liverpool",
-        "arsenal"
-      ],
-      "topics": [
-        "liverpool",
-        "arsenal",
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.2
-    },
-    {
-      "id": "gdelt-153b682f2dce0e455df439d2",
-      "title": "Live Juventus - Naples (0-0) la 10e journée de Serie A 2026/2027 01/11",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/8845173176756259796-juventus-turin-vs-naples",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-2679603538731322448-1838680055861445266.jpg",
-      "publishedAt": "2026-11-01T20:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "juventus",
-        "napoli"
-      ],
-      "topics": [
-        "juventus",
-        "napoli",
-        "serie-a"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.2
-    },
-    {
-      "id": "gdelt-26b9e93f10715a2b2b3e0bf3",
-      "title": "Le Bayern Munich a pris une décision inattendue face à la cascade de blessures",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6798516440497985998-le-bayern-munich-a-pris-une-decision-inattendue-face-a-la-cascade-de-blessures",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/michael-olise-2627-6ae831be16614.jpg",
-      "publishedAt": "2026-11-02T11:46:09.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bayern"
-      ],
-      "topics": [
-        "bayern"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82
-    },
-    {
-      "id": "gdelt-b2abe966006c6de0175ce9da",
-      "title": "OL, Sporting, Fonseca… le mercato des entraîneurs en pleine saison échappe-t-il à toute règle ?",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2295138729288845138-ol-sporting-fonseca-le-mercato-des-entraineurs-en-pleine-saison-echappe-t-il-a-toute-regle",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo784147-1920x1080.jpg",
-      "publishedAt": "2026-11-02T13:20:41.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.8
-    },
-    {
-      "id": "gdelt-57b810ec5986ef0b7abbea71",
-      "title": "Un ancien coach de Premier League et Liga opéré après un AVC",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6318652176379889967-un-ancien-coach-de-premier-league-et-liga-opere-apres-un-avc",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/pepe-mel.jpg",
-      "publishedAt": "2026-11-02T11:12:08.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.7
-    },
-    {
-      "id": "gdelt-5603839d1841c91af0baed3e",
-      "title": "OM : le début de saison canon des Minots en U17 et U19",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/om-le-debut-de-saison-canon-des-minots-en-u17-et-u19-961905",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/961905/391831/1200-L-om-le-dbut-de-saison-canon-des-minots-en-u17-et-u19.jpg",
-      "publishedAt": "2026-11-02T19:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.6
-    },
-    {
-      "id": "gdelt-c2c94be7b336ebd01bd11879",
-      "title": "Mercato OL : L'OL va toucher une jolie somme pour le transfert de Paulo Fonseca vers le Sporting CP",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-l-ol-va-toucher-une-jolie-somme-pour-le-transfert-de-paulo-fonseca-vers-le-sporting-cp-544435.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260308180339-8679.jpg",
-      "publishedAt": "2026-11-02T20:34:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "sporting",
-        "pau"
-      ],
-      "topics": [
-        "sporting",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.4
-    },
-    {
-      "id": "gdelt-31e8a3ebd9a316d463c1b434",
-      "title": "OL : Les larmes de Paulo Fonseca après la victoire lyonnaise face à Angers SCO",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ol-les-larmes-de-paulo-fonseca-apres-la-victoire-lyonnaise-face-a-angers-sco-544271.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260217105548-9459.jpg",
-      "publishedAt": "2026-11-01T18:26:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "ol",
-        "angers",
-        "pau"
-      ],
-      "topics": [
-        "ol",
-        "angers",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.3
-    },
-    {
-      "id": "gdelt-4f7089631318efeae9a0e4ca",
-      "title": "Real Madrid : Kylian Mbappé a déjà marqué contre toutes les équipes de Liga",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2918207304317597753-real-madrid-kylian-mbappe-a-deja-marque-contre-toutes-les-equipes-de-liga",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/kylian-mbappe-2627-7.jpg",
-      "publishedAt": "2026-11-02T10:16:47.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.2
-    },
-    {
-      "id": "gdelt-cef435ae323f5f76b1043921",
-      "title": "Ligue 1 : Les notes de Paris FC - AS Monaco : Lassine Sinayoko porte le PFC et assomme l'ASM !",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-les-notes-de-paris-fc-as-monaco-lassine-sinayoko-porte-le-pfc-et-assomme-l-asm-544269.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20261101181932-7634.jpg",
-      "publishedAt": "2026-11-01T18:11:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "monaco",
-        "paris-fc"
-      ],
-      "topics": [
-        "monaco",
-        "paris-fc",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.2
-    },
-    {
-      "id": "gdelt-8ac721524471bb4671db46a3",
-      "title": "OM : bonne nouvelle pour Emerson",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4543204738298322863-om-bonne-nouvelle-pour-emerson",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/emerson-om2.jpg",
-      "publishedAt": "2026-11-02T18:02:52.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.1
-    },
-    {
-      "id": "gdelt-78fa60cd94a0ec8d87e6b080",
-      "title": "Ligue 1 : Les notes de OL - Angers SCO : sérieux malgré un contexte spécial, Lyon domine le SCO et retrouve le podium",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-les-notes-de-ol-angers-sco-serieux-malgre-un-contexte-special-lyon-domine-le-sco-et-retrouve-le-podium-544263.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20261101181709-1514.jpg",
-      "publishedAt": "2026-11-01T18:06:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "ol",
-        "angers"
-      ],
-      "topics": [
-        "ol",
-        "angers",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.1
-    },
-    {
-      "id": "gdelt-c47ae09278f59665daebe050",
-      "title": "OM : Bruno Genesio identifie le principal axe de progression",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6263269424791523435-om-bruno-genesio-identifie-le-principal-axe-de-progression",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo728371-1920x1080.jpg",
-      "publishedAt": "2026-11-02T17:46:53.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81
-    },
-    {
-      "id": "gdelt-6a27f705edb883190e9bd33e",
-      "title": "Live Lyon - Angers (1-0) la 9e journée de Ligue 1 McDonald's 2026/2027 01/11",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/1629482990132320515-lyon-vs-angers",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-4855789415474674627-7123303050030882167.jpg",
-      "publishedAt": "2026-11-01T17:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "ol",
-        "angers"
-      ],
-      "topics": [
-        "ol",
-        "angers",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.9
-    },
-    {
-      "id": "gdelt-69fa273490a569c35794daa5",
-      "title": "Ligue 1 : avec un doublé de Yassine, Strasbourg met fin à sa série noire et écrase Auxerre",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a3886410316377724327-ligue-1-avec-un-double-de-yassine-strasbourg-met-fin-a-sa-serie-noire-et-ecrase-auxerre",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dsc07215-jpg.jpeg",
-      "publishedAt": "2026-11-01T17:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "strasbourg",
-        "auxerre"
-      ],
-      "topics": [
-        "strasbourg",
-        "auxerre",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.9
-    },
-    {
-      "id": "gdelt-65376d60adb02d5d61028b87",
-      "title": "Live Paris FC - Monaco (2-0) la 9e journée de Ligue 1 McDonald's 2026/2027 01/11",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/4281182443789051366-paris-fc-vs-monaco",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-2994557015169276824-1065748973357087314.jpg",
-      "publishedAt": "2026-11-01T17:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "monaco",
-        "paris-fc"
-      ],
-      "topics": [
-        "monaco",
-        "paris-fc",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.9
-    },
-    {
-      "id": "gdelt-8c11175ceb9c1495477a4003",
-      "title": "Live Lecce - Genoa (0-2) la 10e journée de Serie A 2026/2027 01/11",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/5297992309579480430-lecce-vs-genoa",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-2487579861193715291-4807730372680782819.jpg",
-      "publishedAt": "2026-11-01T17:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "genoa",
-        "lecce"
-      ],
-      "topics": [
-        "genoa",
-        "lecce",
-        "serie-a"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.9
-    },
-    {
-      "id": "gdelt-1a1274b63b568cb374a28d2c",
-      "title": "Liverpool : Mac Allister se fait dézinguer",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8396453619886076977-liverpool-mac-allister-se-fait-dezinguer",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mac-allister.jpg",
-      "publishedAt": "2026-11-02T09:28:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "liverpool"
-      ],
-      "topics": [
-        "liverpool"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.8
-    },
-    {
-      "id": "gdelt-5e709c2cc2235a99f01f605d",
-      "title": "Live Liverpool - Arsenal (0-1) la 9e journée de Premier League 2026/2027 01/11",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/1623770057914135414-liverpool-vs-arsenal",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-8907069587814470011-6067324162352758497.jpg",
-      "publishedAt": "2026-11-01T17:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "liverpool",
-        "arsenal"
-      ],
-      "topics": [
-        "liverpool",
-        "arsenal",
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.8
-    },
-    {
-      "id": "gdelt-34925d2385220584b46e8982",
-      "title": "Live New England - Inter Miami (0-0) Saison régulière de Major League Soccer 2026 02/11",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/4446442837617350691-new-england-vs-inter-miami",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-7939867155691584831-1731733114371002085.jpg",
-      "publishedAt": "2026-11-02T01:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "inter-miami"
-      ],
-      "topics": [
-        "inter-miami",
-        "mls"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.6
-    },
-    {
-      "id": "gdelt-efcd7a74fc2d7606fd5f4113",
-      "title": "Ligue 1 : Strasbourg cartonne Auxerre et met fin à sa spirale négative",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-1-strasbourg-cartonne-auxerre-et-met-fin-a-sa-spirale-negative-961755",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/961755/391795/1200-L-ligue-1-strasbourg-cartonne-auxerre-et-met-fin-sa-spirale-ngative.jpg",
-      "publishedAt": "2026-11-01T17:06:49.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "strasbourg",
-        "auxerre"
-      ],
-      "topics": [
-        "strasbourg",
-        "auxerre",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.6
-    },
-    {
-      "id": "gdelt-f2e59dac405f67c91dd8b5a2",
-      "title": "Équipe de France U16 : \"Une bonne semaine internationale\", Lionel Rouxel analyse le tournoi du Val-de-Marne",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/jeunes/equipe-de-france-u16-une-bonne-semaine-internationale-lionel-rouxel-analyse-le-tournoi-du-val-de-marne-961692",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/961692/391779/1200-L-quipe-de-france-u16-une-bonne-semaine-internationale-lionel-rouxel-analyse-le-tournoi-du-val-de-marne.jpg",
-      "publishedAt": "2026-11-02T00:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "france",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.4
-    },
-    {
-      "id": "gdelt-a3dd99a74c4efe214cfd3708",
-      "title": "LOSC : Olivier Létang va être rejugé après l’appel de la FFF contre son amende de 20 000€",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2980230968332881453-losc-olivier-letang-va-etre-rejuge-apres-lappel-de-la-fff-contre-son-amende-de-20-000eur",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/olivier-letang.jpg",
-      "publishedAt": "2026-11-02T08:30:44.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.3
+      "qualityScore": 78.6
     }
   ],
-  "generatedAt": "2026-11-03T01:49:58.202Z",
+  "generatedAt": "2026-11-03T09:20:24.610Z",
   "stale": false
 }
