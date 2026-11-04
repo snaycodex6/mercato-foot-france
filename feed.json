@@ -1,12 +1,40 @@
 {
   "items": [
     {
+      "id": "gdelt-fccafc52d0fd3a38c39e937d",
+      "title": "Ligue des Champions : le PSG en démonstration à Villarreal, Lille ouvre son compteur de points",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-le-psg-en-demonstration-a-villarreal-lille-ouvre-son-compteur-de-points-962137",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962137/391890/1200-L-ligue-des-champions-le-psg-en-dmonstration-villarreal-lille-ouvre-son-compteur-de-points.jpg",
+      "publishedAt": "2026-11-04T00:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "lille",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "lille",
+        "villarreal",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 99.7
+    },
+    {
       "id": "gdelt-6798a49d1e827b907d674a4b",
       "title": "Ligue des Champions : Lille arrache le nul, le FC Barcelone cartonne, MU signe une remontada de folie",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
       "url": "https://www.footmercato.net/a4854992105854612690-ligue-des-champions-lille-arrache-le-nul-le-fc-barcelone-et-linter-cartonnent-mu-signe-une-remontada-de-folie",
       "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine438645-1920x1080.jpg",
-      "publishedAt": "2026-11-03T21:57:59.000Z",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
       "category": "transfers",
       "source": {
         "id": "footmercato.net",
@@ -24,15 +52,15 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.7
+      "qualityScore": 99.4
     },
     {
-      "id": "gdelt-fc10db05a243a77550e7d8c9",
-      "title": "Ligue des Champions : le PSG assomme Villarreal",
+      "id": "gdelt-86711f46eb88d4f8849345ee",
+      "title": "Ligue des Champions, PSG : Luis Enrique est embarrassé pour Villarreal",
       "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1244470769178796419-ligue-des-champions-le-psg-assomme-villarreal",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/villarreal-psg.jpg",
-      "publishedAt": "2026-11-03T21:52:00.000Z",
+      "url": "https://www.footmercato.net/a2819382066701603935-ligue-des-champions-psg-luis-enrique-est-embarrasse-pour-villarreal",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/luis-enrique-69f1289a1239b.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
       "category": "news",
       "source": {
         "id": "footmercato.net",
@@ -50,7 +78,139 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.7
+      "qualityScore": 96.4
+    },
+    {
+      "id": "gdelt-fc10db05a243a77550e7d8c9",
+      "title": "Ligue des Champions : le PSG assomme Villarreal",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1244470769178796419-ligue-des-champions-le-psg-assomme-villarreal",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/villarreal-psg.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.4
+    },
+    {
+      "id": "gdelt-65376d60adb02d5d61028b87",
+      "title": "Résultat Paris FC - Monaco (3-1) la 9e journée de Ligue 1 McDonald's 2026/2027 01/11",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/live/4281182443789051366-paris-fc-vs-monaco",
+      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-2994557015169276824-1065748973357087314.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "monaco",
+        "paris-fc"
+      ],
+      "topics": [
+        "monaco",
+        "paris-fc",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96.4
+    },
+    {
+      "id": "gdelt-3144b9fc3eca9afa7a17b16c",
+      "title": "Ligue des Champions : auteur d'un début canon à Villarreal, le PSG entre dans l'histoire en C1",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-auteur-dun-debut-canon-a-villarreal-le-psg-entre-dans-lhistoire-en-c1-962131",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962131/391889/1200-L-ligue-des-champions-auteur-dun-dbut-canon-villarreal-le-psg-entre-dans-lhistoire-en-c1.jpg",
+      "publishedAt": "2026-11-04T00:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 95.7
+    },
+    {
+      "id": "gdelt-c0ff3bba15a3e21927060907",
+      "title": "LDC : Le FC Barcelone impressionne, le Bayern Munich assure, Manchester United réalise une remontée folle... le récap' de la soirée",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-le-fc-barcelone-impressionne-le-bayern-munich-assure-manchester-united-realise-une-remontee-folle-le-recap-de-la-soiree-544565.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2025/zoom/ldc-20250518231045-5470.jpg",
+      "publishedAt": "2026-11-03T22:12:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "barcelona",
+        "man-united",
+        "bayern"
+      ],
+      "topics": [
+        "barcelona",
+        "man-united",
+        "bayern"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 94.8
+    },
+    {
+      "id": "gdelt-9e4243e4c8782c3180c4e066",
+      "title": "Villarreal-PSG : 4-0 à la pause, les statistiques terrifiantes de la mi-temps parisienne !",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-des-champions/villarreal-psg-4-0-a-la-pause-les-statistiques-terrifiantes-de-la-mi-temps-parisienne-1006841",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006841/410484/1200-L-villarreal-psg-4-0-la-pause-les-statistiques-terrifiantes-de-la-mi-temps-parisienne.jpg",
+      "publishedAt": "2026-11-03T21:51:44.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "psg",
+        "villarreal",
+        "pau"
+      ],
+      "topics": [
+        "psg",
+        "villarreal",
+        "pau"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 94.6
     },
     {
       "id": "gdelt-3b6472ff79565a59031d1548",
@@ -76,7 +236,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 94.2
     },
     {
       "id": "gdelt-a192c1f443d7615460502b17",
@@ -102,7 +262,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 94.2
     },
     {
       "id": "gdelt-ea63d039622db9de6ee4eb6c",
@@ -128,7 +288,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 94.2
     },
     {
       "id": "gdelt-c00b93c0b4c003d836f0d8bd",
@@ -154,7 +314,34 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.6
+      "qualityScore": 93.5
+    },
+    {
+      "id": "gdelt-92b0f7b821c634760ab5c5de",
+      "title": "LDC : Galatasaray enchaîne contre le VfB Stuttgart, le Sporting CP s'impose sur la pelouse du Shakhtar Donetsk... le récap des matchs de 18h45",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-galatasaray-enchaine-contre-le-vfb-stuttgart-le-sporting-cp-s-impose-sur-la-pelouse-du-shakhtar-donetsk-le-recap-des-matchs-de-18h45-544541.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2026/zoom/ldc-20261103203723-4992.jpg",
+      "publishedAt": "2026-11-03T19:40:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "sporting",
+        "galatasaray",
+        "stuttgart"
+      ],
+      "topics": [
+        "sporting",
+        "galatasaray",
+        "stuttgart"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 93.5
     },
     {
       "id": "gdelt-29f09fdce7213d9230a106a4",
@@ -180,7 +367,320 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.6
+      "qualityScore": 93.5
+    },
+    {
+      "id": "gdelt-aaf549d21f4f104df88df8c8",
+      "title": "Mercato OL : Paulo Fonseca est arrivé à Lisbonne, son départ de Lyon est imminent",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-paulo-fonseca-est-arrive-a-lisbonne-son-depart-de-lyon-est-imminent-544556.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260308180340-6360.jpg",
+      "publishedAt": "2026-11-03T21:21:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "ol",
+        "pau"
+      ],
+      "topics": [
+        "ol",
+        "pau"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 93.4
+    },
+    {
+      "id": "gdelt-30bf97dec27c5057e557a9b8",
+      "title": "Équipe de France : une surprise de taille signée Zidane en Premier League ?",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/equipe-de-france/equipe-de-france-une-surprise-de-taille-signee-zidane-en-premier-league-1006827",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006827/410480/1200-L-quipe-de-france-une-surprise-de-taille-signe-zidane-en-premier-league.jpg",
+      "publishedAt": "2026-11-03T20:35:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [],
+      "topics": [
+        "premier-league",
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 93
+    },
+    {
+      "id": "gdelt-d653f85eb4edc665870921a9",
+      "title": "Ligue des Champions : le premier but de Boly avec le PSG !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7873971057706463944-ligue-des-champions-le-premier-but-de-boly-avec-le-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/boly-69f32ee6c10d4.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.4
+    },
+    {
+      "id": "gdelt-e1af0eb4dd4af56e811b8c06",
+      "title": "Ligue des Champions : le classement de la 4e journée après les matches de mardi",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a6575642942379088155-ligue-des-champions-le-classement-de-la-4e-journee-apres-les-matches-de-mardi",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine262762-1920x1080.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.4
+    },
+    {
+      "id": "gdelt-5ee0e37d4589f2901ea744b6",
+      "title": "Ligue des Champions, LOSC : Davide Ancelotti y croit toujours",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5902114471009617616-ligue-des-champions-davide-ancelotti-y-croit-toujours",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/davide-ancelotti.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lille"
+      ],
+      "topics": [
+        "lille",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.4
+    },
+    {
+      "id": "gdelt-bfdae83d9d9dba502e5ad6d3",
+      "title": "Villarreal - PSG : les notes du match",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a608138941226936387-villarreal-psg-les-notes-du-match",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/psg-6aea58264e45c.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.4
+    },
+    {
+      "id": "gdelt-b2abcfe538044505e85a1fa7",
+      "title": "Ligue des Champions : la presse espagnole choquée par le PSG !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a4444300058868048292-ligue-des-champions-la-presse-espagnole-choquee-par-le-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/psg-joie-villarreal.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.4
+    },
+    {
+      "id": "gdelt-bf4de0e1a577d2fe13ba269f",
+      "title": "Ligue des Champions : la réaction désespérée de Villarreal",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2153243146948137266-ligue-des-champions-la-reaction-desesperee-de-villarreal",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/villarreal-6aea64ebcddf6.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "villarreal"
+      ],
+      "topics": [
+        "villarreal",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.4
+    },
+    {
+      "id": "gdelt-55c22c3dbe9249f00ab4da26",
+      "title": "Ligue des champions : le geste superbe du Real Madrid pour le Bayern Munich",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-des-champions/ligue-des-champions-le-geste-superbe-du-real-madrid-pour-le-bayern-munich-1006718",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006718/410454/1200-L-ligue-des-champions-le-geste-superbe-du-real-madrid-pour-le-bayern-munich.jpg",
+      "publishedAt": "2026-11-03T17:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "real-madrid",
+        "bayern"
+      ],
+      "topics": [
+        "real-madrid",
+        "bayern",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.4
+    },
+    {
+      "id": "gdelt-e536ca613ed8f3611391a7a6",
+      "title": "Coupe de France : changement de programmation pour le septième tour d'une formation de Ligue 2",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/coupe-de-france-changement-de-programmation-pour-le-septieme-tour-dune-formation-de-ligue-2-962106",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962106/391882/1200-L-coupe-de-france-changement-de-programmation-pour-le-septime-tour-dune-formation-de-ligue-2.jpg",
+      "publishedAt": "2026-11-04T00:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-2",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.7
+    },
+    {
+      "id": "gdelt-f42f930edb854e52adddce58",
+      "title": "Ligue des Champions : le classement de la phase régulière",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-le-classement-de-la-phase-reguliere-2-955458",
+      "imageURL": "https://media.foot-national.com/18/2026/09/photo_article/955458/389427/1200-L-ligue-des-champions-le-classement-de-la-phase-rgulire.jpg",
+      "publishedAt": "2026-11-04T00:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.7
+    },
+    {
+      "id": "gdelt-4aa5df0582a6c64e0552ca69",
+      "title": "PSG : Laure Boulleau cartonne Villarreal",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7970754117393547057-psg-laure-boulleau-cartonne-villarreal",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/laure-boulleau2.jpg",
+      "publishedAt": "2026-11-03T23:36:11.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.5
+    },
+    {
+      "id": "gdelt-f5eb43a04ada33c7d42c334f",
+      "title": "Ligue des Champions, PSG : Lucas Hernandez et la concurrence avec Nuno Mendes",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1695653221923887624-ligue-des-champions-psg-lucas-hernandez-et-la-concurrence-avec-nuno-mendes",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lucas-hernandez-6a8dd4ec2ad48.jpg",
+      "publishedAt": "2026-11-03T22:57:34.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.2
     },
     {
       "id": "gdelt-d2879b520027d373da9cbd14",
@@ -204,7 +704,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.2
+      "qualityScore": 91.1
     },
     {
       "id": "gdelt-2ca5732a136967ffc24cb8b1",
@@ -231,56 +731,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.2
+      "qualityScore": 91.1
     },
     {
-      "id": "gdelt-5ee0e37d4589f2901ea744b6",
-      "title": "Ligue des Champions, LOSC : Davide Ancelotti y croit toujours",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5902114471009617616-ligue-des-champions-davide-ancelotti-y-croit-toujours",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/davide-ancelotti.jpg",
-      "publishedAt": "2026-11-03T22:25:54.000Z",
-      "category": "news",
+      "id": "gdelt-fe17b97a079ced8c3e4eb6a4",
+      "title": "Foot Amateur : ancien joueur de l'OM et de Toulouse, Giannelli Imbula signe en Régional 2",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/foot-amateur/foot-amateur-ancien-joueur-de-lom-et-de-toulouse-giannelli-imbula-signe-en-regional-2-962141",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962141/391891/1200-L-foot-amateur-ancien-joueur-de-lom-et-de-toulouse-giannelli-imbula-signe-en-rgional-2.jpg",
+      "publishedAt": "2026-11-04T00:01:00.000Z",
+      "category": "transfers",
       "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
       },
       "teams": [
-        "lille"
+        "toulouse"
       ],
       "topics": [
-        "lille",
-        "champions-league"
+        "toulouse"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93
-    },
-    {
-      "id": "gdelt-bfdae83d9d9dba502e5ad6d3",
-      "title": "Villarreal - PSG : les notes du match",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a608138941226936387-villarreal-psg-les-notes-du-match",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/psg-6aea58264e45c.jpg",
-      "publishedAt": "2026-11-03T22:04:17.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "villarreal"
-      ],
-      "topics": [
-        "psg",
-        "villarreal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.8
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-fc439e7cdf5419fdec399aa6",
@@ -310,55 +784,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.8
-    },
-    {
-      "id": "gdelt-e1af0eb4dd4af56e811b8c06",
-      "title": "Ligue des Champions : le classement de la 4e journée après les matches de mardi",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6575642942379088155-ligue-des-champions-le-classement-de-la-4e-journee-apres-les-matches-de-mardi",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine262762-1920x1080.jpg",
-      "publishedAt": "2026-11-03T21:58:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "saint-etienne"
-      ],
-      "topics": [
-        "saint-etienne",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.7
-    },
-    {
-      "id": "gdelt-d653f85eb4edc665870921a9",
-      "title": "Ligue des Champions : le premier but de Boly avec le PSG !",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7873971057706463944-ligue-des-champions-le-premier-but-de-boly-avec-le-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/boly-69f32ee6c10d4.jpg",
-      "publishedAt": "2026-11-03T21:50:20.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 90.7
     },
     {
       "id": "gdelt-01323b6b6219292c9413213c",
@@ -383,7 +809,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.7
+      "qualityScore": 90.6
     },
     {
       "id": "gdelt-b9780bb19d5d534eaf48ad65",
@@ -407,7 +833,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-407644a24c0daa6d24bf4ddc",
@@ -432,7 +858,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-d83af1ff109d1b079faa7779",
@@ -456,7 +882,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-a67bef1af778101fe7f65ad1",
@@ -481,7 +907,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-db87e96b0ad783aeabab6b20",
@@ -506,7 +932,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-c632eed7724aa62889f24697",
@@ -530,7 +956,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 90.2
     },
     {
       "id": "gdelt-5129134fee8638b0c06606dc",
@@ -558,7 +984,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 89.5
     },
     {
       "id": "gdelt-9a8d6a154f2477ddda8565f0",
@@ -585,7 +1011,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.1
+      "qualityScore": 89
     },
     {
       "id": "gdelt-4510c4d3f31e28d642c1a467",
@@ -609,7 +1035,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "official",
-      "qualityScore": 90.8
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-b3f22dbbf4893c7d8613223a",
@@ -635,7 +1061,74 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 88.6
+    },
+    {
+      "id": "gdelt-1211410b75eef5c971ed287d",
+      "title": "Ligue des Champions : la boulette de Balerdi face à MU",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7705848361649980730-ligue-des-champions-la-boulette-de-balerdi-face-a-mu",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine407831-1920x1080.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-60a0b2e5a753225accb68e38",
+      "title": "Barça : le message émouvant de Raphinha en hommage à Jesús de Miguel",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3627217880624042483-barca-le-message-emouvant-de-raphinha-en-hommage-a-jesus-de-miguel",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/raphinha-2627-6ac0ed2e95dcb.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
+    },
+    {
+      "id": "gdelt-fbc3ccfb4421ae9981e8eacd",
+      "title": "Barça : Rodri s'est encore blessé !",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5684791207259093955-barca-rodri-sest-encore-blesse",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/rodri-6a9916bb4d0bb.jpg",
+      "publishedAt": "2026-11-04T01:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "barcelona"
+      ],
+      "topics": [
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-df61836f347fafa284127c20",
@@ -661,7 +1154,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 88.2
+    },
+    {
+      "id": "gdelt-63eb779b3469afd3bb0a55f2",
+      "title": "Youth League : Villarreal gifle le PSG",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1380618335694705878-youth-league-villarreal-gifle-le-psg",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/paris-saint-germain-v-atalanta-bc-uefa-youth-league-2025-2-2.jpg",
+      "publishedAt": "2026-11-03T16:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-50f73afa81f864b8f79c9d4e",
@@ -687,32 +1205,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.2
-    },
-    {
-      "id": "gdelt-63eb779b3469afd3bb0a55f2",
-      "title": "Youth League : Villarreal gifle le PSG",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1380618335694705878-youth-league-villarreal-gifle-le-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/paris-saint-germain-v-atalanta-bc-uefa-youth-league-2025-2-2.jpg",
-      "publishedAt": "2026-11-03T16:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "villarreal"
-      ],
-      "topics": [
-        "psg",
-        "villarreal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 88.1
     },
     {
       "id": "gdelt-a1cf6f1bd29af6bc196e62dd",
@@ -740,7 +1233,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 89.9
+      "qualityScore": 87.8
     },
     {
       "id": "gdelt-3380cb5d1004bb02799c5730",
@@ -765,7 +1258,49 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-733b55188bfaa123e8fa3b59",
+      "title": "Ogre en Martinique et habitué des tours d'honneur en Coupe de France : qui est le Club Franciscain, le premier club qualifié pour le huitième tour ?",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/ogre-en-martinique-et-habitue-des-tours-dhonneurs-en-coupe-de-france-qui-est-le-club-franciscain-le-premier-club-qualifie-pour-le-huitieme-tour-962046",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962046/391866/1200-L-ogre-en-martinique-et-habitu-des-tours-d-honneur-en-coupe-de-france-qui-est-le-club-franciscain-le-premier-club-qualifi-pour-le-huitime-tour.jpg",
+      "publishedAt": "2026-11-04T00:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
+    },
+    {
+      "id": "gdelt-f33cbae6e446a404cd9981ea",
+      "title": "Ligue des Champions : les résultats complets de la quatrième journée",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/ligue-europa/ligue-des-champions-les-resultats-complets-de-la-quatrieme-journee-962088",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962088/391877/1200-L-ligue-des-champions-les-rsultats-complets-de-la-quatrime-journe.jpg",
+      "publishedAt": "2026-11-04T00:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-4b697c17b02071e2a5efff28",
@@ -787,7 +1322,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-0d41be1123e956b065182899",
@@ -811,7 +1346,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.8
+      "qualityScore": 87.7
     },
     {
       "id": "gdelt-4717337ff6806a09ba49b541",
@@ -839,7 +1374,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-8c49aafd6aa672ffa559b564",
@@ -867,7 +1402,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-32a8904645a9e487d2b86380",
@@ -892,7 +1427,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-838416f5865e5155b97595aa",
@@ -916,7 +1451,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 87.2
     },
     {
       "id": "gdelt-67e469f057e2038ba493efa5",
@@ -944,7 +1479,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 87.2
+    },
+    {
+      "id": "gdelt-6366591836d91f97e56d4c50",
+      "title": "Ligue des Champions : la réaction pleine d’émotion de Bruno Fernandes",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7601721413003147526-ligue-des-champions-la-reaction-pleine-demotion-de-bruno-fernandes",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxpaimagesfour404919.jpg",
+      "publishedAt": "2026-11-03T22:43:33.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87
     },
     {
       "id": "gdelt-dd9d1f8ba7965ef28bb1882c",
@@ -970,7 +1526,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 86.9
     },
     {
       "id": "gdelt-da595ae2dd3f92b682ea6317",
@@ -991,7 +1547,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-ff2600cee76140778e38d26f",
@@ -1016,7 +1572,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-51f49ecaf8fd9b2b9cfb343a",
@@ -1042,28 +1598,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
-    },
-    {
-      "id": "gdelt-1211410b75eef5c971ed287d",
-      "title": "Ligue des Champions : la boulette de Balerdi face à MU",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7705848361649980730-ligue-des-champions-la-boulette-de-balerdi-face-a-mu",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine407831-1920x1080.jpg",
-      "publishedAt": "2026-11-03T22:05:05.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.8
     },
     {
       "id": "gdelt-6f451121194e300da5385ade",
@@ -1086,7 +1621,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-c33566367bd4e588017960c2",
@@ -1109,7 +1644,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.8
+      "qualityScore": 86.7
     },
     {
       "id": "gdelt-620dac4c798dcbb0b75b67ac",
@@ -1132,7 +1667,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 88.5
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-ea8e3b1bcce5a8b67ff6a715",
@@ -1155,7 +1690,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-06e4757329f06d22c015e3a0",
@@ -1178,7 +1713,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-0bf322a4bb9d00837e18e6f3",
@@ -1201,7 +1736,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-c364fd423c0377a638de7ca8",
@@ -1224,7 +1759,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 86
     },
     {
       "id": "gdelt-767d6ecdb63252d6772b6b7c",
@@ -1248,7 +1783,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 86
     },
     {
       "id": "gdelt-4263848e30b5103aabfe9309",
@@ -1273,7 +1808,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-c754bbb19c3672c07eb7777d",
@@ -1296,7 +1831,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-218dfd1beef83e1b96416cfe",
@@ -1317,7 +1852,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-25d19506dcf8ab031cd14f2b",
@@ -1341,7 +1876,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-0d6229ba3f852d42fa6b8065",
@@ -1366,7 +1901,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 85.2
     },
     {
       "id": "gdelt-0a7b9f5f0b42ff7e52b31f92",
@@ -1391,7 +1926,58 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 85.2
+    },
+    {
+      "id": "gdelt-33e302de7cff87e64be395cf",
+      "title": "La revue de presse PSG : Messi, Mbappé, Neymar, Reims, mercato, notes…",
+      "summary": "Publication référencée chez canal-supporters.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://canal-supporters.com/la-revue-de-presse-psg-messi-mbappe-neymar-reims-mercato/",
+      "imageURL": "https://canal-supporters.com/wp-content/uploads/2021/08/Revue-de-presse-psg-21.jpg",
+      "publishedAt": "2026-11-04T02:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "canal-supporters.com",
+        "name": "canal-supporters.com",
+        "websiteURL": "https://canal-supporters.com"
+      },
+      "teams": [
+        "psg",
+        "reims"
+      ],
+      "topics": [
+        "psg",
+        "reims"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 84.7
+    },
+    {
+      "id": "gdelt-f617ca56c05bb0d98e2756f8",
+      "title": "Ligue des Champions : le PSG pulvérise Villarreal (6-0) et enchaîne un quatrième succès",
+      "summary": "Publication référencée chez ici.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.ici.fr/ile-de-france/paris-75/paris/direct-ligue-des-champions-villarreal-psg-emission-speciale-sur-ici-paris-ile-de-france-6405511",
+      "imageURL": "https://www.ici.fr/pikapi/images/9f71075f-2c77-4395-bf09-a42b0221cc06/1200x630?webp=false",
+      "publishedAt": "2026-11-04T00:01:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "ici.fr",
+        "name": "ici.fr",
+        "websiteURL": "https://ici.fr"
+      },
+      "teams": [
+        "psg",
+        "villarreal"
+      ],
+      "topics": [
+        "psg",
+        "villarreal",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 84.7
     },
     {
       "id": "gdelt-237a3e9059be4d010f9a0517",
@@ -1415,7 +2001,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-b54f3ce0ba4e9e2036d2ca4a",
@@ -1440,7 +2026,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-1f18c80f3b1d3627ce1b5616",
@@ -1463,7 +2049,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-a0b3e8cfb5a978d02bd898c0",
@@ -1484,7 +2070,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-0215d5e2d57a9c229f6ad4f0",
@@ -1507,7 +2093,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.2
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-7988b01f9046eb02892b8c1e",
@@ -1530,7 +2116,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-149b74e59a21198e9cd1941b",
@@ -1553,7 +2139,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-3fb994d17c0b7ac951da4b44",
@@ -1576,7 +2162,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-68edd940b1b988c9fb07fa17",
@@ -1600,7 +2186,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-c6466c5f6e938d124e74c70b",
@@ -1627,7 +2213,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.9
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-f7569a712c4d63497e948d05",
@@ -1653,7 +2239,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.9
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-e282f238124a315fbc85be3b",
@@ -1674,7 +2260,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-bd3c3207e27798042ce9f18c",
@@ -1699,7 +2285,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-47b9b18cc90535953b684479",
@@ -1725,7 +2311,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.5
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-f956b1b8db3b61a6cded2911",
@@ -1750,7 +2336,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-bb7931f355a82a2ec721f235",
@@ -1776,7 +2362,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-fa7af9da2d194dc0171924d6",
@@ -1802,7 +2388,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-aebd4023632a23997a6eba1a",
@@ -1825,7 +2411,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-1eb664d1632cba3d6eaa775e",
@@ -1848,7 +2434,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-143c49e6b3f5efb5fc17d645",
@@ -1874,595 +2460,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-ddecb002041198e98ff588c5",
-      "title": "Atlético Madrid-Bayern Munich : chaîne TV, streaming… À quelle heure et sur quel canal suivre cette alléchante affiche de Ligue des champions ?",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-des-champions/atletico-madrid-bayern-munich-chaine-tv-streaming-a-quelle-heure-et-sur-quel-canal-suivre-cette-allechante-affiche-de-ligue-des-champions-1005780",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1005780/410207/1200-L-atltico-madrid-bayern-munich-chane-tv-streaming-quelle-heure-et-sur-quel-canal-suivre-cette-allchante-affiche-de-ligue-des-champions.jpg",
-      "publishedAt": "2026-11-03T06:50:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "bayern"
-      ],
-      "topics": [
-        "bayern",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.2
-    },
-    {
-      "id": "gdelt-aaade60cdf119a946a8987be",
-      "title": "LDC : Villarreal CF - PSG : les prédictions d'Opta",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-villarreal-cf-psg-les-predictions-d-opta-544369.html",
-      "imageURL": "https://s2.dmcdn.net/v/gYQjw1gw8ed2QJn8U/x480",
-      "publishedAt": "2026-11-03T06:45:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "psg",
-        "villarreal"
-      ],
-      "topics": [
-        "psg",
-        "villarreal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.1
-    },
-    {
-      "id": "gdelt-2e47f786890e1e45a5e4bf00",
-      "title": "Bodø/Glimt-Lille : à quelle heure et sur quelle antenne regarder la rencontre des Dogues en Ligue des champions ?",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/ligue-des-champions/bodo-glimt-lille-a-quelle-heure-et-sur-quelle-antenne-regarder-la-rencontre-des-dogues-en-ligue-des-champions-961197",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/961197/391655/1200-L-bod-glimt-lille-quelle-heure-et-sur-quelle-antenne-regarder-la-rencontre-des-dogues-en-ligue-des-champions.jpg",
-      "publishedAt": "2026-11-03T06:40:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.1
-    },
-    {
-      "id": "gdelt-423ab55a3359a87d4581e70c",
-      "title": "OL : Daniel Riolo dénonce une véritable honte après le probable départ de Paulo Fonseca",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ol-daniel-riolo-denonce-une-veritable-honte-apres-le-probable-depart-de-paulo-fonseca-544465.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250423090549-5931.jpg",
-      "publishedAt": "2026-11-03T08:30:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "pau"
-      ],
-      "topics": [
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85
-    },
-    {
-      "id": "gdelt-c0ff3bba15a3e21927060907",
-      "title": "LDC : Le FC Barcelone impressionne, le Bayern Munich assure, Manchester United réalise une remontée folle... le récap' de la soirée",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-le-fc-barcelone-impressionne-le-bayern-munich-assure-manchester-united-realise-une-remontee-folle-le-recap-de-la-soiree-544565.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2025/zoom/ldc-20250518231045-5470.jpg",
-      "publishedAt": "2026-11-03T22:12:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "barcelona",
-        "man-united",
-        "bayern"
-      ],
-      "topics": [
-        "barcelona",
-        "man-united",
-        "bayern"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-6083ea1f4ef69ab41b5549d2",
-      "title": "Ligue 2 : L'AS Nancy-Lorraine et le Stade de Reims gagnent et s'invitent dans le top 4 !",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-2-l-as-nancy-lorraine-et-le-stade-de-reims-gagnent-et-s-invitent-dans-le-top-4-544443.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250104085018-9842.jpg",
-      "publishedAt": "2026-11-02T22:15:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "reims",
-        "nancy"
-      ],
-      "topics": [
-        "reims",
-        "nancy",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.9
-    },
-    {
-      "id": "gdelt-3144b9fc3eca9afa7a17b16c",
-      "title": "Ligue des Champions : auteur d’un début canon à Villarreal, le PSG entre dans l’histoire en C1",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/ligue-des-champions/ligue-des-champions-auteur-dun-debut-canon-a-villarreal-le-psg-entre-dans-lhistoire-en-c1-962131",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962131/391889/1200-L-ligue-des-champions-auteur-dun-dbut-canon-villarreal-le-psg-entre-dans-lhistoire-en-c1.jpg",
-      "publishedAt": "2026-11-03T22:09:45.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "psg",
-        "villarreal"
-      ],
-      "topics": [
-        "psg",
-        "villarreal",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-35b7ad7ed87779fb3e342c90",
-      "title": "Bodø/Glimt-Lille : chaîne TV, streaming… À quelle heure et où suivre la rencontre des Dogues comptant pour la 4ème journée de Ligue des champions ?",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-des-champions/bodo-glimt-lille-chaine-tv-streaming-a-quelle-heure-et-ou-suivre-la-rencontre-des-dogues-comptant-pour-la-4eme-journee-de-ligue-des-champions-1005742",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1005742/410196/1200-L-bod-glimt-lille-chane-tv-streaming-quelle-heure-et-o-suivre-la-rencontre-des-dogues-comptant-pour-la-4me-journe-de-ligue-des-champions.jpg",
-      "publishedAt": "2026-11-03T06:10:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "lille"
-      ],
-      "topics": [
-        "lille",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.8
-    },
-    {
-      "id": "gdelt-9e4243e4c8782c3180c4e066",
-      "title": "Villarreal-PSG : 4-0 à la pause, les statistiques terrifiantes de la mi-temps parisienne !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-des-champions/villarreal-psg-4-0-a-la-pause-les-statistiques-terrifiantes-de-la-mi-temps-parisienne-1006841",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006841/410484/1200-L-villarreal-psg-4-0-la-pause-les-statistiques-terrifiantes-de-la-mi-temps-parisienne.jpg",
-      "publishedAt": "2026-11-03T21:51:44.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "psg",
-        "villarreal",
-        "pau"
-      ],
-      "topics": [
-        "psg",
-        "villarreal",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.7
-    },
-    {
-      "id": "gdelt-dc23a6ebd2c72dd88f98aee0",
-      "title": "JT Foot Mercato : le monde du football rend hommage à Jesus de Miguel",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8894790559584349765-jt-foot-mercato-le-monde-du-football-rend-hommage-a-jesus-de-miguel",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/30cef750273516119227f32f54d4d8e5b5cda266-1920x1080.jpg",
-      "publishedAt": "2026-11-03T15:38:10.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.6
-    },
-    {
-      "id": "gdelt-491ee8caca3776afe14bbede",
-      "title": "Bayern Munich : « Remporter des trophées »... Kane sans détour sur son départ de Tottenham",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-des-champions/bayern-munich-remporter-des-trophees-kane-sans-detour-sur-son-depart-de-tottenham-1006637",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006637/410433/1200-L-bayern-munich-remporter-des-trophes-kane-sans-dtour-sur-son-dpart-de-tottenham.jpg",
-      "publishedAt": "2026-11-02T23:32:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "tottenham",
-        "bayern"
-      ],
-      "topics": [
-        "tottenham",
-        "bayern"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.5
-    },
-    {
-      "id": "gdelt-5bb7167c6d18525897f12e54",
-      "title": "Barça : un départ vers la Premier League se précise pour cet hiver",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6845675891222175427-barca-un-depart-vers-la-premier-league-se-precise-pour-cet-hiver",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/balde-2526-68dd134355933.jpg",
-      "publishedAt": "2026-11-02T23:17:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona",
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-d7cd73e87c6a5b43c891b35f",
-      "title": "Mercato Le Havre AC : Le HAC annonce le successeur (provisoire) de Didier Digard (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-le-havre-ac-le-hac-annonce-le-successeur-provisoire-de-didier-digard-officiel-544425.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2024/zoom/l1-20241202165557-2220.jpg",
-      "publishedAt": "2026-11-02T19:15:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "le-havre"
-      ],
-      "topics": [
-        "le-havre"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 84.4
-    },
-    {
-      "id": "gdelt-de41425c6fd5a695d7263973",
-      "title": "PSG : Benjamin Pavard dithyrambique envers Lucas Hernandez",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2812833077188833434-psg-benjamin-pavard-dithyrambique-envers-lucas-hernandez",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecial798766.jpg",
-      "publishedAt": "2026-11-03T13:03:11.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 84.3
-    },
-    {
-      "id": "gdelt-92b0f7b821c634760ab5c5de",
-      "title": "LDC : Galatasaray enchaîne contre le VfB Stuttgart, le Sporting CP s'impose sur la pelouse du Shakhtar Donetsk... le récap des matchs de 18h45",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ldc-galatasaray-enchaine-contre-le-vfb-stuttgart-le-sporting-cp-s-impose-sur-la-pelouse-du-shakhtar-donetsk-le-recap-des-matchs-de-18h45-544541.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2026/zoom/ldc-20261103203723-4992.jpg",
-      "publishedAt": "2026-11-03T19:40:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "sporting",
-        "galatasaray",
-        "stuttgart"
-      ],
-      "topics": [
-        "sporting",
-        "galatasaray",
-        "stuttgart"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.6
-    },
-    {
-      "id": "gdelt-aaf549d21f4f104df88df8c8",
-      "title": "Mercato OL : Paulo Fonseca est arrivé à Lisbonne, son départ de Lyon est imminent",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-paulo-fonseca-est-arrive-a-lisbonne-son-depart-de-lyon-est-imminent-544556.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260308180340-6360.jpg",
-      "publishedAt": "2026-11-03T21:21:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "ol",
-        "pau"
-      ],
-      "topics": [
-        "ol",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.4
-    },
-    {
-      "id": "gdelt-a0e270f6db20e9976a953017",
-      "title": "Ligue des Champions, PSG : que vaut vraiment Villarreal ?",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5610010644147549336-ligue-des-champions-psg-que-vaut-vraiment-villarreal",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/gerardmorenovillarreal.jpg",
-      "publishedAt": "2026-11-02T18:55:10.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg",
-        "villarreal"
-      ],
-      "topics": [
-        "psg",
-        "villarreal",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.2
-    },
-    {
-      "id": "gdelt-30bf97dec27c5057e557a9b8",
-      "title": "Équipe de France : une surprise de taille signée Zidane en Premier League ?",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/equipe-de-france/equipe-de-france-une-surprise-de-taille-signee-zidane-en-premier-league-1006827",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006827/410480/1200-L-quipe-de-france-une-surprise-de-taille-signe-zidane-en-premier-league.jpg",
-      "publishedAt": "2026-11-03T20:35:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [],
-      "topics": [
-        "premier-league",
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
       "qualityScore": 83.1
-    },
-    {
-      "id": "gdelt-c2c94be7b336ebd01bd11879",
-      "title": "Mercato OL : L'OL va toucher une jolie somme pour le transfert de Paulo Fonseca vers le Sporting CP",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-ol-l-ol-va-toucher-une-jolie-somme-pour-le-transfert-de-paulo-fonseca-vers-le-sporting-cp-544435.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260308180339-8679.jpg",
-      "publishedAt": "2026-11-02T20:34:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "sporting",
-        "pau"
-      ],
-      "topics": [
-        "sporting",
-        "pau"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83
-    },
-    {
-      "id": "gdelt-55c22c3dbe9249f00ab4da26",
-      "title": "Ligue des champions : le geste superbe du Real Madrid pour le Bayern Munich",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-des-champions/ligue-des-champions-le-geste-superbe-du-real-madrid-pour-le-bayern-munich-1006718",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1006718/410454/1200-L-ligue-des-champions-le-geste-superbe-du-real-madrid-pour-le-bayern-munich.jpg",
-      "publishedAt": "2026-11-03T17:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "real-madrid",
-        "bayern"
-      ],
-      "topics": [
-        "real-madrid",
-        "bayern",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.5
-    },
-    {
-      "id": "gdelt-a54889ebf86ff530515955ad",
-      "title": "La folle clause dans le contrat de Yan Diomandé, Georges Mikautadze craint le PSG",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a4727949270328798156-la-folle-clause-dans-le-contrat-de-yan-diomande-georges-mikautadze-craint-le-psg",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/photo-rvp-6ae98d657a630.jpg",
-      "publishedAt": "2026-11-03T09:20:55.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.4
-    },
-    {
-      "id": "gdelt-c62b4a1e17e23ca0e4245e8f",
-      "title": "Le Bayern Munich va bien faire une folie avec Michael Olise",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5402933154640856007-le-bayern-munich-va-bien-faire-une-folie-avec-michael-olise",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/michael-olise-2627-beim-ballon-dor.jpg",
-      "publishedAt": "2026-11-03T09:02:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "bayern"
-      ],
-      "topics": [
-        "bayern"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.3
-    },
-    {
-      "id": "gdelt-e034255cb624d00ac977ae26",
-      "title": "Streaming Villarreal PSG : comment voir le match en direct HD et gratuit ? 🔴",
-      "summary": "Publication référencée chez presse-citron.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.presse-citron.net/streaming-villarreal-psg-comment-voir-le-match-en-direct-hd-et-gratuit/",
-      "imageURL": "https://www.presse-citron.net/app/uploads/2026/11/Streaming-gratuit-Villarreal-PSG-1600x900.jpeg",
-      "publishedAt": "2026-11-03T22:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "presse-citron.net",
-        "name": "presse-citron.net",
-        "websiteURL": "https://presse-citron.net"
-      },
-      "teams": [
-        "psg",
-        "villarreal"
-      ],
-      "topics": [
-        "psg",
-        "villarreal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 81.9
-    },
-    {
-      "id": "gdelt-e8327b6ba6b4e643017f3015",
-      "title": "Volley-ball – Coupe de France : \"Cela va faire du bien au moral de gagner un match\", les Centurions Narbonne s'imposent facilement à Ajaccio et verront le tour suivant",
-      "summary": "Publication référencée chez lindependant.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lindependant.fr/2026/11/03/volley-ball-coupe-de-france-cela-va-faire-du-bien-au-moral-de-gagner-un-match-les-centurions-narbonne-simposent-facilement-a-ajaccio-et-verront-le-13634528.php",
-      "imageURL": "https://images.lindependant.fr/api/v1/images/view/6aea4e83d1d13054820b3da8/hd/image.jpg?v=1",
-      "publishedAt": "2026-11-03T22:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "lindependant.fr",
-        "name": "lindependant.fr",
-        "websiteURL": "https://lindependant.fr"
-      },
-      "teams": [
-        "ajaccio"
-      ],
-      "topics": [
-        "ajaccio",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 81.9
     }
   ],
-  "generatedAt": "2026-11-03T22:28:24.679Z",
+  "generatedAt": "2026-11-04T02:38:57.987Z",
   "stale": false
 }
