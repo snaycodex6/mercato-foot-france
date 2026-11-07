@@ -26,7 +26,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100.3
+      "qualityScore": 97.3
     },
     {
       "id": "gdelt-46db1ad41b195af0e66368de",
@@ -55,7 +55,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 100.3
+      "qualityScore": 97.3
     },
     {
       "id": "gdelt-07057d9917918a4b2128151b",
@@ -85,7 +85,35 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 99.1
+      "qualityScore": 96
+    },
+    {
+      "id": "gdelt-2a6a8d5c86a497e32c4720ab",
+      "title": "Ligue 2 : L'AS Nancy-Lorraine met la pression à l'ASSE, le Stade de Reims chute pour la première fois de la saison... le récap de la soirée",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-2-l-as-nancy-lorraine-met-la-pression-a-l-asse-le-stade-de-reims-chute-pour-la-premiere-fois-de-la-saison-le-recap-de-la-soiree-544956.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-2/2025/zoom/l2-20250104084946-1681.jpg",
+      "publishedAt": "2026-11-06T20:57:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "reims",
+        "saint-etienne",
+        "nancy"
+      ],
+      "topics": [
+        "reims",
+        "saint-etienne",
+        "nancy",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 96
     },
     {
       "id": "gdelt-49d6662206e705841f096688",
@@ -112,33 +140,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 98.9
-    },
-    {
-      "id": "gdelt-1624a1e06750e0839b3493d7",
-      "title": "Équipe de France : Zinédine Zidane regrette lui aussi le départ de Paulo Fonseca de l'OL pour le Sporting CP",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-equipe-de-france-zinedine-zidane-regrette-lui-aussi-le-depart-de-paulo-fonseca-de-l-ol-pour-le-sporting-cp-544933.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/uefa-nations-league/2026/zoom/nations-league-20260925215248-3404.jpg",
-      "publishedAt": "2026-11-06T17:35:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "sporting",
-        "pau"
-      ],
-      "topics": [
-        "sporting",
-        "pau",
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 96.4
+      "qualityScore": 95.9
     },
     {
       "id": "gdelt-dc40db8c91660fd7bcb07839",
@@ -164,7 +166,85 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 96.3
+      "qualityScore": 93.3
+    },
+    {
+      "id": "gdelt-1624a1e06750e0839b3493d7",
+      "title": "Équipe de France : Zinédine Zidane regrette lui aussi le départ de Paulo Fonseca de l'OL pour le Sporting CP",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-equipe-de-france-zinedine-zidane-regrette-lui-aussi-le-depart-de-paulo-fonseca-de-l-ol-pour-le-sporting-cp-544933.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/uefa-nations-league/2026/zoom/nations-league-20260925215248-3404.jpg",
+      "publishedAt": "2026-11-06T17:35:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "sporting",
+        "pau"
+      ],
+      "topics": [
+        "sporting",
+        "pau",
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 93.3
+    },
+    {
+      "id": "gdelt-b235e5c7fbff9740cf17ec69",
+      "title": "Ligue 1 : Toulouse sort du brouillard face à Strasbourg",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/ligue-1-toulouse-sort-du-brouillard-face-a-strasbourg-1007539",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1007539/410662/1200-L-ligue-1-toulouse-sort-du-brouillard-face-strasbourg.jpg",
+      "publishedAt": "2026-11-06T22:40:31.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "strasbourg",
+        "toulouse"
+      ],
+      "topics": [
+        "strasbourg",
+        "toulouse",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.8
+    },
+    {
+      "id": "gdelt-c3f9ee8fc585cd0869d81698",
+      "title": "Ligue 2 : Nancy ne s'arrête plus, Montpellier s'incline... les résultats du multiplex",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-2/ligue-2-nancy-ne-sarrete-plus-montpellier-sincline-les-resultats-du-multiplex-1007532",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1007532/410660/1200-L-ligue-2-nancy-ne-s-arrte-plus-montpellier-s-incline-les-rsultats-du-multiplex.jpg",
+      "publishedAt": "2026-11-06T22:01:16.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "montpellier",
+        "nancy"
+      ],
+      "topics": [
+        "montpellier",
+        "nancy",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.5
     },
     {
       "id": "gdelt-9671553e061830eba1b24486",
@@ -190,7 +270,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.4
+      "qualityScore": 92.4
+    },
+    {
+      "id": "gdelt-9d4c80f925cb17075eb9a030",
+      "title": "Ligue 1 : Les notes de TFC - RC Strasbourg : réaliste, Toulouse se relève et fait replonger Strasbourg",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-les-notes-de-tfc-rc-strasbourg-realiste-toulouse-se-releve-et-fait-replonger-strasbourg-544959.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20261106222836-1067.jpg",
+      "publishedAt": "2026-11-06T21:38:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "strasbourg",
+        "toulouse"
+      ],
+      "topics": [
+        "strasbourg",
+        "toulouse",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 92.3
     },
     {
       "id": "gdelt-3a5cc5cc45c695b6c21101fd",
@@ -218,7 +324,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.3
+      "qualityScore": 92.2
     },
     {
       "id": "gdelt-ed529b08134afac6104cb1d4",
@@ -239,7 +345,79 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 95.1
+      "qualityScore": 92.1
+    },
+    {
+      "id": "gdelt-4546c61139d456ad69cd486d",
+      "title": "Caen-Versailles : sur quelle chaîne et à quelle heure voir le match de Ligue 3",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/caen-versailles-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-ligue-3-962584",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962584/391998/1200-L-caen-versailles-sur-quelle-chane-et-quelle-heure-voir-le-match-de-ligue-3.jpg",
+      "publishedAt": "2026-11-07T04:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "caen"
+      ],
+      "topics": [
+        "caen",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.6
+    },
+    {
+      "id": "gdelt-05d2d9046077d0fb141b53c3",
+      "title": "Aubagne-Amiens : sur quelle chaîne et à quelle heure voir le match de Ligue 3",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/aubagne-amiens-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-ligue-3-962560",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962560/391995/1200-L-aubagne-amiens-sur-quelle-chane-et-quelle-heure-voir-le-match-de-ligue-3.jpg",
+      "publishedAt": "2026-11-07T04:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "amiens"
+      ],
+      "topics": [
+        "amiens",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.6
+    },
+    {
+      "id": "gdelt-2050ccfe8cecc7d31e3706df",
+      "title": "Concarneau-Fleury : sur quelle chaîne et à quelle heure voir le match de Ligue 3",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/concarneau-fleury-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-ligue-3-962593",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962593/392002/1200-L-concarneau-fleury-sur-quelle-chane-et-quelle-heure-voir-le-match-de-ligue-3.jpg",
+      "publishedAt": "2026-11-07T04:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "concarneau"
+      ],
+      "topics": [
+        "concarneau",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.6
     },
     {
       "id": "gdelt-7090227671a449b552f54951",
@@ -260,7 +438,28 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 94.6
+      "qualityScore": 91.5
+    },
+    {
+      "id": "gdelt-ede58b1aabdbe7cf8811bacc",
+      "title": "Équipe de France : la réaction géniale de Pablo Pagis à l'annonce de sa première convocation",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/equipe-de-france/equipe-de-france-la-reaction-geniale-de-pablo-pagis-a-lannonce-de-sa-premiere-convocation-1007517",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1007517/410657/1200-L-quipe-de-france-la-raction-gniale-de-pablo-pagis-l-annonce-de-sa-premire-convocation.jpg",
+      "publishedAt": "2026-11-06T22:59:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "confirmed",
+      "sourceTier": "recognized",
+      "qualityScore": 91
     },
     {
       "id": "gdelt-625352bfa754a7b875b1816f",
@@ -283,7 +482,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 93.3
+      "qualityScore": 90.3
     },
     {
       "id": "gdelt-aaffd9a8eceffdb3cafbc725",
@@ -305,7 +504,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.3
+      "qualityScore": 89.3
     },
     {
       "id": "gdelt-ad7c37d3f3fbe365d39ab13e",
@@ -330,7 +529,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 88.8
     },
     {
       "id": "gdelt-005b8549369374f8cf041b26",
@@ -351,7 +550,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.6
+      "qualityScore": 88.6
     },
     {
       "id": "gdelt-02ed326709cc10b6bc626e1b",
@@ -378,7 +577,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.4
+      "qualityScore": 88.4
     },
     {
       "id": "gdelt-10d05e7b60ae800f2b2e97c0",
@@ -399,7 +598,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 88.2
     },
     {
       "id": "gdelt-7f9a77bfd18d358347d2c004",
@@ -425,7 +624,70 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91
+      "qualityScore": 88
+    },
+    {
+      "id": "gdelt-566a60ca7957baeb38ad82a9",
+      "title": "Équipe de France Futsal : la France s'impose face au Monténégro dans les éliminatoires du Mondial 2028",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/equipe-de-france/equipe-de-france-futsal-la-france-simpose-face-au-montenegro-dans-les-eliminatoires-du-mondial-2028-962687",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962687/392024/1200-L-quipe-de-france-futsal-la-france-simpose-face-au-montngro-dans-les-liminatoires-du-mondial-2028.jpg",
+      "publishedAt": "2026-11-07T04:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.6
+    },
+    {
+      "id": "gdelt-32eb3a83df746b15342296a4",
+      "title": "Paris 13-La Roche-sur-Yon : sur quelle chaîne et à quelle heure voir le match de Ligue 3",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/paris-13-la-roche-sur-yon-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-ligue-3-962588",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962588/391999/1200-L-paris-13-la-roche-sur-yon-sur-quelle-chane-et-quelle-heure-voir-le-match-de-ligue-3.jpg",
+      "publishedAt": "2026-11-07T04:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.6
+    },
+    {
+      "id": "gdelt-a395c953294600935b887381",
+      "title": "Bourg-en-Bresse-Le Puy : sur quelle chaîne et à quelle heure voir le match de Ligue 3",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/bourg-en-bresse-le-puy-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-ligue-3-962596",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962596/392003/1200-L-bourg-en-bresse-le-puy-sur-quelle-chane-et-quelle-heure-voir-le-match-de-ligue-3.jpg",
+      "publishedAt": "2026-11-07T04:16:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-20f557c0ed22ca0971aff6b6",
@@ -449,7 +711,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-b7f07b9efd302ae4f96cf6dd",
@@ -472,7 +734,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.1
+      "qualityScore": 86
     },
     {
       "id": "gdelt-22be5464d1e86131ea3e3888",
@@ -495,7 +757,59 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89
+      "qualityScore": 85.9
+    },
+    {
+      "id": "gdelt-6edc0283835c578da109a789",
+      "title": "Saint-Étienne - Laval. À quelle heure et sur quelle chaîne suivre le match de Ligue 2 ?",
+      "summary": "Publication référencée chez paris.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://paris.maville.com/actu/actudet_-saint-etienne-laval-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-de-ligue-2_fil-7560045_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/11/07/P36244197D7560045G_crop_1200-675_.jpg",
+      "publishedAt": "2026-11-07T06:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "paris.maville.com",
+        "name": "paris.maville.com",
+        "websiteURL": "https://paris.maville.com"
+      },
+      "teams": [
+        "saint-etienne",
+        "laval"
+      ],
+      "topics": [
+        "saint-etienne",
+        "laval",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.8
+    },
+    {
+      "id": "gdelt-0f7bf01011105b183a41ee1c",
+      "title": "Pau FC – FC Nantes. À quelle heure et sur quelle chaîne suivre le match de Ligue 2 ?",
+      "summary": "Publication référencée chez paris.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://paris.maville.com/actu/actudet_-pau-fc-fc-nantes-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-de-ligue-2_fil-7560053_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/11/07/P36244205D7560053G_crop_1200-675_.jpg",
+      "publishedAt": "2026-11-07T06:31:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "paris.maville.com",
+        "name": "paris.maville.com",
+        "websiteURL": "https://paris.maville.com"
+      },
+      "teams": [
+        "nantes",
+        "pau"
+      ],
+      "topics": [
+        "nantes",
+        "pau",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.8
     },
     {
       "id": "gdelt-92c8b8560a7e513bb855afd4",
@@ -521,7 +835,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85.8
+    },
+    {
+      "id": "gdelt-ed92fed81d408428b5391a30",
+      "title": "Arsenal bat Liverpool pour mettre fin aux tourments d'Anfield et prendre la tête de la Premier League",
+      "summary": "Publication référencée chez lequebecexpress.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.lequebecexpress.com/arsenal-bat-liverpool-pour-mettre-fin-aux-tourments-danfield-et-prendre-la-tete-de-la-premier-league/",
+      "imageURL": "https://www.lequebecexpress.com/wp-content/uploads/2026/11/Arsenal-bat-Liverpool-pour-mettre-fin-aux-tourments-dAnfield-et.jpg",
+      "publishedAt": "2026-11-07T06:02:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "lequebecexpress.com",
+        "name": "lequebecexpress.com",
+        "websiteURL": "https://lequebecexpress.com"
+      },
+      "teams": [
+        "liverpool",
+        "arsenal"
+      ],
+      "topics": [
+        "liverpool",
+        "arsenal",
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-67dc25ddb193d0780e1f9f03",
@@ -547,7 +887,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 88.5
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-93ea3dd792b3a2732bffa3e1",
@@ -568,7 +908,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.4
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-9cc3f02de099edc44dcf8488",
@@ -591,7 +931,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.3
+      "qualityScore": 85.3
     },
     {
       "id": "gdelt-f238f09b40eb141bce591f54",
@@ -617,7 +957,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 88.2
+      "qualityScore": 85.1
+    },
+    {
+      "id": "gdelt-7ff52995242902feabdc7fed",
+      "title": "Clermont-Rodez : sur quelle chaîne et à quelle heure voir le match de Ligue 2",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/clermont-rodez-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-ligue-2-962626",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/962626/392010/1200-L-clermont-rodez-sur-quelle-chane-et-quelle-heure-voir-le-match-de-ligue-2.jpg",
+      "publishedAt": "2026-11-07T07:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "clermont",
+        "rodez"
+      ],
+      "topics": [
+        "clermont",
+        "rodez",
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85
     },
     {
       "id": "gdelt-1ef18872b5f09dcf63b729cc",
@@ -640,7 +1006,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 85
     },
     {
       "id": "gdelt-5fe5be05a5c7381f8722c43e",
@@ -663,7 +1029,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.1
+      "qualityScore": 85
     },
     {
       "id": "gdelt-610b9f79511afad41cd2f382",
@@ -688,7 +1054,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 84.9
+    },
+    {
+      "id": "gdelt-ed106ef9e3c1eed857a06d4c",
+      "title": "PSG-Troyes : chaîne TV, streaming… À quelle heure et où suivre ce match des extrêmes de la 10ème journée de Ligue 1 ?",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/psg-troyes-chaine-tv-streaming-a-quelle-heure-et-ou-suivre-ce-match-des-extremes-de-la-10eme-journee-de-ligue-1-1007014",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1007014/410528/1200-L-psg-troyes-chane-tv-streaming-quelle-heure-et-o-suivre-ce-match-des-extrmes-de-la-10me-journe-de-ligue-1.jpg",
+      "publishedAt": "2026-11-07T06:30:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "psg",
+        "troyes"
+      ],
+      "topics": [
+        "psg",
+        "troyes",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-2ea2396652a8c8425def963e",
@@ -713,7 +1105,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.9
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-4f57c5c404d3712a9c01cc46",
@@ -738,7 +1130,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.8
+      "qualityScore": 84.8
     },
     {
       "id": "gdelt-b73bb8114bb3a913c1a21d8b",
@@ -761,7 +1153,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 84.6
+    },
+    {
+      "id": "gdelt-47dff57716c13337ea9de312",
+      "title": "Auxerre-Paris FC : chaîne TV, streaming… À quelle heure et où suivre cette opposition comptant pour la 10ème journée de Ligue 1 ?",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/auxerre-paris-fc-chaine-tv-streaming-a-quelle-heure-et-ou-suivre-cette-opposition-comptant-pour-la-10eme-journee-de-ligue-1-1007002",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1007002/410525/1200-L-auxerre-paris-fc-chane-tv-streaming-quelle-heure-et-o-suivre-cette-opposition-comptant-pour-la-10me-journe-de-ligue-1.jpg",
+      "publishedAt": "2026-11-07T06:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "auxerre",
+        "paris-fc"
+      ],
+      "topics": [
+        "auxerre",
+        "paris-fc",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-490cb20898e90f62933a751c",
@@ -787,7 +1205,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-5268e6f6f044232e9f275694",
@@ -817,7 +1235,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 84.5
     },
     {
       "id": "gdelt-6ae45473efc988dff376f0de",
@@ -842,7 +1260,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.4
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-e3c754ba16e7ba1659f75fbe",
@@ -866,7 +1284,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-0ff01cfcb78f15bcb97695d6",
@@ -891,7 +1309,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-220ffddd219f2520aac6d0d9",
@@ -913,7 +1331,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.3
+      "qualityScore": 84.3
     },
     {
       "id": "gdelt-8df75cfa4ddd2c09def5c42d",
@@ -936,7 +1354,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 84.1
+    },
+    {
+      "id": "gdelt-f8ea2cf6117f663a1cfb35dd",
+      "title": "Mercato : Quand Franck Haise disait non à trois clubs de Premier League en raison... de son niveau d'anglais",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-quand-franck-haise-disait-non-a-trois-clubs-de-premier-league-en-raison-de-son-niveau-d-anglais-544908.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260308111233-2178.jpg",
+      "publishedAt": "2026-11-06T15:05:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [],
+      "topics": [
+        "premier-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 84.1
     },
     {
       "id": "gdelt-fb3a60b394004845c8c03cf6",
@@ -959,28 +1398,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
-    },
-    {
-      "id": "gdelt-f8ea2cf6117f663a1cfb35dd",
-      "title": "Mercato : Quand Franck Haise disait non à trois clubs de Premier League en raison... de son niveau d'anglais",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-quand-franck-haise-disait-non-a-trois-clubs-de-premier-league-en-raison-de-son-niveau-d-anglais-544908.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260308111233-2178.jpg",
-      "publishedAt": "2026-11-06T15:05:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [],
-      "topics": [
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 84
     },
     {
       "id": "gdelt-8abd422df9d7c51b260e646a",
@@ -1005,35 +1423,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
-    },
-    {
-      "id": "gdelt-2a6a8d5c86a497e32c4720ab",
-      "title": "Ligue 2 : L'AS Nancy-Lorraine met la pression à l'ASSE, le Stade de Reims chute pour la première fois de la saison... le récap de la soirée",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-2-l-as-nancy-lorraine-met-la-pression-a-l-asse-le-stade-de-reims-chute-pour-la-premiere-fois-de-la-saison-le-recap-de-la-soiree-544956.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-2/2025/zoom/l2-20250104084946-1681.jpg",
-      "publishedAt": "2026-11-06T20:57:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "reims",
-        "saint-etienne",
-        "nancy"
-      ],
-      "topics": [
-        "reims",
-        "saint-etienne",
-        "nancy",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 87
+      "qualityScore": 84
     },
     {
       "id": "gdelt-f32eeb4dd3e799f08270932a",
@@ -1054,7 +1444,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-040b8031e251955cd2cd6692",
@@ -1078,7 +1468,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 83.8
     },
     {
       "id": "gdelt-9fd37f5bb1ba7cd8f580a70b",
@@ -1103,7 +1493,7 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 86.8
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-42c3afdd715b8e5909e92e48",
@@ -1126,7 +1516,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.6
+      "qualityScore": 83.5
     },
     {
       "id": "gdelt-4a7de8a15ebd6a6b2ad2b082",
@@ -1147,7 +1537,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 83.4
     },
     {
       "id": "gdelt-ee8086b26b611bf1adc0061b",
@@ -1175,7 +1565,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 83.3
     },
     {
       "id": "gdelt-abbad7985b6cfee990798914",
@@ -1199,7 +1589,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.1
+      "qualityScore": 83
     },
     {
       "id": "gdelt-842285838f786ace15368771",
@@ -1222,7 +1612,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-0cf121720b85500b7b4cbc03",
@@ -1243,7 +1633,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-cfa31e89f4447e1ab1cae600",
@@ -1264,7 +1654,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-ff6b97dc0d6eb0babb714dd7",
@@ -1285,7 +1675,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-648af21acb5c1e61c5af576d",
@@ -1306,7 +1696,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-d9d9643afa313897d5923d12",
@@ -1327,7 +1717,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-2a104e2f1e2608475cbbc3f8",
@@ -1348,7 +1738,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-f563bbdecef243853bf497b1",
@@ -1369,7 +1759,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-577e358638b51a1e44c3fdad",
@@ -1390,30 +1780,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
-    },
-    {
-      "id": "gdelt-287446b1777930c30d32ef43",
-      "title": "Lens : Franjo Ivanović forfait contre l’OM",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8041235805218717184-lens-franjo-ivanovic-forfait-contre-lom",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo787896.jpg",
-      "publishedAt": "2026-11-06T18:22:51.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 82.8
     },
     {
       "id": "gdelt-3f94c775ba59db95eb3557d5",
@@ -1437,7 +1804,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.8
+      "qualityScore": 82.8
+    },
+    {
+      "id": "gdelt-287446b1777930c30d32ef43",
+      "title": "Lens : Franjo Ivanović forfait contre l’OM",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a8041235805218717184-lens-franjo-ivanovic-forfait-contre-lom",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/maxnewsspecialtwo787896.jpg",
+      "publishedAt": "2026-11-06T18:22:51.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "lens"
+      ],
+      "topics": [
+        "lens"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 82.7
     },
     {
       "id": "gdelt-c1e8f0e8f0de407c9528e2a3",
@@ -1458,7 +1848,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-ac1c46a4e244b79e16e8c69c",
@@ -1479,7 +1869,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 82.2
     },
     {
       "id": "gdelt-57994ca3d410ad094be68339",
@@ -1509,7 +1899,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.1
+      "qualityScore": 82
     },
     {
       "id": "gdelt-fa85c6dad61fa41c1e560c8e",
@@ -1537,7 +1927,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 85.1
+      "qualityScore": 82
     },
     {
       "id": "gdelt-24c0daf9217c13ff88c5878f",
@@ -1562,7 +1952,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.5
+      "qualityScore": 81.4
     },
     {
       "id": "gdelt-6322dfe8a0f564cad8050b53",
@@ -1586,7 +1976,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84.5
+      "qualityScore": 81.4
     },
     {
       "id": "gdelt-6eb88b0dbeba9f14f2d2a80b",
@@ -1610,7 +2000,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.1
+      "qualityScore": 81
+    },
+    {
+      "id": "gdelt-277c4b27d09dea2bdd866164",
+      "title": "Liga : Valencia CF - Real Madrid : les compos probables",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-liga-valencia-cf-real-madrid-les-compos-probables-544915.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/liga/2026/zoom/liga-20261101181915-8324.jpg",
+      "publishedAt": "2026-11-07T06:45:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "real-madrid",
+        "valencia"
+      ],
+      "topics": [
+        "real-madrid",
+        "valencia"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.9
     },
     {
       "id": "gdelt-3f4eb4607ea8c29be1f400c9",
@@ -1636,7 +2051,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 84
+      "qualityScore": 80.9
     },
     {
       "id": "gdelt-8c6162ff99fb5d90d159417b",
@@ -1659,33 +2074,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84
-    },
-    {
-      "id": "gdelt-b235e5c7fbff9740cf17ec69",
-      "title": "Ligue 1 : Toulouse sort du brouillard face à Strasbourg",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/ligue-1-toulouse-sort-du-brouillard-face-a-strasbourg-1007539",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1007539/410662/1200-L-ligue-1-toulouse-sort-du-brouillard-face-strasbourg.jpg",
-      "publishedAt": "2026-11-06T22:40:31.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "strasbourg",
-        "toulouse"
-      ],
-      "topics": [
-        "strasbourg",
-        "toulouse",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 80.9
     },
     {
       "id": "gdelt-64ce4492d5130939497ddb42",
@@ -1708,7 +2097,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.9
+      "qualityScore": 80.9
     },
     {
       "id": "gdelt-1e2c8c2c48bccebf442697a0",
@@ -1729,33 +2118,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.8
-    },
-    {
-      "id": "gdelt-c3f9ee8fc585cd0869d81698",
-      "title": "Ligue 2 : Nancy ne s'arrête plus, Montpellier s'incline... les résultats du multiplex",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-2/ligue-2-nancy-ne-sarrete-plus-montpellier-sincline-les-resultats-du-multiplex-1007532",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1007532/410660/1200-L-ligue-2-nancy-ne-s-arrte-plus-montpellier-s-incline-les-rsultats-du-multiplex.jpg",
-      "publishedAt": "2026-11-06T22:01:16.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "montpellier",
-        "nancy"
-      ],
-      "topics": [
-        "montpellier",
-        "nancy",
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 80.7
     },
     {
       "id": "gdelt-7b727ade5a258004d0be2e92",
@@ -1778,7 +2141,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.6
+      "qualityScore": 80.5
     },
     {
       "id": "gdelt-2dcbdcdda2d7443a31081c12",
@@ -1801,7 +2164,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 80.5
     },
     {
       "id": "gdelt-27db328c69c57befa52bb073",
@@ -1827,7 +2190,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 80.5
     },
     {
       "id": "gdelt-c7d23c4e45799fc4160abe8f",
@@ -1853,7 +2216,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 80.5
     },
     {
       "id": "gdelt-c3b805ba417534b19487ba87",
@@ -1879,7 +2242,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 80.4
     },
     {
       "id": "gdelt-ba1cc65e38f74c98c1e55bb9",
@@ -1905,7 +2268,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
+      "qualityScore": 80.4
     },
     {
       "id": "gdelt-c3fe8ca5c38b85ee2507ff8f",
@@ -1931,33 +2294,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.5
-    },
-    {
-      "id": "gdelt-9d4c80f925cb17075eb9a030",
-      "title": "Ligue 1 : Les notes de TFC - RC Strasbourg : réaliste, Toulouse se relève et fait replonger Strasbourg",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-ligue-1-les-notes-de-tfc-rc-strasbourg-realiste-toulouse-se-releve-et-fait-replonger-strasbourg-544959.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20261106222836-1067.jpg",
-      "publishedAt": "2026-11-06T21:38:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "strasbourg",
-        "toulouse"
-      ],
-      "topics": [
-        "strasbourg",
-        "toulouse",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83.4
+      "qualityScore": 80.4
     },
     {
       "id": "gdelt-bebf3a4d13adc7cbd01f41a9",
@@ -1983,7 +2320,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 83.3
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-5979c5c433141b4ed08a2ec1",
@@ -2006,7 +2343,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-d4f51800ef917524d37f2fd3",
@@ -2027,7 +2364,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-1ec1138be9f812ccc1ccd5d2",
@@ -2048,7 +2385,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.3
+      "qualityScore": 80.3
     },
     {
       "id": "gdelt-1f4022d88e1541796bfc6d42",
@@ -2069,334 +2406,9 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83
-    },
-    {
-      "id": "gdelt-6cbc7bf7d336d63a6c180c4f",
-      "title": "Real Madrid : Vinicius Jr absent pour un voyage à Dubaï",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a184805545439869480-real-madrid-vinicius-jr-absent-pour-un-voyage-a-dubai",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/vinicius2-6aeb937bc5ad1.jpg",
-      "publishedAt": "2026-11-06T12:56:04.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83
-    },
-    {
-      "id": "gdelt-f073e312782c96a109fc9df2",
-      "title": "PSG : Luis Enrique explique pourquoi Fabian Ruiz est devenu indispensable",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5297989186525323157-psg-luis-enrique-explique-pourquoi-fabian-ruiz-est-devenu-indispensable",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/villarreal-psg.jpg",
-      "publishedAt": "2026-11-06T12:55:41.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 83
-    },
-    {
-      "id": "gdelt-a7cbd426010282dfff40107d",
-      "title": "Luis Enrique vole au secours du RC Lens",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2207916975095855639-luis-enrique-vole-au-secours-du-rc-lens",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/luis-enrique123-66c8fb6cea41a.jpg",
-      "publishedAt": "2026-11-06T12:22:04.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.8
-    },
-    {
-      "id": "gdelt-79470859d1c208adf2f101c9",
-      "title": "PSG : Ousmane Dembélé, Marquinhos et Nuno Mendes ont repris l’entraînement",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9168667345850884759-psg-ousmane-dembele-marquinhos-et-nuno-mendes-ont-repris-lentrainement",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/marquinhos-dembele.jpg",
-      "publishedAt": "2026-11-06T12:06:08.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.6
-    },
-    {
-      "id": "gdelt-f09a038ec0d4e97b03f84a7d",
-      "title": "Stade lavallois. Cet ancien Tango a tapé dans l'œil de Zinédine Zidane et rejoint les Bleus",
-      "summary": "Publication référencée chez lecourrierdelamayenne.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.lecourrierdelamayenne.fr/actualite-42143-stade-lavallois-cet-ancien-tango-a-tape-dans-l-oeil-de-zinedine-zidane-et-rejoint-les-bleus",
-      "imageURL": "https://medias.lecourrierdelamayenne.fr/photos/1200/42143-pablo-pagis-stade-lavallois-ici-face-a-cyril-mandouki-paris-fc-en-2023-2024?v=1793986605",
-      "publishedAt": "2026-11-06T19:46:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "lecourrierdelamayenne.fr",
-        "name": "lecourrierdelamayenne.fr",
-        "websiteURL": "https://lecourrierdelamayenne.fr"
-      },
-      "teams": [
-        "laval"
-      ],
-      "topics": [
-        "laval",
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 82.5
-    },
-    {
-      "id": "gdelt-ede58b1aabdbe7cf8811bacc",
-      "title": "Équipe de France : la réaction géniale de Pablo Pagis à l'annonce de sa première convocation",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/equipe-de-france/equipe-de-france-la-reaction-geniale-de-pablo-pagis-a-lannonce-de-sa-premiere-convocation-1007517",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1007517/410657/1200-L-quipe-de-france-la-raction-gniale-de-pablo-pagis-l-annonce-de-sa-premire-convocation.jpg",
-      "publishedAt": "2026-11-06T22:59:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 82.1
-    },
-    {
-      "id": "gdelt-ea6f8024ff5d788dd740990a",
-      "title": "Juventus : Luciano Spalletti perd ses nerfs et menace un joueur en plein match",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6162456731251285123-juventus-luciano-spalletti-perd-ses-nerfs-et-menace-un-joueur-en-plein-match",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epaliveeight827600.jpg",
-      "publishedAt": "2026-11-06T11:08:22.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "juventus"
-      ],
-      "topics": [
-        "juventus"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 82.1
-    },
-    {
-      "id": "gdelt-4d066aa38841430bfe9d822c",
-      "title": "LA QUOTIDIENNE - Les chiffres fous du PSG en Ligue des Champions",
-      "summary": "Publication référencée chez rtl.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.rtl.fr/programmes/on-refait-le-match/7900692666-la-quotidienne-les-chiffres-fous-du-psg-en-ligue-des-champions",
-      "imageURL": "https://images.rtl.fr/~c/2000v2000/rtl/www/1776332-on-refait-le-match-philippe-sanfourche.jpg",
-      "publishedAt": "2026-11-07T00:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "rtl.fr",
-        "name": "rtl.fr",
-        "websiteURL": "https://rtl.fr"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg",
-        "champions-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 82
-    },
-    {
-      "id": "gdelt-dcaafd78cd2bbca35f65fc58",
-      "title": "RC Lens : Jean-Louis Leca sort du silence après le \"fiasco\" face à Côme et annonce maintenir Yannick Cahuzac",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-rc-lens-jean-louis-leca-sort-du-silence-apres-le-fiasco-face-a-come-et-annonce-maintenir-yannick-cahuzac-544838.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260919154830-5184.jpg",
-      "publishedAt": "2026-11-05T22:35:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 81.9
-    },
-    {
-      "id": "gdelt-60f4351a06698a77dcbf1324",
-      "title": "Real Madrid : José Mourinho lance un sérieux avertissement à Vinicius Junior",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5415310562970356236-real-madrid-jose-mourinho-lance-un-serieux-avertissement-a-vinicius-junior",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/jose-mourinho-und-vinicius-junior-2627.jpg",
-      "publishedAt": "2026-11-06T10:28:42.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "real-madrid"
-      ],
-      "topics": [
-        "real-madrid"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.8
-    },
-    {
-      "id": "gdelt-c9d8aeefdbbb07b0fcf4fd23",
-      "title": "Mercato : Le FC Barcelone prolonge Raphinha jusqu'en 2030 (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-le-fc-barcelone-prolonge-raphinha-jusqu-en-2030-officiel-544796.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-des-champions/2026/zoom/ldc-20260909204438-6244.jpg",
-      "publishedAt": "2026-11-05T16:23:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 81.8
-    },
-    {
-      "id": "gdelt-e3535efffb82ed2344e0d094",
-      "title": "RC Lens : les supporters publient un communiqué incendiaire",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7655170465980109436-rc-lens-les-supporters-publient-un-communique-incendiaire",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/lens-6aec2ca504dc9.jpg",
-      "publishedAt": "2026-11-06T10:20:24.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.7
-    },
-    {
-      "id": "gdelt-e266705ca81375d7e7702ae6",
-      "title": "Le PSG met Achraf Hakimi au repos",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5054040492250498698-le-psg-met-achraf-hakimi-au-repos",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/hakimi-6ae5b279834e4.jpg",
-      "publishedAt": "2026-11-06T10:11:10.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "psg"
-      ],
-      "topics": [
-        "psg"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.7
-    },
-    {
-      "id": "gdelt-3b8e8eb400dddc2566cb97b7",
-      "title": "Live Real Sociedad - Lyon (1-0) la 4e journée de UEFA Europa League 2026/2027 05/11",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/live/6175454888652435127-real-sociedad-vs-lyon",
-      "imageURL": "https://assets-fr.imgfoot.com/match-cover-fr-756211765019622640-4855789415474674627.jpg",
-      "publishedAt": "2026-11-05T18:17:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "ol",
-        "real-sociedad"
-      ],
-      "topics": [
-        "ol",
-        "real-sociedad",
-        "europa-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.7
+      "qualityScore": 80
     }
   ],
-  "generatedAt": "2026-11-07T00:51:27.119Z",
+  "generatedAt": "2026-11-07T06:58:32.478Z",
   "stale": false
 }
