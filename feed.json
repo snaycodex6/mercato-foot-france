@@ -26,7 +26,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.8
+      "qualityScore": 91.8
     },
     {
       "id": "gdelt-144d8f308eec89776af8e53a",
@@ -56,7 +56,104 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 95.5
+      "qualityScore": 91.6
+    },
+    {
+      "id": "gdelt-d1c3c77aa5b56130729d7a13",
+      "title": "Un ancien international anglais prévoit une fin rapide de Pochettino à Manchester United",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1685205523295019878-un-ancien-international-anglais-prevoit-une-fin-rapide-de-pochettino-a-manchester-united",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mauricio-pochettino-2425-2.jpg",
+      "publishedAt": "2026-11-15T10:20:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "man-united"
+      ],
+      "topics": [
+        "man-united",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 91.2
+    },
+    {
+      "id": "gdelt-6232ff0a9ed98230891edb5d",
+      "title": "Coupe de France : dernier de Ligue 2, Laval se méfie de son déplacement chez un club de Régional 1",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-dernier-de-ligue-2-laval-se-mefie-de-son-deplacement-chez-un-club-de-regional-1-963980",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963980/392342/1200-L-coupe-de-france-dernier-de-ligue-2-laval-se-mfie-de-son-dplacement-chez-un-club-de-rgional-1.jpg",
+      "publishedAt": "2026-11-15T00:29:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "laval"
+      ],
+      "topics": [
+        "laval",
+        "ligue-2",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 90.2
+    },
+    {
+      "id": "gdelt-fa83c9296b8f8d28cc6c54cd",
+      "title": "Paris 13 Atletico-Red Star : sur quelle chaîne et à quelle heure voir le choc en Coupe de France",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/paris-13-atletico-red-star-sur-quelle-chaine-et-a-quelle-heure-voir-le-choc-en-coupe-de-france-963480",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963480/392219/1200-L-paris-13-atletico-red-star-sur-quelle-chane-et-quelle-heure-voir-le-choc-en-coupe-de-france.jpg",
+      "publishedAt": "2026-11-15T06:22:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "red-star"
+      ],
+      "topics": [
+        "red-star",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89.2
+    },
+    {
+      "id": "gdelt-7e248962a85054fa9c4594d3",
+      "title": "Stade Castelbourgeois-Nantes : sur quelle chaîne et à quelle heure suivre le match de Coupe de France",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/stade-castelbourgeois-nantes-sur-quelle-chaine-et-a-quelle-heure-suivre-le-match-de-coupe-de-france-963475",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963475/392218/1200-L-stade-castelbourgeois-nantes-sur-quelle-chane-et-quelle-heure-suivre-le-match-de-coupe-de-france.jpg",
+      "publishedAt": "2026-11-15T06:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "nantes"
+      ],
+      "topics": [
+        "nantes",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 89
     },
     {
       "id": "gdelt-48ce6714642538a0f7c708a1",
@@ -82,7 +179,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 89
     },
     {
       "id": "gdelt-361a81debffd14302fcfca3f",
@@ -107,7 +204,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 89
     },
     {
       "id": "gdelt-4080a432ed2257f1891c41bf",
@@ -133,7 +230,51 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92.9
+      "qualityScore": 89
+    },
+    {
+      "id": "gdelt-53bc03a65adade3adedfdcc7",
+      "title": "Ronaldinho envoie Endrick en Serie A",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a2695128655004683543-ronaldinho-envoie-endrick-en-serie-a",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine395520-1920x1080.jpg",
+      "publishedAt": "2026-11-15T13:42:42.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "serie-a"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.8
+    },
+    {
+      "id": "gdelt-3001c9c08f04f52fb28473a9",
+      "title": "PSG : Samuel Essende, l’ex-titi devenu l’un des meilleurs buteurs d’Europe",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a368711052541344434-psg-samuel-essende-lex-titi-devenu-lun-des-meilleurs-buteurs-deurope",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/dpaphotoseight952818.jpg",
+      "publishedAt": "2026-11-15T13:20:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88.7
     },
     {
       "id": "gdelt-93c9d93fa88dc3a204040ef0",
@@ -159,7 +300,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 92
+      "qualityScore": 88.1
+    },
+    {
+      "id": "gdelt-22373c7c4a6a38bd1c5f6522",
+      "title": "Équipe de France : Lucas Da Cunha revient sur son ascension fulgurante",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7934331734106167123-equipe-de-france-lucas-da-cunha-revient-sur-son-ascension-fulgurante",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/da-cunha2.jpg",
+      "publishedAt": "2026-11-15T12:04:24.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 88
     },
     {
       "id": "gdelt-bb436ffcc179ec0ca288d52e",
@@ -183,7 +345,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.8
+      "qualityScore": 87.8
+    },
+    {
+      "id": "gdelt-ae1b2ad3bed6ea733396e597",
+      "title": "PSG : Senny Mayulu encense Luis Enrique",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a3757475055633364066-psg-senny-mayulu-encense-luis-enrique",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/ogc-nice-v-paris-saint-germain-ligue-1-mcdonald-s-2025-202-1-2.jpg",
+      "publishedAt": "2026-11-15T11:10:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.6
     },
     {
       "id": "gdelt-25c0d2b9659b456497f4c4d4",
@@ -209,7 +394,53 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 91.3
+      "qualityScore": 87.4
+    },
+    {
+      "id": "gdelt-d93ba5727b56ef71ba1839ae",
+      "title": "Équipe de France : Kylian Mbappé et Lucas Da Cunha seront titulaires face à la Turquie",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a1700018529163292186-equipe-de-france-kylian-mbappe-et-lucas-da-cunha-seront-titulaires-face-a-la-turquie",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine237568-1920x1080.jpg",
+      "publishedAt": "2026-11-15T10:39:53.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87.3
+    },
+    {
+      "id": "gdelt-45f32f240ddfed862ae17ff6",
+      "title": "\"Ça va décupler notre envie\" : plusieurs joueurs de Châteaubourg, fans du Stade Rennais, défient Nantes",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-ca-va-decupler-notre-envie-les-joueurs-de-chateaubourg-fans-du-stade-rennais-defient-nantes-963990",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963990/392345/1200-L-a-va-dcupler-notre-envie-plusieurs-joueurs-de-chteaubourg-fans-du-stade-rennais-dfient-nantes.jpg",
+      "publishedAt": "2026-11-15T01:59:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "rennes",
+        "nantes"
+      ],
+      "topics": [
+        "rennes",
+        "nantes"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 87
     },
     {
       "id": "gdelt-8ea19354c3900132328ddbee",
@@ -234,7 +465,52 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 90.7
+      "qualityScore": 86.8
+    },
+    {
+      "id": "gdelt-0a238907a5248953bf05da13",
+      "title": "Coupe de France : l’impressionnant sans faute des clubs de Ligue 3 avant la journée de dimanche",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-limpressionnant-sans-faute-des-clubs-de-ligue-3-avant-la-journee-de-dimanche-964133",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/964133/392384/1200-L-coupe-de-france-limpressionnant-sans-faute-des-clubs-de-ligue-3-avant-la-journe-de-dimanche.jpg",
+      "publishedAt": "2026-11-15T01:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france",
+        "ligue-3"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.5
+    },
+    {
+      "id": "gdelt-dc59537ba4e603286383ee03",
+      "title": "Mauricio Pochettino doit déjà gérer un énorme problème à Manchester United",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7430347412671059115-mauricio-pochettino-doit-gerer-un-enorme-probleme-a-manchester-united",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mauricio-pochettino-2425-67dd5c3f7af28.jpg",
+      "publishedAt": "2026-11-15T08:45:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [
+        "man-united"
+      ],
+      "topics": [
+        "man-united"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-af0750c4dc35b9c6e0072e2d",
@@ -260,7 +536,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.3
+      "qualityScore": 86.4
     },
     {
       "id": "gdelt-0712a4bfdccfe52044fd39f2",
@@ -285,7 +561,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 90.1
+      "qualityScore": 86.2
     },
     {
       "id": "gdelt-ba999664834b7f36cf613662",
@@ -311,7 +587,28 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.9
+      "qualityScore": 86
+    },
+    {
+      "id": "gdelt-f009a2c2c2591ad4bbec83a2",
+      "title": "Équipe de France : Désiré Doué finalement apte pour défier la Turquie",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5407591604389326359-equipe-de-france-desire-doue-finalement-apte-pour-defier-la-turquie",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/desire-doue-cdm-2026.jpg",
+      "publishedAt": "2026-11-15T07:55:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85.9
     },
     {
       "id": "gdelt-b91c729b3896e1aa7b85dd53",
@@ -336,7 +633,33 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.7
+      "qualityScore": 85.8
+    },
+    {
+      "id": "gdelt-0bb4b4e3a29d51b7efc2b5c8",
+      "title": "Mercato : après Rodri, le Barça prêt à souffler un autre international espagnol à 50 millions au Real Madrid ?",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/liga/mercato-apres-rodri-le-barca-pret-a-souffler-un-autre-international-espagnol-a-50-millions-au-real-madrid-1009053",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1009053/411051/1200-L-mercato-aprs-rodri-le-bara-prt-souffler-un-autre-international-espagnol-50-millions-au-real-madrid.jpg",
+      "publishedAt": "2026-11-15T08:56:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "topics": [
+        "real-madrid",
+        "barcelona",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-8a08aa57fd8f392adc22949f",
@@ -360,7 +683,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-d6c756deb7297cb0c83e5849",
@@ -382,7 +705,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.4
+      "qualityScore": 85.5
     },
     {
       "id": "gdelt-638ae59f36b4b8fb96266ff0",
@@ -406,7 +729,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 89.3
+      "qualityScore": 85.4
     },
     {
       "id": "gdelt-73b2e78f3cf35b5f0c8bb052",
@@ -428,7 +751,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85
     },
     {
       "id": "gdelt-f2150fa256dd02cc943133f7",
@@ -452,7 +775,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85
     },
     {
       "id": "gdelt-4d29ec3f5ad82d7c96a69713",
@@ -474,7 +797,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.9
+      "qualityScore": 85
     },
     {
       "id": "gdelt-4e82f46681d678877d39dc51",
@@ -496,7 +819,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 88.7
+      "qualityScore": 84.8
+    },
+    {
+      "id": "gdelt-889c2911623c93a44b191d1e",
+      "title": "Mercato Juventus : Un club de Ligue 1 est passé à l'action pour rapatrier Edon Zhegrova !",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-juventus-un-club-de-ligue-1-est-passe-a-l-action-pour-rapatrier-edon-zhegrova-545862.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2025/zoom/l1-20250814144301-6854.jpg",
+      "publishedAt": "2026-11-15T13:30:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "juventus"
+      ],
+      "topics": [
+        "juventus",
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-7355a3f81896849e8845ee1d",
@@ -518,7 +865,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 83.7
     },
     {
       "id": "gdelt-2b7144b4a94f136b1157b2f3",
@@ -540,7 +887,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.6
+      "qualityScore": 83.6
     },
     {
       "id": "gdelt-ba25ddb949c1edccba451c5f",
@@ -566,7 +913,32 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.5
+      "qualityScore": 83.6
+    },
+    {
+      "id": "gdelt-d993a109e8e4687006f6bd0f",
+      "title": "7 défaites en 7 matchs de National 2 mais tombeur de Guingamp : l'exploit héroïque de Lannion en Coupe de France",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/actus/7-defaites-en-7-matchs-de-national-2-mais-tombeur-de-guingamp-lexploit-heroique-de-lannion-en-coupe-de-france-964161",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/964161/392390/1200-L-7-dfaites-en-7-matchs-de-national-2-mais-tombeur-de-guingamp-l-exploit-hroque-de-lannion-en-coupe-de-france.jpg",
+      "publishedAt": "2026-11-15T10:27:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "guingamp"
+      ],
+      "topics": [
+        "guingamp",
+        "coupe-de-france",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-b2f1cae454544589ef06a510",
@@ -590,7 +962,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.2
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-efbc4a9aa243cfd5f132facd",
@@ -614,7 +986,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-43d77126092338d4826b46a9",
@@ -638,7 +1010,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 83.2
     },
     {
       "id": "gdelt-6172785f72d68de98eb25373",
@@ -660,7 +1032,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 87.1
+      "qualityScore": 83.1
     },
     {
       "id": "gdelt-3c74600fe61bb67eed6c6695",
@@ -685,7 +1057,26 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.9
+      "qualityScore": 83
+    },
+    {
+      "id": "gdelt-7adfa0ce8df4fa89544aa8c2",
+      "title": "Jean-Pierre Papin : « dans le football d’aujourd’hui, je marquerais autant de buts qu’à l’époque »",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a7965717440267022230-jean-pierre-papin-dans-le-football-daujourdhui-je-marquerais-autant-de-buts-qua-lepoque",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/papin2.jpg",
+      "publishedAt": "2026-11-15T09:55:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 82.9
     },
     {
       "id": "gdelt-c12bc57ffb334540503a8c6c",
@@ -710,7 +1101,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.4
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-1e4d21a041f1c8751f10d218",
@@ -735,7 +1126,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86.3
+      "qualityScore": 82.4
     },
     {
       "id": "gdelt-0d6e40c6337ef940a9facded",
@@ -757,7 +1148,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 86
+      "qualityScore": 82.1
     },
     {
       "id": "gdelt-b7b073e3965e41348db5601c",
@@ -782,7 +1173,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 82
     },
     {
       "id": "gdelt-eba391d4391dc3d2f82f663a",
@@ -806,7 +1197,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.9
+      "qualityScore": 82
+    },
+    {
+      "id": "gdelt-181375407804faaa9e0a7255",
+      "title": "Châteaubourg (R1) - Nantes (L2). À quelle heure et sur quelle chaîne voir le match de Coupe de France ?",
+      "summary": "Publication référencée chez brignoles.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://brignoles.maville.com/actu/actudet_-chateaubourg-r1-nantes-l2-a-quelle-heure-et-sur-quelle-chaine-voir-le-match-de-coupe-de-france_fil-7570424_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/11/15/P36263796D7570424G_crop_1200-675_.jpg",
+      "publishedAt": "2026-11-15T13:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "brignoles.maville.com",
+        "name": "brignoles.maville.com",
+        "websiteURL": "https://brignoles.maville.com"
+      },
+      "teams": [
+        "nantes"
+      ],
+      "topics": [
+        "nantes",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 81.9
     },
     {
       "id": "gdelt-fb62f98549d769414868fb14",
@@ -830,7 +1245,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.6
+      "qualityScore": 81.7
     },
     {
       "id": "gdelt-6127bb564781045a06e3ef23",
@@ -853,7 +1268,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-7b264329871ebaa3f2aa1879",
@@ -877,7 +1292,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-ad372ef68fc1e00713629d24",
@@ -899,7 +1314,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 81.5
     },
     {
       "id": "gdelt-1dc4c3441cd0c7653875fcbd",
@@ -922,7 +1337,31 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 85.4
+      "qualityScore": 81.5
+    },
+    {
+      "id": "gdelt-96a3011fb51debed40ad2100",
+      "title": "OM : le grand déballage de Mehdi Benatia révèle aussi les limites de son passage à Marseille",
+      "summary": "Publication référencée chez topmercato.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.topmercato.com/2155107-om-le-grand-deballage-de-benatia-revele-aussi-les-limites-de-son-passage-a-marseille/",
+      "imageURL": "https://www.topmercato.com/thumbor/nfv9DYEwynJGciHYEyG6lfEWtmw=/1200x630/smart/filters:format(jpeg)/https%3A%2F%2Fmedia.topmercato.com%2Fmain%2F2026%2F04%2FMedhi-Benatia-OM-Marseille.jpg",
+      "publishedAt": "2026-11-15T12:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "topmercato.com",
+        "name": "topmercato.com",
+        "websiteURL": "https://topmercato.com"
+      },
+      "teams": [
+        "om"
+      ],
+      "topics": [
+        "om",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 81.4
     },
     {
       "id": "gdelt-15fb573e3d88b0d29384a5ca",
@@ -943,7 +1382,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85.3
+      "qualityScore": 81.4
     },
     {
       "id": "gdelt-9f6955288bc34cb1b6e11ef3",
@@ -968,7 +1407,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 85
+      "qualityScore": 81.1
     },
     {
       "id": "gdelt-8cecd431016bfaec8892f50a",
@@ -991,7 +1430,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 81
     },
     {
       "id": "gdelt-7b9813d830d063ded7a14730",
@@ -1012,7 +1451,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 81
     },
     {
       "id": "gdelt-0b8bb00e56d9f6884f4b75e0",
@@ -1033,7 +1472,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 81
     },
     {
       "id": "gdelt-baefe8879ce092c8b756962a",
@@ -1054,7 +1493,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 81
     },
     {
       "id": "gdelt-f9a5b4bfa425c3b9ce3a68ce",
@@ -1077,7 +1516,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.9
+      "qualityScore": 81
+    },
+    {
+      "id": "gdelt-8955188930bba694ec42217f",
+      "title": "OM : \"C’est ma ville, c’est mon caractère\", Benatia dévoile comment De Zerbi a craqué pour Marseille",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/ligue-1/om-cest-ma-ville-cest-mon-caractere-benatia-devoile-comment-de-zerbi-a-craque-pour-marseille-1009074",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1009074/411056/1200-L-om-cest-ma-ville-cest-mon-caractre-benatia-dvoile-comment-de-zerbi-a-craqu-pour-marseille.jpg",
+      "publishedAt": "2026-11-15T13:25:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "om"
+      ],
+      "topics": [
+        "om",
+        "switzerland"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.7
     },
     {
       "id": "gdelt-db1b8bc7bece217529def30e",
@@ -1100,7 +1563,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 80.7
     },
     {
       "id": "gdelt-df447dbca9aa7fef0f19fd30",
@@ -1123,7 +1586,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 80.7
     },
     {
       "id": "gdelt-9b51f686fb5b829a3f06e544",
@@ -1144,7 +1607,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.7
+      "qualityScore": 80.7
     },
     {
       "id": "gdelt-0805d4231cee6f1f26b0e603",
@@ -1168,7 +1631,31 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.5
+      "qualityScore": 80.6
+    },
+    {
+      "id": "gdelt-78e988c92ffe6ced2e3c8234",
+      "title": "Coupe de France : La compo officielle de l'ASSE pour le 7ème tour de la CDF face au GFA Rumilly-Vallières",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-coupe-de-france-la-compo-officielle-de-l-asse-pour-le-7eme-tour-de-la-cdf-face-au-gfa-rumilly-vallieres-545860.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-2/2026/zoom/l2-20260822205435-7524.jpg",
+      "publishedAt": "2026-11-15T13:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.5
     },
     {
       "id": "gdelt-60ae075e7f62946af21ae571",
@@ -1191,7 +1678,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.3
+      "qualityScore": 80.4
     },
     {
       "id": "gdelt-e490310718cf0e7984eca463",
@@ -1212,7 +1699,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 80.2
     },
     {
       "id": "gdelt-3776c46b94b042115a6a07a0",
@@ -1236,7 +1723,54 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 84.2
+      "qualityScore": 80.2
+    },
+    {
+      "id": "gdelt-366d87efa601c56397679790",
+      "title": "Coupe de France : qualifiés à Chalon, les Hauts-Lyonnais repartent à la conquête des 16es",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-qualifies-a-chalon-les-hauts-lyonnais-repartent-a-la-conquete-des-16es-964084",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/964084/392371/1200-L-coupe-de-france-qualifis-chalon-les-hauts-lyonnais-repartent-la-conqute-des-16es.jpg",
+      "publishedAt": "2026-11-15T12:18:07.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "ol"
+      ],
+      "topics": [
+        "ol",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 80.1
+    },
+    {
+      "id": "gdelt-988e5e2cbaf714ac54cab88c",
+      "title": "Mercato Crystal Palace : Pierre Sage sort du silence après son éviction prématurée des Eagles",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-crystal-palace-pierre-sage-sort-du-silence-apres-son-eviction-prematuree-des-eagles-545864.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/premier-league/2026/zoom/pl-20261019092521-7442.jpg",
+      "publishedAt": "2026-11-15T13:53:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "crystal-palace"
+      ],
+      "topics": [
+        "crystal-palace"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.9
     },
     {
       "id": "gdelt-1a28db3fedeeeaefcce6c6d7",
@@ -1257,7 +1791,171 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 83.7
+      "qualityScore": 79.8
+    },
+    {
+      "id": "gdelt-162cd5fa81ad087dee929e07",
+      "title": "Coupe de France : qualifié sur un fil, Reims n'a pas laissé sa part de recette à Tourcoing",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-qualifie-sur-un-fil-reims-na-pas-laisse-sa-part-de-recette-a-tourcoing-964179",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/964179/392394/1200-L-coupe-de-france-qualifi-sur-un-fil-reims-n-a-pas-laiss-sa-part-de-recette-tourcoing.jpg",
+      "publishedAt": "2026-11-15T11:29:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "reims"
+      ],
+      "topics": [
+        "reims",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.7
+    },
+    {
+      "id": "gdelt-5345b3002aebd732411fc611",
+      "title": "Coupe de France : qualifié pour le 8e tour, Angoulême s'offre un voyage à La Réunion",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-qualifie-pour-le-8e-tour-angouleme-soffre-un-voyage-a-la-reunion-964188",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/964188/392396/1200-L-coupe-de-france-qualifi-pour-le-8e-tour-angoulme-s-offre-un-voyage-la-runion.jpg",
+      "publishedAt": "2026-11-15T13:19:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.6
+    },
+    {
+      "id": "gdelt-8322e88632728cc6d5e8c788",
+      "title": "Bellingham et Mbappé protégés, le Barça pénalisé, la presse catalane dénonce un arbitre pro-Real Madrid",
+      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.onzemondial.com/liga/bellingham-et-mbappe-proteges-le-barca-penalise-la-presse-catalane-denonce-un-arbitre-pro-real-madrid-1009067",
+      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1009067/411054/1200-L-bellingham-et-mbapp-protgs-le-bara-pnalis-la-presse-catalane-dnonce-un-arbitre-pro-real-madrid.jpg",
+      "publishedAt": "2026-11-15T11:00:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "onzemondial.com",
+        "name": "onzemondial.com",
+        "websiteURL": "https://onzemondial.com"
+      },
+      "teams": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "topics": [
+        "real-madrid",
+        "barcelona"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.5
+    },
+    {
+      "id": "gdelt-097014929c6e8e8990af86d3",
+      "title": "Coupe de France : quand un cadre de l'équipe de France salue l'un des exploits du septième tour",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-quand-un-cadre-de-lequipe-de-france-salue-lun-des-exploits-du-septieme-tour-964171",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/964171/392392/1200-L-coupe-de-france-quand-un-cadre-de-l-quipe-de-france-salue-l-un-des-exploits-du-septime-tour.jpg",
+      "publishedAt": "2026-11-15T10:56:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [],
+      "topics": [
+        "coupe-de-france",
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.5
+    },
+    {
+      "id": "gdelt-1e7af838b7a9460fecbf3bbd",
+      "title": "Équipe de France : Bixente Lizarazu surprend Zinédine Zidane avec un cadeau symbolique qui lui rappelle ses années à Bordeaux (vidéo)",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-equipe-de-france-bixente-lizarazu-surprend-zinedine-zidane-avec-un-cadeau-symbolique-qui-lui-rappelle-ses-annees-a-bordeaux-video-545852.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/buzz/2026/zoom/buzz-20260924175717-5219.jpg",
+      "publishedAt": "2026-11-15T10:55:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "bordeaux"
+      ],
+      "topics": [
+        "bordeaux",
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.4
+    },
+    {
+      "id": "gdelt-761318bc5c576866c8982722",
+      "title": "PSG : Senny Mayulu donne rendez-vous aux supporters parisiens pour le three-peat en Ligue des Champions",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-psg-senny-mayulu-donne-rendez-vous-aux-supporters-parisiens-pour-le-three-peat-en-ligue-des-champions-545851.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260511115427-3403.jpg",
+      "publishedAt": "2026-11-15T10:50:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "psg"
+      ],
+      "topics": [
+        "psg",
+        "champions-league"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 79.4
+    },
+    {
+      "id": "gdelt-25f23fe2754195736feafdf8",
+      "title": "FC Nantes : Un retour, mais sept absents dans le groupe des Canaris pour le match de Coupe de France face au Stade Castelbourgeois",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-fc-nantes-un-retour-mais-sept-absents-dans-le-groupe-des-canaris-pour-le-match-de-coupe-de-france-face-au-stade-castelbourgeois-545841.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2026/zoom/l1-20260207225831-9559.jpg",
+      "publishedAt": "2026-11-15T09:30:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "nantes"
+      ],
+      "topics": [
+        "nantes",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 78.7
     },
     {
       "id": "gdelt-ca0bbb27934d436c3097032c",
@@ -1280,7 +1978,54 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 82.5
+      "qualityScore": 78.6
+    },
+    {
+      "id": "gdelt-810d3cf7aa8890c91a0e374b",
+      "title": "Arsenal veut s'offrir Boly, la pépite de Paris : les 5 infos mercato du week-end",
+      "summary": "Publication référencée chez eurosport.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.eurosport.fr/football/transferts/2026-2027/football-transferts-les-encheres-montent-en-premier-league-pour-evanilson-zhegrova-pourrait-revenir-en-ligue-1-les-4-infos-mercato-du-week-end_sto23355488/story.shtml",
+      "imageURL": "https://imgresizer.eurosport.com/unsafe/2400x1260/filters:format(jpeg)/origin-imgresizer.eurosport.com/2026/11/15/image-5aa76340-cc5b-40b6-b028-298d62e85eeb-85-2560-1440.jpeg",
+      "publishedAt": "2026-11-15T11:02:13.801Z",
+      "category": "transfers",
+      "source": {
+        "id": "eurosport.fr",
+        "name": "eurosport.fr",
+        "websiteURL": "https://eurosport.fr"
+      },
+      "teams": [
+        "arsenal"
+      ],
+      "topics": [
+        "arsenal"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 78.5
+    },
+    {
+      "id": "gdelt-7b0f42bfa30dab9060fb6cca",
+      "title": "Rumilly-Vallières face à l’ASSE : le choc de ce 7e tour de Coupe de France entre les deux meilleures attaques du pays",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/rumilly-vallieres-face-a-lasse-le-choc-de-ce-7e-tour-de-coupe-de-france-entre-les-deux-meilleures-attaques-du-pays-964061",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/964061/392366/1200-L-rumilly-vallires-face-lasse-le-choc-de-ce-7e-tour-de-coupe-de-france-entre-les-deux-meilleures-attaques-du-pays.jpg",
+      "publishedAt": "2026-11-15T08:42:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 78.3
     },
     {
       "id": "gdelt-223a6363e967de4ae5ec587a",
@@ -1304,32 +2049,30 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.2
+      "qualityScore": 78.3
     },
     {
-      "id": "gdelt-6232ff0a9ed98230891edb5d",
-      "title": "Coupe de France : dernier de Ligue 2, Laval se méfie de son déplacement chez un club de Régional 1",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-dernier-de-ligue-2-laval-se-mefie-de-son-deplacement-chez-un-club-de-regional-1-963980",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963980/392342/1200-L-coupe-de-france-dernier-de-ligue-2-laval-se-mfie-de-son-dplacement-chez-un-club-de-rgional-1.jpg",
-      "publishedAt": "2026-11-15T00:29:00.000Z",
-      "category": "news",
+      "id": "gdelt-be73085807dda323cb602569",
+      "title": "Qui est Latif Issman, la nouvelle recrue du Real Madrid ?",
+      "summary": "Publication référencée chez real-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://real-france.fr/qui-est-latif-issman-la-nouvelle-recrue-du-real-madrid/",
+      "imageURL": "https://real-france.fr/wp-content/uploads/2026/11/latiff.jpeg",
+      "publishedAt": "2026-11-15T10:12:37.000Z",
+      "category": "transfers",
       "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
+        "id": "real-france.fr",
+        "name": "real-france.fr",
+        "websiteURL": "https://real-france.fr"
       },
       "teams": [
-        "laval"
+        "real-madrid"
       ],
       "topics": [
-        "laval",
-        "ligue-2",
-        "coupe-de-france"
+        "real-madrid"
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.1
+      "qualityScore": 78.1
     },
     {
       "id": "gdelt-c4bb04476b277ebb7deda80a",
@@ -1352,7 +2095,72 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 82.1
+      "qualityScore": 78.1
+    },
+    {
+      "id": "gdelt-a81da86343af563e26de43d0",
+      "title": "Manchester United prêt à dépenser massivement en janvier !",
+      "summary": "Publication référencée chez mercatofootanglais.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://mercatofootanglais.com/manchester-united-pret-a-depenser-massivement-en-janvier/",
+      "imageURL": "https://mercatofootanglais.com/wp-content/uploads/2025/08/nico-paz-e1754634008941.jpg",
+      "publishedAt": "2026-11-15T10:01:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "mercatofootanglais.com",
+        "name": "mercatofootanglais.com",
+        "websiteURL": "https://mercatofootanglais.com"
+      },
+      "teams": [
+        "man-united"
+      ],
+      "topics": [
+        "man-united"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 78
+    },
+    {
+      "id": "gdelt-b6a7015b4abd67f06ae9852e",
+      "title": "Équipe de France. Zinédine Zidane appelle au calme après la défaite face à l'Italie et savoure le retour de Mbappé",
+      "summary": "Publication référencée chez brignoles.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://brignoles.maville.com/actu/actudet_-equipe-de-france-zinedine-zidane-appelle-au-calme-apres-la-defaite-face-a-l-italie-et-savoure-le-retour-de-mbappe_fil-7570606_actu.Htm",
+      "imageURL": "https://www.maville.com/photosmvi/2026/11/15/P36263815D7570606G_crop_1200-675_.jpg",
+      "publishedAt": "2026-11-15T13:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "brignoles.maville.com",
+        "name": "brignoles.maville.com",
+        "websiteURL": "https://brignoles.maville.com"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 77.9
+    },
+    {
+      "id": "gdelt-3a72deb9756337deca2a77b2",
+      "title": "LIGUE 1 MOBILIS - (17e journée) JSK - MOB, demain à 16h00 - Que la fête soit !",
+      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.depechedekabylie.com/que-la-fete-soit/",
+      "imageURL": "https://i0.wp.com/www.depechedekabylie.com/wp-content/uploads/2019/01/jsk-mob.jpg?fit=700%2C417&ssl=1",
+      "publishedAt": "2026-11-15T13:46:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "depechedekabylie.com",
+        "name": "depechedekabylie.com",
+        "websiteURL": "https://depechedekabylie.com"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-1"
+      ],
+      "reliability": "reported",
+      "sourceTier": "other",
+      "qualityScore": 77.9
     },
     {
       "id": "gdelt-2fd0df07c7da61367580c064",
@@ -1378,7 +2186,121 @@
       ],
       "reliability": "reported",
       "sourceTier": "recognized",
-      "qualityScore": 81.8
+      "qualityScore": 77.9
+    },
+    {
+      "id": "gdelt-04e1b817fe043deca667edbf",
+      "title": "Coupe de France : les galères du FC Nantes pour préparer le septième tour contre Châteaubourg",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-les-galeres-du-fc-nantes-pour-preparer-le-septieme-tour-contre-chateaubourg-964056",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/964056/392364/1200-L-coupe-de-france-les-galres-du-fc-nantes-pour-prparer-le-septime-tour-contre-chteaubourg.jpg",
+      "publishedAt": "2026-11-15T07:42:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "nantes"
+      ],
+      "topics": [
+        "nantes",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 77.8
+    },
+    {
+      "id": "gdelt-7a824638aabf430e59de4baf",
+      "title": "Coupe de France : La composition probable de l'ASSE pour le match contre Rumilly-Vallières",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-coupe-de-france-la-composition-probable-de-l-asse-pour-le-match-contre-rumilly-vallieres-545831.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-2/2026/zoom/l2-20260608150258-2955.jpg",
+      "publishedAt": "2026-11-15T07:40:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 77.8
+    },
+    {
+      "id": "gdelt-e18af6d6202c43da14823767",
+      "title": "CdF, 7e tour : Versailles sort une équipe de Ligue 2",
+      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.footmercato.net/a5628800781498936677-cdf-7e-tour-versailles-sort-une-equipe-de-ligue-2",
+      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/coupe-de-france.jpg",
+      "publishedAt": "2026-11-14T15:31:50.000Z",
+      "category": "news",
+      "source": {
+        "id": "footmercato.net",
+        "name": "footmercato.net",
+        "websiteURL": "https://footmercato.net"
+      },
+      "teams": [],
+      "topics": [
+        "ligue-2"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 77.8
+    },
+    {
+      "id": "gdelt-ab498f1d89434350410dfb34",
+      "title": "Équipe de France : Hugo Lloris franchit un cap historique et s'offre un record jamais atteint par un Français",
+      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://madeinfoot.ouest-france.fr/infos/article-equipe-de-france-hugo-lloris-franchit-un-cap-historique-et-s-offre-un-record-jamais-atteint-par-un-francais-545840.html",
+      "imageURL": "https://madeinfoot.ouest-france.fr/photos/buzz/2022/zoom/-20221204190246-1430.jpg",
+      "publishedAt": "2026-11-15T09:20:00.000Z",
+      "category": "transfers",
+      "source": {
+        "id": "madeinfoot.ouest-france.fr",
+        "name": "madeinfoot.ouest-france.fr",
+        "websiteURL": "https://madeinfoot.ouest-france.fr"
+      },
+      "teams": [],
+      "topics": [
+        "france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 77.7
+    },
+    {
+      "id": "gdelt-7bb007fadca651ed007d6f22",
+      "title": "Rumilly-Vallières-Saint-Étienne : sur quelle chaîne et à quelle heure voir le match de Coupe de France",
+      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
+      "url": "https://www.foot-national.com/coupe-de-france/rumilly-vallieres-saint-etienne-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-coupe-de-france-964027",
+      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/964027/392355/1200-L-rumilly-vallires-saint-tienne-sur-quelle-chane-et-quelle-heure-voir-le-match-de-coupe-de-france.jpg",
+      "publishedAt": "2026-11-15T07:22:00.000Z",
+      "category": "news",
+      "source": {
+        "id": "foot-national.com",
+        "name": "foot-national.com",
+        "websiteURL": "https://foot-national.com"
+      },
+      "teams": [
+        "saint-etienne"
+      ],
+      "topics": [
+        "saint-etienne",
+        "coupe-de-france"
+      ],
+      "reliability": "reported",
+      "sourceTier": "recognized",
+      "qualityScore": 77.7
     },
     {
       "id": "gdelt-bd7363d84ab87c0dcb00aa9f",
@@ -1400,28 +2322,7 @@
       ],
       "reliability": "reported",
       "sourceTier": "other",
-      "qualityScore": 81.7
-    },
-    {
-      "id": "gdelt-e18af6d6202c43da14823767",
-      "title": "CdF, 7e tour : Versailles sort une équipe de Ligue 2",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a5628800781498936677-cdf-7e-tour-versailles-sort-une-equipe-de-ligue-2",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/coupe-de-france.jpg",
-      "publishedAt": "2026-11-14T15:31:50.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-2"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.7
+      "qualityScore": 77.7
     },
     {
       "id": "gdelt-821557c7b1bd729d35220dba",
@@ -1444,904 +2345,9 @@
       ],
       "reliability": "confirmed",
       "sourceTier": "recognized",
-      "qualityScore": 81.6
-    },
-    {
-      "id": "gdelt-3a50778daf3622abea20acb0",
-      "title": "Ligue 3 : Rouen renforce son staff avec un ancien kiné de l'Équipe de France",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/espoirs/ligue-3-rouen-renforce-son-staff-avec-un-ancien-kine-de-lequipe-de-france-963900",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963900/392321/1200-L-ligue-3-rouen-renforce-son-staff-avec-un-ancien-kin-de-lquipe-de-france.jpg",
-      "publishedAt": "2026-11-14T07:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-3",
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.5
-    },
-    {
-      "id": "gdelt-adb8d042387255ccfe835da8",
-      "title": "Béthune-Nancy : sur quelle chaîne et à quelle heure voir le match de Coupe de France",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/bethune-nancy-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-coupe-de-france-963469",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963469/392217/1200-L-bthune-nancy-sur-quelle-chane-et-quelle-heure-voir-le-match-de-coupe-de-france.jpg",
-      "publishedAt": "2026-11-14T07:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "nancy"
-      ],
-      "topics": [
-        "nancy",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.5
-    },
-    {
-      "id": "gdelt-8ee04376c80f15dd03d50e46",
-      "title": "Balagne-Montpellier : sur quelle chaîne et à quelle heure voir le match de Coupe de France",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/balagne-montpellier-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-coupe-de-france-963202",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963202/392151/1200-L-balagne-montpellier-sur-quelle-chane-et-quelle-heure-voir-le-match-de-coupe-de-france.jpg",
-      "publishedAt": "2026-11-14T07:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "montpellier"
-      ],
-      "topics": [
-        "montpellier",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.5
-    },
-    {
-      "id": "gdelt-692649c9b18486f96b39a5a9",
-      "title": "Versailles-Rodez : sur quelle chaîne et à quelle heure voir le match de Coupe de France",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/versailles-rodez-sur-quelle-chaine-et-a-quelle-heure-voir-le-match-de-coupe-de-france-963462",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963462/392215/1200-L-versailles-rodez-sur-quelle-chane-et-quelle-heure-voir-le-match-de-coupe-de-france.jpg",
-      "publishedAt": "2026-11-14T07:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "rodez"
-      ],
-      "topics": [
-        "rodez",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.5
-    },
-    {
-      "id": "gdelt-6984c4b45545b6c5cf39d67f",
-      "title": "\"La réalité nous rattrape\" : Lourdes quitte la Coupe de France avec fierté et sans regrets après une belle prestation face au FC Pau",
-      "summary": "Publication référencée chez ladepeche.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.ladepeche.fr/2026/11/14/la-realite-nous-rattrape-lourdes-quitte-la-coupe-de-france-avec-fierte-et-sans-regrets-apres-une-belle-prestation-face-au-fc-pau-13653106.php",
-      "imageURL": "https://images.ladepeche.fr/api/v1/images/view/6af8d3c58e5ba0392601c4be/hd/image.jpg?v=1",
-      "publishedAt": "2026-11-14T23:01:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "ladepeche.fr",
-        "name": "ladepeche.fr",
-        "websiteURL": "https://ladepeche.fr"
-      },
-      "teams": [
-        "pau"
-      ],
-      "topics": [
-        "pau",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 81.4
-    },
-    {
-      "id": "gdelt-fa16bd6ad99a1168e20b38b1",
-      "title": "Villarreal : Georges Mikautadze dévoile son club de coeur",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7689038141821079422-villarreal-georges-mikautadze-devoile-son-club-de-coeur",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/mikautt.jpg",
-      "publishedAt": "2026-11-14T14:25:48.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "villarreal"
-      ],
-      "topics": [
-        "villarreal"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81.1
-    },
-    {
-      "id": "gdelt-fa83c9296b8f8d28cc6c54cd",
-      "title": "Paris 13 Atletico-Red Star : sur quelle chaîne et à quelle heure voir le choc en Coupe de France",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/paris-13-atletico-red-star-sur-quelle-chaine-et-a-quelle-heure-voir-le-choc-en-coupe-de-france-963480",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963480/392219/1200-L-paris-13-atletico-red-star-sur-quelle-chane-et-quelle-heure-voir-le-choc-en-coupe-de-france.jpg",
-      "publishedAt": "2026-11-15T06:22:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "red-star"
-      ],
-      "topics": [
-        "red-star",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 81
-    },
-    {
-      "id": "gdelt-7bcc1e36feb6b555b4544b6d",
-      "title": "Coupe de France. FC Nantes : « J'ai ouvert les yeux sur plein de choses », confie le jeune Louis Leroux",
-      "summary": "Publication référencée chez redon.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://redon.maville.com/actu/actudet_-coupe-de-france-fc-nantes-j-ai-ouvert-les-yeux-sur-plein-de-choses-confie-le-jeune-louis-leroux_fil-7570194_actu.Htm",
-      "imageURL": "https://www.maville.com/photosmvi/2026/11/14/P36262916D7570194G_crop_1200-675_.jpg",
-      "publishedAt": "2026-11-15T04:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "redon.maville.com",
-        "name": "redon.maville.com",
-        "websiteURL": "https://redon.maville.com"
-      },
-      "teams": [
-        "nantes"
-      ],
-      "topics": [
-        "nantes",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 81
-    },
-    {
-      "id": "gdelt-7e248962a85054fa9c4594d3",
-      "title": "Stade Castelbourgeois-Nantes : sur quelle chaîne et à quelle heure suivre le match de Coupe de France",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/stade-castelbourgeois-nantes-sur-quelle-chaine-et-a-quelle-heure-suivre-le-match-de-coupe-de-france-963475",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963475/392218/1200-L-stade-castelbourgeois-nantes-sur-quelle-chane-et-quelle-heure-suivre-le-match-de-coupe-de-france.jpg",
-      "publishedAt": "2026-11-15T06:00:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "nantes"
-      ],
-      "topics": [
-        "nantes",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.9
-    },
-    {
-      "id": "gdelt-b0b984f70eff92f9cac092a4",
-      "title": "Mercato Lens : Didier Digard préféré à Pierre Sage et Walid Regragui, les coulisses d'un choix surprise dévoilées",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-lens-didier-digard-prefere-a-pierre-sage-et-walid-regragui-les-coulisses-d-un-choix-surprise-devoilees-545710.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/ligue-1/2024/zoom/l1-20240816232028-4842.jpg",
-      "publishedAt": "2026-11-14T07:45:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "lens"
-      ],
-      "topics": [
-        "lens"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.8
-    },
-    {
-      "id": "gdelt-cb41d352ae673760e6915476",
-      "title": "Coupe de France. « Le haut niveau, c'est l'efficacité » : Vendée Fontenay surclassée par une sérieuse équipe de Clermont",
-      "summary": "Publication référencée chez larochesuryon.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://larochesuryon.maville.com/actu/actudet_-coupe-de-france-le-haut-niveau-c-est-l-efficacite-vendee-fontenay-surclassee-par-une-serieuse-equipe-de-clermont_fil-7570220_actu.Htm",
-      "imageURL": "https://www.maville.com/photosmvi/2026/11/14/P36263011D7570220G_crop_1200-675_.jpg",
-      "publishedAt": "2026-11-15T03:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "larochesuryon.maville.com",
-        "name": "larochesuryon.maville.com",
-        "websiteURL": "https://larochesuryon.maville.com"
-      },
-      "teams": [
-        "clermont"
-      ],
-      "topics": [
-        "clermont",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 80.7
-    },
-    {
-      "id": "gdelt-b11d7117262b78679c042f98",
-      "title": "Qualifications CAN 2027 : l'Algérie s'impose dans la douleur face au Togo et conforte sa première place",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8750941422328460738-qualifications-can-2027-lalgerie-simpose-dans-la-douleur-face-au-togo-et-conforte-sa-premiere-place",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/design-sans-titre-2024-03-26t181849-659.jpg",
-      "publishedAt": "2026-11-14T21:31:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.7
-    },
-    {
-      "id": "gdelt-10a038a02326681931ebf88e",
-      "title": "Amical : en difficulté en Ligue 1, un Strasbourg rajeuni s’incline face à une deuxième division allemande",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/amical-en-difficulte-en-ligue-1-un-strasbourg-rajeuni-sincline-face-a-une-deuxieme-division-allemande-963906",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963906/392322/1200-L-amical-en-difficult-en-ligue-1-un-strasbourg-rajeuni-sincline-face-une-deuxime-division-allemande.jpg",
-      "publishedAt": "2026-11-13T21:27:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "strasbourg"
-      ],
-      "topics": [
-        "strasbourg",
-        "ligue-1",
-        "2-bundesliga"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.6
-    },
-    {
-      "id": "gdelt-45847a021951a7e4aad65e1a",
-      "title": "De la D2 congolaise à la Premier League en moins d’un an, l’improbable ascension de Jules Ahoka",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a9087869313174067263-de-la-d2-congolaise-a-la-premier-league-en-moins-dun-an-limprobable-ascension-de-jules-ahoka",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/epalivenine397507-1920x1080.jpg",
-      "publishedAt": "2026-11-14T13:17:19.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "premier-league"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.5
-    },
-    {
-      "id": "gdelt-11262afaa928b13665561c54",
-      "title": "Medhi Benatia : « Chaque année, c’est comme ça. C’est l’OM depuis des années ! »",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a1954435175074181095-om-medhi-benatia-chaque-annee-cest-comme-ca-cest-lom-depuis-des-annees",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/benatia-6af850e268b7a.jpg",
-      "publishedAt": "2026-11-14T12:45:36.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80.3
-    },
-    {
-      "id": "gdelt-d037348cb6e1ff791bd3d326",
-      "title": "Barça : la direction en repérage sur deux cibles lors d’Argentine-Uruguay",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a7921048222716817196-barca-la-direction-en-reperage-sur-deux-cibles-lors-dargentine-uruguay",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/deco-2526-69a59dbaa890c.jpg",
-      "publishedAt": "2026-11-14T12:14:31.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "barcelona"
-      ],
-      "topics": [
-        "barcelona"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 80
-    },
-    {
-      "id": "gdelt-44034955c6f4ebbf929e9a72",
-      "title": "Mercato Auxerre : L'AJ Auxerre annonce une prolongation de contrat importante (officiel)",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-mercato-auxerre-l-aj-auxerre-annonce-une-prolongation-de-contrat-importante-officiel-545658.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/buzz/2022/zoom/-20220602221315-4498.jpg",
-      "publishedAt": "2026-11-13T18:16:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [
-        "auxerre"
-      ],
-      "topics": [
-        "auxerre"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 80
-    },
-    {
-      "id": "gdelt-d46d41889df5f0c237233615",
-      "title": "Amical : dans un duel entre équipes de Ligue 1, Troyes vient à bout du Paris FC",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/amical-dans-un-duel-entre-equipes-de-ligue-1-troyes-vient-a-bout-du-paris-fc-963873",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963873/392315/1200-L-amical-dans-un-duel-entre-quipes-de-ligue-1-troyes-vient-bout-du-paris-fc.jpg",
-      "publishedAt": "2026-11-13T19:28:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "paris-fc",
-        "troyes"
-      ],
-      "topics": [
-        "paris-fc",
-        "troyes",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.6
-    },
-    {
-      "id": "gdelt-af7ba97aa2b7f795969f850c",
-      "title": "« Il n’y a plus de leaders, que des vicieux et des jaloux », Medhi Benatia se lâche sur l’OM",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6232923095779564380-il-ny-a-plus-de-leaders-que-des-vicieux-et-des-jaloux-medhi-benatia-se-lache-sur-lom",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/benatia-676487efa5c02.jpg",
-      "publishedAt": "2026-11-14T11:15:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.5
-    },
-    {
-      "id": "gdelt-d9047e8e7f2afbfdc0744003",
-      "title": "La sortie forte de Mehdi Benatia sur la finale de la CAN 2025",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a2966252364781555458-la-sortie-forte-de-mehdi-benatia-sur-la-finale-de-la-can-2025",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/benatia-6786e6370647e.jpg",
-      "publishedAt": "2026-11-14T10:35:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79.2
-    },
-    {
-      "id": "gdelt-87798cd06bc7b4778c59e2d3",
-      "title": "Mercato Barça : Chelsea reçoit un signal inattendu dans le dossier Koundé",
-      "summary": "Publication référencée chez topmercato.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.topmercato.com/2154995-barca-chelsea-recoit-un-signal-inattendu-dans-le-dossier-kounde/",
-      "imageURL": "https://www.topmercato.com/thumbor/6JFEgz_XnSDeaDjLo5S75xr93D4=/1200x630/smart/filters:format(jpeg)/https%3A%2F%2Fmedia.topmercato.com%2Fmain%2F2026%2F11%2Fkounde-chelsea.jpg",
-      "publishedAt": "2026-11-14T18:16:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "topmercato.com",
-        "name": "topmercato.com",
-        "websiteURL": "https://topmercato.com"
-      },
-      "teams": [
-        "barcelona",
-        "chelsea"
-      ],
-      "topics": [
-        "barcelona",
-        "chelsea"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 79
-    },
-    {
-      "id": "gdelt-4809400795e7e560f97a7cbd",
-      "title": "Côme : Nico Paz dans le viseur de Manchester United",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6035076432730366565-come-nico-paz-dans-le-viseur-de-manchester-united",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/nicopazzzz.jpg",
-      "publishedAt": "2026-11-14T10:15:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [
-        "man-united"
-      ],
-      "topics": [
-        "man-united"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 79
-    },
-    {
-      "id": "gdelt-45f32f240ddfed862ae17ff6",
-      "title": "\"Ça va décupler notre envie\" : plusieurs joueurs de Châteaubourg, fans du Stade Rennais, défient Nantes",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-ca-va-decupler-notre-envie-les-joueurs-de-chateaubourg-fans-du-stade-rennais-defient-nantes-963990",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963990/392345/1200-L-a-va-dcupler-notre-envie-plusieurs-joueurs-de-chteaubourg-fans-du-stade-rennais-dfient-nantes.jpg",
-      "publishedAt": "2026-11-15T01:59:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "rennes",
-        "nantes"
-      ],
-      "topics": [
-        "rennes",
-        "nantes"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.9
-    },
-    {
-      "id": "gdelt-1f84d3891c14f495a0ef2958",
-      "title": "Coupe de France : premier club de Ligue 2 à prendre la porte, Dijon subit la loi d’Orléans",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-premier-club-de-ligue-2-a-prendre-la-porte-dijon-subit-la-loi-dorleans-963922",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963922/392326/1200-L-coupe-de-france-premier-club-de-ligue-2-prendre-la-porte-dijon-subit-la-loi-dorlans.jpg",
-      "publishedAt": "2026-11-14T01:57:33.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "ligue-2",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.9
-    },
-    {
-      "id": "gdelt-57e2562c3fb6fb3bf4b2efef",
-      "title": "FAF - Le nouveau système de compétition adopté hier - La Ligue 1 passera à 18 clubs",
-      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.depechedekabylie.com/la-ligue-1-passera-a-18-clubs/",
-      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2019/01/foot.jpg",
-      "publishedAt": "2026-11-14T23:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "depechedekabylie.com",
-        "name": "depechedekabylie.com",
-        "websiteURL": "https://depechedekabylie.com"
-      },
-      "teams": [
-        "saint-etienne"
-      ],
-      "topics": [
-        "saint-etienne",
-        "ligue-1"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 78.5
-    },
-    {
-      "id": "gdelt-0a238907a5248953bf05da13",
-      "title": "Coupe de France : l’impressionnant sans faute des clubs de Ligue 3 avant la journée de dimanche",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-limpressionnant-sans-faute-des-clubs-de-ligue-3-avant-la-journee-de-dimanche-964133",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/964133/392384/1200-L-coupe-de-france-limpressionnant-sans-faute-des-clubs-de-ligue-3-avant-la-journe-de-dimanche.jpg",
-      "publishedAt": "2026-11-15T01:00:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "coupe-de-france",
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.4
-    },
-    {
-      "id": "gdelt-a7f9320ed3d973ba7eea242d",
-      "title": "Équipe de France : Zinédine Zidane prépare de grosses surprises face à la Turquie",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a8844408631069637691-equipe-de-france-zinedine-zidane-prepare-de-grosses-surprises-face-a-la-turquie",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/zidane-6af6b5280e59e.jpg",
-      "publishedAt": "2026-11-14T08:50:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 78.3
-    },
-    {
-      "id": "gdelt-97398ad83a424cad131fff51",
-      "title": "FC Nantes : où regarder le match de Coupe de France contre le Stade Castelbourgeois ?",
-      "summary": "Publication référencée chez topmercato.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.topmercato.com/2155080-fc-nantes-ou-regarder-le-match-de-coupe-de-france-contre-le-stade-castelbourgeois/",
-      "imageURL": "https://www.topmercato.com/thumbor/uT2UUrn8Ym3bDHzfu72fd4FQpvc=/1200x630/smart/filters:format(jpeg)/https%3A%2F%2Fmedia.topmercato.com%2Fmain%2F2026%2F11%2FGregory-Poirier-FC-Nantes.jpg",
-      "publishedAt": "2026-11-14T22:32:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "topmercato.com",
-        "name": "topmercato.com",
-        "websiteURL": "https://topmercato.com"
-      },
-      "teams": [
-        "nantes"
-      ],
-      "topics": [
-        "nantes",
-        "coupe-de-france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 78.2
-    },
-    {
-      "id": "gdelt-d6b2a6aec3c6b2e313b602d0",
-      "title": "Équipe de France : La FFF fait une grande annonce concernant Kylian Mbappé et Désiré Doué",
-      "summary": "Publication référencée chez madeinfoot.ouest-france.fr. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://madeinfoot.ouest-france.fr/infos/article-equipe-de-france-la-fff-fait-une-grande-annonce-concernant-kylian-mbappe-et-desire-doue-545672.html",
-      "imageURL": "https://madeinfoot.ouest-france.fr/photos/coupe-du-monde/2026/zoom/cdm-20260703210407-6536.jpg",
-      "publishedAt": "2026-11-13T20:11:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "madeinfoot.ouest-france.fr",
-        "name": "madeinfoot.ouest-france.fr",
-        "websiteURL": "https://madeinfoot.ouest-france.fr"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
-      "qualityScore": 78
-    },
-    {
-      "id": "gdelt-afe9e717870462e04803b357",
-      "title": "Foot/ équipe nationale A' : un match amical au menu des locaux en juin",
-      "summary": "Publication référencée chez depechedekabylie.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.depechedekabylie.com/foot-equipe-nationale-a-un-match-amical-au-menu-des-locaux-en-juin/",
-      "imageURL": "https://www.depechedekabylie.com/wp-content/uploads/2021/05/5727bc7cf4c9bb42f33d4798d5a2dc4d.jpg",
-      "publishedAt": "2026-11-15T06:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "depechedekabylie.com",
-        "name": "depechedekabylie.com",
-        "websiteURL": "https://depechedekabylie.com"
-      },
-      "teams": [],
-      "topics": [
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 77.9
-    },
-    {
-      "id": "gdelt-4165c66da5032a06e21fff48",
-      "title": "Axel Bamba : «on m’a dit que je ne pourrais plus jouer au football»",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a162053637074137653-axel-bamba-on-ma-dit-que-je-ne-pourrais-plus-jouer-au-football",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/0d8541a7-174d-47fa-ab13-d830cdbcfd9f-1920x1080.jpg",
-      "publishedAt": "2026-11-14T16:01:52.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.9
-    },
-    {
-      "id": "gdelt-0547dc60a83301ac1406fcae",
-      "title": "Équipe de France : Désiré Doué incertain contre la Turquie",
-      "summary": "Publication référencée chez footmercato.net. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.footmercato.net/a6492764319378509140-equipe-de-france-desire-doue-incertain-contre-la-turquie",
-      "imageURL": "https://assets-fr.imgfoot.com/media/cache/1200x675/xnaphotosthree202127-1920x1080.jpg",
-      "publishedAt": "2026-11-14T08:01:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "footmercato.net",
-        "name": "footmercato.net",
-        "websiteURL": "https://footmercato.net"
-      },
-      "teams": [],
-      "topics": [
-        "france"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.9
-    },
-    {
-      "id": "gdelt-6a3e1268d9edd8b85c730c63",
-      "title": "« On ne s’est pas trouvé collectivement » : Baptiste Ridira dépité après l’élimination de Dijon en Coupe de France",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/on-ne-sest-pas-trouve-collectivement-baptiste-ridira-depite-apres-lelimination-de-dijon-en-coupe-de-france-963933",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963933/392329/1200-L--on-ne-sest-pas-trouv-collectivement-baptiste-ridira-dpit-aprs-llimination-de-dijon-en-coupe-de-france.jpg",
-      "publishedAt": "2026-11-13T23:59:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [],
-      "topics": [
-        "coupe-de-france",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.9
-    },
-    {
-      "id": "gdelt-0f776688b88060e6db2cb7f1",
-      "title": "Ligue 3 : écarté du banc en octobre, Pierre Blois quitte définitivement Valenciennes",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/actus/ligue-3-ecarte-du-banc-en-octobre-pierre-blois-quitte-definitivement-valenciennes-963845",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963845/392308/1200-L-ligue-3-cart-du-banc-en-octobre-pierre-blois-quitte-dfinitivement-valenciennes.jpg",
-      "publishedAt": "2026-11-13T17:57:00.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "valenciennes"
-      ],
-      "topics": [
-        "valenciennes",
-        "ligue-3"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.9
-    },
-    {
-      "id": "gdelt-dd028c577358d3b47bc4bb15",
-      "title": "Pape Gueye : « Je ferai une pause sur la sélection » après l'élimination à la Coupe du monde",
-      "summary": "Publication référencée chez senenews.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.senenews.com/actualites/pape-gueye-revient-sur-sa-pause-avec-les-lions-ce-nest-pas-un-reglement-de-comptes_606382.html",
-      "imageURL": "https://www.senenews.com/wp-content/uploads/2026/11/pape-gueye-10-1200x630.jpg",
-      "publishedAt": "2026-11-14T13:46:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "senenews.com",
-        "name": "senenews.com",
-        "websiteURL": "https://senenews.com"
-      },
-      "teams": [
-        "pau"
-      ],
-      "topics": [
-        "pau",
-        "world-cup",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 77.8
-    },
-    {
-      "id": "gdelt-252efc73587cf95216f704ec",
-      "title": "OFFICIEL : Manchester United fait signer Mauricio Pochettino !",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/premier-league/officiel-manchester-united-fait-signer-mauricio-pochettino-1008549",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1008549/410920/1200-L-officiel-manchester-united-fait-signer-mauricio-pochettino.jpg",
-      "publishedAt": "2026-11-13T13:35:36.000Z",
-      "category": "transfers",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "man-united"
-      ],
-      "topics": [
-        "man-united"
-      ],
-      "reliability": "confirmed",
-      "sourceTier": "recognized",
       "qualityScore": 77.7
-    },
-    {
-      "id": "gdelt-2cfc1a594f8946f01378c9c2",
-      "title": "Paris FC : des tensions avec le PSG et Al-Khelaïfi pour Arnault ?",
-      "summary": "Publication référencée chez onzemondial.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.onzemondial.com/ligue-1/paris-fc-des-tensions-avec-le-psg-et-al-khelaifi-pour-arnault-1008848",
-      "imageURL": "https://static.onzemondial.com/8/2026/11/photo_article/1008848/410999/1200-L-paris-fc-des-tensions-avec-le-psg-et-al-khelafi-pour-arnault.jpg",
-      "publishedAt": "2026-11-13T23:29:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "onzemondial.com",
-        "name": "onzemondial.com",
-        "websiteURL": "https://onzemondial.com"
-      },
-      "teams": [
-        "psg",
-        "paris-fc"
-      ],
-      "topics": [
-        "psg",
-        "paris-fc"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.6
-    },
-    {
-      "id": "gdelt-392b5c2b2dc72762092d05fd",
-      "title": "Coupe de France : club de National 2, Lannion affiche complet pour la venue de Guingamp",
-      "summary": "Publication référencée chez foot-national.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://www.foot-national.com/coupe-de-france/coupe-de-france-un-club-de-national-2-affiche-complet-pour-la-venue-de-guingamp-963824",
-      "imageURL": "https://media.foot-national.com/18/2026/11/photo_article/963824/392304/1200-L-coupe-de-france-club-de-national-2-lannion-affiche-complet-pour-la-venue-de-guingamp.jpg",
-      "publishedAt": "2026-11-13T15:28:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "foot-national.com",
-        "name": "foot-national.com",
-        "websiteURL": "https://foot-national.com"
-      },
-      "teams": [
-        "guingamp"
-      ],
-      "topics": [
-        "guingamp",
-        "coupe-de-france",
-        "switzerland"
-      ],
-      "reliability": "reported",
-      "sourceTier": "recognized",
-      "qualityScore": 77.6
-    },
-    {
-      "id": "gdelt-841ec9965335625e3ce27470",
-      "title": "Handball - N1M. Angers Sco se lance à l'extérieur",
-      "summary": "Publication référencée chez paris.maville.com. Mercato Foot France ne reproduit pas le texte et renvoie vers la page originale.",
-      "url": "https://paris.maville.com/actu/actudet_-handball-n1m-angers-sco-se-lance-a-l-exterieur_fil-7570303_actu.Htm",
-      "imageURL": "https://www.maville.com/photosmvi/2026/11/15/P36263330D7570303G_crop_1200-675_.jpg",
-      "publishedAt": "2026-11-15T05:16:00.000Z",
-      "category": "news",
-      "source": {
-        "id": "paris.maville.com",
-        "name": "paris.maville.com",
-        "websiteURL": "https://paris.maville.com"
-      },
-      "teams": [
-        "angers"
-      ],
-      "topics": [
-        "angers"
-      ],
-      "reliability": "reported",
-      "sourceTier": "other",
-      "qualityScore": 77.5
     }
   ],
-  "generatedAt": "2026-11-15T06:11:22.243Z",
+  "generatedAt": "2026-11-15T14:01:21.533Z",
   "stale": false
 }
